@@ -94,35 +94,35 @@ Text05e2: ; 4c786 (13:4786)
 	done
 
 Text05e3: ; 4c86f (13:486f)
-	text "Oh! Why the rush, <RAMNAME>?"
-	line "What? "
-	line "You want to learn how to play"
-	line "the Pokémon Trading Card Game?"
-	line "So you, too, finally want to "
-	line "start playing the card game. "
-	line "Well, dueling is more fun than "
-	line "just collecting cards!"
-	line "First, you should try playing "
-	line "with a Practice Deck. "
-	line "Here, I'll give you this Deck. "
-	line "And now you need an opponent..."
-	line "Hey, Sam!"
-	line "Play with him for a while!"
+	text "Och! Skąd ten pośpiech, <RAMNAME>?"
+	line "Co?!"
+	line "Chcesz się nauczyć grać"
+	line "w karty Pokémon?"
+	line "Więc i ty, w końcu, chcesz się"
+	line "nauczyć grać w tę grę..."
+	line "Cóż, pojedynki są o wiele ciekawsze"
+	line "niż samo zbieranie kart!"
+	line "Najpierw powinieneś spróbować"
+	line "zagrać talią testową."
+	line "Proszę, weź jedną ode mnie."
+	line "A, potrzebujesz jeszcze"
+	line "przeciwnika! Sam, podejdziesz?"
+	line "<RAMNAME> chce zagrać!"
 	done
 
 Text05e4: ; 4c9d7 (13:49d7)
-	text "Yes, Dr. Mason."
-	line "Hello, <RAMNAME>."
+	text "Tak, doktorze Mason."
+	line "Witaj <RAMNAME>!"
 	done
 
 Text05e5: ; 4c9f2 (13:49f2)
 	text "OK!"
-	line "Let's give it a try!"
+	line "Spróbujmy zagrać!"
 	done
 
 Text05e6: ; 4ca0c (13:4a0c)
-	text "Hey! <RAMNAME>!"
-	line "Hurry and come here!"
+	text "Hej! <RAMNAME>!"
+	line "Pospiesz się i podejdź!"
 	done
 
 Text05e7: ; 4ca2a (13:4a2a)

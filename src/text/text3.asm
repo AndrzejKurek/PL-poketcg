@@ -943,7 +943,7 @@ Text0322: ; 3e64c (f:664c)
 	done
 
 OverworldMapMasonLaboratoryText: ; 3e660 (f:6660)
-	text "  Mason Laboratory  "
+	text " Laboratorium Masona "
 	done
 
 OverworldMapIshiharasHouseText: ; 3e676 (f:6676)
