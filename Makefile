@@ -32,7 +32,7 @@ RGBLINK ?= $(RGBDS)rgblink
 .SECONDARY:
 .PHONY: all tcg clean tidy compare tools
 
-all: $(rom) compare
+all: $(rom)
 tcg: $(rom) compare
 
 clean: tidy
@@ -49,7 +49,7 @@ tools:
 	$(MAKE) -C tools/
 
 
-RGBASMFLAGS = -h -i src/ -L -Weverything
+RGBASMFLAGS = -h -i src/ -L -Weverything -Wunmapped-char=0
 # Create a sym/map for debug purposes if `make` run with `DEBUG=1`
 ifeq ($(DEBUG),1)
 RGBASMFLAGS += -E
