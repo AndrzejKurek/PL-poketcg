@@ -1451,7 +1451,7 @@ Text0383: ; 3f2b9 (f:72b9)
 	done
 
 SPRText: ; 3f2c0 (f:72c0)
-	text "SPR_"
+	text "SPR "
 	done
 
 WinLosePrizesDuelWithText: ; 3f2c6 (f:72c6)
