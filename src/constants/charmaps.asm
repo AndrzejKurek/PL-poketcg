@@ -9,6 +9,15 @@
 	charmap "♀", "%"
 	charmap "É", "@"
 	charmap "é", "`"
+	charmap "ą", $3c
+	charmap "ę", $3e
+	charmap "ć", $5c
+	charmap "ł", $5e
+	charmap "ń", $5f
+	charmap "ó", $7b
+	charmap "ś", $7c
+	charmap "ź", $7d
+	charmap "ż", $7e
 
 MACRO fwcharmap
 	charmap STRCAT("FW\1_", \2), \3
