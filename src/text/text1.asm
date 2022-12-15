@@ -1134,22 +1134,22 @@ CardCheckIfHeads8CardsIfTails1CardText: ; 37f24 (d:7f24)
 	done
 
 IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
-	text "If Heads, you will not receive"
-	line "damage during opponent's next turn!"
+	text "Orzeł: nie otrzymasz obrażeń"
+	line "podczas tury wroga!"
 	done
 
 Text00f2: ; 37f9a (d:7f9a)
-	text "Damage check"
+	text "Sprawdzenie obrażeń"
 	done
 
 DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
 	text "Damage check!"
-	line "If Heads, +<RAMNUM> damage!!"
+	line "Orzeł: +<RAMNUM> obrażeń!"
 	done
 
 DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
 	text "Damage check!"
-	line "If Heads, x <RAMNUM> damage!!"
+	line "Orzeł: obrażenia mnożone przez <RAMNUM>!"
 	done
 
 	ds $d

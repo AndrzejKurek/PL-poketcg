@@ -1,316 +1,315 @@
 YouDoNotOwnAllCardsNeededToBuildThisDeckText: ; 3c000 (f:4000)
-	text "You do not own all cards needed"
-	line "to build this Deck."
+	text "Nie posiadasz wszystkich kart"
+	line "potrzebnych do zbudowania tej talii."
 	done
 
 BuiltDeckText: ; 3c035 (f:4035)
-	text "Built"
+	text "Zbudowano"
 	line "<RAMTEXT>"
 	done
 
 TheseCardsAreNeededToBuildThisDeckText: ; 3c03e (f:403e)
-	text "These cards are needed"
-	line "to build this Deck:"
+	text "Następujące karty potrzebne"
+	line "do zbudowania tej talii:"
 	done
 
 DismantleTheseDecksText: ; 3c06a (f:406a)
-	text "Dismantle these Decks?"
+	text "Rozłożyć te talie?"
 	done
 
 DismantledTheDeckText: ; 3c082 (f:4082)
-	text "Dismantled the Deck."
+	text "Rozłożono talię."
 	done
 
 OKIfFileDeletedText: ; 3c098 (f:4098)
-	text "OK if this file is deleted?"
+	text "Usunąć ten plik?"
 	done
 
 ReadTheInstructionsText: ; 3c0b5 (f:40b5)
-	text "Read the Instructions"
+	text "Przeczytaj instrukcje"
 	done
 
 PrintThisCardYesNoText: ; 3c0cc (f:40cc)
-	text "Print this card?"
-	line "      Yes     No"
+	text "Wydrukować tę kartę?"
+	line "      Tak     Nie"
 	done
 
 PleaseChooseDeckConfigurationToPrintText: ; 3c0ef (f:40ef)
-	text "Please choose a Deck configuration"
-	line "to print."
+	text "Wybierz konfigurację talii"
+	line "do wydrukowania."
 	done
 
 PrintThisDeckText: ; 3c11d (f:411d)
-	text "Print this Deck?"
+	text "Wydrukować tę talię?"
 	done
 
 Text0277: ; 3c12f (f:412f)
-	text "Print the card list?"
-	line "      Yes     No"
+	text "Wydrukować listę kart?"
+	line "      Tak     Nie"
 	done
 
 PrintMenuItemsText: ; 3c156 (f:4156)
-	text "Pokémon Cards"
-	line "Deck Configuration"
-	line "Card List"
-	line "Print Quality"
-	line "Quit Print"
+	text "Karty Pokémon"
+	line "Konfiguracja Talii"
+	line "Lista Kart"
+	line "Jakość Druku"
+	line "Wyjdź"
 	done
 
 WhatWouldYouLikeToPrintText: ; 3c19b (f:419b)
-	text "What would you like to print?"
+	text "Co chcesz wydrukować?"
 	done
 
 PleaseSetTheContrastText: ; 3c1ba (f:41ba)
-	text "Please set the contrast:"
-	line "  Light   1   2   3   4   5   Dark"
+	text "Ustaw kontrast"
+	line "  Jasno   1   2   3   4   5 Ciemno"
 	done
 
 PleaseMakeSureToTurnGameBoyPrinterOffText: ; 3c1f7 (f:41f7)
-	text "Please make sure to turn"
-	line "the Game Boy Printer OFF."
+	text "Pamiętaj aby wyłączyć"
+	line "drukarkę."
 	done
 
 ProceduresForSendingCardsText: ; 3c22b (f:422b)
-	text "Procedures for sending cards:"
+	text "Procedura wysyłania kart:"
 	done
 
 CardSendingProceduresText: ; 3c24a (f:424a)
-	text "1. Choose the card you wish to send."
-	line "   Press left/right to choose more."
+	text "1. Wybierz kartę do wysłania."
+	line "   Prawo/Lewo zmienia liczbę."
 	line ""
-	line "2. Choose all the cards. Then press"
-	line "   the B Button to open the menu."
+	line "2. Wybierz wszystkie karty. Naciśnij"
+	line "   B aby otworzyć menu."
 	line ""
-	line "3. Choose Send to finish"
-	line "   the process."
+	line "3. Naciśnij Wyślij aby skończyć."
 	done
 
 PleaseReadTheProceduresForSendingCardsText: ; 3c305 (f:4305)
-	text "Please read the procedures"
-	line "for sending cards."
+	text "Przeczytaj instrukcję"
+	line "wysyłania kart."
 	done
 
 SendText: ; 3c334 (f:4334)
-	text "Send"
+	text "Wyślij"
 	done
 
 CardReceivedText: ; 3c33a (f:433a)
-	text "Card received"
+	text "Otrzymano kartę"
 	done
 
 CardToSendText: ; 3c349 (f:4349)
-	text "Card to send"
+	text "Karta do wysłania"
 	done
 
 SendTheseCardsText: ; 3c357 (f:4357)
-	text "Send these cards?"
+	text "Wysłać te karty?"
 	done
 
 ReceivedTheseCardsFromText: ; 3c36a (f:436a)
-	text "Received these cards"
-	line "from  <RAMTEXT>!"
+	text "Otrzymano karty"
+	line "od <RAMTEXT>!"
 	done
 
 PleaseChooseADeckConfigurationToSendText: ; 3c389 (f:4389)
-	text "Please choose a Deck "
-	line "configuration to send."
+	text "Wybierz konfigurację talii"
+	line "do wysłania."
 	done
 
 PleaseChooseASaveSlotText: ; 3c3b7 (f:43b7)
-	text "Please choose a Save Slot."
+	text "Wybierz pole zapisu."
 	done
 
 Text0286: ; 3c3d3 (f:43d3)
-	text "Receive configuration."
+	text "Otrzymaj konfigurację."
 	done
 
 ReceivedADeckConfigurationFromText: ; 3c3eb (f:43eb)
-	text "Received a deck configuration"
-	line "from  <RAMTEXT>!"
+	text "Otrzymano konfigurację talii"
+	line "od <RAMTEXT>!"
 	done
 
 FightingMachineText: ; 3c413 (f:4413)
-	text "  Fighting Machine  "
+	text "  Walcząca Maszyna  "
 	done
 
 RockMachineText: ; 3c429 (f:4429)
-	text "  Rock Machine  "
+	text "  Kamienna Maszyna  "
 	done
 
 WaterMachineText: ; 3c43b (f:443b)
-	text "  Water Machine   "
+	text "  Wodna Maszyna     "
 	done
 
 LightningMachineText: ; 3c44f (f:444f)
-	text "  Lightning Machine   "
+	text " Elektryczna Maszyna "
 	done
 
 GrassMachineText: ; 3c467 (f:4467)
-	text "  Grass Machine   "
+	text "  Roślinna Maszyna  "
 	done
 
 PsychicMachineText: ; 3c47b (f:447b)
-	text "  Psychic Machine   "
+	text "  Psychiczna Maszyna"
 	done
 
 ScienceMachineText: ; 3c491 (f:4491)
-	text "  Science Machine   "
+	text "  Naukowa Maszyna   "
 	done
 
 FireMachineText: ; 3c4a7 (f:44a7)
-	text "  Fire Machine  "
+	text "  Ognista Maszyna   "
 	done
 
 AutoMachineText: ; 3c4b9 (f:44b9)
-	text "  Auto Machine  "
+	text "  Auto Maszyna      "
 	done
 
 LegendaryMachineText: ; 3c4cb (f:44cb)
-	text "  Legendary Machine   "
+	text "  Legendarna Maszyna"
 	done
 
 AllFightingPokemonText: ; 3c4e3 (f:44e3)
-	text "All Fighting Pokémon"
+	text "Wszystkie Walczące Pokémony"
 	done
 
 BenchAttackText: ; 3c4f9 (f:44f9)
-	text "Bench Attack"
+	text "Atak Z Ławki"
 	done
 
 BattleContestText: ; 3c507 (f:4507)
-	text "Battle Contest"
+	text "Konkurs Walki"
 	done
 
 HeatedBattleText: ; 3c517 (f:4517)
-	text "Heated Battle"
+	text "Płomienna Bitwa"
 	done
 
 FirstStrikeText: ; 3c526 (f:4526)
-	text "First-Strike"
+	text "Szybki Atak"
 	done
 
 SqueakingMouseText: ; 3c534 (f:4534)
-	text "Squeaking Mouse"
+	text "Piszcząca Mysz"
 	done
 
 GreatQuakeText: ; 3c545 (f:4545)
-	text "Great Quake"
+	text "Tąpnięcie"
 	done
 
 BoneAttackText: ; 3c552 (f:4552)
-	text "Bone Attack"
+	text "Kościsty Atak"
 	done
 
 ExcavationText: ; 3c55f (f:455f)
-	text "Excavation"
+	text "Wykopaliska"
 	done
 
 RockCrusherText: ; 3c56b (f:456b)
-	text "Rock Crusher"
+	text "Kamienny łamacz"
 	done
 
 BlueWaterText: ; 3c579 (f:4579)
-	text "Blue Water"
+	text "Głęboka Woda"
 	done
 
 OnTheBeachText: ; 3c585 (f:4585)
-	text "On the Beach"
+	text "Na Plaży"
 	done
 
 ParalyzeText: ; 3c593 (f:4593)
-	text "Paralyze!"
+	text "Paraliż!"
 	done
 
 EnergyRemovalText: ; 3c59e (f:459e)
-	text "Energy Removal"
+	text "Usuwacz Energii"
 	done
 
 RainDancerText: ; 3c5ae (f:45ae)
-	text "Rain Dancer"
+	text "Tancerz Deszczu"
 	done
 
 CutePokemonText: ; 3c5bb (f:45bb)
-	text "Cute Pokémon"
+	text "Uroczy Pokémon"
 	done
 
 PokemonFluteText: ; 3c5c9 (f:45c9)
-	text "Pokémon Flute"
+	text "PokéFlet"
 	done
 
 YellowFlashText: ; 3c5d8 (f:45d8)
-	text "Yellow Flash"
+	text "żółty Błysk"
 	done
 
 ElectricShockText: ; 3c5e6 (f:45e6)
-	text "Electric Shock"
+	text "Porażenie"
 	done
 
 ZappingSelfdestructText: ; 3c5f6 (f:45f6)
-	text "Zapping Selfdestruct"
+	text "Prądowe Samozniszczenie"
 	done
 
 InsectCollectionText: ; 3c60c (f:460c)
-	text "Insect Collection"
+	text "Kolekcja Robali"
 	done
 
 JungleText: ; 3c61f (f:461f)
-	text "Jungle"
+	text "Dżungla"
 	done
 
 FlowerGardenText: ; 3c627 (f:4627)
-	text "Flower Garden"
+	text "Kwiecisty Ogród"
 	done
 
 KaleidoscopeText: ; 3c636 (f:4636)
-	text "Kaleidoscope"
+	text "Kalejdoskop"
 	done
 
 FlowerPowerText: ; 3c644 (f:4644)
-	text "Flower Power"
+	text "Moc Kwiatów"
 	done
 
 PsychicPowerText: ; 3c652 (f:4652)
-	text "Psychic Power"
+	text "Moc Psychiki"
 	done
 
 DreamEaterHaunterText: ; 3c661 (f:4661)
-	text "Dream Eater Haunter"
+	text "Zjadacz Snów Haunter"
 	done
 
 ScavengingSlowbroText: ; 3c676 (f:4676)
-	text "Scavenging Slowbro"
+	text "Zbieracz Slowbro"
 	done
 
 StrangePowerText: ; 3c68a (f:468a)
-	text "Strange Power"
+	text "Tajemnicza Moc"
 	done
 
 StrangePsyshockText: ; 3c699 (f:4699)
-	text "Strange Psyshock"
+	text "Tajemniczy Psychoszok"
 	done
 
 LovelyNidoranText: ; 3c6ab (f:46ab)
-	text "Lovely Nidoran"
+	text "Kochany Nidoran"
 	done
 
 ScienceCorpsText: ; 3c6bb (f:46bb)
-	text "Science Corps"
+	text "Naukowe Oddziały"
 	done
 
 FlyinPokemonText: ; 3c6ca (f:46ca)
-	text "Flyin' Pokémon"
+	text "Latające Pokémony"
 	done
 
 PoisonText: ; 3c6da (f:46da)
-	text "Poison"
+	text "Trucizna"
 	done
 
 WondersOfScienceText: ; 3c6e2 (f:46e2)
-	text "Wonders of Science"
+	text "Cuda Nauki"
 	done
 
 ReplaceEmAllText: ; 3c6f6 (f:46f6)
-	text "Replace 'Em All"
+	text "Zastąp Je Wszystkie"
 	done
 
 ChariSaurText: ; 3c707 (f:4707)
@@ -318,466 +317,460 @@ ChariSaurText: ; 3c707 (f:4707)
 	done
 
 TrafficLightText: ; 3c713 (f:4713)
-	text "Traffic Light"
+	text "Światła Drogowe"
 	done
 
 FirePokemonDeckText: ; 3c722 (f:4722)
-	text "Fire Pokémon"
+	text "Ogniste Pokémony"
 	done
 
 FireChargeText: ; 3c730 (f:4730)
-	text "Fire Charge"
+	text "Ognista Szarża"
 	done
 
 CharmanderAndFriendsText: ; 3c73d (f:473d)
-	text "Charmander & Friends"
+	text "Charmander i przyjaciele"
 	done
 
 SquirtleAndFriendsText: ; 3c753 (f:4753)
-	text "Squirtle & Friends"
+	text "Squirtle i przyjaciele"
 	done
 
 BulbasaurAndFriendsText: ; 3c767 (f:4767)
-	text "Bulbasaur & Friends"
+	text "Bulbasaur i przyjaciele"
 	done
 
 PsychicMachampText: ; 3c77c (f:477c)
-	text "Psychic Machamp"
+	text "Psychiczny Machamp"
 	done
 
 WaterBeetleText: ; 3c78d (f:478d)
-	text "Water Beetle"
+	text "Wodne robale"
 	done
 
 LegendaryMoltresText: ; 3c79b (f:479b)
-	text "Legendary Moltres"
+	text "Legendarny Moltres"
 	done
 
 LegendaryZapdosText: ; 3c7ae (f:47ae)
-	text "Legendary Zapdos"
+	text "Legendarny Zapdos"
 	done
 
 LegendaryArticunoText: ; 3c7c0 (f:47c0)
-	text "Legendary Articuno"
+	text "Legendarny Articuno"
 	done
 
 LegendaryDragoniteText: ; 3c7d4 (f:47d4)
-	text "Legendary Dragonite"
+	text "Legendarny Dragonite"
 	done
 
 MysteriousPokemonText: ; 3c7e9 (f:47e9)
-	text "Mysterious Pokémon"
+	text "Tajemnicze Pokémony"
 	done
 
 AllFightingPokemonDescriptionText: ; 3c7fd (f:47fd)
-	text "A Deck of Fighting Pokémon:"
-	line "Feel their Fighting power!"
+	text "Talia walczących Pokémonów:"
+	line "Poczuj ich surową moc!"
 	done
 
 BenchAttackDescriptionText: ; 3c835 (f:4835)
-	text "A Deck of Pokémon that can"
-	line "attack the Bench."
+	text "Talia Pokémonów atakujących"
+	line "z ławki."
 	done
 
 BattleContestDescriptionText: ; 3c863 (f:4863)
-	text "A Deck which uses Fighting Attacks"
-	line "such as Slash and Punch."
+	text "Talia używająca walczących ataków"
+	line "Takich jak Cięcie i Cios."
 	done
 
 HeatedBattleDescriptionText: ; 3c8a0 (f:48a0)
-	text "A powerful Deck with both Fire"
-	line "and Fighting Pokémon."
+	text "Silna talia z ognistymi i"
+	line "walczącymi Pokémonami."
 	done
 
 FirstStrikeDescriptionText: ; 3c8d6 (f:48d6)
-	text "A Deck for fast and furious "
-	line "attacks."
+	text "Talia skupiająca się na"
+	line "szybkich i zaskakujących atakach."
 	done
 
 SqueakingMouseDescriptionText: ; 3c8fd (f:48fd)
-	text "A Deck made of Mouse Pokémon."
-	line "Uses PlusPower to Power up!"
+	text "Talia złożona z Pokémonów myszy."
+	line "Użyj PlusMoc-y by je wzmocnić!"
 	done
 
 GreatQuakeDescriptionText: ; 3c938 (f:4938)
-	text "Use Dugtrio's Earthquake"
-	line "to cause great damage."
+	text "Użyj Trzęsienia Ziemi Dugtrio"
+	line "aby zadać ogromne obrażenia."
 	done
 
 BoneAttackDescriptionText: ; 3c969 (f:4969)
-	text "A Deck of Cubone and Marowak - "
-	line "A call for help."
+	text "Talia z Cubone i Marowak -"
+	line "Wołanie o pomoc."
 	done
 
 ExcavationDescriptionText: ; 3c99b (f:499b)
-	text "A Deck which creates Pokémon by"
-	line "evolving Mysterious Fossils."
+	text "Talia z Pokémonami ewoluującymi"
+	line "z tajemniczych skamielin."
 	done
 
 RockCrusherDescriptionText: ; 3c9d9 (f:49d9)
-	text "A Deck of Rock Pokémon. It's"
-	line "Strong against Lightning Pokémon."
+	text "Talia kamiennych Pokémonów."
+	line "Silna przeciwko taliom elektrycznym."
 	done
 
 BlueWaterDescriptionText: ; 3ca19 (f:4a19)
-	text "A Deck of Water Pokémon: Their"
-	line "Blue Horror washes over enemies."
+	text "Talia wodnych Pokémonów. Ich"
+	line "Błękitny Horror zmywa przeciwników."
 	done
 
 OnTheBeachDescriptionText: ; 3ca5a (f:4a5a)
-	text "A well balanced Deck"
-	line "of Sandshrew and Water Pokémon!"
+	text "Zbalansowana talia zawierająca"
+	line "Sandshrew i wodne Pokémony!"
 	done
 
 ParalyzeDescriptionText: ; 3ca90 (f:4a90)
-	text "Paralyze the opponent's Pokémon:"
-	line "Stop 'em and drop 'em!"
+	text "Sparaliżuj Pokémony przeciwnika"
+	line "i spokojnie je wykończ!"
 	done
 
 EnergyRemovalDescriptionText: ; 3cac9 (f:4ac9)
-	text "Uses Whirlpool and Hyper Beam to"
-	line "remove opponents' Energy cards."
+	text "Użyj Wiru i Hiperwiązki aby"
+	line "usunąć karty energii przeciwnika."
 	done
 
 RainDancerDescriptionText: ; 3cb0b (f:4b0b)
-	text "Use Rain Dance to attach Water"
-	line "Energy for powerful Attacks!"
+	text "Użyj Tańca Deszczu aby dodać karty"
+	line "wody potrzebne do silnych ataków."
 	done
 
 CutePokemonDescriptionText: ; 3cb48 (f:4b48)
-	text "A Deck of cute Pokémon such as"
-	line "Pikachu and Eevee."
+	text "Talia uroczych Pokémonów takich"
+	line "jak Pikachu i Eevee."
 	done
 
 PokemonFluteDescriptionText: ; 3cb7b (f:4b7b)
-	text "Use the Pokémon Flute to revive"
-	line "opponents' Pokémon and Attack!"
+	text "Nietypowa talia - użyj PokeFletu"
+	line "aby przyzwać wrogie Pokémony i"
+	line "je wykończyć!"
 	done
 
 YellowFlashDescriptionText: ; 3cbbb (f:4bbb)
-	text "A deck of Pokémon that use Lightning"
-	line "Energy to zap opponents."
+	text "Talia pokemonów używających"
+	line "elektryczną energię - porazi"
+	line "przeciwników!"
 	done
 
 ElectricShockDescriptionText: ; 3cbfa (f:4bfa)
-	text "A Deck which Shocks and Paralyzes"
-	line "opponents with its Attacks."
+	text "Talia która szokuje i paraliżuje"
+	line "przeciwników swymi atakami"
 	done
 
 ZappingSelfdestructDescriptionText: ; 3cc39 (f:4c39)
-	text "Selfdestruct causes great damage "
-	line "- even to the opponent's Bench."
+	text "Samozniszczenie robi duże obrażenia"
+	line "- nawet wrogiej ławce."
 	done
 
 InsectCollectionDescriptionText: ; 3cc7c (f:4c7c)
-	text "A Deck made of Insect Pokémon"
-	line "Go Bug Power!"
+	text "Talia składająca się z insektów."
+	line "Robale do boju!"
 	done
 
 JungleDescriptionText: ; 3cca9 (f:4ca9)
-	text "A Deck of Grass Pokémon: There "
-	line "are many dangers in the Jungle."
+	text "Talia roślinnych Pokémonów."
+	line "Dżungla jest niebezpieczna!"
 	done
 
 FlowerGardenDescriptionText: ; 3ccea (f:4cea)
-	text "A Deck of Flower Pokémon:"
-	line "Beautiful but Dangerous"
+	text "Talia kwiecistych Pokémonów."
+	line "Piękne, ale niebezpieczne."
 	done
 
 KaleidoscopeDescriptionText: ; 3cd1d (f:4d1d)
-	text "Uses Venomoth's Pokémon Power to"
-	line "change the opponent's Weakness."
+	text "Użyj Pokémocy Venomotha żeby"
+	line "zmienić słabości wroga."
 	done
 
 FlowerPowerDescriptionText: ; 3cd5f (f:4d5f)
-	text "A powerful Big Eggsplosion "
-	line "and Energy Transfer combo!"
+	text "Potężne połączenie eksplodujących"
+	line "jajek i transferu energii!"
 	done
 
 PsychicPowerDescriptionText: ; 3cd97 (f:4d97)
-	text "Use the Psychic power of the"
-	line "Psychic Pokémon to Attack!"
+	text "Użyj umysłowych mocy Pokémonów"
+	line "do zdetronizowania przeciwnika!"
 	done
 
 DreamEaterHaunterDescriptionText: ; 3cdd0 (f:4dd0)
-	text "Uses Haunter's Dream Eater"
-	line "to cause great damage!"
+	text "Uśpij przeciwników i zjedz ich sny"
+	line "z pomocą Hauntera!"
 	done
 
 ScavengingSlowbroDescriptionText: ; 3ce03 (f:4e03)
-	text "Continually draw Trainer "
-	line "Cards from the Discard Pile!"
+	text "Slowbro pomoże Ci wyciągnąć karty"
+	line "trenera ze stosu kart odrzuconych!"
 	done
 
 StrangePowerDescriptionText: ; 3ce3b (f:4e3b)
-	text "Confuse opponents with"
-	line "mysterious power!"
+	text "Dezorientuj przeciwników"
+	line "tajemniczą mocą!"
 	done
 
 StrangePsyshockDescriptionText: ; 3ce65 (f:4e65)
-	text "Use Alakazam's Damage Swap"
-	line "to move damage counters!"
+	text "Użyj Zamiany Obrażeń Alakazama"
+	line "aby przesunąć liczniki obrażeń!"
 	done
 
 LovelyNidoranDescriptionText: ; 3ce9a (f:4e9a)
-	text "Uses Nidoqueen's Boyfriends to cause"
-	line "great damage to the opponent."
+	text "Chłopacy Nidoqueen pozwolą Ci"
+	line "zadać niesamowite obrażenia."
 	done
 
 ScienceCorpsDescriptionText: ; 3cede (f:4ede)
-	text "The march of the Science Corps!"
-	line "Attack with the power of science!"
+	text "Marsz naukowych oddziałów!"
+	line "Atakuj całą mocą nauki!"
 	done
 
 FlyinPokemonDescriptionText: ; 3cf21 (f:4f21)
-	text "Pokémon with feathers flock "
-	line "together! Retreating is easy!"
+	text "Pierzaste Pokémony lecą razem!"
+	line "łatwiej jest się wycofać."
 	done
 
 PoisonDescriptionText: ; 3cf5d (f:4f5d)
-	text "A Deck that uses Poison to "
-	line "slowly Knock Out the opponent."
+	text "Talia która zatruje i powoli"
+	line "wykończy twoich przeciwników."
 	done
 
 WondersOfScienceDescriptionText: ; 3cf99 (f:4f99)
-	text "Block Pokémon Powers with "
-	line "Muk and attack with Mewtwo!"
+	text "Blokuj wrogie umiejętności"
+	line "z pomocą Muk'a i atakuj Metwto!"
 	done
 
 ReplaceEmAllDescriptionText: ; 3cfd1 (f:4fd1)
-	text "A Deck that shuffles"
-	line "the opponent's cards"
+	text "Talia przetasowująca wrogie karty."
+	line "Nikt się tego nie spodziewa."
 	done
 
 ChariSaurDescriptionText: ; 3cffc (f:4ffc)
-	text "Attack with Charizard - with "
-	line "just a few Fire Energy cards!"
+	text "Atakuj Charizardem z pomocą"
+	line "kilku kart ognistej energii!"
 	done
 
 TrafficLightDescriptionText: ; 3d039 (f:5039)
-	text "Pokémon that can Attack with"
-	line "Fire, Water or Lightning Energy!"
+	text "Pokémony atakujące za pomocą wodnej,"
+	line "ognistej i elektrycznej energii!"
 	done
 
 FirePokemonDescriptionText: ; 3d078 (f:5078)
-	text "With Fire Pokémon like Charizard, "
-	line "Rapidash and Magmar, it's hot!"
+	text "Ma Pokémony takie jak Charizard,"
+	line "Rapidash czy Magmar. Będzie gorąco!"
 	done
 
 FireChargeDescriptionText: ; 3d0bb (f:50bb)
-	text "Desperate attacks Damage your "
-	line "opponent and you!"
+	text "Zdesperowane ataki zadają obrażenia"
+	line "zarówno przeciwnikowi jak i tobie!"
 	done
 
 CharmanderAndFriendsDescriptionText: ; 3d0ed (f:50ed)
-	text "A Fire, Grass and Water Deck:"
-	line "Charmander, Pinsir and Seel"
+	text "Talia wody, trawy i ognia:"
+	line "Charmander, Pinsir i Seel"
 	done
 
 SquirtleAndFriendsDescriptionText: ; 3d128 (f:5128)
-	text "A Water, Fire, and Lightning Deck:"
-	line "Squirtle, Charmander and Pikachu"
+	text "Talia wody, ognia i elektryczności:"
+	line "Squirtle, Charmander i Pikachu"
 	done
 
 BulbasaurAndFriendsDescriptionText: ; 3d16d (f:516d)
-	text "A Grass, Lightning and Psychic Deck:"
-	line "Bulbasaur, Pikachu and Abra"
+	text "Talia trawy i elektro-psychiki:"
+	line "Bulbasaur, Pikachu oraz Abra"
 	done
 
 PsychicMachampDescriptionText: ; 3d1af (f:51af)
-	text "Machamp, Hitmonlee, Hitmonchan"
-	line "Gengar and Alakazam are furious!"
+	text "Machamp, Hitmonlee, Hitmonchan,"
+	line "Gengar i Alakazam - niesamowita moc!"
 	done
 
 WaterBeetleDescriptionText: ; 3d1f0 (f:51f0)
-	text "An Evolution Deck with Weedle, "
-	line "Nidoran♂ and Bellsprout."
+	text "Talia stawiająca na ewolucje:"
+	line "Weedle, Nidoran♂ i Bellsprout."
 	done
 
 LegendaryMoltresDescriptionText: ; 3d22a (f:522a)
-	text "Gather Fire Energy with the"
-	line "Legendary Moltres!"
+	text "Zbieraj ognistą energię"
+	line "z legendarnym Moltresem!"
 	done
 
 LegendaryZapdosDescriptionText: ; 3d25a (f:525a)
-	text "Zap opponents with the"
-	line "Legandary Zapdos!"
+	text "Poraź swych przeciwników"
+	line "Legandarym Zapdosem!"
 	done
 
 LegendaryArticunoDescriptionText: ; 3d284 (f:5284)
-	text "Paralyze opponents with the"
-	line "Legendary Articuno!"
+	text "Zamroź przeciwników z pomocą"
+	line "Legendarnego Articuno!"
 	done
 
 LegendaryDragoniteDescriptionText: ; 3d2b5 (f:52b5)
-	text "Heal your Pokémon with the"
-	line "Legendary Dragonite!"
+	text "Lecz swe Pokémony z pomocą"
+	line "Legendarnego Dragonite'a!"
 	done
 
 MysteriousPokemonDescriptionText: ; 3d2e6 (f:52e6)
-	text "A very special Deck made of"
-	line "very rare Pokémon cards!"
+	text "Bardzo specjalna talia złożona"
+	line "z najrzadszych kart Pokémon!"
 	done
 
 PokemonCardGlossaryText: ; 3d31c (f:531c)
-	text "Pokémon Card Glossary"
+	text "Opis kart Pokémon"
 	done
 
 GlossaryMenuPage1Text: ; 3d333 (f:5333)
-	text "Deck                Active Pokémon"
-	line "Discard Pile        Bench Pokémon"
-	line "Hand                Prizes    "
-	line "Arena               Damage Counter"
-	line "Bench               To next page    "
+	text "Talia               Aktywne Pokémony"
+	line "Stos odrzuconych    Pokémony z ławki"
+	line "Ręka                Nagrody         "
+	line "Arena               Znaki obrażeń   "
+	line "ławka               Następna strona "
 	done
 
 GlossaryMenuPage2Text: ; 3d3e0 (f:53e0)
-	text "Energy Card         Pokémon Power "
-	line "Trainer Card        Weakness       "
-	line "Basic Pokémon       Resistance"
-	line "Evolution Card      Retreat       "
-	line "Attack              To previous page"
+	text "Karta energii       Moce Pokémon    "
+	line "Trainer Card        Słabości        "
+	line "Basic Pokémon       Odporności      "
+	line "Karta ewolucji      Ucieczka        "
+	line "Atak                Cofnij stronę   "
 	done
 
 ChooseWordAndPressAButtonText: ; 3d48f (f:548f)
-	text "Choose a word and press the"
-	line "A button."
+	text "Wybierz słowo i potwierdź za pomocą"
+	line "przycisku A."
 	done
 
 AboutTheDeckText: ; 3d4b6 (f:54b6)
-	text "About the Deck"
+	text "O Talię"
 	done
 
 AboutTheDiscardPileText: ; 3d4c6 (f:54c6)
-	text "About the Discard Pile"
+	text "O stos kart odrzuconych"
 	done
 
 AboutTheHandText: ; 3d4de (f:54de)
-	text "About the Hand"
+	text "O karty na ręce"
 	done
 
 AboutTheArenaText: ; 3d4ee (f:54ee)
-	text "About the Arena"
+	text "O arenę"
 	done
 
 AboutTheBenchText: ; 3d4ff (f:54ff)
-	text "About the Bench"
+	text "O ławkę"
 	done
 
 AboutTheActivePokemonText: ; 3d510 (f:5510)
-	text "About the Active Pokémon"
+	text "O aktywnego Pokémona"
 	done
 
 AboutBenchPokemonText: ; 3d52a (f:552a)
-	text "About Bench Pokémon"
+	text "O Pokémony na ławce"
 	done
 
 AboutPrizesText: ; 3d53f (f:553f)
-	text "About Prizes"
+	text "O nagrody"
 	done
 
 AboutDamageCountersText: ; 3d54d (f:554d)
-	text "About Damage Counters"
+	text "O liczniki obrażeń"
 	done
 
 AboutEnergyCardsText: ; 3d564 (f:5564)
-	text "About Energy Cards"
+	text "O karty energii"
 	done
 
 AboutTrainerCardsText: ; 3d578 (f:5578)
-	text "About Trainer Cards"
+	text "O karty trenera"
 	done
 
 AboutBasicPokemonText: ; 3d58d (f:558d)
-	text "About Basic Pokémon"
+	text "O podstawowe Pokémony"
 	done
 
 AboutEvolutionCardsText: ; 3d5a2 (f:55a2)
-	text "About Evolution Cards"
+	text "O karty ewolucji"
 	done
 
 AboutAttackingText: ; 3d5b9 (f:55b9)
-	text "About Attacking"
+	text "O atakowanie"
 	done
 
 AboutPokemonPowerText: ; 3d5ca (f:55ca)
-	text "About Pokémon Power"
+	text "O moce Pokémon"
 	done
 
 AboutWeaknessText: ; 3d5df (f:55df)
-	text "About Weakness"
+	text "O słabości"
 	done
 
 AboutResistanceText: ; 3d5ef (f:55ef)
-	text "About Resistance"
+	text "O odporności"
 	done
 
 AboutRetreatingText: ; 3d601 (f:5601)
-	text "About Retreating"
+	text "O ucieczkę"
 	done
 
 DeckDescriptionText: ; 3d613 (f:5613)
-	text "The Deck is the pile of cards"
-	line "you will be drawing from."
-	line "At the beginning of your turn, you"
-	line "will draw 1 card from your Deck."
-	line "If there are no cards to draw"
-	line "from the Deck, you lose the game."
+	text "Talia to twój zakryty stos kart"
+	line "do pobrania. Na początku swej"
+	line "tury pobierasz zawsze jedną kartę"
+	line "z talii. Jeśli w twojej talii"
+	line "zabraknie kart - przegrywasz grę."
 	done
 
 DiscardPileDescriptionText: ; 3d6d0 (f:56d0)
-	text "The pile in which you place used"
-	line "cards is called the Discard Pile."
-	line "You can look at both yours and your"
-	line "opponent's Discard Pile "
-	line "with the Check command."
+	text "Na stos kart odrzuconych odkładamy"
+	line "użyte karty. Możesz spojrzeć na"
+	line "swój lub przeciwnika stos kart"
+	line "odrzuconych za pomocą polecenia"
+	line "sprawdź"
 	done
 
 HandDescriptionText: ; 3d769 (f:5769)
-	text "The cards held by each player"
-	line "are called a Hand."
-	line "There is no restriction to the"
-	line "number of cards in the Hand."
-	line "You may even have 10 or 20 "
-	line "cards in your Hand."
+	text "Karty trzymane przez gracza nazywane"
+	line "są ręką. Nie ma ograniczenia co do"
+	line "liczby kart w twojej ręce."
+	line "Możesz mieć w niej nawet 20 kart."
 	done
 
 ArenaDescriptionText: ; 3d807 (f:5807)
-	text "The place where the Pokémon"
-	line "that is actively fighting"
-	line "is placed is called the Arena."
-	line "The game proceeds by using the"
-	line "Active Pokémon in the Arena."
+	text "Miejsce w którym walczą aktywne"
+	line "Pokémony nazywane jest areną."
+	line "Gramy używając ataków i umiejętności"
+	line "aktywnych Pokémonów z areny."
 	done
 
 BenchDescriptionText: ; 3d899 (f:5899)
-	text "The Bench is where your Pokémon"
-	line "that are in play but aren't actively"
-	line "fighting sit."
-	line "They're ready to come out and fight"
-	line "if the Active Pokémon retreats or"
-	line "is Knocked Out."
-	line "You can have up to 5 Pokémon on"
-	line "the Bench."
+	text "Na ławce siedzą Pokémony które"
+	line "nie uczestniczą aktywnie w walce,"
+	line "ale są już w grze."
+	line "Są gotowe zastąpić aktywnego"
+	line "Pokémona w razie jego ucieczki lub"
+	line "nokautu. Możesz mieć do 5 Pokémonów"
+	line "na swej ławce."
 	done
 
 ActivePokemonDescriptionText: ; 3d96e (f:596e)
-	text "The Active Pokémon is the "
-	line "Pokémon that is in the Arena."
-	line "Only Active Pokémon can "
-	line "attack."
+	text "Aktywny Pokémon to ten który"
+	line "znajduje się na arenie."
+	line "Tylko aktywny Pokémon może atakować."
 	done
 
 BenchPokemonDescriptionText: ; 3d9c9 (f:59c9)
-	text "The Pokémon that are in play"
-	line "but aren't actively fighting"
-	line "are called Bench Pokémon."
-	line "They're ready to come out and fight"
-	line "if the Active Pokémon retreats or"
-	line "is Knocked Out."
-	line "If the Active Pokémon is Knocked"
-	line "Out and you don't have a Bench "
-	line "Pokémon, you lose the game."
+	text "Pokémony będące w grze, ale nie na"
+	line "arenie, nazywamy Pokémonami"
+	line "na ławce. Są gotowe walczyć w razie"
+	line "znokautowana aktywnego Pokémona albo"
+	line "jego ucieczki. Jeśli twój główny"
+	line "Pokémon zostanie znokautowany a"
+	line "ławka jest pusta - przegrywasz."
 	done
 
 PrizesDescriptionText: ; 3dad1 (f:5ad1)
@@ -1048,7 +1041,7 @@ Text033c: ; 3e804 (f:6804)
 
 PauseMenuOptionsText: ; 3e810 (f:6810)
 	text "Status"
-	line "Diary"
+	line "Pamiętnik"
 	line "Deck"
 	line "Card"
 	line "Config"
@@ -1057,12 +1050,12 @@ PauseMenuOptionsText: ; 3e810 (f:6810)
 
 DebugPauseMenuOptionsText: ; 3e834 (f:6834)
 	text "Status"
-	line "Diary"
-	line "Deck"
-	line "Card"
-	line "Config"
+	line "Pamiętnik"
+	line "Talia"
+	line "Karty"
+	line "Konfiguracja"
 	line "Debug"
-	line "Close"
+	line "Wyjdź"
 	done
 
 PlayerStatusNameText: ; 3e85f (f:685f)
@@ -1131,8 +1124,8 @@ Text034c: ; 3e9b2 (f:69b2)
 	text "Duel           [<RAMTEXT>]"
 	line "SELECT         [<RAMTEXT>]"
 	line "Receive many cards"
-	line "To Pokémon Dome 1"
-	line "To Pokémon Dome 2"
+	line "Do Stadionu Pokémon 1"
+	line "Do Stadionu Pokémon 2"
 	done
 
 Text034d: ; 3ea10 (f:6a10)
@@ -1198,7 +1191,7 @@ MailText: ; 3eb32 (f:6b32)
 	done
 
 WhichMailWouldYouLikeToReadText: ; 3eb3e (f:6b3e)
-	text "Which mail would you like to read?"
+	text "Którego maila chcesz przeczytać?"
 	done
 
 MailNumbersText: ; 3eb62 (f:6b62)
