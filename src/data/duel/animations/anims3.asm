@@ -5111,38 +5111,6 @@ AnimFrameTable87:: ; b3ebb (2c:7ebb)
 	db 24, 48, 30, $0
 	db 24, 56, 31, $0
 
-AnimData190:: ; b3f3e (2c:7f3e)
-	frame_table AnimFrameTable88
-	frame_data 0, 37, 0, 0
-	frame_data -1, 26, 0, 0
-	frame_data 0, 0, 0, 0
-
-AnimFrameTable88:: ; b3f4d (2c:7f4d)
-	dw .data_b3f4f
-
-.data_b3f4f
-	db 20 ; size
-	db -2, -5, 0, $0
-	db -2, 3, 1, $0
-	db -2, 19, 3, $0
-	db -2, 27, 4, $0
-	db -2, 11, 2, $0
-	db 6, -5, 5, $0
-	db 6, 3, 6, $0
-	db 6, 11, 7, $0
-	db 6, 19, 8, $0
-	db 6, 27, 9, $0
-	db -2, 41, 10, $0
-	db -2, 49, 11, $0
-	db -2, 57, 12, $0
-	db -2, 65, 13, $0
-	db -2, 73, 14, $0
-	db 6, 41, 15, $0
-	db 6, 49, 16, $0
-	db 6, 73, 19, $0
-	db 6, 65, 18, $0
-	db 6, 57, 17, $0
-
 AnimData196:: ; b3fa0 (2c:7fa0)
 	frame_table AnimFrameTable91
 	frame_data 0, 1, 3, 2
