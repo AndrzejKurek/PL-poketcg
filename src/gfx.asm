@@ -1377,7 +1377,7 @@ Duel50Gfx::
 	INCBIN "gfx/duel/anims/50.2bpp"
 
 Duel51Gfx::
-	dw $36
+	dw $45
 	INCBIN "gfx/duel/anims/51.2bpp"
 
 Duel52Gfx::
