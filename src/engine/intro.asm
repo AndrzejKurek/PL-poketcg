@@ -57,9 +57,9 @@ PlayIntroSequence:
 	farcall CreateSpriteAndAnimBufferEntry
 	ld c, SPRITE_ANIM_COORD_X
 	call GetSpriteAnimBufferProperty
-	ld a, 48
+	ld a, 60
 	ld [hli], a ; x
-	ld a, 112
+	ld a, 108
 	ld [hl], a ; y
 	ld c, SPRITE_ANIM_190
 	ld a, [wConsole]

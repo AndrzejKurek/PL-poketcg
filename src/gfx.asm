@@ -1396,10 +1396,6 @@ BoosterPackOAMGfx::
 	dw $20
 	INCBIN "gfx/booster_packs/oam.2bpp"
 
-PressStartGfx::
-	dw $14
-	INCBIN "gfx/titlescreen/press_start.2bpp"
-
 GrassGfx::
 	dw $04
 	INCBIN "gfx/titlescreen/energies/grass.2bpp"
@@ -2419,3 +2415,7 @@ GamblerCardGfx::
 RecycleCardGfx::
 	INCBIN "gfx/cards/recycle.2bpp"
 	INCBIN "gfx/cards/recycle.pal"
+
+PressStartGfx::
+	dw $18
+	INCBIN "gfx/titlescreen/press_start.2bpp"

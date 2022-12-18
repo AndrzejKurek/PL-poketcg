@@ -112,7 +112,7 @@ Sprites:
 	gfx_pointer Duel53Gfx,          $06 ; SPRITE_DUEL_53
 	gfx_pointer Duel54Gfx,          $16 ; SPRITE_DUEL_54
 	gfx_pointer BoosterPackOAMGfx,  $20 ; SPRITE_BOOSTER_PACK_OAM
-	gfx_pointer PressStartGfx,      $14 ; SPRITE_PRESS_START
+	gfx_pointer PressStartGfx,      $18 ; SPRITE_PRESS_START
 	gfx_pointer GrassGfx,           $04 ; SPRITE_GRASS
 	gfx_pointer FireGfx,            $04 ; SPRITE_FIRE
 	gfx_pointer WaterGfx,           $04 ; SPRITE_WATER
