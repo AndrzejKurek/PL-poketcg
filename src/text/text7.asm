@@ -94,24 +94,24 @@ Text05e2: ; 4c786 (13:4786)
 	done
 
 Text05e3: ; 4c86f (13:486f)
-	text "Och! Skąd ten pośpiech, <RAMNAME>?"
-	line "Co?!"
+	text "Och! Skąd ten pośpiech,"
+	line "<RAMNAME>? Co?!"
 	line "Chcesz zagrać w karty Pokémon?"
 	line "Więc i ty, w końcu, chcesz się"
 	line "nauczyć grać w tę grę..."
 	line "Cóż, pojedynki są o wiele ciekawsze"
 	line "niż samo zbieranie kart!"
 	line "Najpierw powinieneś spróbować"
-	line "zagrać talią testową."
+	line "zagrać talią testową ."
 	line "Proszę, weź jedną ode mnie."
-	line "A, potrzebujesz jeszcze"
+	line "No tak, potrzebujesz jeszcze"
 	line "przeciwnika! Sam, podejdziesz?"
 	line "<RAMNAME> chce zagrać!"
 	done
 
 Text05e4: ; 4c9d7 (13:49d7)
 	text "Tak, doktorze Mason."
-	line "Witaj <RAMNAME>!"
+	line "Witaj, <RAMNAME>!"
 	done
 
 Text05e5: ; 4c9f2 (13:49f2)

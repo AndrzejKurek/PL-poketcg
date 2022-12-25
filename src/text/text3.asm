@@ -1951,10 +1951,10 @@ Text0400: ; 3fa32 (f:7a32)
 	text "Energia"
 	line "Atakowanie"
 	line "Wycofanie"
-	line "Ewoluowanie Pokémon"
+	line "Ewoluowanie Pokémona"
 	line "Używanie mocy Pokémon"
 	line "Kończenie tury"
-	line "Wygranie lub przegranie walki"
+	line "Wygrana lub przegrana"
 	line "Brak pytań"
 	done
 
