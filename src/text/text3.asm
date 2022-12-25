@@ -35,7 +35,7 @@ PrintThisCardYesNoText: ; 3c0cc (f:40cc)
 	done
 
 PleaseChooseDeckConfigurationToPrintText: ; 3c0ef (f:40ef)
-	text "Wybierz konfigurację talii"
+	text "Wybierz plan talii"
 	line "do wydrukowania."
 	done
 
@@ -111,7 +111,7 @@ ReceivedTheseCardsFromText: ; 3c36a (f:436a)
 	done
 
 PleaseChooseADeckConfigurationToSendText: ; 3c389 (f:4389)
-	text "Wybierz konfigurację talii"
+	text "Wybierz plan talii"
 	line "do wysłania."
 	done
 
@@ -120,11 +120,11 @@ PleaseChooseASaveSlotText: ; 3c3b7 (f:43b7)
 	done
 
 Text0286: ; 3c3d3 (f:43d3)
-	text "Otrzymaj konfigurację."
+	text "Otrzymaj plan talii."
 	done
 
 ReceivedADeckConfigurationFromText: ; 3c3eb (f:43eb)
-	text "Otrzymano konfigurację talii"
+	text "Otrzymano plan talii"
 	line "od <RAMTEXT>!"
 	done
 
@@ -173,7 +173,7 @@ AllFightingPokemonText: ; 3c4e3 (f:44e3)
 	done
 
 BenchAttackText: ; 3c4f9 (f:44f9)
-	text "Atak Z Ławki"
+	text "Atak z ławki"
 	done
 
 BattleContestText: ; 3c507 (f:4507)
@@ -317,7 +317,7 @@ ChariSaurText: ; 3c707 (f:4707)
 	done
 
 TrafficLightText: ; 3c713 (f:4713)
-	text "Światła Drogowe"
+	text "światła Drogowe"
 	done
 
 FirePokemonDeckText: ; 3c722 (f:4722)
@@ -636,7 +636,7 @@ GlossaryMenuPage2Text: ; 3d3e0 (f:53e0)
 	text "Karta energii       Moce Pokémon    "
 	line "Trainer Card        Słabości        "
 	line "Basic Pokémon       Odporności      "
-	line "Karta ewolucji      Ucieczka        "
+	line "Karta ewolucji      Wycofanie       "
 	line "Atak                Cofnij stronę   "
 	done
 
@@ -714,7 +714,7 @@ AboutResistanceText: ; 3d5ef (f:55ef)
 	done
 
 AboutRetreatingText: ; 3d601 (f:5601)
-	text "O ucieczkę"
+	text "O wycofanie"
 	done
 
 DeckDescriptionText: ; 3d613 (f:5613)
@@ -752,7 +752,7 @@ BenchDescriptionText: ; 3d899 (f:5899)
 	line "nie uczestniczą aktywnie w walce,"
 	line "ale są już w grze."
 	line "Są gotowe zastąpić aktywnego"
-	line "Pokémona w razie jego ucieczki lub"
+	line "Pokémona w razie jego wycofania lub"
 	line "nokautu. Możesz mieć do 5 Pokémonów"
 	line "na swej ławce."
 	done
@@ -768,7 +768,7 @@ BenchPokemonDescriptionText: ; 3d9c9 (f:59c9)
 	line "arenie, znajdują się na ławce."
 	line "Są gotowe walczyć w razie"
 	line "znokautowana aktywnego Pokémona albo"
-	line "jego ucieczki. Jeśli twój główny"
+	line "jego wycofania. Jeśli twój główny"
 	line "Pokémon zostanie znokautowany,"
 	line "a ławka jest pusta - przegrywasz."
 	done
@@ -876,14 +876,15 @@ ResistanceDescriptionText: ; 3e344 (f:6344)
 	done
 
 RetreatingDescriptionText: ; 3e3c8 (f:63c8)
-	text "Wybierając ucieczkę możesz"
+	text "Wybierając wycofanie możesz"
 	line "podmienić aktywnego Pokémona na"
 	line "jednego z Pokémonów z ławki."
-	line "Do ucieczki potrzebujesz kart"
+	line "Do wycofania potrzebujesz kart"
 	line "energii - innej liczby dla każego"
-	line "Pokémona. Aby Pokémon uciekł, musisz"
-	line "odrzucić liczbę kart energii równą"
-	line "kosztowi ucieczki danego Pokémona."
+	line "Pokémona. Aby Pokémon się wycofał,"
+	line "musisz odrzucić liczbę kart energii"
+	line "równą kosztowi wycofania"
+	line "danego Pokémona."
 	done
 
 Text031e: ; 3e4ed (f:64ed)
@@ -913,8 +914,8 @@ Text031f: ; 3e558 (f:6558)
 Text0320: ; 3e5f1 (f:65f1)
 	text "Wyślij kartę"
 	line "Otrzymaj kartę"
-	line "Wyślij opis talii"
-	line "Otrzymaj opis talii"
+	line "Wyślij plan talii"
+	line "Otrzymaj plan talii"
 	done
 
 Text0321: ; 3e63e (f:663e)
@@ -947,11 +948,11 @@ OverworldMapWaterClubText: ; 3e6b8 (f:66b8)
 	done
 
 OverworldMapLightningClubText: ; 3e6ce (f:66ce)
-	text "  Klub elektryczny  "
+	text "  Klub Elektryczny  "
 	done
 
 OverworldMapGrassClubText: ; 3e6e4 (f:66e4)
-	text "   Klub trawiasty   "
+	text "   Klub Trawiasty   "
 	done
 
 OverworldMapPsychicClubText: ; 3e6fa (f:66fa)
@@ -1104,7 +1105,7 @@ ConfigMenuMessageSpeedText: ; 3e939 (f:6939)
 ConfigMenuDuelAnimationText: ; 3e96c (f:696c)
 	text "Animacje walki"
 	line ""
-	line "  Wszystkie   Niektóre        Żadne"
+	line "  Wszystkie   Niektóre        żadne"
 	done
 
 ConfigMenuExitText: ; 3e9a0 (f:69a0)
@@ -1156,8 +1157,8 @@ TurnedPCOffText: ; 3ea7e (f:6a7e)
 GiftCenterMenuText: ; 3ea94 (f:6a94)
 	text "Wyślij kartę"
 	line "Otrzymaj kartę"
-	line "Wyślij opis talii"
-	line "Otrzymaj opis talii"
+	line "Wyślij plan talii"
+	line "Otrzymaj plan talii"
 	line "Wyjdź"
 	done
 
@@ -1170,11 +1171,11 @@ ReceiveCardText: ; 3eaef (f:6aef)
 	done
 
 SendDeckConfigurationText: ; 3eafd (f:6afd)
-	text "Wyślij opis talii"
+	text "Wyślij plan talii"
 	done
 
 ReceiveDeckConfigurationText: ; 3eb16 (f:6b16)
-	text "Otrzymaj opis talii"
+	text "Otrzymaj plan talii"
 	done
 
 MailText: ; 3eb32 (f:6b32)
@@ -1337,20 +1338,20 @@ YouCanAccessCardPopOnlyWithGameBoyColorsText: ; 3ef66 (f:6f66)
 	done
 
 IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
-	text "<RAMNAME> is crazy about Pokémon"
-	line "and Pokémon card collecting!"
-	line "One day,"
-	line "<RAMNAME> heard a rumor:"
-	line " ”The Legendary Pokémon Cards..."
-	line "  the extremely rare and powerful "
-	line "  cards held by Pokémon Trading "
-	line "  Card Game's greatest players... "
-	line "  The Grand Masters are searching"
-	line "  for one to inherit the legend!”"
-	line "Dreaming of inheriting the"
-	line "Legendary Pokémon Cards,"
-	line "<RAMNAME> visits the Pokémon"
-	line "card researcher, Dr. Mason..."
+	text "<RAMNAME> szaleje na punkcie"
+	line "zbierania kart Pokémon!"
+	line "Pewnego razu,"
+	line "<RAMNAME> słyszy jak ktoś opowiada:"
+	line " ”Legendarne karty Pokémon..."
+	line "  wyjątkowo rzadkie i potężne"
+	line "  karty będące w posiadaniu tylko"
+	line "  najlepszych graczy... "
+	line "  Arcymistrzowie poszukują tego"
+	line "  który je odziedziczy!”"
+	line "Marząc o otrzymaniu legendarnych"
+	line "kart Pokémon, <RAMNAME> odwiedza"
+	line "badacza kart Pokémon,
+	line "Doktora Masona..."
 	done
 
 DebugMenuText: ; 3f147 (f:7147)
@@ -1368,8 +1369,8 @@ DebugMenuText: ; 3f147 (f:7147)
 	done
 
 Text037b: ; 3f1ce (f:71ce)
-	text "NORMAL DUEL"
-	line "SKIP"
+	text "NORMALNA WALKA"
+	line "POMIń"
 	done
 
 DebugBoosterPackMenuText: ; 3f1e0 (f:71e0)
@@ -1415,18 +1416,18 @@ DebugBoosterPackEnergyMenuText: ; 3f236 (f:7236)
 	done
 
 Text0381: ; 3f23f (f:723f)
-	text "A                   TIME"
-	line "     TO      (Change with Start)"
-	line "            A+B: Stop Animation"
-	line "            Select: Exit"
+	text "A                   CZAS"
+	line "     DO      (ZMIEń STARTEM)"
+	line "            A+B: Stop Animacji"
+	line "            Select: Wyjdź"
 	done
 
 Text0382: ; 3f2b3 (f:72b3)
-	text "Left"
+	text "Lewo"
 	done
 
 Text0383: ; 3f2b9 (f:72b9)
-	text "Right"
+	text "Prawo"
 	done
 
 SPRText: ; 3f2c0 (f:72c0)
@@ -1434,32 +1435,33 @@ SPRText: ; 3f2c0 (f:72c0)
 	done
 
 WinLosePrizesDuelWithText: ; 3f2c6 (f:72c6)
-	text "WIN      <RAMNUM> Prizes Duel"
-	line "LOSE     with <RAMTEXT>(<RAMNUM>)"
+	text "WIN      <RAMNUM> Nagród"
+	text "WYGRANA  <RAMNUM> Nagród"
+	line "PRZEGRANA z <RAMTEXT>(<RAMNUM>)"
 	done
 
 UseDuelistsDeckText: ; 3f2f1 (f:72f1)
-	text "         Use <RAMNUM>'s Deck"
+	text "         Użyj talii <RAMNUM>"
 	done
 
 ReceivedBoosterPackText: ; 3f308 (f:7308)
-	text "<RAMNAME> received a Booster"
-	line "Pack: <RAMTEXT>."
+	text "<RAMNAME> otrzymał paczkę boosterów:"
+	line "<RAMTEXT>."
 	done
 
 AndAnotherBoosterPackText: ; 3f327 (f:7327)
-	text "...And another Booster Pack:"
+	text ", a także następną paczkę boosterów:"
 	line "<RAMTEXT>."
 	done
 
 CheckedCardsInBoosterPackText: ; 3f348 (f:7348)
-	text "<RAMNAME> checked the cards"
-	line "in the Booster Pack!!"
+	text "<RAMNAME> sprawdza karty"
+	line "z paczki boosterów!"
 	done
 
 Text038a: ; 3f373 (f:7373)
-	text "Substitute screen for"
-	line "receiving cards."
+	text "Zastępczy ekran do"
+	line "otrzymywania kart."
 	done
 
 WonTheMedalText: ; 3f39b (f:739b)
@@ -1468,23 +1470,23 @@ WonTheMedalText: ; 3f39b (f:739b)
 	done
 
 Text038c: ; 3f3af (f:73af)
-	text "Substitute screen for sending"
-	line "cards by Link cable."
+	text "Zastępczy ekran do wysyłania"
+	line "kart przewodowo."
 	done
 
 Text038d: ; 3f3e3 (f:73e3)
-	text "Substitute screen for receiving"
-	line "cards by Link cable."
+	text "Zastępczy ekran do otrzymywania"
+	line "kart przewodowo."
 	done
 
 Text038e: ; 3f419 (f:7419)
-	text "Substitute screen for sending"
-	line "a Deck design."
+	text "Zastępczy ekran do wysyłania"
+	line "planu talii."
 	done
 
 Text038f: ; 3f447 (f:7447)
-	text "Substitute screen for receiving"
-	line "a Deck design."
+	text "Zastępczy ekran do otrzymywania"
+	line "planu talii."
 	done
 
 Text0390: ; 3f477 (f:7477)
@@ -1492,20 +1494,20 @@ Text0390: ; 3f477 (f:7477)
 	done
 
 Text0391: ; 3f47d (f:747d)
-	text "Ending Screen"
-	line "THE END"
+	text "Ekran końcowy"
+	line "KONIEC"
 	done
 
 Text0392: ; 3f494 (f:7494)
-	text "Was the data transfer successful?"
+	text "Czy udało się przesłać dane?"
 	done
 
 Text0393: ; 3f4b7 (f:74b7)
-	text "(Person transferring data to)"
+	text "(Osoba przyjmująca dane)"
 	done
 
 Text0394: ; 3f4d6 (f:74d6)
-	text "(Name of Deck transferring)"
+	text "(Nazwa przesyłanej talii)"
 	done
 
 OpponentTitleAndNameText: ; 3f4f3 (f:74f3)
@@ -1513,94 +1515,94 @@ OpponentTitleAndNameText: ; 3f4f3 (f:74f3)
 	done
 
 OpponentDeckNameText: ; 3f4f9 (f:74f9)
-	text "<RAMTEXT> Deck"
+	text "Talia <RAMTEXT>"
 	done
 
 FightingClubMemberText: ; 3f501 (f:7501)
-	text "Fighting Club Member"
+	text "Członek klubu walczącego"
 	done
 
 RockClubMemberText: ; 3f517 (f:7517)
-	text "Rock Club Member"
+	text "Członek klubu kamiennego"
 	done
 
 WaterClubMemberText: ; 3f529 (f:7529)
-	text "Water Club Member"
+	text "Członek klubu wodnego"
 	done
 
 LightningClubMemberText: ; 3f53c (f:753c)
-	text "Lightning Club Member"
+	text "Członek klubu elektrycznego"
 	done
 
 GrassClubMemberText: ; 3f553 (f:7553)
-	text "Grass Club Member"
+	text "Członek klubu trawiastego"
 	done
 
 PsychicClubMemberText: ; 3f566 (f:7566)
-	text "Psychic Club Member"
+	text "Członek klubu psychicznego"
 	done
 
 ScienceClubMemberText: ; 3f57b (f:757b)
-	text "Science Club Member"
+	text "Członek klubu naukowego"
 	done
 
 FireClubMemberText: ; 3f590 (f:7590)
-	text "Fire Club Member"
+	text "Członek klubu ognistego"
 	done
 
 FightingClubMasterText: ; 3f5a2 (f:75a2)
-	text "Fighting Club Master"
+	text "Mistrz klubu walczącego"
 	done
 
 RockClubMasterText: ; 3f5b8 (f:75b8)
-	text "Rock Club Master"
+	text "Mistrz klubu kamiennego"
 	done
 
 WaterClubMasterText: ; 3f5ca (f:75ca)
-	text "Water Club Master"
+	text "Mistrz klubu wodnego"
 	done
 
 LightningClubMasterText: ; 3f5dd (f:75dd)
-	text "Lightning Club Master"
+	text "Mistrz klubu elektrycznego"
 	done
 
 GrassClubMasterText: ; 3f5f4 (f:75f4)
-	text "Grass Club Master"
+	text "Mistrz klubu trawiastego"
 	done
 
 PsychicClubMasterText: ; 3f607 (f:7607)
-	text "Psychic Club Master"
+	text "Mistrz klubu psychicznego"
 	done
 
 ScienceClubMasterText: ; 3f61c (f:761c)
-	text "Science Club Master"
+	text "Mistrz klubu naukowego"
 	done
 
 FireClubMasterText: ; 3f631 (f:7631)
-	text "Fire Club Master"
+	text "Mistrz klubu ognistego"
 	done
 
 EmptyText: ; 3f643 (f:7643)
 	done
 
 ColosseumBoosterText: ; 3f644 (f:7644)
-	text "COLOSSEUM"
+	text "KOLOSEUM"
 	done
 
 EvolutionBoosterText: ; 3f64f (f:764f)
-	text "EVOLUTION"
+	text "EWOLUCJA"
 	done
 
 MysteryBoosterText: ; 3f65a (f:765a)
-	text "MYSTERY"
+	text "TAJEMNICA"
 	done
 
 LaboratoryBoosterText: ; 3f663 (f:7663)
-	text "LABORATORY"
+	text "LABORATORIUM"
 	done
 
 DrMasonNPCName: ; 3f66f (f:766f)
-	text "Dr. Mason"
+	text "Doktor Mason"
 	done
 
 RonaldNPCName: ; 3f67a (f:767a)
@@ -1608,7 +1610,7 @@ RonaldNPCName: ; 3f67a (f:767a)
 	done
 
 IshiharaNPCName: ; 3f682 (f:7682)
-	text "ISHIHARA"
+	text "Ishihara"
 	done
 
 ImakuniNPCName: ; 3f68c (f:768c)
@@ -1616,7 +1618,7 @@ ImakuniNPCName: ; 3f68c (f:768c)
 	done
 
 ClerkNPCName: ; 3f696 (f:7696)
-	text "CLERK"
+	text "Kasjer"
 	done
 
 SamNPCName: ; 3f69d (f:769d)
@@ -1624,11 +1626,11 @@ SamNPCName: ; 3f69d (f:769d)
 	done
 
 TechNPCName: ; 3f6a2 (f:76a2)
-	text "TECH"
+	text "Technik"
 	done
 
 ClerkNPCName2: ; 3f6a8 (f:76a8)
-	text "CLERK"
+	text "Pracownik"
 	done
 
 ChrisNPCName: ; 3f6af (f:76af)
@@ -1760,7 +1762,7 @@ KenNPCName: ; 3f7a2 (f:77a2)
 	done
 
 CourtneyNPCName: ; 3f7a7 (f:77a7)
-	text "COURTNEY"
+	text "Courtney"
 	done
 
 SteveNPCName: ; 3f7b1 (f:77b1)
@@ -1776,39 +1778,39 @@ RodNPCName: ; 3f7be (f:77be)
 	done
 
 ManNPCName: ; 3f7c3 (f:77c3)
-	text "Man"
+	text "Mężczyzna"
 	done
 
 WomanNPCName: ; 3f7c8 (f:77c8)
-	text "Woman"
+	text "Kobieta"
 	done
 
 ChapNPCName: ; 3f7cf (f:77cf)
-	text "CHAP"
+	text "Ziomek"
 	done
 
 GalNPCName: ; 3f7d5 (f:77d5)
-	text "GAL"
+	text "Babka"
 	done
 
 LassNPCName: ; 3f7da (f:77da)
-	text "Lass"
+	text "Laska"
 	done
 
 PappyNPCName: ; 3f7e0 (f:77e0)
-	text "Pappy"
+	text "Tatuś"
 	done
 
 LadNPCName: ; 3f7e7 (f:77e7)
-	text "Lad"
+	text "Chłopak"
 	done
 
 HostNPCName: ; 3f7ec (f:77ec)
-	text "HOST"
+	text "Gospodarz"
 	done
 
 SpecsNPCName: ; 3f7f2 (f:77f2)
-	text "Specs"
+	text "Spec"
 	done
 
 ButchNPCName: ; 3f7f9 (f:77f9)
@@ -1820,7 +1822,7 @@ HoodNPCName: ; 3f800 (f:7800)
 	done
 
 ChampNPCName: ; 3f806 (f:7806)
-	text "Champ"
+	text "Czempion"
 	done
 
 ManiaNPCName: ; 3f80d (f:780d)
@@ -1828,11 +1830,11 @@ ManiaNPCName: ; 3f80d (f:780d)
 	done
 
 GrannyNPCName: ; 3f814 (f:7814)
-	text "Granny"
+	text "Babcia"
 	done
 
 GuideNPCName: ; 3f81c (f:781c)
-	text "Guide"
+	text "Przewodnik"
 	done
 
 AaronNPCName: ; 3f823 (f:7823)
@@ -1856,7 +1858,7 @@ PikachuTradeCardName: ; 3f851 (f:7851)
 	done
 
 SurfingPikachuTradeCardName: ; 3f85f (f:785f)
-	text "<Lv>13 SURFING PIKACHU"
+	text "<Lv>13 SURFER PIKACHU"
 	done
 
 ElectabuzzTradeCardName: ; 3f875 (f:7875)
@@ -1888,126 +1890,122 @@ DragoniteLegendaryCardName: ; 3f8cf (f:78cf)
 	done
 
 SuperEnergyRetrievalTradeCardName: ; 3f8df (f:78df)
-	text "Super Energy Retrieval"
+	text "Megaodzyskiwacz energii"
 	done
 
 FlyingPikachuTradeCardName: ; 3f8f7 (f:78f7)
-	text "<Lv>12 FLYING PIKACHU"
+	text "<Lv>12 LATAJąCY PIKACHU"
 	done
 
 LightningAndFireDeckChoiceText: ; 3f90c (f:790c)
-	text "Lightning & Fire Deck"
+	text "Talia elektro-ognista"
 	done
 
 WaterAndFightingDeckChoiceText: ; 3f923 (f:7923)
-	text "Water & Fighting Deck"
+	text "Talia wodno-walcząca"
 	done
 
 GrassAndPsychicDeckChoiceText: ; 3f93a (f:793a)
-	text "Grass & Psychic Deck"
+	text "Talia trawiasto-psychiczna"
 	done
 
 SelectDeckToDuelText: ; 3f950 (f:7950)
-	text "Please select the Deck"
-	line "you wish to Duel against."
+	text "Wybierz talię przeciwko"
+	line "której chcesz walczyć."
 	done
 
 CharmanderAndFriendsDeckChoiceText: ; 3f982 (f:7982)
-	text "CHARMANDER & Friends Deck"
+	text "CHARMANDER i przyjaciele"
 	done
 
 SquirtleAndFriendsDeckChoiceText: ; 3f99d (f:799d)
-	text "SQUIRTLE & Friends Deck"
+	text "SQUIRTLE i przyjaciele"
 	done
 
 BulbasaurAndFriendsDeckChoiceText: ; 3f9b6 (f:79b6)
-	text "BULBASAUR & Friends Deck"
+	text "BULBASAUR i przyjaciele"
 	done
 
 SelectDeckToTakeText: ; 3f9d0 (f:79d0)
-	text "Please select the Deck you want."
+	text "Wybierz talię którą chcesz."
 	done
 
 HowCanIHelpText: ; 3f9f2 (f:79f2)
-	text "Hi, <RAMNAME>."
-	line "How can I help you?"
+	text "Hej, <RAMNAME>."
+	line "Jak mogę Ci pomóc?"
 	done
 
 Text03ff: ; 3fa0e (f:7a0e)
-	text "Normal Duel"
-	line "Practice"
-	line "Rules"
-	line "Nothing"
+	text "Normalna walka"
+	line "Trening"
+	line "Zasady"
+	line "Wyjdź"
 	done
 
 Text0400: ; 3fa32 (f:7a32)
-	text "Energy"
-	line "Attacking"
-	line "Retreating"
-	line "Evolving Pokémon"
-	line "Using Pokémon Power"
-	line "Ending Your Turn"
-	line "Win or Loss of a Duel"
-	line "Nothing to Ask"
+	text "Energia"
+	line "Atakowanie"
+	line "Wycofanie"
+	line "Ewoluowanie Pokémon"
+	line "Używanie mocy Pokémon"
+	line "Kończenie tury"
+	line "Wygranie lub przegranie walki"
+	line "Brak pytań"
 	done
 
 Text0401: ; 3faaa (f:7aaa)
 	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "Are you getting the hang of"
-	line "the Pokémon Trading Card Game?"
-	line "I have some information for you"
-	line "about Booster Packs. "
-	line "If you want to collect the same"
-	line "cards, duel the same person many"
-	line "times to get a particular Booster"
-	line "Pack! By doing so, you will be able "
-	line "to collect the same cards, making it"
-	line "easier for you to build your Deck."
-	line "Another method for collecting "
-	line "cards is to use CARD POP!"
-	line "When you and a friend use CARD POP!,"
-	line "you will each receive a new card!"
-	line "Once you POP! with a certain"
-	line "friend, you won't be able to POP!"
-	line "with that friend again, so find "
-	line "many friends who own the Pokémon "
-	line "Trading Card Game for Game Boy,"
-	line "and CARD POP! with them to"
-	line "get new cards!"
-	line "Oh, here's something for you..."
+	line "To ja, Doktor Mason."
+	line "Zaczynasz ogarniać granie"
+	line "w karty Pokémon?"
+	line "Mam dla Ciebie trochę informacji o"
+	line "paczkach boosterów."
+	line "Jeśli chcesz nazbierać wiele tych"
+	line "samych kard, walcz z tą samą osobą"
+	line "wielokrotnie żeby dostać tego samego"
+	line "boostera! W ten sposób uzbierasz"
+	line "sporo tych samych kart, a to ułatwi"
+	line "Ci zbudowanie talii."
+	line "Inną metodą zbierania kart jest"
+	line "użycie z menu funkcji CARD POP!"
+	line "Gdy użyjecie CARD POP! w dwie osoby,"
+	line "otrzymacie nową kartę!"
+	line "Z każdą osobą możesz tak zrobić"
+	line "tylko raz, więc znajdź wielu różnych"
+	line "przyjaciół grających w karty Pokémon"
+	line "na konsoli Game Boy Color!"
+	line "Mam dla Ciebie też mały prezent..."
 	done
 
 Text0402: ; 3fd72 (f:7d72)
-	text "I'll be sending you useful"
-	line "information by e-mail."
-	line "I'll also attach a Booster Pack"
-	line "for you, so check your mail"
-	line "often."
-	line "Mason Laboratory"
-	line "      Doctor Mason  ;)"
+	text "Będę Ci przesyłał przydatne"
+	line "informacje mailem."
+	line "Będę też dorzucał booster packi do"
+	line "wiadomości, więc często sprawdzaj"
+	line "maila!"
+	line "Laboratorium Masona"
+	line "      Doktor Mason ;)"
 	done
 
 Text0403: ; 3fe10 (f:7e10)
 	text "<RAMNAME>,"
-	line "It's me, Doctor Mason."
-	line "I have some information for you"
-	line "about Mitch's deck - he's "
-	line "the Master of the Fighting Club."
-	line "His First-Strike Deck is built"
-	line "for a quick attack, but it's"
-	line "weak against Psychic Pokémon!"
-	line "I suggest you duel him using"
-	line "the Deck from the Psychic Medal"
-	line "Deck Machine."
-	line "Here's a Booster Pack for you..."
+	line "To ja, Doktor Mason."
+	line "Mam dla Ciebie trochę informacji o"
+	line "talii Mitcha - jest mistrzem"
+	line "Walczącego Klubu. Jego talia"
+	line "szybkiego ataku ma słabość - są"
+	line "nią Pokémony psychiczne!"
+	line "Proponuję walczyć z nim używając"
+	line "talii z maszyny z medalem"
+	line "psychicznym. Będzie łatwiej!"
+	line "Weź też tego booster packa..."
 	done
 
 Text0404: ; 3ff4d (f:7f4d)
-	text "<RAMNAME>, I know you can do it!"
-	line "Go win the Fighting Medal!"
-	line "Mason Laboratory"
-	line "      Doctor Mason ;)"
+	text "<RAMNAME>, wierzę w Ciebię!"
+	line "Wygraj medal klubu walczących!"
+	line "Laboratorium Masona"
+	line "      Doktor Mason ;)"
 	done
 
 	ds $57
