@@ -96,8 +96,7 @@ Text05e2: ; 4c786 (13:4786)
 Text05e3: ; 4c86f (13:486f)
 	text "Och! Skąd ten pośpiech, <RAMNAME>?"
 	line "Co?!"
-	line "Chcesz się nauczyć grać"
-	line "w karty Pokémon?"
+	line "Chcesz zagrać w karty Pokémon?"
 	line "Więc i ty, w końcu, chcesz się"
 	line "nauczyć grać w tę grę..."
 	line "Cóż, pojedynki są o wiele ciekawsze"

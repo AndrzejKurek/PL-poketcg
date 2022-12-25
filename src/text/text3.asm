@@ -141,11 +141,11 @@ WaterMachineText: ; 3c43b (f:443b)
 	done
 
 LightningMachineText: ; 3c44f (f:444f)
-	text " Elektryczna Maszyna "
+	text " Elektryczna Maszyna"
 	done
 
 GrassMachineText: ; 3c467 (f:4467)
-	text "  Roślinna Maszyna  "
+	text " Trawiasta Maszyna  "
 	done
 
 PsychicMachineText: ; 3c47b (f:447b)
@@ -730,7 +730,7 @@ DiscardPileDescriptionText: ; 3d6d0 (f:56d0)
 	line "użyte karty. Możesz spojrzeć na"
 	line "swój lub przeciwnika stos kart"
 	line "odrzuconych za pomocą polecenia"
-	line "sprawdź"
+	line "sprawdź."
 	done
 
 HandDescriptionText: ; 3d769 (f:5769)
@@ -765,173 +765,164 @@ ActivePokemonDescriptionText: ; 3d96e (f:596e)
 
 BenchPokemonDescriptionText: ; 3d9c9 (f:59c9)
 	text "Pokémony będące w grze, ale nie na"
-	line "arenie, nazywamy Pokémonami"
-	line "na ławce. Są gotowe walczyć w razie"
+	line "arenie, znajdują się na ławce."
+	line "Są gotowe walczyć w razie"
 	line "znokautowana aktywnego Pokémona albo"
 	line "jego ucieczki. Jeśli twój główny"
-	line "Pokémon zostanie znokautowany a"
-	line "ławka jest pusta - przegrywasz."
+	line "Pokémon zostanie znokautowany,"
+	line "a ławka jest pusta - przegrywasz."
 	done
 
 PrizesDescriptionText: ; 3dad1 (f:5ad1)
-	text "Prizes are the cards placed to"
-	line "count the number of the opponent's"
-	line "Pokémon you Knocked Out."
-	line "Every time one of your opponent's"
-	line "Pokémon is Knocked Out, you take 1"
-	line "of your Prizes into your Hand."
-	line "When you take all of your Prizes,"
-	line "you win the game."
+	text "Nagrody to karty używane do"
+	line "zliczania wyeliminowanych Pokémonów"
+	line "przeciwnika. Za każdym razem"
+	line "kiedy wyeliminujesz jednego"
+	line "z Pokémonów swojego przeciwnika,"
+	line "weź jedną z nagród na rekę."
+	line "Kiedy zbierzesz wszystkie"
+	line "swoje nagrody - wygrywasz!"
 	done
 
 DamageCountersDescriptionText: ; 3dbc5 (f:5bc5)
-	text "A Damage Counter represents the"
-	line "amount of damage a certain Pokémon"
-	line "has taken."
-	line "1 Damage Counter represents"
-	line "10 HP of damage."
-	line "If a Pokémon with an HP of 30 has"
-	line "3 Damage Counters, it has received"
-	line "30 HP of damage, and its remaining"
-	line "HP is 0."
+	text "Za pomocą liczników obrażeń liczymy"
+	line "pozostałe punkty życia pokemona."
+	line "Każdy licznik oznacza 10 punktów"
+	line "życia (Pż) obrażeń. Jeśli Pokémon"
+	line "ma 30 Pż i 3 liczniki obrażeń,"
+	line "oznacza to że dostał 30 Pż obrażeń"
+	line "i jego Pż spadły do zera."
 	done
 
 EnergyCardsDescriptionText: ; 3dcb2 (f:5cb2)
-	text "Energy Cards are cards that power"
-	line "your Pokémon, making them able"
-	line "to Attack."
-	line "There are 7 types of Energy Cards"
-	line "[<GRASS> Grass] [<FIRE> Fire]"
-	line "[<WATER> Water] [<LIGHTNING> Lightning]"
-	line "[<PSYCHIC> Psychic] [<FIGHTING> Fighting]"
-	line "and [<COLORLESS> Double Colorless]"
-	line "You may only play 1 Energy Card"
-	line "from your Hand per turn."
+	text "Karty energii zasilają twoje"
+	line "Pokémony, pozwalają im na atak."
+	line "Jest 7 różnych kart energii:"
+	line "[<GRASS> Trawiaste] [<FIRE> Ogniste]"
+	line "[<WATER> Wodne] [<LIGHTNING> Elektryczne]"
+	line "[<PSYCHIC> Psychiczne] [<FIGHTING> Walczące]"
+	line "i [<COLORLESS> Podwójne Bezbarwne]"
+	line "Możesz zagrać tylko jedną kartę"
+	line "energii z ręki na turę."
 	done
 
 TrainerCardsDescriptionText: ; 3ddbe (f:5dbe)
-	text "Trainer Cards are support cards."
-	line "There are many Trainer Cards"
-	line "with different effects."
-	line "Trainer Cards are played during"
-	line "your turn by following the"
-	line "instructions on the card and then"
-	line "discarding it."
-	line "You may use as many Trainer Cards"
-	line "as you like."
+	text "Karty trenera to wspierające karty."
+	line "Jest ich naprawdę wiele, a każda"
+	line "działa w inny sposób."
+	line "Używa się ich w swojej turze zgodnie"
+	line "z ich instrukcją, po czym odrzuca."
+	line "Możesz mieć tyle kart trenera"
+	line "ile chcesz."
 	done
 
 BasicPokemonDescriptionText: ; 3deb0 (f:5eb0)
-	text "Basic Pokémon are cards that "
-	line "can be played directly from your "
-	line "hand into the play area. Basic "
-	line "Pokémon act as the base for "
-	line "Evolution Cards. Charmander, "
-	line "Squirtle and Bulbasaur are"
-	line "examples of Basic Pokémon."
+	text "Karty podstawowych Pokémonów"
+	line "mogą być zagrane bezpośrednio"
+	line "z ręki na arenę. Takie Pokémony"
+	line "są podstawą pod karty ewolucji."
+	line "Charmander, Squirtle czy Bulbasaur"
+	line "to przykłady takich Pokémonów."
 	done
 
 EvolutionCardsDescriptionText: ; 3df82 (f:5f82)
-	text "Evolution Cards are cards you"
-	line "play on top of a Basic Pokémon card"
-	line "(or sometimes on top of another"
-	line "Evolution Card) to make it stronger."
-	line "There are Stage 1 and Stage 2"
-	line "Evolution Cards."
-	line "If you do not have a Basic Pokémon"
-	line "in the Play Area, you cannot place"
-	line "the Stage 1 Evolution Card, and if"
-	line "you do not have a Stage 1 Evolution"
-	line "Card in the Play Area, you cannot"
-	line "place the Stage 2 Evolution Card."
+	text "Karty ewolucji używane są na"
+	line "kartach podstawowych Pokémonów"
+	line "(a czasem na innych kartach"
+	line "ewolucji) aby je wzmocnić."
+	line "Istnieją karty ewolucji pierwszego"
+	line "i drugiego etapu."
+	line "Jeśli nie masz na arenie pasującego"
+	line "Pokémona podstawowego - nie zagrasz"
+	line "karty ewolucji 1 etapu, a jeśli"
+	line "nie masz na arenie karty ewolucji"
+	line "1 etapu - nie zagrasz karty"
+	line "ewolucji 2 etapu."
 	done
 
 AttackingDescriptionText: ; 3e10a (f:610a)
-	text "By choosing Attack, your Pokémon"
-	line "will fight your opponent's Pokémon."
-	line "Your Pokémon require Energy"
-	line "in order to Attack."
-	line "The amount of Energy required"
-	line "differs according to the Attack."
-	line "The Active Pokémon is the only"
-	line "Pokémon that can Attack."
+	text "Wybierając atak decydujesz się na"
+    line "walkę z wrogim Pokémonem."
+	line "Pokémony wymagają kart energii"
+	line "do ataku. Dokładna liczba kart"
+	line "energii potrzebna do ataku"
+	line "zależy od pokemona i ataku."
+	line "Tylko aktywny Pokémon może atakować."
 	done
 
 PokemonPowerDescriptionText: ; 3e1f7 (f:61f7)
-	text "Unlike Attacks, Pokémon Power"
-	line "can be used by Active or Benched"
-	line "Pokémon. Some Pokémon Power are"
-	line "effective by just placing the"
-	line "Pokémon in the Play Area, but for"
-	line "some you must choose the"
-	line "command, PKMN Power."
+	text "W odróżnieniu od ataków moce"
+	line "Pokémon mogą być używane zarówno"
+	line "przez Pokémony z ławki jak i"
+	line "aktywne. Niektóre moce działają już"
+	line "po umieszczeniu Pokémona na ławce,"
+	line "inne gdy stanie się aktywnym"
+	line "Pokémonem, a dla innych trzeba użyć"
+	line "polecenia moc PKMN."
 	done
 
 WeaknessDescriptionText: ; 3e2c5 (f:62c5)
-	text "Some Pokémon have a Weakness."
-	line "If a Pokémon has a Weakness, it"
-	line "takes double damage when attacked by"
-	line "Pokémon of a certain type."
+	text "Niektóre Pokémony mają słabości."
+	line "Jeśli Pokémon ma słabość na dany"
+	line "typ, otrzyma podwójne obrażenia"
+	line "z ataku od Pokémona tego typu."
 	done
 
 ResistanceDescriptionText: ; 3e344 (f:6344)
-	text "Some Pokémon have Resistance."
-	line "If a Pokémon has Resistance, it"
-	line "takes 30 less damage whenever"
-	line "attacked by Pokémon of"
-	line "a certain type."
+	text "Niektóre Pokémony mają odporności."
+	line "Jeśli Pokémon jest odporny na dany"
+	line "typ, otrzyma 30 mniej obrażeń"
+	line "przy ataku od Pokémonów tego typu."
 	done
 
 RetreatingDescriptionText: ; 3e3c8 (f:63c8)
-	text "By choosing Retreat, you can"
-	line "switch the Active Pokémon with"
-	line "a Pokémon on your Bench."
-	line "Energy is required to Retreat"
-	line "your Active Pokémon."
-	line "The amount of Energy required to"
-	line "Retreat differs for each Pokémon."
-	line "To Retreat, you must discard"
-	line "Energy equal to the Retreat Cost"
-	line "of the retreating Pokémon."
+	text "Wybierając ucieczkę możesz"
+	line "podmienić aktywnego Pokémona na"
+	line "jednego z Pokémonów z ławki."
+	line "Do ucieczki potrzebujesz kart"
+	line "energii - innej liczby dla każego"
+	line "Pokémona. Aby Pokémon uciekł, musisz"
+	line "odrzucić liczbę kart energii równą"
+	line "kosztowi ucieczki danego Pokémona."
 	done
 
 Text031e: ; 3e4ed (f:64ed)
-	text "Modify Deck"
-	line "Card List"
-	line "Album List"
-	line "Deck Save Machine"
-	line "Printing Menu"
-	line "Auto Deck Machine"
-	line "Gift Center"
-	line "Name Input"
+	text "Modyfikuj talię"
+	line "Lista kart"
+	line "Lista talii"
+	line "Maszyna zapisu talii"
+	line "Menu drukowania"
+	line "Maszyna auto-talii"
+	line "Cetrum prezentów"
+	line "Zmiana nazwy"
 	done
 
 Text031f: ; 3e558 (f:6558)
-	text "Fighting Machine"
-	line "Rock Machine"
-	line "Water Machine"
-	line "Lightning Machine"
-	line "Grass Machine"
-	line "Psychic Machine"
-	line "Science Machine"
-	line "Fire Machine"
-	line "Auto Machine"
-	line "Legendary Machine"
+	text "Walcząca Maszyna"
+	line "Kamienna Maszyna"
+	line "Wodna Maszyna"
+	line "Elektryczna Maszyna"
+	line "Trawiasta Maszyna"
+	line "Psychiczna Maszyna"
+	line "Naukowa Maszyna"
+	line "Ognista Maszyna"
+	line "Maszyna auto-talii"
+	line "Legendarna Maszyna"
 	done
 
 Text0320: ; 3e5f1 (f:65f1)
-	text "Send a Card"
-	line "Receive a Card"
-	line "Give Deck Instructions"
-	line "Receive Deck Instructions"
+	text "Wyślij kartę"
+	line "Otrzymaj kartę"
+	line "Wyślij opis talii"
+	line "Otrzymaj opis talii"
 	done
 
 Text0321: ; 3e63e (f:663e)
-	text "Lecture Duel"
+	text "Walka prelekcji"
 	done
 
 Text0322: ; 3e64c (f:664c)
-	text "First Strike Deck"
+	text "Talia szybkiego ataku"
 	line ""
 	done
 
@@ -940,112 +931,112 @@ OverworldMapMasonLaboratoryText: ; 3e660 (f:6660)
 	done
 
 OverworldMapIshiharasHouseText: ; 3e676 (f:6676)
-	text "  ISHIHARA's House  "
+	text "    Dom Ishihary    "
 	done
 
 OverworldMapFightingClubText: ; 3e68c (f:668c)
-	text "   Fighting Club    "
+	text "   Klub Walczący    "
 	done
 
 OverworldMapRockClubText: ; 3e6a2 (f:66a2)
-	text "     Rock Club      "
+	text "   Klub Kamienny    "
 	done
 
 OverworldMapWaterClubText: ; 3e6b8 (f:66b8)
-	text "     Water Club     "
+	text "     Klub Wodny     "
 	done
 
 OverworldMapLightningClubText: ; 3e6ce (f:66ce)
-	text "   Lightning Club   "
+	text "  Klub elektryczny  "
 	done
 
 OverworldMapGrassClubText: ; 3e6e4 (f:66e4)
-	text "     Grass Club     "
+	text "   Klub trawiasty   "
 	done
 
 OverworldMapPsychicClubText: ; 3e6fa (f:66fa)
-	text "    Psychic Club    "
+	text "  Klub Psychiczny   "
 	done
 
 OverworldMapScienceClubText: ; 3e710 (f:6710)
-	text "    Science Club    "
+	text "    Klub Naukowy    "
 	done
 
 OverworldMapFireClubText: ; 3e726 (f:6726)
-	text "     Fire Club      "
+	text "    Klub Ognisty    "
 	done
 
 OverworldMapChallengeHallText: ; 3e73c (f:673c)
-	text "   Challenge Hall   "
+	text "     Hala Wyzwań    "
 	done
 
 OverworldMapPokemonDomeText: ; 3e752 (f:6752)
-	text "    Pokémon Dome    "
+	text "  Stadion Pokémon   "
 	done
 
 OverworldMapMysteryHouseText: ; 3e768 (f:6768)
-	text "     ??'s House     "
+	text "       Dom ??       "
 	done
 
 MasonLaboratoryMapNameText: ; 3e77e (f:677e)
-	text "Mason Laboratory"
+	text "Laboratorium Masona"
 	done
 
 MrIshiharasHouseMapNameText: ; 3e790 (f:6790)
-	text "Mr Ishihara's House"
+	text "Dom Ishihary"
 	done
 
 FightingClubMapNameText: ; 3e7a5 (f:67a5)
-	text "Fighting"
+	text "Walczący"
 	done
 
 RockClubMapNameText: ; 3e7af (f:67af)
-	text "Rock"
+	text "Kamienny"
 	done
 
 WaterClubMapNameText: ; 3e7b5 (f:67b5)
-	text "Water"
+	text "Wodny"
 	done
 
 LightningClubMapNameText: ; 3e7bc (f:67bc)
-	text "Lightning"
+	text "Elektryczny"
 	done
 
 GrassClubMapNameText: ; 3e7c7 (f:67c7)
-	text "Grass"
+	text "Trawiasty"
 	done
 
 PsychicClubMapNameText: ; 3e7ce (f:67ce)
-	text "Psychic"
+	text "Psychiczny"
 	done
 
 ScienceClubMapNameText: ; 3e7d7 (f:67d7)
-	text "Science"
+	text "Naukowy"
 	done
 
 FireClubMapNameText: ; 3e7e0 (f:67e0)
-	text "Fire"
+	text "Ognisty"
 	done
 
 ChallengeHallMapNameText: ; 3e7e6 (f:67e6)
-	text "Challenge Hall"
+	text "Hala Wyzwań"
 	done
 
 PokemonDomeMapNameText: ; 3e7f6 (f:67f6)
-	text "Pokémon Dome"
+	text "Stadion Pokémon"
 	done
 
 Text033c: ; 3e804 (f:6804)
-	text "??'s House"
+	text "Dom ??"
 	done
 
 PauseMenuOptionsText: ; 3e810 (f:6810)
 	text "Status"
 	line "Pamiętnik"
-	line "Deck"
-	line "Card"
-	line "Config"
-	line "Exit"
+	line "Talia"
+	line "Karta"
+	line "Ustawienia"
+	line "Wyjdź"
 	done
 
 DebugPauseMenuOptionsText: ; 3e834 (f:6834)
@@ -1053,13 +1044,13 @@ DebugPauseMenuOptionsText: ; 3e834 (f:6834)
 	line "Pamiętnik"
 	line "Talia"
 	line "Karty"
-	line "Konfiguracja"
+	line "Ustawienia"
 	line "Debug"
 	line "Wyjdź"
 	done
 
 PlayerStatusNameText: ; 3e85f (f:685f)
-	text "Name <RAMNAME>"
+	text "Imię <RAMNAME>"
 	done
 
 PlayerStatusAlbumText: ; 3e867 (f:6867)
@@ -1069,121 +1060,121 @@ PlayerStatusAlbumText: ; 3e867 (f:6867)
 	done
 
 PlayerStatusPlayTimeText: ; 3e87b (f:687b)
-	text "Play time         "
+	text "Czas gry          "
 	half2full
 	textfw3 ":"
 	done
 
 PlayerDiaryTitleText: ; 3e892 (f:6892)
-	text "<RAMNAME>'s diary"
+	text "<RAMNAME>: pamiętnik"
 	done
 
 PlayerDiaryMedalsWonText: ; 3e89d (f:689d)
-	text "Master Medals Won "
+	text "Wygrane Medale Mistrzów"
 	done
 
 PlayerDiarySaveQuestionText: ; 3e8b1 (f:68b1)
-	text "Would you like to keep a diary?"
+	text "Dodać zapis w pamiętniku?"
 	done
 
 PlayerDiarySaveConfirmText: ; 3e8d2 (f:68d2)
 	text "<RAMNAME>"
-	line "wrote in the diary."
+	line "napisał w pamiętniku."
 	done
 
 PlayerDiarySaveCancelText: ; 3e8e9 (f:68e9)
-	text "Nothing was recorded "
-	line "in the diary."
+	text "Nie zapisano nic"
+	line "w pamiętniku."
 	done
 
 PlayerStatusMedalsTitleText: ; 3e90e (f:690e)
-	text "Master Medals"
+	text "Medale Mistrzów"
 	done
 
 ConfigMenuTitleText: ; 3e91d (f:691d)
-	text "           Change Settings"
+	text "          Zmień ustawienia"
 	done
 
 ConfigMenuMessageSpeedText: ; 3e939 (f:6939)
-	text "Message Speed"
+	text "Szybkość tekstu"
 	line ""
-	line "   Slow   1   2   3   4   5   Fast"
+	line " Szybko   1   2   3   4   5  Wolno"
 	done
 
 ConfigMenuDuelAnimationText: ; 3e96c (f:696c)
-	text "Duel Animation"
+	text "Animacje walki"
 	line ""
-	line "  Show All    Skip Some       None"
+	line "  Wszystkie   Niektóre        Żadne"
 	done
 
 ConfigMenuExitText: ; 3e9a0 (f:69a0)
-	text "   Exit Settings"
+	text "   Wyjdź"
 	done
 
 Text034c: ; 3e9b2 (f:69b2)
-	text "Duel           [<RAMTEXT>]"
-	line "SELECT         [<RAMTEXT>]"
-	line "Receive many cards"
+	text "Walka          [<RAMTEXT>]"
+	line "Wybierz        [<RAMTEXT>]"
+	line "Otrzymaj wiele kart"
 	line "Do Stadionu Pokémon 1"
 	line "Do Stadionu Pokémon 2"
 	done
 
 Text034d: ; 3ea10 (f:6a10)
-	text "Normal Duel"
+	text "Normalna walka"
 	done
 
 Text034e: ; 3ea1d (f:6a1d)
-	text "Skip"
+	text "Pomiń"
 	done
 
 Text034f: ; 3ea23 (f:6a23)
-	text "Normal"
+	text "Normalna"
 	done
 
 Text0350: ; 3ea2b (f:6a2b)
-	text "Freeze Screen"
+	text "Zamroź ekran"
 	done
 
 Text0351: ; 3ea3a (f:6a3a)
-	text "Card Album"
-	line "Read Mail"
-	line "Glossary"
-	line "Print"
-	line "Shut Down"
+	text "Album kart"
+	line "Sprawdź maile"
+	line "Glosariusz"
+	line "Drukuj"
+	line "Wyłącz"
 	done
 
 TurnedPCOnText: ; 3ea69 (f:6a69)
 	text "<RAMNAME>"
-	line "turned the PC on!"
+	line "Włączył komputer!"
 	done
 
 TurnedPCOffText: ; 3ea7e (f:6a7e)
 	text "<RAMNAME>"
-	line "turned the PC off!"
+	line "Wyłączył komputer!"
 	done
 
 GiftCenterMenuText: ; 3ea94 (f:6a94)
-	text "Send Card"
-	line "Receive Card"
-	line "Send Deck Configuration"
-	line "Receive Deck Configuration"
-	line "Exit"
+	text "Wyślij kartę"
+	line "Otrzymaj kartę"
+	line "Wyślij opis talii"
+	line "Otrzymaj opis talii"
+	line "Wyjdź"
 	done
 
 SendCardText: ; 3eae4 (f:6ae4)
-	text "Send Card"
+	text "Wyślij kartę"
 	done
 
 ReceiveCardText: ; 3eaef (f:6aef)
-	text "Receive Card"
+	text "Otrzymaj kartę"
 	done
 
 SendDeckConfigurationText: ; 3eafd (f:6afd)
-	text "Send Deck Configuration"
+	text "Wyślij opis talii"
 	done
 
 ReceiveDeckConfigurationText: ; 3eb16 (f:6b16)
-	text "Receive Deck Configuration"
+	text "Otrzymaj opis talii"
 	done
 
 MailText: ; 3eb32 (f:6b32)
@@ -1263,30 +1254,30 @@ Mail15Text: ; 3ec03 (f:6c03)
 	done
 
 NewGameText: ; 3ec0c (f:6c0c)
-	text "NEW GAME"
+	text "NOWA GRA"
 	done
 
 CardPopContinueDiaryNewGameText: ; 3ec16 (f:6c16)
 	text "CARD POP!"
-	line "CONTINUE FROM DIARY"
-	line "NEW GAME"
+	line "KONTYNUUJ Z PAMIęTNIKA"
+	line "NOWA GRA"
 	done
 
 CardPopContinueDiaryNewGameContinueDuelText: ; 3ec3e (f:6c3e)
 	text "CARD POP!"
-	line "CONTINUE FROM DIARY"
-	line "New Game"
-	line "CONTINUE DUEL"
+	line "KONTYNUUJ Z PAMIęTNIKA"
+	line "NOWA GRA"
+	line "KONTYNUUJ WALKę"
 	done
 
 WhenYouCardPopWithFriendText: ; 3ec74 (f:6c74)
-	text "When you CARD POP! with a friend,"
-	line "you will each receive a new card!"
+	text "Gdy użyjecie CARD POP! w dwie osoby,"
+	line "dostaniecie po nowej karcie!"
 	done
 
 ContinueFromDiarySummaryText: ; 3ecb9 (f:6cb9)
 	text "  <RAMNAME>  <RAMTEXT>"
-	line "      Master Medals Won "
+	line "   Wygrane medale mistrzów   "
 	half2full
 	textfw0 "<RAMNUM>"
 	text ""
@@ -1294,60 +1285,55 @@ ContinueFromDiarySummaryText: ; 3ecb9 (f:6cb9)
 	half2full
 	textfw0 "/"
 	text ""
-	line "      Play time         "
+	line "      Czas gry          "
 	half2full
 	textfw3 ":"
 	text ""
 	done
 
 StartANewGameText: ; 3ed14 (f:6d14)
-	text "Start a New Game."
+	text "Rozpocznij nową grę."
 	line ""
 	done
 
 TheGameWillContinueFromThePointInTheDuelText: ; 3ed28 (f:6d28)
-	text "The Game will continue from "
-	line "the point in the duel at"
-	line "which the power was turned OFF."
+	text "Gra będzie kontynuowana od momentu"
+	line "w którym wyłączono grę podczas walki"
 	done
 
 SavedDataAlreadyExistsText: ; 3ed7f (f:6d7f)
-	text "Saved data already exists."
-	line "If you continue, you will lose"
-	line "all the cards you have collected."
+	text "Istnieje już zapis gry."
+	line "Jeśli będziesz kontynuować,"
+	line "stracisz wszystkie zebrane karty."
 	done
 
 OKToDeleteTheDataText: ; 3eddc (f:6ddc)
-	text "OK to delete the data?"
+	text "Usunąć poprzedni zapis gry?"
 	done
 
 AllDataWasDeletedText: ; 3edf4 (f:6df4)
-	text "All data was deleted."
+	text "Usunięto poprzedni zapis gry."
 	done
 
 DataExistsWhenPowerWasTurnedOFFDuringDuelText: ; 3ee0b (f:6e0b)
-	text "Data exists from when the power "
-	line "was turned OFF during a duel."
-	line "Choose CONTINUE DUEL on the"
-	line "Main Menu to continue the duel."
-	line "If you continue now, the heading,"
-	line "CONTINUE DUEL, will be"
-	line "deleted, and the game will start"
-	line "from the point when you last "
-	line "wrote in the Diary."
-	line ""
-	line "Would you like to continue the Game"
-	line "from the point saved in"
+    text "Istnieje zapis gry stworzony podczas"
+	line "walki (przez wyłączenie gry)."
+	line "Wybierz KONTYNUUJ WALKę z głównego"
+	line "menu aby dokończyć zapisaną walkę."
+	line "Jeżeli będziesz teraz kontynuować,"
+	line "zapisana walka zostanie odrzucona,"
+	line "a wczytaja będzie stan z ostatniego"
+	line "zapisu z pamiętnika."
+	line "Czy chcesz"
 	done
 
 ContinueFromDiaryText: ; 3ef50 (f:6f50)
-	text "CONTINUE FROM DIARY?"
+	text "KONTYNUOWAć Z PAMIęTNIKA?"
 	done
 
 YouCanAccessCardPopOnlyWithGameBoyColorsText: ; 3ef66 (f:6f66)
-	text "You can access Card Pop! only"
-	line "with two Game Boy Colors."
-	line "Please play using a Game Boy Color."
+	text "Card Pop! może być użyty tylko"
+	line "z dwoma konsolami Game Boy Color."
 	done
 
 IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
@@ -1478,7 +1464,7 @@ Text038a: ; 3f373 (f:7373)
 
 WonTheMedalText: ; 3f39b (f:739b)
 	text "<RAMNAME>"
-	line "Won the <RAMTEXT> Medal!"
+	line "Wygrywa medal <RAMTEXT>!"
 	done
 
 Text038c: ; 3f3af (f:73af)

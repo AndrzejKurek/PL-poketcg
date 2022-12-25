@@ -1134,7 +1134,7 @@ CardCheckIfHeads8CardsIfTails1CardText: ; 37f24 (d:7f24)
 	done
 
 IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
-	text "Orzeł: nie otrzymasz obrażeń"
+	text "Pikachu: nie otrzymasz obrażeń"
 	line "podczas tury wroga!"
 	done
 
@@ -1143,13 +1143,13 @@ Text00f2: ; 37f9a (d:7f9a)
 	done
 
 DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
-	text "Damage check!"
-	line "Orzeł: +<RAMNUM> obrażeń!"
+	text "Sprawdzenie obrażeń!"
+	line "Pikachu: +<RAMNUM> obrażeń!"
 	done
 
 DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
-	text "Damage check!"
-	line "Orzeł: obrażenia mnożone przez <RAMNUM>!"
+	text "Sprawdzenie obrażeń!"
+	line "Pikachu: obrażenia mnożone przez <RAMNUM>!"
 	done
 
 	ds $d
