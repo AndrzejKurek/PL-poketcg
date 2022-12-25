@@ -1,3 +1,8 @@
+ThisDeckCanOnlyBeBuiltIfYouDismantleText: ; 3bf9e (e:7f9e)
+	text "Ta talia może być złożona tylko,"
+	line "jeśli inna zostanie rozłożona."
+	done
+
 YouDoNotOwnAllCardsNeededToBuildThisDeckText: ; 3c000 (f:4000)
 	text "Nie posiadasz wszystkich kart"
 	line "potrzebnych do złożenia tej talii."
@@ -1341,7 +1346,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
 	text "<RAMNAME> szaleje na punkcie"
 	line "zbierania kart Pokémon!"
 	line "Pewnego razu,"
-	line "<RAMNAME> słyszy jak ktoś opowiada:"
+	line "<RAMNAME> słyszy jak ktoś mówi:"
 	line " ”Legendarne karty Pokémon..."
 	line "  wyjątkowo rzadkie i potężne"
 	line "  karty będące w posiadaniu tylko"
@@ -1350,7 +1355,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
 	line "  który je odziedziczy!”"
 	line "Marząc o otrzymaniu legendarnych"
 	line "kart Pokémon, <RAMNAME> odwiedza"
-	line "badacza kart Pokémon,
+	line "badacza kart Pokémon,"
 	line "Doktora Masona..."
 	done
 

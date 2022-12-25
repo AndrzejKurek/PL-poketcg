@@ -1,3 +1,8 @@
+DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
+	text "Sprawdzenie obrażeń!"
+	line "Pikachu: obrażenia mnożone przez <RAMNUM>!"
+	done
+
 AcidCheckText: ; 38000 (e:4000)
 	text "Acid check! If Heads,"
 	line "unable to Retreat during next turn."
@@ -1903,11 +1908,6 @@ DismantledDeckText: ; 3bf63 (e:7f63)
 Text026b: ; 3bf73 (e:7f73)
 	text "Please choose the Deck"
 	line "you wish to Build."
-	done
-
-ThisDeckCanOnlyBeBuiltIfYouDismantleText: ; 3bf9e (e:7f9e)
-	text "This Deck can only be built if"
-	line "you dismantle another Deck."
 	done
 
 	ds $26

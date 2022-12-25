@@ -1147,9 +1147,4 @@ DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
 	line "Pikachu: +<RAMNUM> obrażeń!"
 	done
 
-DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
-	text "Sprawdzenie obrażeń!"
-	line "Pikachu: obrażenia mnożone przez <RAMNUM>!"
-	done
-
 	ds $d
