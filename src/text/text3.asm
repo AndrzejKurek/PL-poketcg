@@ -1,16 +1,16 @@
 YouDoNotOwnAllCardsNeededToBuildThisDeckText: ; 3c000 (f:4000)
 	text "Nie posiadasz wszystkich kart"
-	line "potrzebnych do zbudowania tej talii."
+	line "potrzebnych do złożenia tej talii."
 	done
 
 BuiltDeckText: ; 3c035 (f:4035)
-	text "Zbudowano"
+	text "Złożono"
 	line "<RAMTEXT>"
 	done
 
 TheseCardsAreNeededToBuildThisDeckText: ; 3c03e (f:403e)
 	text "Następujące karty potrzebne"
-	line "do zbudowania tej talii:"
+	line "do złożenia tej talii:"
 	done
 
 DismantleTheseDecksText: ; 3c06a (f:406a)
@@ -1965,7 +1965,7 @@ Text0401: ; 3faaa (f:7aaa)
 	line "wielokrotnie żeby dostać tego samego"
 	line "boostera! W ten sposób uzbierasz"
 	line "sporo tych samych kart, a to ułatwi"
-	line "Ci zbudowanie talii."
+	line "Ci złożenie talii."
 	line "Inną metodą zbierania kart jest"
 	line "użycie z menu funkcji CARD POP!"
 	line "Gdy użyjecie CARD POP! w dwie osoby,"
