@@ -1910,9 +1910,4 @@ DismantledDeckText: ; 3bf63 (e:7f63)
 	text "<RAMTEXT>."
 	done
 
-Text026b: ; 3bf73 (e:7f73)
-	text "Please choose the Deck"
-	line "you wish to Build."
-	done
-
 	ds $26

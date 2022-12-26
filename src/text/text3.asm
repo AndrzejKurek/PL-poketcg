@@ -1,3 +1,8 @@
+Text026b: ; 3bf73 (e:7f73)
+	text "Please choose the Deck"
+	line "you wish to Build."
+	done
+
 ThisDeckCanOnlyBeBuiltIfYouDismantleText: ; 3bf9e (e:7f9e)
 	text "Ta talia może być złożona tylko,"
 	line "jeśli inna zostanie rozłożona."
