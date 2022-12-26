@@ -541,7 +541,7 @@ FlyinPokemonDescriptionText: ; 3cf21 (f:4f21)
 	done
 
 PoisonDescriptionText: ; 3cf5d (f:4f5d)
-	text "Talia która zatruje i powoli"
+	text "Talia która otruje i powoli"
 	line "wykończy twoich przeciwników."
 	done
 
