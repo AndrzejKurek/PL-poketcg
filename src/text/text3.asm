@@ -31,7 +31,7 @@ OKIfFileDeletedText: ; 3c098 (f:4098)
 	done
 
 ReadTheInstructionsText: ; 3c0b5 (f:40b5)
-	text "Przeczytaj instrukcje"
+	text "Lista kart"
 	done
 
 PrintThisCardYesNoText: ; 3c0cc (f:40cc)
@@ -1040,7 +1040,7 @@ PauseMenuOptionsText: ; 3e810 (f:6810)
 	text "Status"
 	line "Pamiętnik"
 	line "Talia"
-	line "Karta"
+	line "Karty"
 	line "Ustawienia"
 	line "Wyjdź"
 	done
@@ -1060,7 +1060,7 @@ PlayerStatusNameText: ; 3e85f (f:685f)
 	done
 
 PlayerStatusAlbumText: ; 3e867 (f:6867)
-	text "Album           "
+	text "Karty           "
 	half2full
 	textfw0 "/"
 	done
@@ -1076,7 +1076,7 @@ PlayerDiaryTitleText: ; 3e892 (f:6892)
 	done
 
 PlayerDiaryMedalsWonText: ; 3e89d (f:689d)
-	text "Wygrane Medale Mistrzów"
+	text "Wygrane Medale"
 	done
 
 PlayerDiarySaveQuestionText: ; 3e8b1 (f:68b1)

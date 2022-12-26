@@ -211,7 +211,7 @@ Text0034: ; 365c7 (d:65c7)
 
 PokemonsAttackText: ; 365d8 (d:65d8)
 	text "<RAMTEXT>"
-	line "używa"
+	line "używa "
 	text "<RAMTEXT>!"
 	done
 
@@ -280,11 +280,11 @@ WillDrawNPrizesText: ; 367cc (d:67cc)
 	done
 
 DrewNPrizesText: ; 367e5 (d:67e5)
-	text "<RAMNAME> wziął <RAMNUM> nagród."
+	text "<RAMNAME> bierze <RAMNUM> nagród."
 	done
 
 DuelistPlacedACardText: ; 367f9 (d:67f9)
-	text "<RAMNAME> użył karty"
+	text "<RAMNAME> używa karty"
 	line "<RAMTEXT>."
 	done
 
@@ -405,11 +405,11 @@ FinishedTurnWithoutAttackingText: ; 36a74 (d:6a74)
 	done
 
 DuelistTurnText: ; 36a9a (d:6a9a)
-	text "Tura <RAMNAME>."
+	text "<RAMNAME> zaczyna turę."
 	done
 
 AttachedEnergyToPokemonText: ; 36aa5 (d:6aa5)
-	text "Dołączono <RAMTEXT>"
+	text "Dołączono ”<RAMTEXT>”"
 	line "do <RAMTEXT>."
 	done
 
@@ -419,12 +419,12 @@ PokemonEvolvedIntoPokemonText: ; 36ab7 (d:6ab7)
 	done
 
 PlacedOnTheBenchText: ; 36aca (d:6aca)
-	text "Umieszczono <RAMTEXT>"
+	text "Umieszczono ”<RAMTEXT>”"
 	line "na ławce."
 	done
 
 PlacedInTheArenaText: ; 36ae2 (d:6ae2)
-	text "Umieszczono <RAMTEXT>"
+	text "Umieszczono ”<RAMTEXT>”"
 	line "na arenie."
 	done
 
@@ -491,7 +491,8 @@ ChooseYourBenchPokemonText: ; 36ce1 (d:6ce1)
 	done
 
 YouDrewText: ; 36cfd (d:6cfd)
-	text "Wyjęto <RAMTEXT>."
+	text "Wyjęto kartę"
+	line "”<RAMTEXT>”."
 	done
 
 YouCannotSelectThisCardText: ; 36d0a (d:6d0a)
@@ -548,15 +549,15 @@ PrizesLeftActivePokemonCardsInDeckText: ; 36e2e (d:6e2e)
 	done
 
 NoneText: ; 36e58 (d:6e58)
-	text "Nic"
+	text " Brak"
 	done
 
 YesText: ; 36e5e (d:6e5e)
-	text "Tak"
+	text " Tak"
 	done
 
 CardsText: ; 36e63 (d:6e63)
-	text "Karty"
+	text " Kart"
 	done
 
 TookAllThePrizesText: ; 36e6a (d:6e6a)
@@ -1137,11 +1138,6 @@ IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
 
 Text00f2: ; 37f9a (d:7f9a)
 	text "Sprawdzenie obrażeń"
-	done
-
-DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
-	text "Sprawdzenie obrażeń!"
-	line "Pikachu: +<RAMNUM> obrażeń!"
 	done
 
 	ds $d

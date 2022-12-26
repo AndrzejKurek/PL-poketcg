@@ -207,7 +207,7 @@ Text05f2: ; 4ceb9 (13:4eb9)
 	done
 
 Text05f3: ; 4cf12 (13:4f12)
-	text "A <RAMTEXT>?"
+	text "Chcesz <RAMTEXT>?"
 	done
 
 Text05f4: ; 4cf18 (13:4f18)
