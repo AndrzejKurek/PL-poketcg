@@ -793,7 +793,7 @@ DuelistPlayAreaText: ; 3739c (d:739c)
 	done
 
 DuelistDeckText: ; 373ab (d:73ab)
-	text "<RAMNAME>: talia
+	text "<RAMNAME>: talia"
 	done
 
 PleaseSelectHandText: ; 373b5 (d:73b5)
@@ -1134,10 +1134,6 @@ CardCheckIfHeads8CardsIfTails1CardText: ; 37f24 (d:7f24)
 IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
 	text "Pikachu: nie otrzymasz obrażeń"
 	line "podczas tury wroga!"
-	done
-
-Text00f2: ; 37f9a (d:7f9a)
-	text "Sprawdzenie obrażeń"
 	done
 
 	ds $d

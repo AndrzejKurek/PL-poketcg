@@ -1,3 +1,7 @@
+Text00f2: ; 37f9a (d:7f9a)
+	text "Sprawdzenie obrażeń"
+	done
+	
 DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
 	text "Sprawdzenie obrażeń!"
 	line "Pikachu: +<RAMNUM> obrażeń!"
@@ -1898,16 +1902,6 @@ DeletedTheConfigurationForText: ; 3bf06 (e:7f06)
 
 YouMayOnlyCarry4DecksText: ; 3bf29 (e:7f29)
 	text "You may only carry 4 Decks!"
-	done
-
-ChooseADeckToDismantleText: ; 3bf46 (e:7f46)
-	text "Choose a deck to dismantle."
-	done
-
-DismantledDeckText: ; 3bf63 (e:7f63)
-	text "Dismantled"
-	line ""
-	text "<RAMTEXT>."
 	done
 
 	ds $26
