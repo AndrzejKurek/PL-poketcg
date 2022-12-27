@@ -3,14 +3,14 @@ ChooseADeckToDismantleText: ; 3bf46 (e:7f46)
 	done
 	
 DismantledDeckText: ; 3bf63 (e:7f63)
-	text "Dismantled"
+	text "Rozłożono"
 	line ""
 	text "<RAMTEXT>."
 	done
 
 Text026b: ; 3bf73 (e:7f73)
-	text "Please choose the Deck"
-	line "you wish to Build."
+	text "Wybierz talię, którą"
+	line "chcesz zbudować."
 	done
 
 ThisDeckCanOnlyBeBuiltIfYouDismantleText: ; 3bf9e (e:7f9e)
@@ -481,7 +481,7 @@ YellowFlashDescriptionText: ; 3cbbb (f:4bbb)
 	done
 
 ElectricShockDescriptionText: ; 3cbfa (f:4bfa)
-	text "Talia która szokuje i paraliżuje"
+	text "Talia, która szokuje i paraliżuje"
 	line "przeciwników swymi atakami"
 	done
 
@@ -556,7 +556,7 @@ FlyinPokemonDescriptionText: ; 3cf21 (f:4f21)
 	done
 
 PoisonDescriptionText: ; 3cf5d (f:4f5d)
-	text "Talia która otruje i powoli"
+	text "Talia, która otruje i powoli"
 	line "wykończy twoich przeciwników."
 	done
 
@@ -761,14 +761,14 @@ HandDescriptionText: ; 3d769 (f:5769)
 	done
 
 ArenaDescriptionText: ; 3d807 (f:5807)
-	text "Miejsce w którym walczą aktywne"
+	text "Miejsce, w którym walczą aktywne"
 	line "Pokémony nazywane jest areną."
 	line "Gramy używając ataków i umiejętności"
 	line "aktywnych Pokémonów z areny."
 	done
 
 BenchDescriptionText: ; 3d899 (f:5899)
-	text "Na ławce siedzą Pokémony które"
+	text "Na ławce siedzą Pokémony, które"
 	line "nie uczestniczą aktywnie w walce,"
 	line "ale są już w grze."
 	line "Są gotowe zastąpić aktywnego"
@@ -778,7 +778,7 @@ BenchDescriptionText: ; 3d899 (f:5899)
 	done
 
 ActivePokemonDescriptionText: ; 3d96e (f:596e)
-	text "Aktywny Pokémon to ten który"
+	text "Aktywny Pokémon to ten, który"
 	line "znajduje się na arenie."
 	line "Tylko aktywny Pokémon może atakować."
 	done
@@ -1318,7 +1318,7 @@ StartANewGameText: ; 3ed14 (f:6d14)
 	done
 
 TheGameWillContinueFromThePointInTheDuelText: ; 3ed28 (f:6d28)
-	text "Gra będzie kontynuowana od momentu"
+	text "Gra będzie kontynuowana od momentu,"
 	line "w którym wyłączono grę podczas walki"
 	done
 
@@ -1366,7 +1366,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
 	line "  wyjątkowo rzadkie i potężne"
 	line "  karty będące w posiadaniu tylko"
 	line "  najlepszych graczy... "
-	line "  Arcymistrzowie poszukują tego"
+	line "  Arcymistrzowie poszukują tego,"
 	line "  który je odziedziczy!”"
 	line "Marząc o otrzymaniu legendarnych"
 	line "kart Pokémon, <RAMNAME> odwiedza"

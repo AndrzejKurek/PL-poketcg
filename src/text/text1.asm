@@ -334,7 +334,8 @@ KnockOutText: ; 36861 (d:6861)
 	done
 
 DamageToSelfDueToConfusionText: ; 3686c (d:686c)
-	text "20 obrażeń sobie przez dezorientację"
+	text "20 obrażeń zadanych sobie"
+	line "przez dezorientację."
 	done
 
 ChooseEnergyCardToDiscardText: ; 36891 (d:6891)
@@ -845,7 +846,7 @@ NoPokemonCapableOfEvolvingText: ; 3751b (d:751b)
 
 CantEvolvePokemonInSameTurnItsPlacedText: ; 37546 (d:7546)
 	text "Nie możesz ewoluować Pokémona w tej"
-	line "samej turze w której wszedł do gry."
+	line "samej turze, w której wszedł do gry."
 	done
 
 NotAffectedByPoisonSleepParalysisOrConfusionText: ; 37583 (d:7583)
@@ -873,7 +874,7 @@ ConditionsForEvolvingToStage2NotFulfilledText: ; 3761c (d:761c)
 	done
 
 ThereAreNoCardsInHandThatYouCanChangeText: ; 3764f (d:764f)
-	text "Nie ma kart na ręce które"
+	text "Nie ma kart na ręce, które"
 	line "możesz zmienić."
 	done
 
@@ -956,7 +957,7 @@ CannotUseDueToStatusText: ; 378bc (d:78bc)
 
 CannotBeUsedInTurnWhichWasPlayedText: ; 378ef (d:78ef)
 	text "Nie może być użyte w tej samej"
-	line "turze w której zagrano."
+	line "turze, w której zagrano."
 	done
 
 ThereIsNoEnergyCardAttachedText: ; 37923 (d:7923)
