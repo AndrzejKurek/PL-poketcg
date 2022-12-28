@@ -37,8 +37,8 @@ PokemonsSleepCheckText: ; 380db (e:40db)
 	done
 
 PoisonedIfHeadsConfusedIfTailsText: ; 380ed (e:40ed)
-	text "Pikachu: przeciwnik otruty.
-	line "Reszka: przeciwnik zdezorientowany.
+	text "Pikachu: przeciwnik otruty."
+	line "Reszka: przeciwnik zdezorientowany."
 	done
 
 IfHeadsDoNotReceiveDamageOrEffectText: ; 38124 (e:4124)
@@ -293,7 +293,7 @@ ProcedureForEnergyTransferText: ; 38aa4 (e:4aa4)
 	text "Procedura transferu energii:"
 	line ""
 	line "1. Wybierz Pokémona, któremu"
-	line "   zabierzesz trawiastą energię.
+	line "   zabierzesz trawiastą energię."
 	line "   Naciśnij ”A”."
 	line ""
 	line "2. Wybierz Pokémona, któremu"
@@ -334,7 +334,7 @@ ProcedureForCurseText: ; 38bfe (e:4bfe)
 
 Choose2EnergyCardsFromDiscardPileToAttachText: ; 38cda (e:4cda)
 	text "Wybierz 2 karty energii ze stosu"
-	line "kart odrzuconych aby dołączyć je
+	line "kart odrzuconych aby dołączyć je"
 	line "do Pokémona."
 	done
 
@@ -395,7 +395,7 @@ ProcedureForDevolutionBeamText: ; 38fcc (e:4fcc)
 	line "   gry. Potwierdź naciskając ”A”."
 	line ""
 	line "2. Wybierz Pokémona do dewolucji."
-	line "   Potwierdź naciskając ”A”.
+	line "   Potwierdź naciskając ”A”."
 	line ""
 	line "3. Naciśnij ”B” aby przerwać."
 	done
@@ -539,244 +539,243 @@ Choose2BasicEnergyCardsFromDiscardPileText: ; 3958f (e:558f)
 	done
 
 Text0154: ; 395c3 (e:55c3)
-	text "Choose a Pokémon and press the A"
-	line "Button to remove Damage counters."
+	text "Wybierz Pokémona i naciśnij ”A”"
+	line "aby usunąć liczniki obrażeń."
 	done
 
 Choose2CardsFromHandToDiscardText: ; 39607 (e:5607)
-	text "Choose 2 cards from the Hand"
-	line "to Discard."
+	text "Wybierz 2 karty z ręki"
+	line "do odrzucenia."
 	done
 
 Choose2HandCardsFromHandToReturnToDeckText: ; 39631 (e:5631)
-	text "Choose 2 cards from the Hand"
-	line "to return to the Deck."
+	text "Wybierz 2 karty, które"
+	line "wrócą z ręki do talii."
 	done
 
 ChooseCardToPlaceInHandText: ; 39666 (e:5666)
-	text "Choose a card to"
-	line "place in the Hand."
+	text "Wybierz kartę, którą"
+	line "umieścisz w ręce."
 	done
 
 ChoosePokemonToAttachDefenderToText: ; 3968b (e:568b)
-	text "Choose a Pokémon to"
-	line "attach Defender to."
+	text "Wybierz Pokémona, do"
+	line "którego dołączysz Obrońcę."
 	done
 
 Text0159: ; 396b4 (e:56b4)
-	text "You can draw up to <RAMNUM> cards."
-	line "A to Draw, B to End."
+	text "Możesz wziąć do <RAMNUM> kart."
+	line "”A” by wziąć, ”B” aby zakończyć."
 	done
 
 ChoosePokemonToReturnToTheDeckText: ; 396e6 (e:56e6)
-	text "Choose a Pokémon to"
-	line "return to the Deck."
+	text "Wybierz Pokémona, który"
+	line "wróci do talii."
 	done
 
 ChoosePokemonToPlaceInPlayText: ; 3970f (e:570f)
-	text "Choose a Pokémon to"
-	line "place in play."
+	text "Wybierz Pokémona, który"
+	line "wejdzie do gry."
 	done
 
 ChooseBasicPokemonToEvolveText: ; 39733 (e:5733)
-	text "Choose a Basic Pokémon"
-	line "to Evolve."
+	text "Wybierz Pokémon, który"
+	line "wyewoluuje."
 	done
 
 ChoosePokemonToScoopUpText: ; 39756 (e:5756)
-	text "Choose a Pokémon to"
-	line "Scoop Up."
+	text "Wybierz Pokémona"
+	line "do wciągnięcia."
 	done
 
 ChooseCardFromYourHandToSwitchText: ; 39775 (e:5775)
-	text "Choose a card from your"
-	line "Hand to Switch."
+	text "Wybierz kartę z ręki"
+	line "na wymianę."
 	done
 
 ChooseCardToSwitchText: ; 3979e (e:579e)
-	text "Choose a card to"
-	line "Switch."
+	text "Wybierz kartę"
+	line "na wymianę."
 	done
 
 ChooseBasicOrEvolutionPokemonCardFromDeckText: ; 397b8 (e:57b8)
-	text "Choose a Basic or Evolution"
-	line "Pokémon card from the Deck."
+	text "Wybierz Pokémona podstawowego lub"
+	line "kartę ewolucji z talii."
 	done
 
 ChoosePokemonCardText: ; 397f1 (e:57f1)
-	text "Choose"
-	line "a Pokémon card."
+	text "Wybierz"
+	line "kartę Pokémon."
 	done
 
 RearrangeThe5CardsAtTopOfDeckText: ; 39809 (e:5809)
-	text "Rearrange the 5 cards at"
-	line "the top of the Deck."
+	text "Ustal kolejność pierwszych 5 kart"
+	line "z wierzchu talii."
 	done
 
 PleaseCheckTheOpponentsHandText: ; 39838 (e:5838)
-	text "Please check the opponent's"
-	line "Hand."
+	text "Sprawdź rękę przeciwnika."
 	done
 
 EvolutionCardText: ; 3985b (e:585b)
-	text "Evolution card"
+	text "Karta ewolucji"
 	done
 
 CardWasChosenText: ; 3986b (e:586b)
-	text "<RAMTEXT> was chosen."
+	text "Wybrano <RAMTEXT>."
 	done
 
 ChooseBasicPokemonToPlaceOnBenchText: ; 3987a (e:587a)
-	text "Choose a Basic Pokémon"
-	line "to place on the Bench."
+	text "Wybierz Pokémona podstawowego"
+	line "do umieszczenia na ławce."
 	done
 
 ChooseEvolutionCardAndPressAButtonToDevolveText: ; 398a9 (e:58a9)
-	text "Choose an Evolution card and"
-	line "press the A Button to Devolve 1."
+	text "Wybierz kartę ewolucji i naciśnij"
+	line "”A” aby użyć ”Dewolucji 1”."
 	done
 
 ChoosePokemonInYourAreaThenPokemonInYourOppText: ; 398e8 (e:58e8)
-	text "Choose a Pokémon in your Area, then"
-	line "a Pokémon in your opponent's."
+	text "Wybierz swojego Pokémona,"
+	line "a następnie Pokémona przeciwnika."
 	done
 
 ChooseUpTo4FromDiscardPileText: ; 3992b (e:592b)
-	text "Choose up to 4"
-	line "from the Discard Pile."
+	text "Wybierz do 4 kart"
+	line "ze stosu kart odrzuconych."
 	done
 
 ChooseAPokemonToSwitchWithActivePokemonText: ; 39952 (e:5952)
-	text "Choose a Pokémon to switch"
-	line "with the Active Pokémon."
+	text "Wybierz Pokémona do zamiany"
+	line "z aktywnym Pokémonem."
 	done
 
 PokemonAndAllAttachedCardsWereReturnedToDeckText: ; 39987 (e:5987)
-	text "<RAMTEXT> and all attached"
-	line "cards were returned to the Deck."
+	text "<RAMTEXT> i wszystkie"
+	line "dołączone karty wróciły do talii."
 	done
 
 PokemonWasReturnedFromArenaToHandText: ; 399bc (e:59bc)
-	text "<RAMTEXT> was returned"
-	line "from the Arena to the Hand."
+	text "<RAMTEXT> wraca"
+	line "z areny na rękę."
 	done
 
 PokemonWasReturnedFromBenchToHandText: ; 399e8 (e:59e8)
-	text "<RAMTEXT> was returned"
-	line "from the Bench to the Hand."
+	text "<RAMTEXT> wraca"
+	line "z ławki na rękę."
 	done
 
 PokemonWasReturnedToDeckText: ; 39a14 (e:5a14)
-	text "<RAMTEXT> was returned"
-	line "to the Deck."
+	text "<RAMTEXT> wraca"
+	line "do talii."
 	done
 
 WasPlacedInTheHandText: ; 39a31 (e:5a31)
-	text "<RAMTEXT> was placed"
-	line "in the Hand."
+	text "Umieszczono <RAMTEXT>"
+	line "na ręce."
 	done
 
 TheCardYouReceivedText: ; 39a4c (e:5a4c)
-	text "The card you received"
+	text "Karta, którą otrzymano"
 	done
 
 YouReceivedTheseCardsText: ; 39a63 (e:5a63)
-	text "You received these cards:"
+	text "Otrzymano te karty:"
 	done
 
 ChooseTheCardToPutBackText: ; 39a7e (e:5a7e)
-	text "Choose the card"
-	line "to put back."
+	text "Wybierz kartę"
+	line "do odłożenia."
 	done
 
 ChooseTheCardToDiscardText: ; 39a9c (e:5a9c)
-	text "Choose the card"
-	line "to Discard."
+	text "Wybierz kartę"
+	line "do odrzucenia."
 	done
 
 DiscardedCardsFromDeckText: ; 39ab9 (e:5ab9)
-	text "Discarded <RAMNUM> cards"
-	line "from <RAMNAME>'s Deck."
+	text "Odrzucono <RAMNUM> kart"
+	line "z talii gracza <RAMNAME>."
 	done
 
 Text0175: ; 39adb (e:5adb)
-	text "Discarded <RAMTEXT>"
-	line "from the Hand."
+	text "Odrzucono <RAMTEXT>"
+	line "z ręki."
 	done
 
 NoneCameText: ; 39af7 (e:5af7)
-	text "None came!"
+	text "Nikt nie przyszedł!"
 	done
 
 CameToTheBenchText: ; 39b03 (e:5b03)
 	text "<RAMTEXT>"
-	line "came to the Bench!"
+	line "wskoczył na ławkę!"
 	done
 
 DuelistHasNoCardsInHandText: ; 39b19 (e:5b19)
-	text "<RAMNAME> has"
-	line "no cards in Hand!"
+	text "<RAMNAME> nie ma"
+	line "kart na ręce!"
 	done
 
 PokemonHealedDamageText: ; 39b32 (e:5b32)
-	text "<RAMTEXT> healed"
-	line "<RAMNUM> damage!"
+	text "<RAMTEXT> leczy"
+	line "<RAMNUM> obrażeń!"
 	done
 
 PokemonDevolvedToText: ; 39b46 (e:5b46)
-	text "<RAMTEXT> devolved"
-	line "to <RAMTEXT>!"
+	text "<RAMTEXT> deewoluował"
+	line "do <RAMTEXT>!"
 	done
 
 ThereWasNoFireEnergyText: ; 39b58 (e:5b58)
-	text "There was no Fire Energy."
+	text "Nie było kart ognistej energii."
 	done
 
 YouCanSelectMoreCardsQuitText: ; 39b73 (e:5b73)
-	text "You can select <RAMNUM> more cards. Quit?"
+    text "Możesz jeszcze wybrać <RAMNUM> kart. Wyjść?"
 	done
 
 ThereWasNoEffectText: ; 39b97 (e:5b97)
-	text "There was no effect!"
+	text "Nic się nie stało!"
 	done
 
 ThereWasNoEffectFromToxicText: ; 39bad (e:5bad)
-	text "There was no effect"
-	line "from Toxic"
+	text "Toksyna nie dała"
+	line "żadnego efektu!"
 	done
 
 ThereWasNoEffectFromPoisonText: ; 39bcd (e:5bcd)
-	text "There was no effect"
-	line "from Poison."
+	text "Zatrucie nie dało"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromSleepText: ; 39bef (e:5bef)
-	text "There was no effect"
-	line "from Sleep."
+	text "Uśpienie nie dało"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromParalysisText: ; 39c10 (e:5c10)
-	text "There was no effect"
-	line "from Paralysis."
+	text "Paraliż nie dał"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromConfusionText: ; 39c35 (e:5c35)
-	text "There was no effect"
-	line "from Confusion."
+	text "Dezorientacja nie dała"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromPoisonConfusionText: ; 39c5a (e:5c5a)
-	text "There was no effet"
-	line "from Poison, Confusion."
+	text "Dezorientacja i zatrucie"
+	line "nie dały żadnego efektu."
 	done
 
 ExchangedCardsInDuelistsHandText: ; 39c86 (e:5c86)
-	text "Exchanged the cards"
-	line "in <RAMNAME>'s Hand."
+	text "<RAMNAME>: karty na ręce"
+	line "zostały wymienione."
 	done
 
 Text0185: ; 39ca8 (e:5ca8)
-	text "Battle Center"
+	text "Centrum walk"
 	done
 
 PrizesCardsText: ; 39cb7 (e:5cb7)
@@ -790,94 +789,94 @@ ChooseTheNumberOfPrizesText: ; 39ccc (e:5ccc)
 	done
 
 PleaseWaitDecidingNumberOfPrizesText: ; 39cea (e:5cea)
-	text "Please wait..."
-	line "Deciding the number of Prizes..."
+	text "Proszę czekać..."
+	line "Decydowanie o liczbie nagród..."
 	done
 
 BeginAPrizeDuelWithText: ; 39d1b (e:5d1b)
-	text "Begin a <RAMNUM>-Prize Duel"
-	line "with <RAMNAME>."
+	text "Rozpocznij walkę o <RAMNUM> nagród"
+	line "z <RAMNAME>."
 	done
 
 AreYouBothReadyToCardPopText: ; 39d39 (e:5d39)
-	text "Are you both ready"
-	line "to Card Pop! ?"
+	text "Jesteście gotowi"
+	line "na Card Pop?!"
 	done
 
 ThePopWasntSuccessfulText: ; 39d5c (e:5d5c)
-	text "The Pop! wasn't successful."
-	line "Please try again."
+	text "Card Pop! się nie udał."
+	line "Spróbuj ponownie."
 	done
 
 CannotCardPopWithFriendPreviouslyPoppedWithText: ; 39d8b (e:5d8b)
-	text "You cannot Card Pop! with a"
-	line "friend you previously Popped! with."
+	text "Nie możesz użyć Card Pop! z tą samą"
+	line "osobą więcej niż raz!"
 	done
 
 PositionGameBoyColorsAndPressAButtonText: ; 39dcc (e:5dcc)
-	text "Position the Game Boy Colors"
-	line "and press the A Button."
+	text "Ustawcie Game Boy'e Color"
+	line "i naciśnijcie ”A”."
 	done
 
 ReceivedThroughCardPopText: ; 39e02 (e:5e02)
-	text "Received <RAMTEXT>"
-	line "through Card Pop!"
+	text "Otrzymano <RAMTEXT>"
+	line "dzięki Card Pop!"
 	done
 
 ReceivedCardText: ; 39e20 (e:5e20)
-	text "<RAMNAME> received"
-	line "a <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje"
+	line "<RAMTEXT>!"
 	done
 
 ReceivedPromotionalCardText: ; 39e31 (e:5e31)
-	text "<RAMNAME> received a Promotional"
-	line "card <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę <RAMTEXT>!"
 	done
 
 ReceivedLegendaryCardText: ; 39e53 (e:5e53)
-	text "<RAMNAME> received the Legendary"
-	line "card <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje legendarną"
+	line "kartę <RAMTEXT>!"
 	done
 
 ReceivedPromotionalFlyingPikachuText: ; 39e75 (e:5e75)
-	text "<RAMNAME> received a Promotinal"
-	line "card Flyin' Pikachu!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę Latającego Pikachu!"
 	done
 
 ReceivedPromotionalSurfingPikachuText: ; 39ea3 (e:5ea3)
-	text "<RAMNAME> received a Promotional"
-	line "card Surfin' Pikachu!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę Pikachu Surfer!"
 	done
 
 Text0194: ; 39ed3 (e:5ed3)
-	text "Received a Flareon!!!"
-	line "Looked at the card list!"
+	text "Otrzymano Flareona!"
+	line "Spójrz na listę kart!"
 	done
 
 NowPrintingPleaseWaitText: ; 39f03 (e:5f03)
-	text "Now printing."
-	line "Please wait..."
+	text "Trwa drukowanie."
+	line "Proszę czekać..."
 	done
 
 BoosterPackText: ; 39f21 (e:5f21)
-	text "Booster Pack"
+	text "Paczka Booster'a"
 	done
 
 WouldYouLikeToTryAgainText: ; 39f2f (e:5f2f)
-	text "Would you like to try again?"
+	text "Czy chcesz spróbować ponownie?"
 	done
 
 Text0198: ; 39f4d (e:5f4d)
-	text "Sent to <RAMNAME>."
+	text "Wysłano do <RAMNAME>."
 	done
 
 Text0199: ; 39f59 (e:5f59)
-	text "Received from <RAMNAME>."
+	text "Otrzymano od <RAMNAME>."
 	done
 
 SendingACardText: ; 39f6b (e:5f6b)
-	text "Sending a card...Move the Game"
-	line "Boys close and press the A Button."
+	text "Wysyłanie karty... Zbliż Game"
+	line "Boye i naciśnij ”A”"
 	done
 
 ReceivingACardText: ; 39fae (e:5fae)
