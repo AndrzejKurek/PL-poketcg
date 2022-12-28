@@ -1,5 +1,5 @@
 ChooseADeckToDismantleText: ; 3bf46 (e:7f46)
-	text "Choose a deck to dismantle."
+	text "Wybierz talię do rozłożenia."
 	done
 	
 DismantledDeckText: ; 3bf63 (e:7f63)
