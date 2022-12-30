@@ -304,8 +304,8 @@ HandleDuelMenuInput:
 DuelMenuCursorCoords:
 	db  2, 14 ; Hand
 	db  2, 16 ; Attack
-	db  8, 14 ; Check
-	db  8, 16 ; Pkmn Power
+	db  7, 14 ; Check
+	db  7, 16 ; Pkmn Power
 	db 14, 14 ; Retreat
 	db 14, 16 ; Done
 
