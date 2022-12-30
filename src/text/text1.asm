@@ -43,7 +43,7 @@ Text000b: ; 36360 (d:6360)
 	done
 
 LengthText: ; 36368 (d:6368)
-	text "Długość"
+	text "Wzrost"
 	done
 
 WeightText: ; 36370 (d:6370)
@@ -1019,8 +1019,8 @@ PrinterPaperIsJammedText: ; 37ac7 (d:7ac7)
 	done
 
 CheckCableOrPrinterSwitchText: ; 37aef (d:7aef)
-	text "Błąd 02:"
-	line "Sprawdź przewód lub przycisk druk."
+	text "Błąd 02: Sprawdź przewód lub"
+	line "przycisk drukarki."
 	done
 
 PrinterPacketErrorText: ; 37b1d (d:7b1d)

@@ -592,17 +592,17 @@ FireChargeDescriptionText: ; 3d0bb (f:50bb)
 
 CharmanderAndFriendsDescriptionText: ; 3d0ed (f:50ed)
 	text "Talia wody, trawy i ognia:"
-	line "Charmander, Pinsir i Seel"
+	line "Charmander, Pinsir i Seel!"
 	done
 
 SquirtleAndFriendsDescriptionText: ; 3d128 (f:5128)
 	text "Talia wody, ognia i elektryczności:"
-	line "Squirtle, Charmander i Pikachu"
+	line "Squirtle, Charmander i Pikachu!"
 	done
 
 BulbasaurAndFriendsDescriptionText: ; 3d16d (f:516d)
 	text "Talia trawy i elektro-psychiki:"
-	line "Bulbasaur, Pikachu oraz Abra"
+	line "Bulbasaur, Pikachu oraz Abra!"
 	done
 
 PsychicMachampDescriptionText: ; 3d1af (f:51af)
@@ -612,7 +612,7 @@ PsychicMachampDescriptionText: ; 3d1af (f:51af)
 
 WaterBeetleDescriptionText: ; 3d1f0 (f:51f0)
 	text "Talia stawiająca na ewolucje:"
-	line "Weedle, Nidoran♂ i Bellsprout."
+	line "Weedle, Nidoran♂ i Bellsprout!"
 	done
 
 LegendaryMoltresDescriptionText: ; 3d22a (f:522a)
@@ -653,88 +653,88 @@ GlossaryMenuPage1Text: ; 3d333 (f:5333)
 	done
 
 GlossaryMenuPage2Text: ; 3d3e0 (f:53e0)
-	text "Karta energii       Moce Pokémon    "
-	line "Trainer Card        Słabości        "
-	line "Basic Pokémon       Odporności      "
-	line "Karta ewolucji      Wycofanie       "
+	text "Karty Energii       Moce Pokémon    "
+	line "Karty Trenera       Słabości        "
+	line "Pokémony Podst.     Odporności      "
+	line "Karty Ewolucji      Wycofanie       "
 	line "Atak                Cofnij stronę   "
 	done
 
 ChooseWordAndPressAButtonText: ; 3d48f (f:548f)
-	text "Wybierz słowo i potwierdź za pomocą"
-	line "przycisku A."
+	text "Wybierz hasło i potwierdź za pomocą"
+	line "przycisku ”A”."
 	done
 
 AboutTheDeckText: ; 3d4b6 (f:54b6)
-	text "O Talię"
+	text "O Talii"
 	done
 
 AboutTheDiscardPileText: ; 3d4c6 (f:54c6)
-	text "O stos kart odrzuconych"
+	text "O stosie kart odrzuconych"
 	done
 
 AboutTheHandText: ; 3d4de (f:54de)
-	text "O karty na ręce"
+	text "O kartach na ręce"
 	done
 
 AboutTheArenaText: ; 3d4ee (f:54ee)
-	text "O arenę"
+	text "O arenie"
 	done
 
 AboutTheBenchText: ; 3d4ff (f:54ff)
-	text "O ławkę"
+	text "O ławce"
 	done
 
 AboutTheActivePokemonText: ; 3d510 (f:5510)
-	text "O aktywnego Pokémona"
+	text "O aktywnym Pokémonie"
 	done
 
 AboutBenchPokemonText: ; 3d52a (f:552a)
-	text "O Pokémony na ławce"
+	text "O Pokémonach na ławce"
 	done
 
 AboutPrizesText: ; 3d53f (f:553f)
-	text "O nagrody"
+	text "O nagrodach"
 	done
 
 AboutDamageCountersText: ; 3d54d (f:554d)
-	text "O liczniki obrażeń"
+	text "O licznikach obrażeń"
 	done
 
 AboutEnergyCardsText: ; 3d564 (f:5564)
-	text "O karty energii"
+	text "O kartach energii"
 	done
 
 AboutTrainerCardsText: ; 3d578 (f:5578)
-	text "O karty trenera"
+	text "O kartach trenera"
 	done
 
 AboutBasicPokemonText: ; 3d58d (f:558d)
-	text "O podstawowe Pokémony"
+	text "O podstawowych Pokémonach"
 	done
 
 AboutEvolutionCardsText: ; 3d5a2 (f:55a2)
-	text "O karty ewolucji"
+	text "O kartach ewolucji"
 	done
 
 AboutAttackingText: ; 3d5b9 (f:55b9)
-	text "O atakowanie"
+	text "O atakowaniu"
 	done
 
 AboutPokemonPowerText: ; 3d5ca (f:55ca)
-	text "O moce Pokémon"
+	text "O mocach Pokémon"
 	done
 
 AboutWeaknessText: ; 3d5df (f:55df)
-	text "O słabości"
+	text "O słabościach"
 	done
 
 AboutResistanceText: ; 3d5ef (f:55ef)
-	text "O odporności"
+	text "O odpornościach"
 	done
 
 AboutRetreatingText: ; 3d601 (f:5601)
-	text "O wycofanie"
+	text "O wycofaniu"
 	done
 
 DeckDescriptionText: ; 3d613 (f:5613)
@@ -878,7 +878,7 @@ PokemonPowerDescriptionText: ; 3e1f7 (f:61f7)
 	line "po umieszczeniu Pokémona na ławce,"
 	line "inne gdy stanie się aktywnym"
 	line "Pokémonem, a dla innych trzeba użyć"
-	line "polecenia moc PKMN."
+	line "polecenia Moc Pokémon."
 	done
 
 WeaknessDescriptionText: ; 3e2c5 (f:62c5)
@@ -1159,7 +1159,7 @@ Text0350: ; 3ea2b (f:6a2b)
 Text0351: ; 3ea3a (f:6a3a)
 	text "Album kart"
 	line "Sprawdź maile"
-	line "Glosariusz"
+	line "Pomoc"
 	line "Drukuj"
 	line "Wyłącz"
 	done

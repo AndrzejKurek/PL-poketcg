@@ -876,409 +876,391 @@ Text0199: ; 39f59 (e:5f59)
 
 SendingACardText: ; 39f6b (e:5f6b)
 	text "Wysyłanie karty... Zbliż Game"
-	line "Boye i naciśnij ”A”"
+	line "Boye i naciśnij ”A”."
 	done
 
 ReceivingACardText: ; 39fae (e:5fae)
-	text "Receiving a card...Move"
-	line "the Game Boys close together."
+	text "Otrzymywanie karty... Zbliż Game"
+	line "Boye i naciśnij ”A”."
 	done
 
 SendingADeckConfigurationText: ; 39fe5 (e:5fe5)
-	text "Sending a Deck Configuration..."
-	line "Position the Game Boys and press A."
+	text "Wysyłanie planu talii... Zbliż Game"
+	line "Boye i naciśnij ”A”."
 	done
 
 ReceivingDeckConfigurationText: ; 3a02a (e:602a)
-	text "Receiving Deck configuration..."
-	line "Position the Game Boys and press A."
+	text "Otrzymywanie planu talii... Zbliż"
+	line "Game Boye i naciśnij ”A”."
 	done
 
 CardTransferWasntSuccessful1Text: ; 3a06f (e:606f)
-	text "Card transfer wasn't successful."
+	text "Nie udało się przesłać karty."
 	done
 
 CardTransferWasntSuccessful2Text: ; 3a091 (e:6091)
-	text "Card transfer wasn't successful"
+	text "Nie udało się przesłać karty."
 	done
 
 DeckConfigurationTransferWasntSuccessful1Text: ; 3a0b2 (e:60b2)
-	text "Deck configuration transfer"
-	line "wasn't successful"
+	text "Nie udało się przesłać"
+	line "planu talii."
 	done
 
 DeckConfigurationTransferWasntSuccessful2Text: ; 3a0e1 (e:60e1)
-	text "Deck configuration transfer"
-	line "wasn't successful."
+	text "Nie udało się przesłać"
+	line "planu talii."
 	done
 
 NowPrintingText: ; 3a111 (e:6111)
-	text "Now printing..."
+	text "Trwa drukowanie..."
 	done
 
 DrMasonText: ; 3a122 (e:6122)
-	text "Dr. Mason"
+	text "Doktor Mason"
 	done
 
 DrawSevenCardsPracticeDuelText: ; 3a12d (e:612d)
-	text "Draw 7 cards,"
+	text "Weź 7 kart"
 	line ""
-	line "and get ready for the battle!"
-	line "Choose your Active Pokémon."
-	line "You can only choose Basic Pokémon"
-	line "as your Active Pokémon,"
-	line "so you can choose either Goldeen"
-	line "or Staryu."
-	line "For our practice duel,"
-	line "choose Goldeen."
+	line "i przygotuj się do walki!"
+	line "Wybierz aktywnego Pokémona."
+	line "Może nim być tylko Pokémon"
+	line "podstawowy, możesz więc wybrać"
+	line "albo Goldeen, albo Staryu."
+	line "Dla naszego treningu"
+	line "wybierz Goldeen."
 	done
 
 ChooseGoldeenPracticeDuelText: ; 3a204 (e:6204)
-	text "Choose Goldeen for this"
-	line "practice duel, OK?"
+	text "Wybierz Goldeen na potrzeby"
+	line "tej walki, OK?"
 	done
 
 PutPokemonOnBenchPracticeDuelText: ; 3a230 (e:6230)
-	text "Next, put your Pokémon on your"
-	line "Bench."
-	line "You can switch Benched Pokémon"
-	line "with your Active Pokémon."
-	line "Again, only Basic Pokémon can be"
-	line "placed on your Bench."
-	line "Choose Staryu from your hand and"
-	line "put it there."
+	text "Wybierz Pokémony na ławkę."
+	line "Możesz potem zamienić aktywnego"
+	line "Pokémona na Pokémona z ławki."
+	line "Na ławce możesz umieścić tylko"
+	line "Pokémony podstawowe."
+	line "Wybierz Staryu z ręki i umieść"
+	line "go na ławce."
 	done
 
 ChooseStaryuPracticeDuelText: ; 3a2f6 (e:62f6)
-	text "Choose Staryu for this"
-	line "practice duel, OK?"
+	text "Wybierz Staryu na potrzeby"
+	line "tej walki, OK?"
 	done
 
 PressBToFinishPracticeDuelText: ; 3a321 (e:6321)
-	text "When you have no Pokémon to put on"
-	line "your Bench, press the B Button to"
-	line "finish."
+	text "Jeśli nie masz już Pokémona do"
+	line "umieszczenia na ławce, naciśnij ”B”."
 	done
 
 Turn1Instr1PracticeDuelText: ; 3a36f (e:636f)
-	text "1. Choose Hand from the Menu."
-	line "   Select a Water Energy card."
+	text "1. Wybierz Rękę z Menu."
+	line "   Wybierz kartę Wodnej Energii."
 	done
 
 Turn1Instr2PracticeDuelText: ; 3a3ad (e:63ad)
-	text "2. Attach a Water Energy card to"
-	line "   your Active Pokémon, Goldeen."
+	text "2. Dołącz kartę Wodnej Energii"
+	line "   do aktywnego Pokémona, Goldeen."
 	done
 
 Turn1Instr3PracticeDuelText: ; 3a3f0 (e:63f0)
-	text "3. Choose Attack from the Menu"
-	line "   and select Horn Attack."
+	text "3. Wybierz ”Atak” z menu."
+	line "   Wybierz ”Atak Rogiem”."
 	done
 
 Turn2Instr1PracticeDuelText: ; 3a42b (e:642b)
-	text "1. Evolve Goldeen by"
-	line "   attaching Seaking to it."
+	text "1. Ewoluuj Goldeen dołączając"
+	line "   do niej kartę ”Seaking”."
 	done
 
 Turn2Instr2PracticeDuelText: ; 3a45d (e:645d)
-	text "2. Attach a Psychic Energy card"
-	line "   to the evolved Seaking."
+	text "2. Dołącz kartę energii psychicznej"
+	line "   do wyewoluowanego Seaking'a."
 	done
 
 Turn2Instr3PracticeDuelText: ; 3a499 (e:6499)
-	text "3. Choose Attack and select"
-	line "   Waterfall to attack your"
-	line "   opponent."
+	text "3. Wybierz ”Atak”, a następnie"
+	line "   ”Wodospad” aby zaatakować rywala."
 	done
 
 Turn3Instr1PracticeDuelText: ; 3a4df (e:64df)
-	text "1. Attach a Water Energy card to"
-	line "   your Benched Staryu."
+	text "1. Dołącz Wodną Energię do"
+	line "   Staryu z ławki."
 	done
 
 Turn3Instr2PracticeDuelText: ; 3a519 (e:6519)
-	text "2. Choose Attack and attack your"
-	line "   opponent with Horn Attack."
+	text "2. Wybierz ”Atak” z menu."
+	line "   Wybierz ”Atak Rogiem”."
 	done
 
 Turn3Instr3PracticeDuelText: ; 3a559 (e:6559)
 	done
 
 Turn4Instr1PracticeDuelText: ; 3a55a (e:655a)
-	text "1. Take Drowzee from your hand"
-	line "   and put it on your Bench."
+	text "1. Weź Drowzee ze swojej ręki"
+	line "   i umieść go na ławce."
 	done
 
 Turn4Instr2PracticeDuelText: ; 3a597 (e:6597)
-	text "2. Attach a Water Energy card to"
-	line "   your Benched Drowzee."
+	text "2. Dołącz Wodną Energię do"
+	line "   Drowzee z ławki."
 	done
 
 Turn4Instr3PracticeDuelText: ; 3a5d2 (e:65d2)
-	text "3. Choose Seaking and attack your"
-	line "   opponent with Waterfall."
+	text "3. Zaatakuj wroga ”Wodospadem”"
+	line "   Seakinga."
 	done
 
 Turn5Instr1PracticeDuelText: ; 3a611 (e:6611)
-	text "1. Choose a Water Energy card from"
-	line "   your hand and attach it to"
-	line "   Staryu."
+	text "1. Wybierz Wodną Energię z ręki"
+	line "   i dołącz ją do Staryu."
 	done
 
 Turn5Instr2PracticeDuelText: ; 3a65e (e:665e)
-	text "2. Choose Staryu and attack your"
-	line "   opponent with Slap."
+	text "2. Wybierz Staryu i zaatakuj"
+	line "   rywala Plaskaczem."
 	done
 
 Turn6Instr1PracticeDuelText: ; 3a697 (e:6697)
-	text "1. Choose the Potion card in your"
-	line "   hand to recover Staryu's HP."
+	text "1. Wybierz kartę Eliksiru z ręki"
+	line "   aby wyleczyć Staryu."
 	done
 
 Turn6Instr2PracticeDuelText: ; 3a6da (e:66da)
-	text "2. Attach a Water Energy card to"
-	line "   Staryu."
+	text "2. Wybierz Wodną Energię z ręki"
+	line "   i dołącz ją do Staryu."
 	done
 
 Turn6Instr3PracticeDuelText: ; 3a707 (e:6707)
-	text "3. Choose Staryu and attack your"
-	line "   opponent with Slap."
+	text "3. Wybierz Staryu i zaatakuj"
+	line "   rywala Plaskaczem."
 	done
 
 Turn7Instr1PracticeDuelText: ; 3a740 (e:6740)
-	text "1. Evolve Staryu by"
-	line "   attaching Starmie to it."
+	text "1. Wyewoluuj Staryu dołączając"
+	line "   do niego Starmie."
 	done
 
 Turn7Instr2PracticeDuelText: ; 3a771 (e:6771)
-	text "2. Select the evolved Starmie and"
-	line "   attack your opponent with Star "
-	line "   Freeze."
+	text "2. Wybierz Starmie i zaatakuj rywala"
+	line "   Gwiezdnym Zamrożeniem."
 	done
 
 Turn8Instr1PracticeDuelText: ; 3a7c2 (e:67c2)
-	text "1. Select Starmie and attack your"
-	line "   opponent with Star Freeze."
+	text "1. Wybierz Starmie i zaatakuj rywala"
+	line "   Gwiezdnym Zamrożeniem."
 	done
 
 Turn8Instr2PracticeDuelText: ; 3a803 (e:6803)
-	text "2. You Knocked Machop Out."
-	line "   Now you can draw a Prize."
+	text "2. Znokautowano Machop'a."
+	line "   Możesz teraz wziąć nagrodę."
 	done
 
 SamTurn4Instr1PracticeDuelText: ; 3a83c (e:683c)
-	text "1. Your Seaking was Knocked Out."
-	line "   Choose your Benched Staryu"
-	line "   and press the A Button to set"
-	line "   it as your Active Pokémon."
+	text "1. Twój Seaking jest znokautowany."
+	line "   Wybierz Staryu z ławki"
+	line "   i naciśnij ”A” aby wybrać go"
+	line "   jako Aktywnego Pokémona."
 	done
 
 SamTurn4Instr2PracticeDuelText: ; 3a8bb (e:68bb)
-	text "2. You can check Pokémon data by"
-	line "   pressing SELECT."
+	text "2. Możesz sprawdzić informacje"
+	line "   o Pokémonie naciskając SELECT."
 	done
 
 Turn1DrMason1PracticeDuelText: ; 3a8f1 (e:68f1)
-	text "To use the attack command, you need"
-	line "to attach Energy cards to your"
-	line "Pokémon."
+	text "Aby użyć ataku Pokémona, musisz"
+	line "dołączyć do niego Karty Energii."
 	line ""
-	line "Choose Cards from the Menu, and"
-	line "select a Water Energy card."
+	line "Wybierz Rękę z Menu, a następnie"
+	line "wybierz kartę Wodnej Energii."
 	done
 
 Turn1DrMason2PracticeDuelText: ; 3a97b (e:697b)
-	text "Next, choose your Active Pokémon,"
-	line "Goldeen, and press the A Button."
-	line "Then the Water Energy card will"
-	line "be attached to Goldeen."
+	text "Wybierz aktywnego Pokémona,"
+	line "Goldeen, i naciśnij przycisk ”A”."
+	line "W ten sposób karta Wodnej Energii"
+	line "będzie dołączona do Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText: ; 3a9f7 (e:69f7)
-	text "Finally, attack your opponent by"
-	line "selecting an attack command."
-	line "Choose Attack from the Menu, and"
-	line "select Horn Attack."
+	text "Aby zakończyć turę, zaatakuj rywala"
+	line "wybierając ”Atak”."
+	line "Wybierz ”Atak Rogiem”."
 	done
 
 Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
-	text "Your Goldeen's gonna get Knocked"
-	line "Out. Let's evolve it!"
-	line "Choose Seaking from your hand and"
-	line "attach it to Goldeen to"
-	line "Evolve it."
-	line "Its HP increases from 40 to 70."
+	text "Twój Goldeen może zostać"
+	line "znokautowany! Czas na ewolucję!"
+	line "Wybierz Seaking'a z ręki i dołącz"
+	line "go do Goldeen aby go ewoluować."
+	line "Jego Pż zwiększy się z 40 do 70."
 	done
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
-	text "Your Seaking doesn't have enough"
-	line "Energy to use Waterfall."
-	line "You need to attach a Psychic Energy"
-	line "card to Seaking."
-	line "<COLORLESS> means any Energy card."
-	line "Now you can use Waterfall."
-	line "Keep the Water Energy card for"
-	line "other Pokémon."
+	text "Seaking nie ma wystarczająco"
+	line "energii żeby użyć Wodospadu."
+	line "Dołącz kartę Psychicznej Energii"
+	line "do Seaking'a."
+	line "<COLORLESS> oznacza jakąkolwiek"
+	line "kartę energii. Teraz możesz użyć"
+	line "wodospadu. Kartę Wodnej Energii"
+	line "zachowaj dla pozostałych Pokémonów."
 	done
 
 Turn2DrMason3PracticeDuelText: ; 3abdb (e:6bdb)
-	text "Now let's attack your opponent with"
-	line "Seaking's Waterfall!"
+	text "Zaatakuj przeciwnika"
+	line "Wodospadem Seaking'a!"
 	done
 
 Turn3DrMason1PracticeDuelText: ; 3ac15 (e:6c15)
-	text "Seaking's got enough Energy, so"
-	line "you don't need to attach any more."
-	line "Attach Energy cards to your Benched"
-	line "Pokémon to get them ready for"
-	line "battle."
+	text "Seaking ma wystarczająco energii,"
+	line "więc nie dołączaj kolejnych."
+	line "Skup się zamiast tego na swoich"
+	line "Pokémonach z ławki, aby przygotować"
+	line "je do walki."
 	line ""
-	line "Attach a Water Energy card to your"
-	line "Benched Staryu."
+	line "Dołącz kartę Wodnej Energii do"
+	line "Staryu z ławki."
 	done
 
 Turn3DrMason2PracticeDuelText: ; 3acd7 (e:6cd7)
-	text "Next, select the attack command."
-	line "Machop has 10 HP left."
-	line "Seaking's Horn Attack will be"
-	line "enough to Knock out Machop."
-	line "Now, choose Seaking's"
-	line "Horn Attack."
+	text "Wybierz polecenie ataku."
+	line "Machop'owi zostało 10 Pż, więc"
+	line "Atak Rogiem Seakinga będzie"
+	line "wystarczający do znokautowania go."
 	done
 
 Turn3DrMason3PracticeDuelText: ; 3ad6d (e:6d6d)
-	text "Now Machop's HP is 0 and it is"
-	line "Knocked Out."
-	line "When you Knock Out the Defending"
-	line "Pokémon, you can pick up a"
-	line "Prize."
+	text "Machop ma 0 Punktów życia i jest"
+	line "znokautowany."
+	line "Gracz który znokautuje wrogiego"
+	line "Pokémona otrzymuje jedną Nagrodę."
 	done
 
 Turn4DrMason1PracticeDuelText: ; 3addd (e:6ddd)
-	text "When all your Pokémon are Knocked"
-	line "Out and there are no Pokémon on your"
-	line "Bench, you lose the game."
+	text "Kiedy wszystkie twoje Pokémony będą"
+	line "znokautowane i nie masz Pokémona"
+	line "na ławce - przegrywasz grę."
 	line ""
-	line "Put Drowzee, the Basic Pokémon"
-	line "you just drew, on your Bench."
+	line "Połóż Drowzee, otrzymanego"
+	line "Pokémona, na swoją ławkę."
 	done
 
 Turn4DrMason2PracticeDuelText: ; 3ae7d (e:6e7d)
-	text "Attach a Water Energy card to"
-	line "Drowzee to get it ready to"
-	line "attack."
+	text "Dołącz kartę Wodnej Energii do"
+	line "Drowzee aby go przygotować do"
+	line "ataku."
 	done
 
 Turn4DrMason3PracticeDuelText: ; 3aebf (e:6ebf)
-	text "Choose your Active Seaking and"
-	line "attack your opponent with"
-	line "Waterfall."
+	text "Wybierz Seakinga i zaatakuj"
+	line "wroga za pomocą Wodospadu."
 	done
 
 Turn5DrMason1PracticeDuelText: ; 3af04 (e:6f04)
-	text "Staryu evolves into Starmie!"
+	text "Staryu ewoluuje w Starmie!"
 	line ""
-	line "Let's get Staryu ready to use"
-	line "Starmie's attack command when it"
-	line "evolves to Starmie."
+	line "Przygotujmy Staryu do użycia"
+	line "ataku Starmie po ewolucji."
 	line ""
-	line "Choose the Water Energy card from"
-	line "your hand and attach it to Staryu."
+	line "Wybierz kartę Wodnej Energii"
+	line "z ręki i dołącz ją do Staryu."
 	done
 
 Turn5DrMason2PracticeDuelText: ; 3afbc (e:6fbc)
-	text "Attack your opponent with Staryu's"
-	line "Slap."
+	text "Zaatakuj przeciwnika"
+	line "Plaskaczem Staryu."
 	done
 
 Turn6DrMason1PracticeDuelText: ; 3afe6 (e:6fe6)
-	text "Now, recover Staryu with a Trainer"
-	line "card."
-	line "Choose Potion from your hand."
+	text "Ulecz Staryu Kartą Trenera."
+	line "Wybierz Eliksir z Ręki."
 	done
 
 Turn6DrMason2PracticeDuelText: ; 3b02e (e:702e)
-	text "Now let's get ready to evolve"
-	line "it to Starmie."
-	line "Also, attach a Water Energy card to"
-	line "Staryu."
+	text "Przygotujmy się do ewolucji"
+	line "w Starmie."
+	line "Dołącz kartę Wodnej Energii"
+	line "do Staryu."
 	done
 
 Turn6DrMason3PracticeDuelText: ; 3b088 (e:7088)
-	text "Attack your opponent with Staryu's"
-	line "Slap to end your turn."
+	text "Zaatakuj przeciwnika Plaskaczem"
+	line "Staryu aby zakończyć turę."
 	done
 
 Turn7DrMason1PracticeDuelText: ; 3b0c3 (e:70c3)
-	text "Now you have finally drawn a"
-	line "Starmie card!"
-	line "Choose Starmie from your hand and"
-	line "use it to evolve Staryu."
+	text "W końcu trafiła się karta Starmie!"
+	line "Użyj jej z ręki aby"
+	line "ewoluować Staryu."
 	done
 
 Turn7DrMason2PracticeDuelText: ; 3b12a (e:712a)
-	text "You've already attached enough"
-	line "Energy to use Star Freeze."
-	line "Attack your opponent with"
-	line "Starmie's Star Freeze."
+	text "Starmie ma wystarczająco Kart"
+	line "Energii aby użyć Gwiezdnego"
+	line "Zamrożenia. Zaatakuj nim wroga!"
 	done
 
 Turn8DrMason1PracticeDuelText: ; 3b196 (e:7196)
-	text "Now Machop has only 10 HP left."
-	line "Let's finish the battle!"
-	line "Attack with Starmie's Star Freeze."
+	text "Machop'owi zostało tylko 10 Pż."
+	line "Czas zakończyć walkę!"
+	line "Zaatakuj Gwiezdnym Zamrożeniem!"
 	line ""
 	done
 
 Turn8DrMason2PracticeDuelText: ; 3b1f4 (e:71f4)
-	text "You've Knocked Out your opponent!"
+	text "Znokautowano przeciwnika!"
 	line ""
-	line "Pick up the last Prize."
+	line "Weź ostatnią nagrodę."
 	line ""
-	text "<RAMNAME> is the winner!"
+	text "<RAMNAME> zwycięża!"
 	done
 
 SamTurn4DrMason1PracticeDuelText: ; 3b242 (e:7242)
-	text "Choose a Benched Pokémon to replace"
-	line "your Knocked Out Pokémon."
-	line "You now have Drowzee and Staryu"
-	line "on your Bench."
-	line "Choose Staryu as the Active Pokémon"
-	line "for this practice duel."
+	text "Wybierz Pokémona z ławki"
+	line "do zastąpienia znokautowanego."
+	line "Masz na ławce Drowzee i Staryu."
+	line "Na potrzeby tej walki"
+	line "wybierz Staryu."
 	done
 
 SamTurn4DrMason2PracticeDuelText: ; 3b2ec (e:72ec)
-	text "Here, press SELECT to"
-	line "check Pokémon data."
-	line "It is important to know your cards"
-	line "and the status of your Pokémon."
+	text "Za pomocą przycisku ”SELECT”"
+	line "sprawdzisz dane Pokémona."
+	line "Poznanie własnych kart i statusów"
+	line "swoich Pokémonów jest bardzo ważne."
 	done
 
 SelectStaryuPracticeDuelText: ; 3b35a (e:735a)
-	text "Select Staryu for this practice,"
+	text "Wybierz Staryu w tym treningu,"
 	line "OK?"
 	done
 
 LetsPlayTheGamePracticeDuelText: ; 3b380 (e:7380)
-	text "Now, let's play the game!"
+	text "Do dzieła!"
 	done
 
 NeedPracticeAgainPracticeDuelText: ; 3b39b (e:739b)
-	text "Do you need to practice again?"
+	text "Wytłumaczyć Ci jeszcze raz?"
 	done
 
 FollowMyGuidancePracticeDuelText: ; 3b3bb (e:73bb)
-	text "This is Practice Mode, so"
-	line "please follow my guidance."
-	line "Do it again."
+	text "To tryb treningowy, więc"
+	line "postępuj zgodnie z moimi poradami."
+	line "Zróbmy to jeszcze raz."
 	done
 
 PlayersTurnPracticeDuelText: ; 3b3fe (e:73fe)
-	text "<RAMNAME>'s turn <RAMNUM>"
+	text "<RAMNAME>: tura <RAMNUM>"
 	done
 
 ReplaceDueToKnockoutPracticeDuelText: ; 3b40a (e:740a)
-	text " Replace due to Knockout "
+	text " Zastąp po nokaucie "
 	done
 
 Text01dd: ; 3b425 (e:7425)
@@ -1286,159 +1268,159 @@ Text01dd: ; 3b425 (e:7425)
 	done
 
 PracticePlayerDeckName: ; 3b42c (e:742c)
-	text "Practice Player"
+	text "Treningowy Gracz"
 	done
 
 SamsPracticeDeckName: ; 3b43d (e:743d)
-	text "Sam's Practice"
+	text "Treningowa Sama"
 	done
 
 CharmanderAndFriendsDeckName: ; 3b44d (e:744d)
-	text "Charmander & Friends"
+	text "Charmander i przyjaciele"
 	done
 
 CharmanderExtraDeckName: ; 3b463 (e:7463)
-	text "Charmander extra"
+	text "Charmander ekstra"
 	done
 
 SquirtleAndFriendsDeckName: ; 3b475 (e:7475)
-	text "Squirtle & Friends"
+	text "Squirtle i przyjaciele"
 	done
 
 SquirtleExtraDeckName: ; 3b489 (e:7489)
-	text "Squirtle extra"
+	text "Squirtle ekstra"
 	done
 
 BulbasaurAndFriendsDeckName: ; 3b499 (e:7499)
-	text "Bulbasaur & Friends"
+	text "Bulbasaur i przyjaciele"
 	done
 
 BulbasaurExtraDeckName: ; 3b4ae (e:74ae)
-	text "Bulbasaur extra"
+	text "Bulbasaur ekstra"
 	done
 
 FirstStrikeDeckName: ; 3b4bf (e:74bf)
-	text "First-Strike"
+	text "Szybki Atak"
 	done
 
 RockCrusherDeckName: ; 3b4cd (e:74cd)
-	text "Rock Crusher"
+	text "Kamienny Łamacz"
 	done
 
 GoGoRainDanceDeckName: ; 3b4db (e:74db)
-	text "Go Go Rain Dance"
+	text "Tancerz Deszczu"
 	done
 
 ZappingSelfdestructDeckName: ; 3b4ed (e:74ed)
-	text "Zapping Selfdestruct"
+	text "Prądowe Samozniszczenie"
 	done
 
 FlowerPowerDeckName: ; 3b503 (e:7503)
-	text "Flower Power"
+	text "Moc Kwiatów"
 	done
 
 StrangePsyshockDeckName: ; 3b511 (e:7511)
-	text "Strange Psyshock"
+	text "Tajemniczy Psychoszok"
 	done
 
 WondersofScienceDeckName: ; 3b523 (e:7523)
-	text "Wonders of Science"
+	text "Cuda Nauki"
 	done
 
 FireChargeDeckName: ; 3b537 (e:7537)
-	text "Fire Charge"
+	text "Ognista Szarża"
 	done
 
 LegendaryMoltresDeckName: ; 3b544 (e:7544)
-	text "Legendary Moltres"
+	text "Legendarny Moltres"
 	done
 
 LegendaryZapdosDeckName: ; 3b557 (e:7557)
-	text "Legendary Zapdos"
+	text "Legendarny Zapdos"
 	done
 
 LegendaryArticunoDeckName: ; 3b569 (e:7569)
-	text "Legendary Articuno"
+	text "Legendarny Articuno"
 	done
 
 LegendaryDragoniteDeckName: ; 3b57d (e:757d)
-	text "Legendary Dragonite"
+	text "Legendarny Dragonite"
 	done
 
 ImRonaldDeckName: ; 3b592 (e:7592)
-	text "I'm Ronald!"
+	text "To ja, Ronald!"
 	done
 
 PowerfulRonaldDeckName: ; 3b59f (e:759f)
-	text "Powerful Ronald"
+	text "Mocarny Ronald"
 	done
 
 InvincibleRonaldDeckName: ; 3b5b0 (e:75b0)
-	text "Invincible Ronald"
+	text "Nietykalny Ronald"
 	done
 
 LegendaryRonaldDeckName: ; 3b5c3 (e:75c3)
-	text "Legendary Ronald"
+	text "Legendarny Ronald"
 	done
 
 WaterfrontPokemonDeckName: ; 3b5d5 (e:75d5)
-	text "Waterfront Pokémon"
+	text "Nadbrzeżne Pokémony"
 	done
 
 LonelyFriendsDeckName: ; 3b5e9 (e:75e9)
-	text "Lonely Friends"
+	text "Samotni Przyjaciele"
 	done
 
 SoundoftheWavesDeckName: ; 3b5f9 (e:75f9)
-	text "Sound of the Waves"
+	text "Szum fal"
 	done
 
 AngerDeckName: ; 3b60d (e:760d)
-	text "Anger"
+	text "Złość"
 	done
 
 FlamethrowerDeckName: ; 3b614 (e:7614)
-	text "Flamethrower"
+	text "Miotacz Ognia"
 	done
 
 ReshuffleDeckName: ; 3b622 (e:7622)
-	text "Reshuffle"
+	text "Przetasowywacz"
 	done
 
 ExcavationDeckName: ; 3b62d (e:762d)
-	text "Excavation"
+	text "Wykopaliska"
 	done
 
 BlisteringPokemonDeckName: ; 3b639 (e:7639)
-	text "Blistering Pokémon"
+	text "Parzące Pokémony"
 	done
 
 HardPokemonDeckName: ; 3b64d (e:764d)
-	text "Hard Pokémon"
+	text "Twarde Pokémony"
 	done
 
 EtceteraDeckName: ; 3b65b (e:765b)
-	text "Etcetera"
+	text "I tym podobne"
 	done
 
 FlowerGardenDeckName: ; 3b665 (e:7665)
-	text "Flower Garden"
+	text "Kwiecisty Ogród"
 	done
 
 KaleidoscopeDeckName: ; 3b674 (e:7674)
-	text "Kaleidoscope"
+	text "Kalejdoskop"
 	done
 
 MusclesforBrainsDeckName: ; 3b682 (e:7682)
-	text "Muscles for Brains"
+	text "Mięśnie zamiast Mózgu"
 	done
 
 HeatedBattleDeckName: ; 3b696 (e:7696)
-	text "Heated Battle"
+	text "Płomienna Bitwa"
 	done
 
 LovetoBattleDeckName: ; 3b6a5 (e:76a5)
-	text "Love to Battle"
+	text "Kocham Walczyć"
 	done
 
 PikachuDeckName: ; 3b6b5 (e:76b5)
@@ -1446,35 +1428,35 @@ PikachuDeckName: ; 3b6b5 (e:76b5)
 	done
 
 BoomBoomSelfdestructDeckName: ; 3b6be (e:76be)
-	text "Boom Boom Selfdestruct"
+	text "Bum Bum Samozniszczenie"
 	done
 
 PowerGeneratorDeckName: ; 3b6d6 (e:76d6)
-	text "Power Generator"
+	text "Generator Mocy"
 	done
 
 GhostDeckName: ; 3b6e7 (e:76e7)
-	text "Ghost"
+	text "Duchy"
 	done
 
 NapTimeDeckName: ; 3b6ee (e:76ee)
-	text "Nap Time"
+	text "Czas Na Drzemkę"
 	done
 
 StrangePowerDeckName: ; 3b6f8 (e:76f8)
-	text "Strange Power"
+	text "Tajemnicza moc"
 	done
 
 FlyinPokemonDeckName: ; 3b707 (e:7707)
-	text "Flyin' Pokémon"
+	text "Latające Pokémony"
 	done
 
 LovelyNidoranDeckName: ; 3b717 (e:7717)
-	text "Lovely Nidoran"
+	text "Kochany Nidoran"
 	done
 
 PoisonDeckName: ; 3b727 (e:7727)
-	text "Poison"
+	text "Trucizna"
 	done
 
 ImakuniDeckName: ; 3b72f (e:772f)
@@ -1482,27 +1464,27 @@ ImakuniDeckName: ; 3b72f (e:772f)
 	done
 
 LightningAndFireDeckName: ; 3b739 (e:7739)
-	text "Lightning & Fire"
+	text "Elektro-ognista"
 	done
 
 WaterAndFightingDeckName: ; 3b74b (e:774b)
-	text "Water & Fighting"
+	text "Wodno-walcząca"
 	done
 
 GrassAndPsychicDeckName: ; 3b75d (e:775d)
-	text "Grass & Psychic"
+	text "Trawiasto-psychiczna"
 	done
 
 RetreatCostText: ; 3b76e (e:776e)
-	text "Retreat Cost"
+	text "Koszt wycof."
 	done
 
 Text0213: ; 3b77c (e:777c)
-	textfw3 "SWITCH TO UPPER"
+	textfw3 "ZMIEń NA WIELKIE"
 	done
 
 Text0214: ; 3b799 (e:7799)
-	textfw3 "SWITCH TO LOWER"
+	textfw3 "ZMIEń NA MAłE"
 	done
 
 FeetText: ; 3b7b6 (e:77b6)
@@ -1514,15 +1496,15 @@ InchesText: ; 3b7b9 (e:77b9)
 	done
 
 YourDiscardPileText: ; 3b7bc (e:77bc)
-	text "Your Discard Pile"
+	text "Twój Stos Odrzuconych"
 	done
 
 OpponentsDiscardPileText: ; 3b7cf (e:77cf)
-	text "Opponent's Discard Pile"
+	text "Stos Odrzuconych Rywala"
 	done
 
 DeckText: ; 3b7e8 (e:77e8)
-	text "Deck"
+	text "Talia"
 	done
 
 Text021a: ; 3b7ee (e:77ee)
@@ -1538,11 +1520,11 @@ Text021c: ; 3b7f9 (e:77f9)
 	done
 
 EndText: ; 3b800 (e:7800)
-	text "End"
+	text "Koniec"
 	done
 
 WhatIsYourNameText: ; 3b805 (e:7805)
-	text "What is your name?"
+	text "Jak masz na imię?"
 	done
 
 Text021f: ; 3b819 (e:7819)
@@ -1614,36 +1596,36 @@ DeckNameKeyboardText: ; 3b97b (e:797b)
 	done
 
 NewDeckText: ; 3ba03 (e:7a03)
-	text "New deck"
+	text "Nowa talia"
 	done
 
 PleaseSelectDeckText: ; 3ba0d (e:7a0d)
-	text "Please select deck."
+	text "Wybierz talię."
 	done
 
 ModifyDeckText: ; 3ba22 (e:7a22)
-	text "Modify deck"
+	text "Edytuj talię"
 	done
 
 ChangeNameText: ; 3ba2f (e:7a2f)
-	text "Change name"
+	text "Zmień nazwę"
 	done
 
 SelectDeckText: ; 3ba3c (e:7a3c)
-	text "Select deck"
+	text "Wybierz talię"
 	done
 
 CancelText: ; 3ba49 (e:7a49)
-	text "Cancel"
+	text "Anuluj"
 	done
 
 Text0229: ; 3ba51 (e:7a51)
-	text "as"
+	text "jako"
 	done
 
 ChosenAsDuelingDeckText: ; 3ba55 (e:7a55)
-	text "<RAMTEXT> was"
-	line "chosen as the dueling deck!"
+	text "Wybrano <RAMTEXT>"
+	line "jako aktywną talię!"
 	done
 
 Deck1Text: ; 3ba78 (e:7a78)
@@ -1663,142 +1645,142 @@ Deck4Text: ; 3ba81 (e:7a81)
 	done
 
 ThereIsNoDeckHereText: ; 3ba84 (e:7a84)
-	text "There is no Deck here!"
+	text "Nie ma tutaj talii!"
 	done
 
 ConfirmText: ; 3ba9c (e:7a9c)
-	text "Confirm"
+	text "Przejrzyj"
 	done
 
 DismantleText: ; 3baa5 (e:7aa5)
-	text "Dismantle"
+	text "Rozłóż"
 	done
 
 ModifyText: ; 3bab0 (e:7ab0)
-	text "Modify"
+	text "Edytuj"
 	done
 
 SaveText: ; 3bab8 (e:7ab8)
-	text "Save"
+	text "Zapisz"
 	done
 
 NameText: ; 3babe (e:7abe)
-	text "Name"
+	text "Nazwa"
 	done
 
 ThereIsOnly1DeckSoCannotBeDismantledText: ; 3bac4 (e:7ac4)
-	text "There is only 1 Deck, so this"
-	line "Deck cannot be dismantled."
+	text "To jedyna talia jaką masz,"
+	line "nie może być więc rozłożona."
 	done
 
 ThereAreNoBasicPokemonInThisDeckText: ; 3bafe (e:7afe)
-	text "There are no Basic Pokémon"
-	line "in this Deck!"
+	text "W tej talii nie ma żadnych"
+	line "Pokémonów podstawowych!"
 	done
 
 YouMustIncludeABasicPokemonInTheDeckText: ; 3bb28 (e:7b28)
-	text "You must include a Basic Pokémon"
-	line "in the Deck!"
+	text "Musisz mieć podstawowego"
+	line "Pokémona w talii!"
 	done
 
 ThisIsntA60CardDeckText: ; 3bb57 (e:7b57)
-	text "This isn't a 60-card deck!"
+	text "Ta talia nie ma 60 kart!"
 	done
 
 TheDeckMustInclude60CardsText: ; 3bb73 (e:7b73)
-	text "The Deck must include 60 cards!"
+	text "Talia musi mieć 60 kart!"
 	done
 
 ReturnToOriginalConfigurationText: ; 3bb94 (e:7b94)
-	text "Return to original configuration?"
+	text "Powrócić do oryginalnej listy kart?"
 	done
 
 SaveThisDeckText: ; 3bbb7 (e:7bb7)
-	text "Save this Deck?"
+	text "Zapisać tę talię?"
 	done
 
 QuitModifyingTheDeckText: ; 3bbc8 (e:7bc8)
-	text "Quit modifying the Deck?"
+	text "Zakończyć modyfikację talii?"
 	done
 
 DismantleThisDeckText: ; 3bbe2 (e:7be2)
-	text "Dismantle this Deck?"
+	text "Rozłożyć tę talię?"
 	done
 
 NoCardsChosenText: ; 3bbf8 (e:7bf8)
-	text "No cards chosen."
+	text "Nie wybrano kart."
 	done
 
 YourPokemonText: ; 3bc0a (e:7c0a)
-	text "Your Pokémon"
+	text "Twój Pokémon"
 	done
 
 YourDiscardPileText2: ; 3bc18 (e:7c18)
-	text "Your Discard Pile"
+	text "Twój stos odrzuconych"
 	done
 
 YourHandText: ; 3bc2b (e:7c2b)
-	text "Your Hand"
+	text "Twoja ręka"
 	done
 
 Text0242: ; 3bc36 (e:7c36)
-	text "To Your Play Area"
+	text "Do Twojego obszaru gry"
 	done
 
 OpponentsPokemonText: ; 3bc49 (e:7c49)
-	text "Opponent's Pokémon"
+	text "Pokémony Rywala"
 	done
 
 OpponentsDiscardPileText2: ; 3bc5d (e:7c5d)
-	text "Opponent's Discard Pile"
+	text "Stos Odrzuconych Rywala"
 	done
 
 OpponentsHandText: ; 3bc76 (e:7c76)
-	text "Opponent Hand"
+	text "Ręka Rywala"
 	done
 
 Text0246: ; 3bc85 (e:7c85)
-	text "To Opponent's Play Area"
+	text "Do obszaru gry rywala"
 	done
 
 DuelistsPlayAreaText: ; 3bc9e (e:7c9e)
-	text "<RAMNAME>'s Play Area"
+	text "<RAMNAME>: obszar gry"
 	done
 
 YourPlayAreaText: ; 3bcad (e:7cad)
-	text "Your Play Area"
+	text "Twój obszar gry"
 	done
 
 OppPlayAreaText: ; 3bcbd (e:7cbd)
-	text "Opp. Play Area"
+	text "Obszar gry wroga"
 	done
 
 InPlayAreaText: ; 3bccd (e:7ccd)
-	text "In Play Area"
+	text "Obszar gry"
 	done
 
 GlossaryText: ; 3bcdb (e:7cdb)
-	text "Glossary"
+	text "Pomoc"
 	done
 
 WhichCardWouldYouLikeToSeeText: ; 3bce5 (e:7ce5)
-	text "Which card would you like to see?"
+	text "Którą kartę chcesz zobaczyć?"
 	done
 
 PleaseChooseAPrizeText: ; 3bd08 (e:7d08)
-	text "Please choose a Prize."
+	text "Wybierz nagrodę."
 	done
 
 HandText_2: ; 3bd20 (e:7d20)
-	text "Hand"
+	text "Ręka"
 	done
 
 DuelistHandText_2: ; 3bd26 (e:7d26)
-	text "<RAMNAME>'s Hand"
+	text "<RAMNAME>: ręka"
 	done
 
 DuelistDiscardPileText: ; 3bd30 (e:7d30)
-	text "<RAMNAME>'s Discard Pile"
+	text "<RAMNAME>: stos odrzuconych"
 	done
 
 EmptyLineText: ; 3bd42 (e:7d42)
@@ -1811,27 +1793,27 @@ BoosterPackTitleText: ; 3bd55 (e:7d55)
 	done
 
 Item1ColosseumText: ; 3bd63 (e:7d63)
-	text "1. Colosseum"
+	text "1. Koloseum"
 	done
 
 Item2EvolutionText: ; 3bd71 (e:7d71)
-	text "2. Evolution"
+	text "2. Ewolucja"
 	done
 
 Item3MysteryText: ; 3bd7f (e:7d7f)
-	text "3. Mystery"
+	text "3. Tajemnica"
 	done
 
 Item4LaboratoryText: ; 3bd8b (e:7d8b)
-	text "4. Laboratory"
+	text "4. Laboratorium"
 	done
 
 Item5PromotionalCardText: ; 3bd9a (e:7d9a)
-	text "5. Promotional Card"
+	text "5. Karta Promocyjna"
 	done
 
 ViewWhichCardFileText: ; 3bdaf (e:7daf)
-	text "View which Card File?"
+	text "Który plik kart pokazać?"
 	done
 
 EmptyPromotionalCardText: ; 3bdc6 (e:7dc6)
@@ -1839,7 +1821,7 @@ EmptyPromotionalCardText: ; 3bdc6 (e:7dc6)
 	done
 
 SCardsText: ; 3bdd1 (e:7dd1)
-	text "'s Cards"
+	text ": Karty"
 	done
 
 EmptyDeckNameText: ; 3bddb (e:7ddb)
@@ -1847,28 +1829,28 @@ EmptyDeckNameText: ; 3bddb (e:7ddb)
 	done
 
 DeckSaveMachineText: ; 3bdea (e:7dea)
-	text "  Deck Save Machine   "
+	text " Maszyna zapisu talii "
 	done
 
 SaveADeckText: ; 3be02 (e:7e02)
-	text "Save a Deck"
+	text "Zapisz talię"
 	done
 
 DeleteADeckText: ; 3be0f (e:7e0f)
-	text "Delete a Deck"
+	text "Usuń talię"
 	done
 
 BuildADeckText: ; 3be1e (e:7e1e)
-	text "Build a Deck"
+	text "Złóż talię"
 	done
 
 ChooseADeckToSaveText: ; 3be2c (e:7e2c)
-	text "Choose a Deck to Save."
+	text "Wybierz talię do zapisu."
 	done
 
 Text0261: ; 3be44 (e:7e44)
-	text "You may only Save 60 Decks."
-	line "Please Delete a Deck first."
+	text "Możesz zapisać tylko 60 talii."
+	line "Najpierw usuń talię."
 	done
 
 Text0262: ; 3be7d (e:7e7d)
@@ -1876,32 +1858,32 @@ Text0262: ; 3be7d (e:7e7d)
 	done
 
 SavedTheConfigurationForText: ; 3be82 (e:7e82)
-	text "Saved the configuration for"
+	text "Zapisano talię dla"
 	line ""
 	text "<RAMTEXT>! "
 	done
 
 Text0264: ; 3bea4 (e:7ea4)
-	text "No Deck is saved."
+	text "Nie zapisano żadnej talii."
 	done
 
 Text0265: ; 3beb7 (e:7eb7)
-	text "Please choose a Deck "
-	line "configuration to delete."
+	text "Wybierz plan talii"
+	line "do usunięcia."
 	done
 
 DoYouReallyWishToDeleteText: ; 3bee7 (e:7ee7)
-	text "Do you really wish to delete?"
+	text "Naprawdę chcesz usunąć?"
 	done
 
 DeletedTheConfigurationForText: ; 3bf06 (e:7f06)
-	text "Deleted the configuration for"
+	text "Usunięto plan talii dla"
 	line ""
 	text "<RAMTEXT>."
 	done
 
 YouMayOnlyCarry4DecksText: ; 3bf29 (e:7f29)
-	text "You may only carry 4 Decks!"
+	text "Możesz nosić tylko 4 talie!"
 	done
 
 	ds $26
