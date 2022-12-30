@@ -798,13 +798,13 @@ DuelistDeckText: ; 373ab (d:73ab)
 	done
 
 PleaseSelectHandText: ; 373b5 (d:73b5)
-	text "Wybierz:"
-	line "Ręka."
+	text "Wybierz kartę"
+	line "z ręki."
 	done
 
 PleaseSelectCardText: ; 373ca (d:73ca)
-	text "Wybierz:"
-	line "Karta."
+	text "Wybierz"
+	line "Kartę."
 	done
 
 NoPokemonWithDamageCountersText: ; 373df (d:73df)

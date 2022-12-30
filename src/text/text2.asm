@@ -1712,11 +1712,11 @@ NoCardsChosenText: ; 3bbf8 (e:7bf8)
 	done
 
 YourPokemonText: ; 3bc0a (e:7c0a)
-	text "Twój Pokémon"
+	text "Twoje Pokémony"
 	done
 
 YourDiscardPileText2: ; 3bc18 (e:7c18)
-	text "Twój stos odrzuconych"
+	text "Twój stos kart odrzuconych"
 	done
 
 YourHandText: ; 3bc2b (e:7c2b)
@@ -1732,7 +1732,7 @@ OpponentsPokemonText: ; 3bc49 (e:7c49)
 	done
 
 OpponentsDiscardPileText2: ; 3bc5d (e:7c5d)
-	text "Stos Odrzuconych Rywala"
+	text "Stos Kart Odrzuconych Rywala"
 	done
 
 OpponentsHandText: ; 3bc76 (e:7c76)
