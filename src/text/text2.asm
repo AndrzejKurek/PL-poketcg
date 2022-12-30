@@ -1,3 +1,8 @@
+IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
+	text "Pikachu: nie otrzymasz obrażeń"
+	line "podczas tury wroga!"
+	done
+	
 Text00f2: ; 37f9a (d:7f9a)
 	text "Test obrażeń"
 	done

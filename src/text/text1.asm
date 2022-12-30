@@ -1132,9 +1132,4 @@ CardCheckIfHeads8CardsIfTails1CardText: ; 37f24 (d:7f24)
 	line "Pikachu: 8 kart! Reszka: 1 karta!"
 	done
 
-IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
-	text "Pikachu: nie otrzymasz obrażeń"
-	line "podczas tury wroga!"
-	done
-
 	ds $d
