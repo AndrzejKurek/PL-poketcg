@@ -212,33 +212,33 @@ ChooseUpTo3PkmnOnBenchToGiveDamageText: ; 3879b (e:479b)
 	done
 
 Choose1BasicEnergyCardFromDeckText: ; 387d3 (e:47d3)
-	text "Wybierz 1 Podstawową kartę energii"
+	text "Wybierz 1 podstawową kartę Energii"
 	line "z Talii."
 	done
 
 ChoosePokemonToAttachEnergyCardText: ; 387fe (e:47fe)
 	text "Wybierz Pokémona aby dołączyć"
-	line "do niego kartę energii."
+	line "do niego kartę Energii."
 	done
 
 Text011e: ; 3882e (e:482e)
 	text "Wybierz i odrzuć"
-	line "1 kartę ognistej energii."
+	line "1 kartę Energii Ognia."
 	done
 
 ChooseAndDiscard2FireEnergyCardsText: ; 38856 (e:4856)
 	text "Wybierz i odrzuć"
-	line "2 karty ognistej energii."
+	line "2 karty Energii ognia."
 	done
 
 DiscardOppDeckAsManyFireEnergyCardsText: ; 3887f (e:487f)
 	text "Odrzuć z Talii przeciwnika tyle kart"
-	line "energii ognistej, ile odrzucono."
+	line "Energii Ognia, ile odrzucono."
 	done
 
 ChooseAndDiscard2EnergyCardsText: ; 388ca (e:48ca)
 	text "Wybierz i odrzuć"
-	line "2 karty energii."
+	line "2 karty Energii."
 	done
 
 ChooseAKrabbyFromDeckText: ; 388ee (e:48ee)
@@ -247,7 +247,7 @@ ChooseAKrabbyFromDeckText: ; 388ee (e:48ee)
 	done
 
 ChooseDiscardEnergyCardFromOpponentText: ; 3890e (e:490e)
-	text "Wybierz i odrzuć kartę energii"
+	text "Wybierz i odrzuć kartę Energii"
 	line "z aktywnego Pokémona przeciwnika."
 	done
 
@@ -276,7 +276,7 @@ ChooseAKrabbyText: ; 38a02 (e:4a02)
 
 ChooseBasicEnergyCardText: ; 38a14 (e:4a14)
 	text "Wybierz Podstawową"
-	line "kartę energii."
+	line "kartę Energii."
 	done
 
 ChooseNidoranFromDeckText: ; 38a31 (e:4a31)
@@ -295,14 +295,14 @@ ChooseBasicFightingPokemonText: ; 38a83 (e:4a83)
 	done
 
 ProcedureForEnergyTransferText: ; 38aa4 (e:4aa4)
-	text "Procedura transferu energii:"
+	text "Procedura Transferu Energii:"
 	line ""
 	line "1. Wybierz Pokémona, któremu"
-	line "   zabierzesz trawiastą energię."
+	line "   zabierzesz Energię Trawy."
 	line "   Naciśnij ”A”."
 	line ""
 	line "2. Wybierz Pokémona, któremu"
-	line "   przekażesz energię. Naciśnij ”A”."
+	line "   przekażesz Energię. Naciśnij ”A”."
 	line ""
 	line "3. Powtórz kroki 1 i 2."
 	line ""
@@ -338,19 +338,19 @@ ProcedureForCurseText: ; 38bfe (e:4bfe)
 	done
 
 Choose2EnergyCardsFromDiscardPileToAttachText: ; 38cda (e:4cda)
-	text "Wybierz 2 karty energii ze stosu"
+	text "Wybierz 2 karty Energii ze stosu"
 	line "kart odrzuconych aby dołączyć je"
 	line "do Pokémona."
 	done
 
 Choose2EnergyCardsFromDiscardPileForHandText: ; 38d1e (e:4d1e)
-	text "Wybierz 2 karty energii ze stosu"
+	text "Wybierz 2 karty Energii ze stosu"
 	line "odrzuconych aby wziąć je na Rękę."
 	done
 
 ChooseAnEnergyCardText: ; 38d5a (e:4d5a)
 	text "Wybierz kartę"
-	line "energii."
+	line "Energii."
 	done
 
 ProcedureForProphecyText: ; 38d72 (e:4d72)
@@ -466,7 +466,7 @@ FightingPokemonDeckText: ; 392f8 (e:52f8)
 	done
 
 BasicEnergyText: ; 3930a (e:530a)
-	text "Podstawowa energia"
+	text "Podstawowa Energia"
 	done
 
 PeekWasUsedToLookInYourHandText: ; 39318 (e:5318)
@@ -505,12 +505,12 @@ ThereWasNoEffectFromTxRam2Text: ; 393ff (e:53ff)
 
 TheEnergyCardFromPlayAreaWasMovedText: ; 3941c (e:541c)
 	text "<RAMNAME>! Z twego pola gry"
-	line "przesunięto kartę energii."
+	line "przesunięto kartę Energii."
 	done
 
 DrewFireEnergyFromTheHandText: ; 3944b (e:544b)
 	text "<RAMNAME> bierze <RAMNUM>"
-	line "kart ognistej energii z Ręki."
+	line "kart Energii Ognia z Ręki."
 	done
 
 ThePkmnCardsInHandAndDeckWereShuffledText: ; 39470 (e:5470)
@@ -733,7 +733,7 @@ PokemonDevolvedToText: ; 39b46 (e:5b46)
 	done
 
 ThereWasNoFireEnergyText: ; 39b58 (e:5b58)
-	text "Nie było kart ognistej energii."
+	text "Nie było kart Energii Ognia."
 	done
 
 YouCanSelectMoreCardsQuitText: ; 39b73 (e:5b73)
@@ -964,11 +964,11 @@ PressBToFinishPracticeDuelText: ; 3a321 (e:6321)
 
 Turn1Instr1PracticeDuelText: ; 3a36f (e:636f)
 	text "1. Wybierz Rękę z Menu."
-	line "   Wybierz kartę Wodnej Energii."
+	line "   Wybierz kartę Energii Wody."
 	done
 
 Turn1Instr2PracticeDuelText: ; 3a3ad (e:63ad)
-	text "2. Dołącz kartę Wodnej Energii"
+	text "2. Dołącz kartę Energii Wody"
 	line "   do aktywnego Pokémona, Goldeen."
 	done
 
@@ -983,7 +983,7 @@ Turn2Instr1PracticeDuelText: ; 3a42b (e:642b)
 	done
 
 Turn2Instr2PracticeDuelText: ; 3a45d (e:645d)
-	text "2. Dołącz kartę energii psychicznej"
+	text "2. Dołącz kartę Energii Psychiki"
 	line "   do wyewoluowanego Seaking'a."
 	done
 
@@ -993,7 +993,7 @@ Turn2Instr3PracticeDuelText: ; 3a499 (e:6499)
 	done
 
 Turn3Instr1PracticeDuelText: ; 3a4df (e:64df)
-	text "1. Dołącz Wodną Energię do"
+	text "1. Dołącz Energię Wody do"
 	line "   Staryu z ławki."
 	done
 
@@ -1011,7 +1011,7 @@ Turn4Instr1PracticeDuelText: ; 3a55a (e:655a)
 	done
 
 Turn4Instr2PracticeDuelText: ; 3a597 (e:6597)
-	text "2. Dołącz Wodną Energię do"
+	text "2. Dołącz Energię Wody do"
 	line "   Drowzee z ławki."
 	done
 
@@ -1021,7 +1021,7 @@ Turn4Instr3PracticeDuelText: ; 3a5d2 (e:65d2)
 	done
 
 Turn5Instr1PracticeDuelText: ; 3a611 (e:6611)
-	text "1. Wybierz Wodną Energię z ręki"
+	text "1. Wybierz Energię Wody z ręki"
 	line "   i dołącz ją do Staryu."
 	done
 
@@ -1036,7 +1036,7 @@ Turn6Instr1PracticeDuelText: ; 3a697 (e:6697)
 	done
 
 Turn6Instr2PracticeDuelText: ; 3a6da (e:66da)
-	text "2. Wybierz Wodną Energię z ręki"
+	text "2. Wybierz Energię Wody z ręki"
 	line "   i dołącz ją do Staryu."
 	done
 
@@ -1082,13 +1082,13 @@ Turn1DrMason1PracticeDuelText: ; 3a8f1 (e:68f1)
 	line "dołączyć do niego Karty Energii."
 	line ""
 	line "Wybierz Rękę z Menu, a następnie"
-	line "wybierz kartę Wodnej Energii."
+	line "wybierz kartę Energii Wody."
 	done
 
 Turn1DrMason2PracticeDuelText: ; 3a97b (e:697b)
 	text "Wybierz aktywnego Pokémona,"
 	line "Goldeen, i naciśnij przycisk ”A”."
-	line "W ten sposób karta Wodnej Energii"
+	line "W ten sposób karta Energii Wody"
 	line "będzie dołączona do Goldeen."
 	done
 
@@ -1108,12 +1108,12 @@ Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
 	text "Seaking nie ma wystarczająco"
-	line "energii żeby użyć Wodospadu."
-	line "Dołącz kartę Psychicznej Energii"
+	line "Energii żeby użyć Wodospadu."
+	line "Dołącz kartę Energii Psychiki"
 	line "do Seaking'a."
 	line "<COLORLESS> oznacza jakąkolwiek"
-	line "kartę energii. Teraz możesz użyć"
-	line "wodospadu. Kartę Wodnej Energii"
+	line "kartę Energii. Teraz możesz użyć"
+	line "wodospadu. Kartę Energii Wody"
 	line "zachowaj dla pozostałych Pokémonów."
 	done
 
@@ -1129,7 +1129,7 @@ Turn3DrMason1PracticeDuelText: ; 3ac15 (e:6c15)
 	line "Pokémonach z ławki, aby przygotować"
 	line "je do walki."
 	line ""
-	line "Dołącz kartę Wodnej Energii do"
+	line "Dołącz kartę Energii Wody do"
 	line "Staryu z ławki."
 	done
 
@@ -1157,7 +1157,7 @@ Turn4DrMason1PracticeDuelText: ; 3addd (e:6ddd)
 	done
 
 Turn4DrMason2PracticeDuelText: ; 3ae7d (e:6e7d)
-	text "Dołącz kartę Wodnej Energii do"
+	text "Dołącz kartę Energii Wody do"
 	line "Drowzee aby go przygotować do"
 	line "ataku."
 	done
@@ -1173,7 +1173,7 @@ Turn5DrMason1PracticeDuelText: ; 3af04 (e:6f04)
 	line "Przygotujmy Staryu do użycia"
 	line "ataku Starmie po ewolucji."
 	line ""
-	line "Wybierz kartę Wodnej Energii"
+	line "Wybierz kartę Energii Wody"
 	line "z ręki i dołącz ją do Staryu."
 	done
 
@@ -1190,7 +1190,7 @@ Turn6DrMason1PracticeDuelText: ; 3afe6 (e:6fe6)
 Turn6DrMason2PracticeDuelText: ; 3b02e (e:702e)
 	text "Przygotujmy się do ewolucji"
 	line "w Starmie."
-	line "Dołącz kartę Wodnej Energii"
+	line "Dołącz kartę Energii Wody"
 	line "do Staryu."
 	done
 
@@ -1834,7 +1834,7 @@ EmptyDeckNameText: ; 3bddb (e:7ddb)
 	done
 
 DeckSaveMachineText: ; 3bdea (e:7dea)
-	text " Maszyna zapisu talii "
+	text " Automat zapisu talii "
 	done
 
 SaveADeckText: ; 3be02 (e:7e02)
@@ -1863,9 +1863,9 @@ Text0262: ; 3be7d (e:7e7d)
 	done
 
 SavedTheConfigurationForText: ; 3be82 (e:7e82)
-	text "Zapisano talię dla"
+	text "Zapisano plan talii"
 	line ""
-	text "<RAMTEXT>! "
+	text "<RAMTEXT>!"
 	done
 
 Text0264: ; 3bea4 (e:7ea4)

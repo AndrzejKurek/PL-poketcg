@@ -91,39 +91,39 @@ TypesOfCardsText: ; 363c0 (d:63c0)
 	done
 
 GrassPokemonText: ; 363d0 (d:63d0)
-	text "Pokémon trawiasty"
+	text "Pokémon Trawy"
 	done
 
 FirePokemonText: ; 363df (d:63df)
-	text "Pokémon ognisty"
+	text "Pokémon Ognia"
 	done
 
 WaterPokemonText: ; 363ed (d:63ed)
-	text "Pokémon wodny"
+	text "Pokémon Wody"
 	done
 
 LightningPokemonText: ; 363fc (d:63fc)
-	text "Pokémon elektryczny"
+	text "Pokémon Elektryczny"
 	done
 
 FightingPokemonText: ; 3640f (d:640f)
-	text "Pokémon walczący"
+	text "Pokémon Walki"
 	done
 
 PsychicPokemonText: ; 36421 (d:6421)
-	text "Pokémon psychiczny"
+	text "Pokémon Psychiki"
 	done
 
 ColorlessPokemonText: ; 36432 (d:6432)
-	text "Pokémon bezbarwny"
+	text "Pokémon Bezbarwny"
 	done
 
 TrainerCardText: ; 36445 (d:6445)
-	text "Karta trenera"
+	text "Karta Trenera"
 	done
 
 EnergyCardText: ; 36453 (d:6453)
-	text "Karta energii"
+	text "Karta Energii"
 	done
 
 DeckPrinterText: ; 36460 (d:6460)
@@ -178,7 +178,7 @@ UnableToUseItText: ; 36563 (d:6563)
 	done
 
 NoEnergyCardsText: ; 36576 (d:6576)
-	text "Brak kart energii."
+	text "Brak kart Energii."
 	done
 
 IsThisOKText: ; 36588 (d:6588)
@@ -254,7 +254,7 @@ UnableToRetreatText: ; 366c5 (d:66c5)
 	done
 
 MayOnlyAttachOneEnergyCardText: ; 366d9 (d:66d9)
-	text "Można dołączyć tylko 1 kartę energii"
+	text "Można dołączyć tylko 1 kartę Energii"
 	line "na turę."
 	done
 
@@ -293,12 +293,12 @@ UnableToSelectText: ; 36808 (d:6808)
 	done
 
 ColorListText: ; 3681b (d:681b)
-	text "Trawiasta"
-	line "Ognista"
-	line "Wodna"
+	text "Trawy"
+	line "Ognia"
+	line "Wody"
 	line "Elektryczna"
-	line "Walcząca"
-	line "Psychiczna"
+	line "Walki"
+	line "Psychiki"
 	done
 
 GrassSymbolText: ; 36848 (d:6848)
@@ -339,7 +339,7 @@ DamageToSelfDueToConfusionText: ; 3686c (d:686c)
 	done
 
 ChooseEnergyCardToDiscardText: ; 36891 (d:6891)
-	text "Wybierz kartę energii"
+	text "Wybierz kartę Energii"
 	line "do odrzucenia."
 	done
 
@@ -817,17 +817,17 @@ NoDamageCountersText: ; 3740b (d:740b)
 	done
 
 NoEnergyAttachedToOpponentsActiveText: ; 3742a (d:742a)
-	text "Nie ma kart energii dołączonych"
+	text "Nie ma kart Energii dołączonych"
 	line "do aktywnego Pokémona przeciwnika."
 	done
 
 ThereAreNoEnergyCardsInDiscardPileText: ; 3746a (d:746a)
-	text "Nie ma kart energii na stosie"
+	text "Nie ma kart Energii na stosie"
 	line "kart odrzuconych."
 	done
 
 ThereAreNoBasicEnergyCardsInDiscardPileText: ; 3749e (d:749e)
-	text "Nie ma podstawowych kart energii"
+	text "Nie ma podstawowych Kart Energii"
 	line "na stosie kart odrzuconych."
 	done
 
@@ -889,34 +889,34 @@ ThereAreNoStage1PokemonText: ; 376a9 (d:76a9)
 	done
 
 NoEnergyCardsAttachedToPokemonInYourPlayAreaText: ; 376d9 (d:76d9)
-	text "Nie ma kart energii dołączonych do"
+	text "Nie ma kart Energii dołączonych do"
 	line "twoich Pokémonów w obszarze gry."
 	done
 
 NoEnergyCardsAttachedToPokemonInOppPlayAreaText: ; 37715 (d:7715)
-	text "Nie ma kart energii dołączonych do"
+	text "Nie ma kart Energii dołączonych do"
 	line "wrogich Pokémonów w obszarze gry."
 	done
 
 EnergyCardsRequiredToRetreatText: ; 37758 (d:7758)
-	text "Potrzebujesz <RAMNUM> kart energii"
+	text "Potrzebujesz <RAMNUM> kart Energii"
 	line "aby wycofać Pokémona."
 	done
 
 NotEnoughEnergyCardsText: ; 37781 (d:7781)
-	text "Za mało kart energii."
+	text "Za mało kart Energii."
 	done
 
 NotEnoughFireEnergyText: ; 3779b (d:779b)
-	text "Za mało ognistej energii."
+	text "Za mało Energii Ognia."
 	done
 
 NotEnoughPsychicEnergyText: ; 377b4 (d:77b4)
-	text "Za mało psychicznej energii."
+	text "Za mało Energii Psychiki."
 	done
 
 NotEnoughWaterEnergyText: ; 377d0 (d:77d0)
-	text "Za mało wodnej energii."
+	text "Za mało Energii Wody."
 	done
 
 ThereAreNoTrainerCardsInDiscardPileText: ; 377ea (d:77ea)
@@ -961,11 +961,11 @@ CannotBeUsedInTurnWhichWasPlayedText: ; 378ef (d:78ef)
 	done
 
 ThereIsNoEnergyCardAttachedText: ; 37923 (d:7923)
-	text "Nie ma dołączonych kart energii."
+	text "Nie ma dołączonych kart Energii."
 	done
 
 NoGrassEnergyText: ; 37946 (d:7946)
-	text "Nie ma trawiastej energii."
+	text "Nie ma Energii Trawy."
 	done
 
 CannotUseSinceTheresOnly1PkmnText: ; 37958 (d:7958)
