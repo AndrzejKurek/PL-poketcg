@@ -755,14 +755,14 @@ DiscardPileDescriptionText: ; 3d6d0 (f:56d0)
 
 HandDescriptionText: ; 3d769 (f:5769)
 	text "Karty trzymane przez gracza nazywane"
-	line "są ręką. Nie ma ograniczenia co do"
+	line "są ręką . Nie ma ograniczenia co do"
 	line "liczby kart w twojej ręce."
 	line "Możesz mieć w niej nawet 20 kart."
 	done
 
 ArenaDescriptionText: ; 3d807 (f:5807)
 	text "Miejsce, w którym walczą aktywne"
-	line "Pokémony nazywane jest areną."
+	line "Pokémony nazywane jest areną ."
 	line "Gramy używając ataków i umiejętności"
 	line "aktywnych Pokémonów z areny."
 	done
@@ -1539,67 +1539,67 @@ OpponentDeckNameText: ; 3f4f9 (f:74f9)
 	done
 
 FightingClubMemberText: ; 3f501 (f:7501)
-	text "Członek klubu walczącego"
+	text "Członek Klubu Walki"
 	done
 
 RockClubMemberText: ; 3f517 (f:7517)
-	text "Członek klubu kamiennego"
+	text "Członek Klubu Kamienia"
 	done
 
 WaterClubMemberText: ; 3f529 (f:7529)
-	text "Członek klubu wodnego"
+	text "Członek Klubu Wody"
 	done
 
 LightningClubMemberText: ; 3f53c (f:753c)
-	text "Członek klubu elektrycznego"
+	text "Członek Klubu Elektrycznego"
 	done
 
 GrassClubMemberText: ; 3f553 (f:7553)
-	text "Członek klubu trawiastego"
+	text "Członek Klubu Trawy"
 	done
 
 PsychicClubMemberText: ; 3f566 (f:7566)
-	text "Członek klubu psychicznego"
+	text "Członek Klubu Psychiki"
 	done
 
 ScienceClubMemberText: ; 3f57b (f:757b)
-	text "Członek klubu naukowego"
+	text "Członek Klubu Nauki"
 	done
 
 FireClubMemberText: ; 3f590 (f:7590)
-	text "Członek klubu ognistego"
+	text "Członek Klubu Ognia"
 	done
 
 FightingClubMasterText: ; 3f5a2 (f:75a2)
-	text "Mistrz klubu walczącego"
+	text "Mistrz Klubu Walki"
 	done
 
 RockClubMasterText: ; 3f5b8 (f:75b8)
-	text "Mistrz klubu kamiennego"
+	text "Mistrz Klubu Kamienia"
 	done
 
 WaterClubMasterText: ; 3f5ca (f:75ca)
-	text "Mistrz klubu wodnego"
+	text "Mistrz Klubu Wody"
 	done
 
 LightningClubMasterText: ; 3f5dd (f:75dd)
-	text "Mistrz klubu elektrycznego"
+	text "Mistrz Klubu Elektrycznego"
 	done
 
 GrassClubMasterText: ; 3f5f4 (f:75f4)
-	text "Mistrz klubu trawiastego"
+	text "Mistrz Klubu Trawy"
 	done
 
 PsychicClubMasterText: ; 3f607 (f:7607)
-	text "Mistrz klubu psychicznego"
+	text "Mistrz Klubu Psychiki"
 	done
 
 ScienceClubMasterText: ; 3f61c (f:761c)
-	text "Mistrz klubu naukowego"
+	text "Mistrz Klubu Nauki"
 	done
 
 FireClubMasterText: ; 3f631 (f:7631)
-	text "Mistrz klubu ognistego"
+	text "Mistrz Klubu Ognia"
 	done
 
 EmptyText: ; 3f643 (f:7643)
@@ -2012,7 +2012,7 @@ Text0403: ; 3fe10 (f:7e10)
 	line "To ja, Doktor Mason."
 	line "Mam dla Ciebie trochę informacji o"
 	line "talii Mitcha - jest mistrzem"
-	line "Walczącego Klubu. Jego talia"
+	line "Klubu Walki. Jego talia"
 	line "szybkiego ataku ma słabość - są"
 	line "nią Pokémony psychiczne!"
 	line "Proponuję walczyć z nim używając"
@@ -2023,7 +2023,7 @@ Text0403: ; 3fe10 (f:7e10)
 
 Text0404: ; 3ff4d (f:7f4d)
 	text "<RAMNAME>, wierzę w Ciebię!"
-	line "Wygraj medal klubu walczących!"
+	line "Wygraj medal Klubu Walki!"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"
 	done

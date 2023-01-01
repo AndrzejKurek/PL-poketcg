@@ -59,7 +59,7 @@ Text05df: ; 4c501 (13:4501)
 Text05e0: ; 4c5a1 (13:45a1)
 	text "I jak, własna Talia już zbudowana?"
 	line "Mocne i słabe strony Talii zależą"
-	line "od tego jak będziesz nią grać!"
+	line "od tego, jak będziesz nią grać!"
 	line "Jeśli będziesz grać umiejętnie,"
 	line "na pewno staniesz się"
 	line "Mistrzem Kart Pokémon!"
@@ -70,7 +70,7 @@ Text05e1: ; 4c66a (13:466a)
 	line "Słyszałem że masz już"
 	line "Legendarne Karty Pokémon!"
 	line "Siła Talii nie opiera się na żadnej"
-	line "pojedynczej karcie, ale na tym"
+	line "pojedynczej karcie, ale na tym,"
 	line "jak umiejętnie jesteś w stanie je"
 	line "wykorzystywać."
 	line "Moc Legendarnych Pokémonów"
@@ -99,7 +99,7 @@ Text05e3: ; 4c86f (13:486f)
 	line "Cóż, pojedynki są o wiele ciekawsze"
 	line "niż samo zbieranie kart!"
 	line "Najpierw spróbuj zagrać"
-	line "talią testową."
+	line "talią testową ."
 	line "Proszę, weź jedną ode mnie."
 	line "No tak, potrzebujesz jeszcze"
 	line "przeciwnika! Sam, podejdziesz?"
@@ -112,7 +112,7 @@ Text05e4: ; 4c9d7 (13:49d7)
 	done
 
 Text05e5: ; 4c9f2 (13:49f2)
-	text "OK!"
+	text "Dobrze!"
 	line "Spróbujmy zagrać!"
 	done
 
@@ -127,7 +127,7 @@ Text05e7: ; 4ca2a (13:4a2a)
 	done
 
 Text05e8: ; 4ca52 (13:4a52)
-	text "OK, <RAMNAME>."
+	text "Dobra, <RAMNAME>."
 	line "O co chcesz zapytać?"
 	done
 
@@ -147,7 +147,7 @@ Text05ea: ; 4ca87 (13:4a87)
 	line "Może łatwiej będzie Ci grać czytając"
 	line "instrukcję do gry ”Pokémon Trading"
 	line "Card Game”?"
-	line "OK, zaczynajmy walkę treningową!"
+	line "Dobrze, zacznijmy walkę treningową!"
 	done
 
 Text05eb: ; 4cbfe (13:4bfe)
@@ -162,13 +162,14 @@ Text05ec: ; 4ccbe (13:4cbe)
 	done
 
 Text05ed: ; 4cce1 (13:4ce1)
-	text "OK. Zacznijmy kolejną"
+	text "Dobrze. Zacznijmy kolejną"
 	line "walkę treningową!"
 	done
 
 Text05ee: ; 4cd0e (13:4d0e)
-	text "OK, ale jeśli czegoś nie rozumiesz,"
-	line "dobrze jest jeszcze raz potrenować."
+	text "Dobrze, ale jak czegoś nie"
+	line "rozumiesz to dobrze jest to"
+	line "jeszcze raz potrenować."
 	done
 
 Text05ef: ; 4cd66 (13:4d66)
@@ -288,7 +289,7 @@ Text05fe: ; 4d4e2 (13:54e2)
 	done
 
 Text05ff: ; 4d501 (13:5501)
-	text "Dobrze jest wiedzieć jak sobie"
+	text "Dobrze jest wiedzieć, jak sobie"
 	line "radzi Twoja Talia."
 	done
 
@@ -303,7 +304,7 @@ Text0601: ; 4d56a (13:556a)
 
 Text0602: ; 4d574 (13:5574)
 	text "Ho-ho! Dobra, zacznijmy"
-	line "walkę o 4 nagrody!"
+	line "walkę z 4 Nagrodami!"
 	done
 
 Text0603: ; 4d59e (13:559e)
@@ -415,7 +416,7 @@ Text0614: ; 4d99f (13:599f)
 Text0615: ; 4da6d (13:5a6d)
 	text "Wymienisz się?!"
 	line "Mega, dzieciaku!"
-	line "OK, dam Ci w zamian mojego"
+	line "Daję Ci w zamian mojego"
 	line ""
 	text "<Lv>20 Electabuzz!"
 	done
@@ -436,7 +437,7 @@ Text0618: ; 4db74 (13:5b74)
 	text "Ciekawe czy Legendarne Karty"
 	line "Pokémon są ładne?"
 	line "Jeśli błyszczą to na pewno"
-	line "mi się spodobają."
+	line "mi się spodobają ."
 	done
 
 Text0619: ; 4dbcb (13:5bcb)
@@ -455,7 +456,7 @@ Text061a: ; 4dc30 (13:5c30)
 
 Text061b: ; 4dca0 (13:5ca0)
 	text "Czyż Pikachu nie jest uroczy?"
-	line "Rozpływam się jak tylko widzę"
+	line "Rozpływam się, jak tylko widzę"
 	line "te słodkie, malutkie oczy!"
 	line "Hej, chcesz powalczyć przeciwko"
 	line "mojej Talii Pikachu?"
@@ -471,7 +472,7 @@ Text061d: ; 4dd47 (13:5d47)
 	done
 
 Text061e: ; 4dd83 (13:5d83)
-	text "OK! Zagrajmy z 4 Nagrodami!"
+	text "Zagrajmy z 4 Nagrodami!"
 	done
 
 Text061f: ; 4dda7 (13:5da7)
@@ -506,7 +507,7 @@ Text0624: ; 4debf (13:5ebf)
 	done
 
 Text0625: ; 4def6 (13:5ef6)
-	text "OK! Zaczynajmy!"
+	text "Dobra, zaczynajmy!"
 	line "Zagramy z 4 Nagrodami!"
 	done
 
@@ -548,12 +549,12 @@ Text062c: ; 4e0da (13:60da)
 	done
 
 Text062d: ; 4e0fb (13:60fb)
-	text "Och, OK."
+	text "Och, dobra."
 	line "Możemy powalczyć kiedy indziej."
 	done
 
 Text062e: ; 4e11c (13:611c)
-	text "OK, 4 Nagrody!"
+	text "Dobra, 4 Nagrody!"
 	line "Możemy zaczynać? Do dzieła!"
 	done
 
@@ -629,7 +630,7 @@ Text063a: ; 4e46d (13:646d)
 
 Text063b: ; 4e4a6 (13:64a6)
 	text "I co? Jak ci się podoba moja Talia?"
-	line "Błyszczy, podobnie jak ta scena!"
+	line "Błyszczy, podobnie, jak ta scena!"
 	line "Wpadnij na kolejny pojedynek!"
 	done
 
@@ -661,456 +662,455 @@ Text0640: ; 4e5d9 (13:65d9)
 
 Text0641: ; 4e61a (13:661a)
 	text "I co? Jak ci się podoba moja Talia?"
-	line "Błyszczy, podobnie jak ta scena!"
+	line "Błyszczy, podobnie, jak ta scena!"
 	line "Wpadnij na kolejny pojedynek!"
 	done
 
 Text0642: ; 4e671 (13:6671)
-	text "Greetings."
-	line "Welcome to the Psychic Club!"
-	line "This Club is for people who use"
-	line "Psychic Pokémon."
-	line "Psychic Pokémon are difficult to "
-	line "use, but they're very strong."
+	text "Witaj."
+	line "Przekraczasz próg Klubu Psychiki!"
+	line "To Klub przeznaczony dla graczy"
+	line "używających Pokémonów Psychiki."
+	line "Pokémony te są trudniejsze w użyciu,"
+	line "ale rekompensują to sporą mocą ."
 	done
 
 Text0643: ; 4e70b (13:670b)
-	text "What? You also want the Legendary"
-	line "Pokémon Cards?"
-	line "I want them too, but I'm still "
-	line "not quite good enough."
+	text "Co? Też chcesz Legendarne Karty"
+	line "Pokémon?"
+	line "Ja także ich pragnę, ale jeszcze"
+	line "nie jestem zbyt dobry..."
 	done
 
 Text0644: ; 4e774 (13:6774)
-	text "I hear you got the Legendary"
-	line "Pokémon Cards."
-	line "Wow! That's great!"
-	line "I'm going to train so I can get"
-	line "them myself!"
+	text "Podobno masz Legendarne"
+	line "Karty Pokémon!"
+	line "łał! To super!"
+	line "Muszę jeszcze sporo trenować,"
+	line "może wtedy też je dostanę!"
 	done
 
 Text0645: ; 4e7e1 (13:67e1)
-	text "Well, getting the <RAMTEXT> Medal "
-	line "wasn't that hard! If I keep "
-	line "this up, I should be able to get "
-	line "the Legendary Pokémon Cards!"
+	text "Cóż, Medal <RAMTEXT> wcale nie był"
+	line "taki trudny do zdobycia. Z takim"
+	line "tempem powinienem niedługo zdobyć"
+	line "Legendarne Karty Pokémon!"
 	done
 
 Text0646: ; 4e859 (13:6859)
-	text "What? It's you, <RAMNAME>!"
-	line "What are you doing?"
-	line "Huh? That's a Deck!"
-	line "Are you... trying to get the"
-	line "Legendary Pokémon Cards?"
+	text "Hę? A, to ty, <RAMNAME>!"
+	line "Co ty tu robisz?"
+	line "Eee...? Masz Talię Kart!"
+	line "Czy ty... próbujesz dostać"
+	line "Legendarne Karty Pokémon?"
 	done
 
 Text0647: ; 4e8cb (13:68cb)
-	text "It's useless trying to hide it!"
-	line "I know you came here for the Medal!"
-	line "You're out of your league!"
+	text "Nie ukryjesz tego przede mną!"
+	line "Wiem, że jesteś tu po Medal!"
+	line "Gracze tutaj są zupełnie spoza"
+	line "twojej ligi!"
 	done
 
 Text0648: ; 4e92b (13:692b)
-	text "What!?! I can't believe it!"
-	line "You? The Legendary Pokémon Cards?"
-	line "Ha ha ha ha ha!"
-	line "Don't make me laugh!!!"
+	text "Co?! No nie wierzę!"
+	line "Ty?! Legendarne Karty Pokémon?"
+	line "Hahahahaha!"
+	line "Nie rozśmieszaj mnie!"
 	done
 
 Text0649: ; 4e991 (13:6991)
-	text "Alright! Listen up!"
-	line "I'll teach you what it's about!"
-	line "To inherit the Legendary Pokémon"
-	line "Cards, you must defeat the 8 Club"
-	line "Masters and get the 8 Medals!"
-	line "Then you have to go to Pokémon"
-	line "Dome and defeat all 4 of the "
-	line "Grand Masters there!!!"
-	line "There's no way you can do it!!!"
-	line "You might as well just give up"
-	line "and go home!"
-	line "'Cause the Legendary Pokémon Cards"
-	line "are gonna be mine!"
-	line "I already won the first Medal!"
-	line "See ya, <RAMNAME>!"
-	line "Ha ha ha ha ha!!!"
+	text "No dobra, słuchaj!"
+	line "Powiem Ci o co tu chodzi!"
+	line "żeby odziedziczyć Legendarne Karty"
+	line "Pokémon, musisz pokonać 8 Mistrzów"
+	line "Klubów i dostać od nich 8 Medali!"
+	line "Dopiero wtedy, na Stadionie Pokémon,"
+	line "możesz wyzwać na pojedynek czworo"
+	line "Arcymistrzów! Nie ma mowy że"
+	line "dasz radę ich pokonać. Równie"
+	line "dobrze możesz już się poddać"
+	line "i wrócić do domu!"
+	line "Legendarne Karty Pokémon będą moje!"
+	line "Już wygrałem pierwszy Medal!"
+	line "Na razie, <RAMNAME>!"
+	line "Hahahahaha!"
 	done
 
 Text064a: ; 4eb39 (13:6b39)
-	text "Hi, <RAMNAME>!"
-	line "How ya doin'?"
+	text "Hej, <RAMNAME>!"
+	line "Jak leci?"
 	done
 
 Text064b: ; 4eb4f (13:6b4f)
-	text "So you won the second Medal?"
-	line "You must have been really lucky!"
-	line "I'll see how good you really are!"
-	line "Come on, let's duel!"
-	line "We'll play with 6 Prizes!"
-	line "If you win, I'll give you a really"
-	line "rare card!"
+	text "Podobno masz już drugi Medal?"
+	line "No no, niezły fuks!"
+	line "Zobaczmy co potrafisz!"
+	line "Wyzywam Cię na pojedynek!"
+	line "Zagrajmy z 6 Nagrodami!"
+	line "Jeśli wygrasz, dostaniesz naprawdę"
+	line "rzadką kartę!"
 	done
 
 Text064c: ; 4ec0d (13:6c0d)
-	text "I... I wasn't really trying"
-	line "that hard!"
-	line "Well, a loss is a loss, so I'll "
-	line "have to give you this card."
+	text "Ja... Ja nawet się nie starałem!"
+	line "No cóż."
+	line "Przegrana to przegrana, dam Ci"
+	line "tę kartę którą obiecałem."
 	done
 
 Text064d: ; 4ec72 (13:6c72)
-	text "It won't be so easy next time!"
-	line "See ya!"
+	text "Następnym razem nie będzie"
+	line "tak łatwo! Narka!"
 	done
 
 Text064e: ; 4ec9a (13:6c9a)
-	text "See! What did I tell you?"
-	line "It was luck, wasn't it?"
-	line "Now you know better than to try and"
-	line "win the Medals!"
-	line "See ya!"
-	line "Ha ha ha ha ha ha!"
+	text "Widzisz? A nie mówiłem!"
+	line "Twoje medale to czysty fuks."
+	line "Teraz już wiesz, że nie masz co"
+	line "iść po następne Medale!"
+	line "Narka!"
+	line "Hahahahahaha!"
 	done
 
 Text064f: ; 4ed1c (13:6d1c)
-	text "Hi, <RAMNAME>!"
-	line "Have you gotten any better?"
+	text "Hej, <RAMNAME>!"
+	line "Umiesz już lepiej grać?"
 	done
 
 Text0650: ; 4ed40 (13:6d40)
-	text "I already won the sixth Medal!"
-	line "I'll see how much better"
-	line "you've gotten!"
-	line "If you win, I'll give you "
-	line "another rare card!"
-	line "Come on!!! Let's Duel!"
-	line "We'll play with 6 Prizes!"
+	text "Właśnie wygrałem szósty medal!"
+	line "Sprawdźmy, czy umiesz może"
+	line "coś nowego!"
+	line "Jeśli wygrasz, dam Ci inną"
+	line "rzadką kartę!"
+	line "Wyzywam Cię na pojedynek!"
+	line "Zagrajmy z 6 Nagrodami!"
 	done
 
 Text0651: ; 4ede7 (13:6de7)
-	text "Shoot! I let you win!"
-	line "But a loss is a loss, so I'll "
-	line "give you this card."
+	text "No nie wierzę... Dałem Ci wygrać!"
+	line "Przegrana to przegrana, dam Ci"
+	line "tę kartę którą obiecałem."
 	done
 
 Text0652: ; 4ee31 (13:6e31)
-	text "Don't get so cocky just because"
-	line "you won."
-	line "The Legendary Pokémon Cards"
-	line "belong to Me!!!"
+	text "Nie jaraj już się tak"
+	line "tym zwycięstwem."
+	line "Legendarne Karty Pokémon"
+	line "będą należeć do mnie!"
 	done
 
 Text0653: ; 4ee87 (13:6e87)
-	text "Huh?!? You're not even half as good"
-	line "as I am!"
-	line "There's no way you'll be able to"
-	line "inherit the Legendary Pokémon Cards!"
-	line "Why don't you just give up!?!"
-	line "See ya!"
-	line "Ha ha ha ha ha ha!"
+	text "Co?! Nie masz nawet połowy"
+	line "moich umiejętności!"
+	line "Na pewno nie dasz rady odziedziczyć"
+	line "Legendarnych Kart Pokémon!"
+	line "Oszczędź sobie wstydu i daj spokój!"
+	line "Narka!"
+	line "Hahahahahaha!"
 	done
 
 Text0654: ; 4ef34 (13:6f34)
-	text "Hi, I'm Robert!"
-	line "I'm a member of the Psychic Club."
-	line "My Ghost Deck is really strong!"
-	line "It doesn't have any weaknesses, "
-	line "and it's difficult for opponents'"
-	line "attacks to cause damage!"
-	line "Would you like to duel me?"
+	text "Witaj, jestem Robert!"
+	line "Jestem członkiem Klubu Psychiki."
+	line "Moja Talia Duchów jest naprawdę"
+	line "silna i nie ma żadnych słabości!"
+	line "Przeciwnikom ciężko jest zadać"
+	line "nawet jakiekolwiek obrażenia."
+	line "Chcesz ze mną walczyć?"
 	done
 
 Text0655: ; 4effe (13:6ffe)
-	text "Would you like to duel Robert?"
+	text "Chcesz wyzwać Roberta na pojedynek?"
 	done
 
 Text0656: ; 4f01e (13:701e)
-	text "Oh, man! You're boring!"
-	line "Won't anyone duel me?"
+	text "Ja nie mogę! Ale nuda!"
+	line "Nikt nie chce ze mną walczyć?"
 	done
 
 Text0657: ; 4f04d (13:704d)
-	text "A single match with 4 prizes!"
-	line "Come on, my precious ghosts!"
-	line "Let's make his Pokémon disappear!"
+	text "Walka z 4 Nagrodami!"
+	line "Dalej, moje cenne duchy!"
+	line "Niech Pokémony przeciwnika znikną!"
 	done
 
 Text0658: ; 4f0ab (13:70ab)
-	text "How could my Ghost Deck lose!?!"
+	text "Jak to możliwe że duchy przegrały?!"
 	done
 
 Text0659: ; 4f0cc (13:70cc)
-	text "I won't lose next time!"
-	line "Let's duel again!"
+	text "Kolejny raz nie przegram!"
+	line "Powalczmy jeszcze raz!"
 	done
 
 Text065a: ; 4f0f7 (13:70f7)
-	text "I told you my Ghost Deck was "
-	line "strong! Please Duel me again "
-	line "sometime, OK?  Bye!"
+	text "Mówiłem że moja Talia duchów jest"
+	line "mocna! Wpadnij jeszcze na kolejną"
+	line "walkę, dobrze? Do widzenia!"
 	done
 
 Text065b: ; 4f148 (13:7148)
-	text "I don't like people who think"
-	line "too highly of themselves."
-	line "That's why I don't like the "
-	line "members of the Psychic Club."
-	line "I wish I could knock them off their"
-	line "high horses!"
-	line "Would you try to defeat Murray,"
-	line "the Psychic Club Master?"
-	line "If you defeat Murray, I'll give you"
-	line "something really valuable!"
+	text "Nie lubię za bardzo zarozumiałych"
+	line "ludzi. Dlatego też nie przepadam"
+	line "za członkami Klubu Psychiki..."
+	line "Pokonanie ich na pewno sprawi"
+	line "że przestaną tak patrzeć z góry!"
+	line "Niestety nie dam rady tego zrobić..."
+	line "Może spróbujesz pokonać dla mnie"
+	line "Murray'a, Mistrza Klubu Psychiki?"
+	line "Jeśli Ci się to uda, dam ci coś"
+	line "naprawdę cennego!"
 	done
 
 Text065c: ; 4f264 (13:7264)
-	text "Grant the old man's wish?"
+	text "Spełnisz życzenie tego starca?"
 	done
 
 Text065d: ; 4f27f (13:727f)
-	text "I understand..."
-	line "Murray is very skilled."
-	line "Defeating Murray is no "
-	line "easy task."
+	text "Rozumiem..."
+	line "Murray jest naprawdę mocny."
+	line "Pokonanie go to"
+	line "nie lada zadanie."
 	done
 
 Text065e: ; 4f2cb (13:72cb)
-	text "Good!"
-	line "I'll be waiting here for you!"
+	text "Ekstra!"
+	line "Będę tu na Ciebie czekał!"
 	done
 
 Text065f: ; 4f2f0 (13:72f0)
-	text "I see you still can't defeat "
-	line "Murray. He's very skilled, but "
-	line "don't give up! I'm pulling for "
-	line "you! If you defeat Murray, I'll "
-	line "give you something very valuable."
+	text "Widzę że jeszcze nie udało Ci się"
+	line "pokonać Murray'a. Jest bardzo mocny,"
+	line "ale nie poddawaj się! Trzymam za"
+	line "Ciebie kciuki! Jeśli go pokonasz,"
+	line "dam Ci coś naprawdę cennego!"
 	done
 
 Text0660: ; 4f392 (13:7392)
-	text "I'm not very fond of people who"
-	line "think too highly of themselves."
-	line "That's why I don't like the "
-	line "members of the Psychic Club."
-	line "Hey!?! Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card!"
+	text "Nie lubię za bardzo zarozumiałych"
+	line "ludzi. Dlatego też nie przepadam"
+	line "za członkami Klubu Psychiki..."
+	line "Zaraz... Czy to nie Medal Psychiki?!"
+	line "Udało Ci się pokonać Murray'a?!"
+	line "Od razu czuję się lepiej!"
+	line "Proszę, przyjmij ode mnie"
+	line "tę kartę Mewtwo!"
 	done
 
 Text0661: ; 4f487 (13:7487)
-	text "What? Is that the Psychic Medal?"
-	line "Did you defeat Murray!?!"
-	line "I feel so much better!"
-	line "Here, let me give you this"
-	line "Mewtwo card."
+	text "Zaraz... Czy to nie Medal Psychiki?!"
+	line "Udało Ci się pokonać Murray'a?!"
+	line "Od razu czuję się lepiej!"
+	line "Proszę, przyjmij ode mnie"
+	line "tę kartę Mewtwo!"
 	done
 
 Text0662: ; 4f501 (13:7501)
-	text "Thank you for defeating Murray!"
+	text "Dzięki za pokonanie Murray'a!"
 	done
 
 Text0663: ; 4f522 (13:7522)
-	text "I feel so much better since you"
-	line "defeated Murray!"
-	line "Thank you for defeating Murray!"
+	text "Czuję się o wiele lepiej od kiedy"
+	line "Murray został pokonany! Dzięki!"
 	done
 
 Text0664: ; 4f574 (13:7574)
-	text "Hi, <RAMNAME>."
-	line "So you've finally come this far?"
-	line "I've already won 5 Medals!"
-	line "By the time you win your 8th Medal,"
-	line "I will have inherited the"
-	line "Legendary Pokémon Cards!"
-	line "I'll catch you later!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Hej, <RAMNAME>."
+	line "Czyżby Twoja gra w końcu nabrała"
+	line "tempa? Ja mam już 5 Medali!"
+	line "Do czasu kiedy zdobędziesz 8 Medal,"
+	line "ja będę już miał Legendarne"
+	line "Karty Pokémon!"
+	line "Zobaczymy się później!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text0665: ; 4f640 (13:7640)
-	text "The Legendary Pokémon Cards are "
-	line "the ultimate cards. Everyone wants "
-	line "to inherit the Legendary Cards - "
-	line "that's why we play against so many "
-	line "different people. I just lost a "
-	line "duel, so I can't play right now."
+	text "Legendarne Karty Pokémon to"
+	line "szczytowe osiągnięcie gracza. "
+	line "Wszyscy chcą je odziedziczyć -"
+	line "dlatego gramy przeciwko tylu"
+	line "różnym rywalom! Właśnie przegrałam"
+	line "walkę, więc nie mogę teraz zagrać."
 	done
 
 Text0666: ; 4f70e (13:770e)
-	text "Did you hear?"
-	line "Someone inherited the Legendary"
-	line "Pokémon Cards! Whomever it is,"
-	line "he must be really cool if he "
-	line "can defeat the Grand Masters!"
+	text "Krążą plotki że ktoś odziedziczył"
+	line "Legendarne Karty Pokémon!"
+	line "Ktokolwiek to jest, musi być"
+	line "naprawdę mocny, skoro pokonał"
+	line "wszystkich Arcymistrzów!"
 	done
 
 Text0667: ; 4f798 (13:7798)
-	text "I dropped all my cards, so I'm"
-	line "putting them in order here!"
+	text "Upuściłem wszystkie swoje karty,"
+	line "więc układam je z powrotem tutaj!"
 	done
 
 Text0668: ; 4f7d4 (13:77d4)
-	text "Huh? What am I doing?"
-	line "I'm building a Deck!"
+	text "Hę? Co robię?"
+	line "Składam swoją Talię!"
 	done
 
 Text0669: ; 4f800 (13:7800)
-	text "What do you think Murray's doing"
-	line "over there in the corner?"
-	line "He's thinking about how to "
-	line "duel using his new cards."
-	line "We strive to better ourselves"
-	line "here at the Psychic Club."
+	text "Jak myślisz, co robi Murray"
+	line "w tym dalekim kącie pokoju?"
+	line "Zapewne myśli, jak walczyć używając"
+	line "swoich nowych kart. W tym klubie"
+	line "bez przerwy zastanawiamy się, jak"
+	line "ulepszyć swoje Talie i sposób gry."
 	done
 
 Text066a: ; 4f8aa (13:78aa)
-	text "You still haven't won any Medals."
-	line "You aren't qualified to duel me."
-	line "Go to some other Club and win"
-	line "a Medal first!"
+	text "Nadal nie masz żadnych Medali."
+	line "Nie możesz mnie jeszcze wyzwać"
+	line "na pojedynek. Zdobądź Medal"
+	line "w innym Klubie i wtedy wróć!"
 	done
 
 Text066b: ; 4f91b (13:791b)
-	text "I see you've won a Medal."
-	line "Then I will Duel with you."
+	text "Widzę że masz już Medal."
+	line "Mogę zatem z Tobą walczyć."
 	done
 
 Text066c: ; 4f951 (13:7951)
-	text "Murray finally came up with a new "
-	line "strategy. He's in a very good mood,"
-	line "so he'll probably duel you now."
-	line "By the way,"
-	line "Would you duel me?"
+	text "Murray w końcu wymyślił nową"
+	line "strategię. Ma naprawdę dobry humor,"
+	line "pewnie jest więc gotowy"
+	line "na pojedynek. Swoją drogą,"
+	line "może chcesz walczyć ze mną?"
 	done
 
 Text066d: ; 4f9d8 (13:79d8)
-	text "Would you like to duel Daniel?"
+	text "Chcesz wyzwać Daniela na pojedynek?"
 	done
 
 Text066e: ; 4f9f8 (13:79f8)
-	text "Are you afraid to duel?"
-	line "Well, not that I care!"
+	text "Boisz się walczyć?"
+	line "Cóż, nie żeby mnie to obchodziło!"
 	done
 
 Text066f: ; 4fa28 (13:7a28)
-	text "Let's play with 4 Prizes."
-	line "OK, here we go!"
+	text "Zagrajmy z 4 Nagrodami."
+	line "Przygotuj się!"
 	done
 
 Text0670: ; 4fa53 (13:7a53)
-	text "You're no ordinary player if "
-	line "you can defeat me!"
+	text "Nie jesteś zwyczajnym graczem"
+	line "jeśli jesteś w stanie mnie pokonać!"
 	done
 
 Text0671: ; 4fa85 (13:7a85)
-	text "Next time we play, I'm going "
-	line "to win!"
+	text "Następną walkę na pewno"
+	line "wygram!"
 	done
 
 Text0672: ; 4faac (13:7aac)
-	text "You're still not good enough"
-	line "to defeat me!"
-	line "I'll Duel you any time you want."
+	text "Trochę Ci jeszcze brakuje do mojego"
+	line "poziomu! Możemy walczyć"
+	line "jeszcze raz jeśli chcesz."
 	done
 
 Text0673: ; 4faf9 (13:7af9)
-	text "I can see the future..."
-	line "You cannot defeat me."
-	line "But if you win 2 Medals, maybe..."
-	line "Then..."
-	line "I would Duel you..."
+	text "Widzę mglistą przyszłość..."
+	line "nie możesz mnie pokonać."
+	line "Ale jeśli wygrasz 2 Medale, może..."
+	line "Wtedy..."
+	line "Pozwolę na pojedynek..."
 	done
 
 Text0674: ; 4fb66 (13:7b66)
-	text "You've won quite a few Medals."
-	line "OK...Let's duel."
-	line "But I see the future..."
-	line "You will lose..."
+	text "Masz już kilka Medali..."
+	line "Dobrze... Walczmy zatem."
+	line "Widzę jednak przyszłość..."
+	line "Przegrasz..."
 	done
 
 Text0675: ; 4fbc0 (13:7bc0)
-	text "Would you like to duel Stephanie?"
+	text "Chcesz walczyć ze Stephanie?"
 	done
 
 Text0676: ; 4fbe3 (13:7be3)
-	text "Yes, I understand."
-	line "Losing is scary, isn't it?"
+	text "Tak, rozumiem..."
+	line "Przegrywanie jest straszne, prawda?"
 	done
 
 Text0677: ; 4fc12 (13:7c12)
-	text "OK, a single Match with 4 Prizes!"
-	line "Here we go!"
+	text "Dobrze, pojedynek z 4 Nagrodami!"
+	line "Zmierzmy się z przepowiednią!"
 	done
 
 Text0678: ; 4fc41 (13:7c41)
-	text "I can't believe my prediction"
-	line "was wrong..."
+	text "Nie mogę uwierzyć że moja"
+	line "przepowiednia była błędna..."
 	done
 
 Text0679: ; 4fc6d (13:7c6d)
-	text "I see a vision..."
-	line "You're dueling me again."
+	text "Znów mam wizję..."
+	line "Ponownie ze mną walczysz."
 	done
 
 Text067a: ; 4fc99 (13:7c99)
-	text "I told you that you would lose..."
-	line "I have the ability to foretell"
-	line "the future! I see a vision... "
-	line "You're dueling me again!"
+	text "Mówiłam że ze mną przegrasz..."
+	line "Potrafię przepowiadać przyszłość!"
+	line "Mam wizję, w której... "
+	line "Znów ze mną walczysz!"
 	done
 
 Text067b: ; 4fd13 (13:7d13)
-	text "Let me see... if this happens..."
-	line "then that... so... ummm..."
+	text "Zastanówmy się... jeśli to się"
+	line "stanie... wtedy to... hmmm..."
 	done
 
 Text067c: ; 4fd50 (13:7d50)
-	text "Club Master Murray doesn't listen"
-	line "to what people are saying!"
+	text "Mistrz Klubu, Murray, nie zwraca"
+	line "uwagi na otoczenie!"
 	done
 
 Text067d: ; 4fd8e (13:7d8e)
-	text "Hi, I'm Murray, Master of the "
-	line "Psychic Club. You're the one "
-	line "who's visiting the Clubs to win "
-	line "the Medals. How do I know this?"
-	line "Because I'm Psychic!"
-	line "OK, let me test my new card"
-	line "strategy... against your deck!"
-	line "Are you ready?"
+	text "Witaj, jestem Murray, Mistrz Klubu"
+	line "Psychiki. To ty wędrujesz między"
+	line "Klubami zdobywając Medale!"
+	line "Skąd to wiem? To oczywiste!"
+	line "Jestem Medium!"
+	line "Dobrze, pozwól że sprawdzę na tobie"
+	line "moją nową strategię!"
+	line "Możemy zaczynać?"
 	done
 
 Text067e: ; 4fe6c (13:7e6c)
-	text "Hi! It's you again."
-	line "Are you ready for a duel?"
+	text "Och, to znowu Ty!"
+	line "Zaczynamy kolejny pojedynek?"
 	done
 
 Text067f: ; 4fe9b (13:7e9b)
-	text "Would you like to duel Murray?"
+	text "Chcesz wyzwać Murray'a na pojedynek?"
 	done
 
 Text0680: ; 4febb (13:7ebb)
-	text "OK. Come back when you're ready."
+	text "Wróć w odpowiednim"
+	line "dla siebie czasie."
 	done
 
 Text0681: ; 4fedd (13:7edd)
-	text "When you duel me, it's for 6 Prizes."
-	line "Shall we start then!?!"
+	text "Walka ze mną musi koniecznie mieć"
+	line "6 Nagród. Możemy zaczynać?!"
 	done
 
 Text0682: ; 4ff1a (13:7f1a)
-	text "Huh!?! I lost!"
+	text "Co?! Przegrałem!"
 	line "Hmmmm..."
-	line "Well, you must be pretty good if"
-	line "you're trying to inherit"
-	line "the Legendary Pokémon Cards."
-	line "Here, take this Psychic Medal."
+	line "Cóż, musisz mieć naprawdę dobre"
+	line "umiejętności jeśli próbujesz"
+	line "odziedziczyć Legendarne Karty"
+	line "Pokémon. Proszę, weź Medal Psychiki!"
 	done
 
 Text0683: ; 4ffa9 (13:7fa9)
-	text "And here, take this"
-	line "LABORATORY Booster Pack!"
+	text "Proszę, weź także tego"
+	line "Booster Pack'a LABORATORIUM."
 	done
 
 	ds $29

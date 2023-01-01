@@ -82,7 +82,7 @@ UnableToAttackDueToLeerText: ; 3824c (e:424c)
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
 	text "Nie można atakować"
-	line "przez efekt ciosu kością."
+	line "przez efekt ciosu kością ."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
