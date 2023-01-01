@@ -361,7 +361,7 @@ Text060e: ; 4d767 (13:5767)
 	text "Witaj!"
 	line "Jesteś w Klubie Elektrycznym!"
 	line "Używamy tu głównie Elektrycznych"
-	line "Pokémonów. Chcesz podładować."
+	line "Pokémonów. Chcesz podładować"
 	line "baterie z nami?"
 	done
 
@@ -372,7 +372,7 @@ Text060f: ; 4d7fc (13:57fc)
 	line "”<Lv>35 Electabuzz”!"
 	line "Może masz taką?"
 	line ""
-	text "Wymienimy się? (<Lv>35 Electabuzz)"
+	text "Wymienimy się? (<Lv>20 Electabuzz)"
 	done
 
 Text0610: ; 4d87a (13:587a)
@@ -385,289 +385,284 @@ Text0610: ; 4d87a (13:587a)
 	done
 
 Text0611: ; 4d8de (13:58de)
-	text "Trade your <Lv>35 Electabuzz?"
+	text "Wymienisz się za <Lv>20 Electabuzz?"
 	done
 
 Text0612: ; 4d8fb (13:58fb)
-	text "Whoa! Bummer!"
-	line "What a drag!"
-	line "Really uncool, kid!"
-	line "See ya, kid!"
+	text "Eee, ale słabo!"
+	line "Mega nuda!"
+	line "Nara, dzieciaku!"
 	done
 
 Text0613: ; 4d938 (13:5938)
-	text "Hey, kid!"
-	line "It's not cool to lie!"
-	line "You don't own a <Lv>35 Electabuzz!"
-	line "You could get hurt lying to me, kid!"
+	text "Ej, dzieciaku!"
+	line "Niefajnie jest kłamać!"
+	line "Wcale nie masz <Lv>35 Electabuzz!"
+	line "Sporo ryzykujesz okłamując mnie!"
 	done
 
 Text0614: ; 4d99f (13:599f)
-	text "You're gonna trade me your"
+	text "Wymienisz się za"
 	line ""
 	text "<Lv>35 Electabuzz?"
-	line "Way cool!...Hey! Wait, kid!"
-	line "That card's in your Deck!"
-	line "It isn't cool to take that card!"
-	line "You take good care of that card!"
-	line "That's what's best for that"
-	line "Electabuzz!"
+	line "Mega! ...ej, zaraz, dzieciaku!"
+	line "Masz tę kartę w swojej Talii!"
+	line "Lepiej żebym Ci jej nie zabierał!"
+	line "Dbaj o tę wyjątkową kartę."
+	line "Electabuzz jest tego wart!"
 	done
 
 Text0615: ; 4da6d (13:5a6d)
-	text "You're gonna trade me your"
+	text "Wymienisz się?!"
+	line "Mega, dzieciaku!"
+	line "OK, dam Ci w zamian mojego"
 	line ""
-	text "<Lv>35 Electabuzz? Way cool, kid!"
-	line "OK, I'll trade you my"
-	line ""
-	text "<Lv>20 Electabuzz for it!"
+	text "<Lv>20 Electabuzz!"
 	done
 
 Text0616: ; 4dad9 (13:5ad9)
-	text "Whoa! Thanks!"
-	line "You're too cool, kid!"
+	text "ło! Dzięki!"
+	line "Jesteś mega w porządku!"
 	done
 
 Text0617: ; 4dafe (13:5afe)
-	text "Whoa! Cool, kid! Thanks for "
-	line "that <Lv>35 Electabuzz! "
-	line "My <Lv>20 Electabuzz is a cool card!"
-	line "Charge it up with Electabuzz!"
+	text "łoo! Mega, dzieciaku! Dzięki"
+	line "za tego ”<Lv>35 Electabuzz!”"
+	line "Mój <Lv>20 Electabuzz to też świetna"
+	line "karta! Czas naładować baterie!"
 	done
 
 Text0618: ; 4db74 (13:5b74)
-	text "I wonder if the Legendary Cards"
-	line "are pretty?"
-	line "If they're sparkly, I'll be"
-	line "really happy."
+	text "Ciekawe czy Legendarne Karty"
+	line "Pokémon są ładne?"
+	line "Jeśli błyszczą to na pewno"
+	line "mi się spodobają."
 	done
 
 Text0619: ; 4dbcb (13:5bcb)
-	text "Hey! You charged up!?!"
-	line "You playin' the Pokémon "
-	line "Trading Card Game!?!"
-	line "Yeah! Gotta be a Grand Master!"
+	text "Hej! Dajesz czadu?!"
+	line "Ciśniesz w Karty Pokémon?!"
+	line "No! Idziesz na mistrza!"
 	done
 
 Text061a: ; 4dc30 (13:5c30)
-	text "Hey! <RAMNAME>!"
-	line "You beat the Grand Masters?"
-	line "Cool! Got all the Legendary "
-	line "Pokémon Cards? Yeah!"
-	line "Gotta Catch 'Em All!(TM)"
+	text "Hej! <RAMNAME>!"
+	line "Arcymistrzowie pokonani?"
+	line "Nieźle! Masz wszystkie Legendarne"
+	line "Karty Pokémon? Super!"
+	line "Złap je wszystkie!(TM)"
 	done
 
 Text061b: ; 4dca0 (13:5ca0)
-	text "Isn't Pikachu totally cute?"
-	line "My heart skips a beat whenever"
-	line "I see those cute little eyes!"
-	line "Hey, do you want to duel my "
-	line "Pikachu Deck?"
+	text "Czyż Pikachu nie jest uroczy?"
+	line "Rozpływam się jak tylko widzę"
+	line "te słodkie, malutkie oczy!"
+	line "Hej, chcesz powalczyć przeciwko"
+	line "mojej Talii Pikachu?"
 	done
 
 Text061c: ; 4dd25 (13:5d25)
-	text "Would you like to duel Jennifer?"
+	text "Wyzwać Jennifer na pojedynek?"
 	done
 
 Text061d: ; 4dd47 (13:5d47)
-	text "Awww! Doesn't anyone want to play"
-	line "with my Pikachu Deck...?"
+	text "Ejjj! Naprawdę nikt nie chce zagrać"
+	line "przeciwko mojej Talii Pikachu...?"
 	done
 
 Text061e: ; 4dd83 (13:5d83)
-	text "OK then! Let's play with 4 Prizes!"
+	text "OK! Zagrajmy z 4 Nagrodami!"
 	done
 
 Text061f: ; 4dda7 (13:5da7)
-	text "Awww! My Pikachu lost!"
+	text "Ejjj! Mój Pikachu przegrał!"
 	done
 
 Text0620: ; 4ddbf (13:5dbf)
-	text "You have to take care of your"
-	line "Pokémon cards!"
+	text "Musisz dbać o swoje"
+	line "Karty Pokémon!"
 	done
 
 Text0621: ; 4dded (13:5ded)
-	text "My Pikachu's not only cute"
-	line "but strong, too!"
+	text "Mój Pikachu jest nie tylko słodki,"
+	line "ale też i mocny!"
 	done
 
 Text0622: ; 4de1a (13:5e1a)
-	text "Lightning Pokémon can attack"
-	line "the opponent's Bench!"
-	line "Lightning Pokémon are the toughest"
-	line "Pokémon! How about it?"
-	line "You want to duel me?"
+	text "Elektryczne Pokémony mogą atakować"
+	line "ławkę przeciwnika!"
+	line "Według mnie są najmocniejszymi"
+	line "Pokémonami! To co?"
+	line "Chcesz ze mną walczyć?"
 	done
 
 Text0623: ; 4de9d (13:5e9d)
-	text "Would you like to duel Nicholas?"
+	text "Wyzwać Nicholasa na pojedynek?"
 	done
 
 Text0624: ; 4debf (13:5ebf)
-	text "Tch! I was going to shock you"
-	line "with my Lightning Deck!"
+	text "Pss! Miałem zamiar Cię porazić"
+	line "moją elektryczną Talią!"
 	done
 
 Text0625: ; 4def6 (13:5ef6)
-	text "OK! Let's start!"
-	line "1 Match with 4 Prizes!"
+	text "OK! Zaczynajmy!"
+	line "Zagramy z 4 Nagrodami!"
 	done
 
 Text0626: ; 4df1f (13:5f1f)
-	text "My Lightning Deck lost..."
-	line "I can't believe it..."
+	text "Moja elektryczna talia przegrała..."
+	line "Nie mogę w to uwierzyć..."
 	done
 
 Text0627: ; 4df50 (13:5f50)
-	text "I won't lose next time!"
-	line "I'm gonna zap you!"
+	text "Nie przegram kolejnej walki!"
+	line "Strzelę Cię prądem!"
 	done
 
 Text0628: ; 4df7c (13:5f7c)
-	text "Did I shock you?"
-	line "My Lightning Deck is pretty strong!"
-	line "If you want to be shocked again,"
-	line "come around...I'll be waiting!"
+	text "Zszokowało cię to?"
+	line "Moja elektryczna talia jest mocna!"
+	line "Jeśli chcesz żebym Cię znów poraził,"
+	line "zapraszam...Będę czekać!"
 	done
 
 Text0629: ; 4dff2 (13:5ff2)
-	text "Isaac's working on the wiring"
-	line "for this stage."
-	line "It looks cool with all these"
-	line "lights, but it takes a lot of work "
-	line "to keep it 'em lit!"
+	text "Isaac pracuje nad okablowaniem tej"
+	line "sceny. Światła wyglądają spoko,"
+	line "ale ciągła wymiana żarówek to"
+	line "naprawdę sporo pracy!"
 	done
 
 Text062a: ; 4e076 (13:6076)
-	text "I wonder what Isaac's doing...?"
+	text "I co ten Isaac narobił...?"
 	done
 
 Text062b: ; 4e097 (13:6097)
-	text "What? a Pokémon Trading Card duel?"
-	line "I'll be glad to Duel any time!"
+	text "Co? Walka na karty Pokémon?"
+	line "Pewnie, z chęcią powalczę!"
 	done
 
 Text062c: ; 4e0da (13:60da)
-	text "Would you like to Duel Brandon?"
+	text "Wyzwać Brandona na pojedynek?"
 	done
 
 Text062d: ; 4e0fb (13:60fb)
-	text "Oh, OK."
-	line "I'll Duel you any time."
+	text "Och, OK."
+	line "Możemy powalczyć kiedy indziej."
 	done
 
 Text062e: ; 4e11c (13:611c)
-	text "OK, 4 Prizes!"
-	line "Ready? Let's do it!"
+	text "OK, 4 Nagrody!"
+	line "Możemy zaczynać? Do dzieła!"
 	done
 
 Text062f: ; 4e13f (13:613f)
-	text "Shoot! I lost! Well, no sense "
-	line "crying over spilled milk!"
+	text "No nie... przegrałem! Cóż, nie ma"
+	line "co płakać nad rozlanym mlekiem!"
 	done
 
 Text0630: ; 4e179 (13:6179)
-	text "I'll duel you any time!"
-	line "Come see me again!"
+	text "Z chęcią jeszcze z Tobą powalczę!"
+	line "Wpadnij za jakiś czas!"
 	done
 
 Text0631: ; 4e1a5 (13:61a5)
-	text "Hey, don't take it so hard!"
-	line "I'm just too good!"
-	line "I'll Duel you any time!"
-	line "Come see me again!"
+	text "Ej, nie przejmuj się."
+	line "Jestem po prostu za dobry!"
+	line "Z chęcią jeszcze z Tobą powalczę!"
+	line "Wpadnij za jakiś czas!"
 	done
 
 Text0632: ; 4e200 (13:6200)
-	text "I'm a little busy at the moment!"
-	line "Duel someone else!"
+	text "Teraz jestem zajęty!"
+	line "Powalcz z kimś innym!"
 	done
 
 Text0633: ; 4e235 (13:6235)
-	text "Well, that ought to do it. It was "
-	line "hard work, but here's our stage!"
-	line "Got to keep it looking smart!"
-	line "I'm the Lightning Club Master!"
-	line "Sure! I'll Duel you!"
+	text "No, to chyba tyle. Ciężko"
+	line "pracowałem, ale scena działa!"
+	line "Trzeba czasem o nią zadbać!"
+	line "Jestem Mistrzem Klubu Elektrycznego!"
+	line "Jasne że z tobą powalczę!"
 	done
 
 Text0634: ; 4e2cc (13:62cc)
-	text "My Lightning Pokémon Deck"
-	line "is the greatest!"
-	line "How about it?"
-	line "You want to see how good it is?"
+	text "Moja Talia Pokémonów elektrycznych"
+	line "jest najlepsza!"
+	line "To co, chcesz się przekonać"
+	line "na własnej skórze?"
 	done
 
 Text0635: ; 4e326 (13:6326)
-	text "Would you like to duel Isaac?"
+	text "Chcesz wyzwać Isaac'a na pojedynek?"
 	done
 
 Text0636: ; 4e345 (13:6345)
-	text "I'm not busy any more,"
-	line "so I'll take you on any time!"
+	text "Nie jestem już zajęty,"
+	line "więc przyjmę wyzwanie kiedy chcesz!"
 	done
 
 Text0637: ; 4e37b (13:637b)
-	text "The sparks will fly with"
-	line "6 Prizes!"
-	line "I'll show you what my Lightning"
-	line "Pokémon Deck can do!"
+	text "Przy 6 Nagrodach polecą"
+	line "prawdziwe iskry!"
+	line "Pokażę Ci co potrafi moja Talia"
+	line "Pokémonów Elektrycznych!"
 	done
 
 Text0638: ; 4e3d4 (13:63d4)
-	text "How could my Lightning Deck lose!?!"
-	line "How shocking...!"
-	line "Here, take this Lightning Medal"
-	line "as proof of defeating me."
+	text "Jak moja Talia Elektryczna mogła to"
+	line "Przegrać?! To... szokujące!"
+	line "Proszę, weź ten Medal Elektryczny"
+	line "na dowód pokonania mnie."
 	done
 
 Text0639: ; 4e444 (13:6444)
-	text "And here, take this Booster "
-	line "Pack, too."
+	text "Weź też tego Booster"
+	line "Packa. Proszę!"
 	done
 
 Text063a: ; 4e46d (13:646d)
-	text "I'm going to polish my card skills,"
-	line "so come duel again."
+	text "W międzyczasie trochę potrenuję."
+	line "Wpadnij powalczyć nieco później!"
 	done
 
 Text063b: ; 4e4a6 (13:64a6)
-	text "So? How's my Deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my Deck again!"
+	text "I co? Jak ci się podoba moja Talia?"
+	line "Błyszczy, podobnie jak ta scena!"
+	line "Wpadnij na kolejny pojedynek!"
 	done
 
 Text063c: ; 4e4fd (13:64fd)
-	text "My Lightning Deck is the greatest!"
-	line "How about it?"
-	line "You want to see what my Deck can do?"
+	text "Moja Talia Pokémonów Elektrycznych"
+	line "jest najlepsza! To co,"
+	line "chcesz zobaczyć co potrafi?"
 	done
 
 Text063d: ; 4e554 (13:6554)
-	text "I'm not busy right now,"
-	line "so I'll Duel you any time!"
+	text "Nie jestem już zajęty,"
+	line "więc przyjmę wyzwanie kiedy chcesz!"
 	done
 
 Text063e: ; 4e588 (13:6588)
-	text "Sparks will fly again, this time"
-	line "with 6 Prizes!"
+	text "Iskry znowu polecą, po raz kolejny"
+	line "z 6 Nagrodami!"
 	done
 
 Text063f: ; 4e5b9 (13:65b9)
-	text "I lost again!"
-	line "How shocking...!"
+	text "Znowu przegrałem!"
+	line "Szokujące...!"
 	done
 
 Text0640: ; 4e5d9 (13:65d9)
-	text "I'm going to polish my card skills,"
-	line "so come challenge me again!"
+	text "W międzyczasie trochę potrenuję."
+	line "Wpadnij powalczyć nieco później!"
 	done
 
 Text0641: ; 4e61a (13:661a)
-	text "So? How's my Deck?"
-	line "Isn't it cool, just like this stage?"
-	line "Come challenge my Deck again!"
+	text "I co? Jak ci się podoba moja Talia?"
+	line "Błyszczy, podobnie jak ta scena!"
+	line "Wpadnij na kolejny pojedynek!"
 	done
 
 Text0642: ; 4e671 (13:6671)

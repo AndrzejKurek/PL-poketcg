@@ -1814,7 +1814,7 @@ Item4LaboratoryText: ; 3bd8b (e:7d8b)
 	done
 
 Item5PromotionalCardText: ; 3bd9a (e:7d9a)
-	text "5. Karta Promocyjna"
+	text "5. Karty Promocyjne"
 	done
 
 ViewWhichCardFileText: ; 3bdaf (e:7daf)

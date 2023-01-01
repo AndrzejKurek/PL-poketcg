@@ -1638,7 +1638,7 @@ ImakuniNPCName: ; 3f68c (f:768c)
 	done
 
 ClerkNPCName: ; 3f696 (f:7696)
-	text "Kasjer"
+	text "Ekspedientka"
 	done
 
 SamNPCName: ; 3f69d (f:769d)
@@ -1818,7 +1818,7 @@ LassNPCName: ; 3f7da (f:77da)
 	done
 
 PappyNPCName: ; 3f7e0 (f:77e0)
-	text "Tatuś"
+	text "Starzec"
 	done
 
 LadNPCName: ; 3f7e7 (f:77e7)
@@ -1830,7 +1830,7 @@ HostNPCName: ; 3f7ec (f:77ec)
 	done
 
 SpecsNPCName: ; 3f7f2 (f:77f2)
-	text "Spec"
+	text "Naukowiec"
 	done
 
 ButchNPCName: ; 3f7f9 (f:77f9)
