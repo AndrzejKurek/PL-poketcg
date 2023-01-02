@@ -112,10 +112,13 @@ _CopyCardNameAndLevel_HalfwidthText:
 	ld a, " "
 	ld [hli], a
 	dec b
-	ld a, "L"
+	ld a, "P"
 	ld [hli], a
 	dec b
-	ld a, "v"
+	ld a, "o"
+	ld [hli], a
+	dec b
+	ld a, "z"
 	ld [hli], a
 	dec b
 	ld a, c
