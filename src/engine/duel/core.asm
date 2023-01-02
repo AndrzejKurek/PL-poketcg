@@ -3026,10 +3026,10 @@ Unknown_54e2: ; unreferenced
 DuelMenuData:
 	; x, y, text id
 	textitem 3,  14, HandText
-	textitem 9,  14, CheckText
+	textitem 8,  14, CheckText
 	textitem 15, 14, RetreatText
 	textitem 3,  16, AttackText
-	textitem 9,  16, PKMNPowerText
+	textitem 8,  16, PKMNPowerText
 	textitem 15, 16, DoneText
 	db $ff
 

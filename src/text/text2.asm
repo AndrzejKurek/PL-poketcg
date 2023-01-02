@@ -1,438 +1,448 @@
+IfHeadsNoDamageNextTurnText: ; 37f56 (d:7f56)
+	text "Pikachu: nie otrzymasz obrażeń"
+	line "podczas tury wroga!"
+	done
+	
+Text00f2: ; 37f9a (d:7f9a)
+	text "Test obrażeń"
+	done
+	
 DamageCheckIfHeadsPlusDamageText: ; 37fa8 (d:7fa8)
-	text "Sprawdzenie obrażeń!"
+	text "Test obrażeń!"
 	line "Pikachu: +<RAMNUM> obrażeń!"
 	done
 	
 DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
-	text "Sprawdzenie obrażeń!"
+	text "Test obrażeń!"
 	line "Pikachu: obrażenia mnożone przez <RAMNUM>!"
 	done
 
 AcidCheckText: ; 38000 (e:4000)
-	text "Acid check! If Heads,"
-	line "unable to Retreat during next turn."
+	text "Test kwasu! Pikachu: nie można"
+	line "się wycofać w następnej turze."
 	done
 
 TransparencyCheckText: ; 3803b (e:403b)
-	text "Transparency check! If Heads,"
-	line "do not receive opponent's Attack!"
+	text "Test przejrzystości! Pikachu:"
+	line "unikasz następnego ataku!"
 	done
 
 ConfusionCheckDamageText: ; 3807c (e:407c)
-	text "Confusion check,"
-	line "If Tails, damage to yourself!"
+	text "Test dezorientacji! Reszka:"
+	line "zadajesz obrażenia sobie!"
 	done
 
 ConfusionCheckRetreatText: ; 380ac (e:40ac)
-	text "Confusion check!"
-	line "If Tails, unable to Retreat."
+	text "Test dezorientacji! Reszka:"
+	line "nie możesz się wycofać."
 	done
 
 PokemonsSleepCheckText: ; 380db (e:40db)
-	text "<RAMTEXT>'s Sleep check."
+	text "<RAMTEXT>: test snu!"
 	done
 
 PoisonedIfHeadsConfusedIfTailsText: ; 380ed (e:40ed)
-	text "Opponent is Poisoned if Heads,"
-	line "and Confused if Tails."
+	text "Pikachu: przeciwnik otruty."
+	line "Reszka: przeciwnik zdezorientowany."
 	done
 
 IfHeadsDoNotReceiveDamageOrEffectText: ; 38124 (e:4124)
-	text "If Heads, do not receive damage"
-	line "or effect of opponent's next Attack!"
+	text "Pikachu: nie otrzymasz obrażeń ani"
+	line "efektu kolejnego ataku przeciwnika!"
 	done
 
 IfHeadsOpponentCannotAttackText: ; 3816a (e:416a)
-	text "If Heads, opponent cannot Attack"
-	line "next turn!"
+	text "Pikachu: przeciwnik nie będzie mógł"
+	line "atakować w następnej turze!"
 	done
 
 AttackUnsuccessfulText: ; 38197 (e:4197)
-	text "Attack unsuccessful."
+	text "Atak się nie powiódł."
 	done
 
 UnableToRetreatDueToAcidText: ; 381ad (e:41ad)
-	text "Unable to Retreat due to"
-	line "the effects of Acid."
+	text "Nie można wycofać"
+	line "przez efekt kwasu."
 	done
 
 UnableToUseTrainerDueToHeadacheText: ; 381dc (e:41dc)
-	text "Unable to use a Trainer card"
-	line "due to the effects of Headache."
+	text "Nie można użyć kart trenera"
+	line "przez ból głowy."
 	done
 
 UnableToAttackDueToTailWagText: ; 3821a (e:421a)
-	text "Unable to Attack due to"
-	line "the effects of Tail wag."
+	text "Nie można atakować"
+	line "przez merdanie ogonem."
 	done
 
 UnableToAttackDueToLeerText: ; 3824c (e:424c)
-	text "Unable to Attack due to"
-	line "the effects of Leer."
+	text "Nie można atakować"
+	line "przez złe spojrzenie."
 	done
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
-	text "Unable to Attack due to"
-	line "the effects of Bone attack."
+	text "Nie można atakować"
+	line "przez efekt ciosu kością ."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
-	text "Unable to use this Attack"
-	line "due to the effects of Amnesia."
+	text "Nie można atakować"
+	line "przez efekt amnezji."
 	done
 
 KnockedOutDueToDestinyBondText: ; 382e9 (e:42e9)
-	text "<RAMTEXT> was Knocked Out"
-	line "due to the effects of Destiny Bond."
+	text "<RAMTEXT> jest znokautowany"
+	line "przez efekt więzi przeznaczenia."
 	done
 
 ReceivesDamageDueToStrikesBackText: ; 38320 (e:4320)
-	text "<RAMTEXT> receives <RAMNUM> damage"
-	line "due to the effects of Strikes Back."
+	text "<RAMTEXT> otrzymuje <RAMNUM> obrażeń"
+	line "przez efekt oddania ciosu."
 	done
 
 UnableToEvolveDueToPrehistoricPowerText: ; 38359 (e:4359)
-	text "Unable to evolve due to the"
-	line "effects of Prehistoric Power."
+	text "Nie można ewoluować"
+	line "przez efekt prehistorycznej mocy."
 	done
 
 NoDamageOrEffectDueToFlyText: ; 38394 (e:4394)
-	text "No damage or effect on next Attack"
-	line "due to the effects of Fly."
+	text "Brak obrażeń lub efektu -"
+	line "Pokémon aktualnie jest w locie!"
 	done
 
 NoDamageOrEffectDueToBarrierText: ; 383d3 (e:43d3)
-	text "No damage or effect on next Attack"
-	line "due to the effects of Barrier."
+	text "Brak obrażeń i efektu następnego"
+	line "ataku z uwagi na barierę."
 	done
 
 NoDamageOrEffectDueToAgilityText: ; 38416 (e:4416)
-	text "No damage or effect on next Attack"
-	line "due to the effects of Agility."
+	text "Brak obrażeń i efektu następnego"
+	line "ataku z uwagi na zwinność."
 	done
 
 UnableToUseAttackDueToNShieldText: ; 38459 (e:4459)
-	text "Unable to use this Attack due to"
-	line "the effects of N Shield."
+	text "Nie można użyć tego ataku"
+	line "z uwagi na ”Tarczę N”."
 	done
 
 NoDamageOrEffectDueToNShieldText: ; 38494 (e:4494)
-	text "No damage or effect on next Attack"
-	line "due to the effects of N Shield."
+	text "Brak obrażeń i efektu następnego"
+	line "ataku z uwagi na ”Tarczę N”."
 	done
 
 NoDamageOrEffectDueToTransparencyText: ; 384d8 (e:44d8)
-	text "No damage or effect on next Attack"
-	line "due to the effects of Transparency"
+	text "Brak obrażeń i efektu następnego"
+	line "ataku z uwagi na przejrzystość."
 	done
 
 MetamorphsToText: ; 3851f (e:451f)
 	text "<RAMTEXT>"
-	line "metamorphs to <RAMTEXT>."
+	line "zmienia się w <RAMTEXT>."
 	done
 
 SelectPkmnOnBenchToSwitchWithActiveText: ; 38533 (e:4533)
-	text "Select a Pokémon on the Bench"
-	line "to switch with the Active Pokémon."
+	text "Wybierz Pokémona z ławki do"
+	line "zamiany z Aktywnym Pokémonem."
 	done
 
 SelectPokemonToPlaceInTheArenaText: ; 38575 (e:4575)
-	text "Select a Pokémon to place"
-	line "in the Arena."
+	text "Wybierz Pokémona do umieszczenia"
+	line "na arenie."
 	done
 
 DuelistIsSelectingPokemonToPlaceInArenaText: ; 3859e (e:459e)
-	text "<RAMNAME> is selecting a Pokémon"
-	line "to place in the Arena."
+	text "<RAMNAME> wybiera Pokémona"
+	line "do umieszczenia na arenie."
 	done
 
 ChooseWeaknessYouWishToChangeText: ; 385cf (e:45cf)
-	text "Choose the Weakness you wish"
-	line "to change with Conversion 1."
+	text "Wybierz słabość do zmiany"
+	line "konwersją 1."
 	done
 
 ChooseResistanceYouWishToChangeText: ; 3860a (e:460a)
-	text "Choose the Resistance you wish"
-	line "to change with Conversion 2."
+	text "Wybierz słabość do zmiany"
+	line "konwersją 2."
 	done
 
 ChoosePokemonWishToColorChangeText: ; 38647 (e:4647)
-	text "Choose the Pokémon whose color you"
-	line "wish to change with Color change."
+	text "Wybierz Pokémona do zmiany typu."
+	line "za pomocą zmiany koloru."
 	done
 
 ChangedTheWeaknessOfPokemonToColorText: ; 3868d (e:468d)
-	text "Changed the Weakness of"
+	text "Zmieniono słabość"
 	line ""
-	text "<RAMTEXT> to <RAMTEXT>."
+	text "<RAMTEXT> na <RAMTEXT>."
 	done
 
 ChangedTheResistanceOfPokemonToColorText: ; 386af (e:46af)
-	text "Changed the Resistance of"
+	text "Zmieniono odporność"
 	line ""
-	text "<RAMTEXT> to <RAMTEXT>."
+	text "<RAMTEXT> na <RAMTEXT>."
 	done
 
 ChangedTheColorOfText: ; 386d3 (e:46d3)
-	text "Changed the color of"
+	text "Zmieniono typ"
 	line ""
-	text "<RAMTEXT> to <RAMTEXT>."
+	text "<RAMTEXT> na <RAMTEXT>."
 	done
 
 Draw1CardFromTheDeckText: ; 386f2 (e:46f2)
-	text "Draw 1 card from the Deck."
+	text "Weź 1 kartę z Talii."
 	done
 
 DrawCardsFromTheDeckText: ; 3870e (e:470e)
-	text "Draw <RAMNUM> card(s) from the Deck."
+	text "Weź <RAMNUM> kart z Talii."
 	done
 
 CannotDrawCardBecauseNoCardsInDeckText: ; 3872d (e:472d)
-	text "Cannot draw a card because"
-	line "there are no cards in the Deck."
+	text "Nie można wziąć karty -"
+	line "brakuje kart w Talii!"
 	done
 
 ChoosePkmnInTheBenchToGiveDamageText: ; 38769 (e:4769)
-	text "Choose a Pokémon on the Bench"
-	line "to give damage to."
+	text "Wybierz Pokémona z ławki"
+	line "aby zadać mu obrażenia."
 	done
 
 ChooseUpTo3PkmnOnBenchToGiveDamageText: ; 3879b (e:479b)
-	text "Choose up to 3 Pokémon on the"
-	line "Bench to give damage to."
+	text "Wybierz do 3 Pokémonów z ławki"
+	line "aby zadać im obrażenia."
 	done
 
 Choose1BasicEnergyCardFromDeckText: ; 387d3 (e:47d3)
-	text "Choose 1 Basic Energy card"
-	line "from the Deck."
+	text "Wybierz 1 podstawową kartę Energii"
+	line "z Talii."
 	done
 
 ChoosePokemonToAttachEnergyCardText: ; 387fe (e:47fe)
-	text "Choose a Pokémon to attach"
-	line "the Energy card to."
+	text "Wybierz Pokémona aby dołączyć"
+	line "do niego kartę Energii."
 	done
 
 Text011e: ; 3882e (e:482e)
-	text "Choose and Discard"
-	line "1 Fire Energy card."
+	text "Wybierz i odrzuć"
+	line "1 kartę Energii Ognia."
 	done
 
 ChooseAndDiscard2FireEnergyCardsText: ; 38856 (e:4856)
-	text "Choose and Discard"
-	line "2 Fire Energy cards."
+	text "Wybierz i odrzuć"
+	line "2 karty Energii ognia."
 	done
 
 DiscardOppDeckAsManyFireEnergyCardsText: ; 3887f (e:487f)
-	text "Discard from opponent's Deck as many"
-	line "Fire Energy cards as were discarded."
+	text "Odrzuć z Talii przeciwnika tyle kart"
+	line "Energii Ognia, ile odrzucono."
 	done
 
 ChooseAndDiscard2EnergyCardsText: ; 388ca (e:48ca)
-	text "Choose and Discard"
-	line "2 Energy cards."
+	text "Wybierz i odrzuć"
+	line "2 karty Energii."
 	done
 
 ChooseAKrabbyFromDeckText: ; 388ee (e:48ee)
-	text "Choose a Krabby"
-	line "from the Deck."
+	text "Wybierz Krabby'ego"
+	line "z Talii."
 	done
 
 ChooseDiscardEnergyCardFromOpponentText: ; 3890e (e:490e)
-	text "Choose and Discard an Energy card"
-	line "from the opponent's Active Pokémon."
+	text "Wybierz i odrzuć kartę Energii"
+	line "z aktywnego Pokémona przeciwnika."
 	done
 
 ChooseAttackOpponentWillNotBeAbleToUseText: ; 38955 (e:4955)
-	text "Choose the Attack the opponent will"
-	line "not be able to use on the next turn."
+	text "Wybierz atak którego przeciwnik"
+	line "nie będzie mógł użyć następnej tury."
 	done
 
 ChooseBasicFightingPokemonFromDeckText: ; 3899f (e:499f)
-	text "Choose a Basic Fighting Pokémon"
-	line "from the Deck."
+	text "Wybierz Podstawowego"
+	line "Pokémona walczącego z Talii."
 	done
 
 ChooseAnOddishFromDeckText: ; 389cf (e:49cf)
-	text "Choose an Oddish"
-	line "from the Deck."
+	text "Wybierz Oddish'a"
+	line "z Talii."
 	done
 
 ChooseAnOddishText: ; 389f0 (e:49f0)
-	text "Choose an Oddish"
+	text "Wybierz Oddish'a."
 	done
 
 ChooseAKrabbyText: ; 38a02 (e:4a02)
-	text "Choose a Krabby."
+	text "Wybierz Krabby'ego."
 	done
 
 ChooseBasicEnergyCardText: ; 38a14 (e:4a14)
-	text "Choose a Basic"
-	line "Energy card."
+	text "Wybierz Podstawową"
+	line "kartę Energii."
 	done
 
 ChooseNidoranFromDeckText: ; 38a31 (e:4a31)
-	text "Choose a Nidoran♀ or a"
-	line "Nidoran♂ from the Deck."
+	text "Wybierz Nidorana♀ lub"
+	line "Nidorana♂ z Talii."
 	done
 
 ChooseNidoranText: ; 38a61 (e:4a61)
-	text "Choose a Nidoran♀"
-	line "or a Nidoran♂."
+	text "Wybierz między Nidoran♀"
+	line "i Nidoran♂."
 	done
 
 ChooseBasicFightingPokemonText: ; 38a83 (e:4a83)
-	text "Choose a Basic"
-	line "Fighting Pokémon"
+	text "Wybierz Podstawowego"
+	line "Pokémona walczącego."
 	done
 
 ProcedureForEnergyTransferText: ; 38aa4 (e:4aa4)
-	text "Procedure for Energy Transfer:"
+	text "Procedura Transferu Energii:"
 	line ""
-	line "1. Choose the Pokémon to move Grass"
-	line "   Energy from.  Press the A Button."
+	line "1. Wybierz Pokémona, któremu"
+	line "   zabierzesz Energię Trawy."
+	line "   Naciśnij ”A”."
 	line ""
-	line "2. Choose the Pokémon to move the"
-	line "   energy to and press the A Button."
+	line "2. Wybierz Pokémona, któremu"
+	line "   przekażesz Energię. Naciśnij ”A”."
 	line ""
-	line "3. Repeat steps 1 and 2."
+	line "3. Powtórz kroki 1 i 2."
 	line ""
-	line "4. Press the B Button to end."
+	line "4. Naciśnij ”B” aby zakończyć."
 	done
 
 ChooseABellsproutFromDeckText: ; 38b8f (e:4b8f)
-	text "Choose a Bellsprout"
-	line "from the Deck."
+	text "Wybierz Bellsprout'a"
+	line "z Talii."
 	done
 
 ChooseABellsproutText: ; 38bb3 (e:4bb3)
-	text "Choose a Bellsprout."
+	text "Wybierz Bellsprouta."
 	done
 
 ChoosePkmnToRemoveDamageCounterText: ; 38bc9 (e:4bc9)
-	text "Choose a Pokémon to remove"
-	line "the Damage counter from."
+	text "Wybierz Pokémona, z którego"
+	line "zdejmiesz licznik obrażeń."
 	done
 
 ProcedureForCurseText: ; 38bfe (e:4bfe)
-	text "Procedure for Curse:"
+	text "Procedura klątwy:"
 	line ""
-	line "1. Choose a Pokémon to move the"
-	line "   Damage counter from and press"
-	line "   the A Button."
+	line "1. Wybierz Pokémona, z którego"
+	line "   zdejmiesz licznik obrażeń."
+	line "   Naciśnij ”A”."
 	line ""
-	line "2. Choose a Pokémon to move the"
-	line "   Damage counter to and press"
-	line "   the A Button."
+	line "2. Wybierz Pokémona, któremu"
+	line "   przekażesz licznik obrażeń."
+	line "   Naciśnij ”A”."
 	line ""
-	line "3. Press the B Button to cancel."
+	line "3. Naciśnij ”B” aby przerwać."
 	done
 
 Choose2EnergyCardsFromDiscardPileToAttachText: ; 38cda (e:4cda)
-	text "Choose 2 Energy cards from the"
-	line "Discard Pileto attach to a Pokémon."
+	text "Wybierz 2 karty Energii ze stosu"
+	line "kart odrzuconych aby dołączyć je"
+	line "do Pokémona."
 	done
 
 Choose2EnergyCardsFromDiscardPileForHandText: ; 38d1e (e:4d1e)
-	text "Choose 2 Energy cards from the"
-	line "Discard Pile for your Hand."
+	text "Wybierz 2 karty Energii ze stosu"
+	line "odrzuconych aby wziąć je na Rękę."
 	done
 
 ChooseAnEnergyCardText: ; 38d5a (e:4d5a)
-	text "Choose an Energy"
-	line "card."
+	text "Wybierz kartę"
+	line "Energii."
 	done
 
 ProcedureForProphecyText: ; 38d72 (e:4d72)
-	text "Procedure for Prophecy:"
+	text "Procedura przepowiedni:"
 	line ""
-	line "1. Choose either your Deck"
-	line "   or your opponent's Deck"
+	line "1. Wybierz swoją, lub"
+	line "   wrogą Talię."
 	line ""
-	line "2. Choose the cards you wish to"
-	line "   place on top and press the"
-	line "   A Button."
+	line "2. Wybierz karty, które chcesz"
+	line "   położyć na wierzchu, potwierdź"
+	line "   naciskając ”A”."
 	line ""
-	line "3. Select Yes after you choose"
-	line "   the 3 cards and their order."
+	line "3. Wybierz ”Tak” po wybraniu 3 kart"
+	line "   oraz ich kolejności."
 	line ""
-	line "4. Press the B Button to cancel."
+	line "4. Naciśnij ”B” aby przerwać."
 	done
 
 ChooseTheOrderOfTheCardsText: ; 38e70 (e:4e70)
-	text "Choose the order"
-	line "of the cards."
+	text "Wybierz kolejność"
+	line "kart."
 	done
 
 ProcedureForDamageSwapText: ; 38e90 (e:4e90)
-	text "Procedure for Damage Swap:"
+	text "Procedura zamiany ran:"
 	line ""
-	line "1. Choose a Pokémon to move a"
-	line "   Damage counter from and press"
-	line "   the A Button."
+	line "1. Wybierz Pokémona, z którego"
+	line "   zdejmiesz licznik obrażeń."
+	line "   Naciśnij ”A”."
 	line ""
-	line "2. Choose a Pokémon to move the"
-	line "   Damage counter to and press"
-	line "   the A Button."
+	line "2. Wybierz Pokémona, na którego"
+	line "   przeniesiesz licznik obrażeń."
+	line "   Naciśnij ”A”."
 	line ""
-	line "3. Repeat steps 1 and 2."
+	line "3. Powtórz kroki 1 i 2."
 	line ""
-	line "4. Press the B Button to end."
+	line "4. Naciśnij ”B” aby przerwać."
 	line ""
-	line "5. You cannot move the counter if"
-	line "   it will Knock Out the Pokémon."
+	line "5. Nie możesz przenieść licznika,"
+	line "   jeśli znokautuje to Pokémona."
 	done
 
 ProcedureForDevolutionBeamText: ; 38fcc (e:4fcc)
-	text "Procedure for Devolution Beam."
+	text "Procedura wiązki dewolucji."
 	line ""
-	line "1. Choose either a Pokémon in your"
-	line "   Play Area or your opponent's"
-	line "   Play Area and press the A Button."
+	line "1. Wybiesz swój lub wrogi obszar"
+	line "   gry. Potwierdź naciskając ”A”."
 	line ""
-	line "2. Choose the Pokémon to Devolve"
-	line "   and press the A Button."
+	line "2. Wybierz Pokémona do dewolucji."
+	line "   Potwierdź naciskając ”A”."
 	line ""
-	line "3. Press the B Button to cancel."
+	line "3. Naciśnij ”B” aby przerwać."
 	done
 
 ProcedureForStrangeBehaviorText: ; 390b4 (e:50b4)
-	text "Procedure for Strange Behavior:"
+	text "Procedura dziwnego zachowania:"
 	line ""
-	line "1. Choose the Pokémon with the"
-	line "   Damage counters to move to"
-	line "   Slowbro and press the A Button."
+	line "1. Wybierz Pokémona z licznikami"
+	line "   obrażeń do przesunięcia na"
+	line "   Slowbro i naciśnij ”A”."
 	line ""
-	line "2. Repeat step 1 as many times as"
-	line "   you wish to move the counters."
+	line "2. Powtarzaj krok 1 tyle razy, ile"
+	line "   liczników chcesz przesunąć."
 	line ""
-	line "3. Press the B Button to end."
+    line "3. Naciśnij ”B” aby zakończyć."
 	line ""
-	line "4. You cannot move the damage if"
-	line "   Slowbro will be Knocked Out."
+	line "4. Nie możesz przenieść licznika,"
+	line "   jeśli znokautuje to Slowbro."
 	done
 
 ChooseOppAttackToBeUsedWithMetronomeText: ; 391dc (e:51dc)
-	text "Choose the opponent's Attack"
-	line "to be used with Metronome."
+	text "Wybierz atak przeciwnika, którego"
+	line "użyje metronom."
 	done
 
 ThereIsNoInTheDeckText: ; 39215 (e:5215)
-	text "There is no <RAMTEXT>"
-	line "in the Deck."
+	text "Nie ma <RAMTEXT>"
+	line "w Talii."
 	done
 
 WouldYouLikeToCheckTheDeckText: ; 39231 (e:5231)
-	text "Would you like to check the Deck?"
+	text "Czy chcesz sprawdzić Talię?"
 	done
 
 PleaseSelectTheDeckText: ; 39254 (e:5254)
-	text "Please select the Deck:"
-	line "            Yours   Opponent's"
+	text "Wybierz Talię:"
+	line "            Własna  Przeciwnika"
 	done
 
 PleaseSelectThePlayAreaText: ; 3928c (e:528c)
-	text "Please select the Play Area:"
-	line "            Yours   Opponent's"
+	text "Wybierz obszar gry:"
+	line "            Własny  Przeciwnika"
 	done
 
 NidoranMNidoranFText: ; 392c9 (e:52c9)
@@ -452,829 +462,810 @@ KrabbyText: ; 392f0 (e:52f0)
 	done
 
 FightingPokemonDeckText: ; 392f8 (e:52f8)
-	text "Fighting Pokémon"
+	text "Walczący Pokémon"
 	done
 
 BasicEnergyText: ; 3930a (e:530a)
-	text "Basic Energy"
+	text "Podstawowa Energia"
 	done
 
 PeekWasUsedToLookInYourHandText: ; 39318 (e:5318)
-	text "Peek was used to look at the"
-	line "<RAMTEXT> in your Hand."
+	text "Użyto zerknięcia aby spojrzeć na"
+	line "<RAMTEXT> na twojej ręce."
 	done
 
 CardPeekWasUsedOnText: ; 39346 (e:5346)
-	text "Card Peek was used on"
+	text "Użyto zerknięcia na"
 	done
 
 PokemonAndAllAttachedCardsReturnedToHandText: ; 3935d (e:535d)
-	text "<RAMTEXT> and all attached"
-	line "cards were returned to the Hand."
+	text "<RAMTEXT> i wszystkie dołączone"
+	line "karty zwrócone na Rękę."
 	done
 
 WasChosenForTheEffectOfAmnesiaText: ; 39392 (e:5392)
-	text "<RAMTEXT> was chosen"
-	line "for the effect of Amnesia."
+	text "Wybrano <RAMTEXT> jako"
+	line "cel Amnezji."
 	done
 
 BasicPokemonWasPlacedOnEachBenchText: ; 393bb (e:53bb)
-	text "A Basic Pokémon was placed"
-	line "on each Bench."
+	text "Na każdej ławce znalazły się"
+	line "Pokémony Podstawowe."
 	done
 
 WasUnsuccessfulText: ; 393e6 (e:53e6)
-	text "<RAMTEXT>'s"
-	line "<RAMTEXT> was unsuccessful."
+	text "<RAMTEXT> nie zdołał"
+	line "użyć <RAMTEXT>."
 	done
 
 ThereWasNoEffectFromTxRam2Text: ; 393ff (e:53ff)
-	text "There was no effect"
-	line "from <RAMTEXT>."
+	text "<RAMTEXT> nie odniósł"
+	line "żadnego efektu."
 	done
 
 TheEnergyCardFromPlayAreaWasMovedText: ; 3941c (e:541c)
-	text "The Energy card from <RAMNAME>'s"
-	line "Play Area was moved."
+	text "<RAMNAME>! Z twego pola gry"
+	line "przesunięto kartę Energii."
 	done
 
 DrewFireEnergyFromTheHandText: ; 3944b (e:544b)
-	text "<RAMNAME> drew"
-	line "<RAMNUM> Fire Energy from the Hand."
+	text "<RAMNAME> bierze <RAMNUM>"
+	line "kart Energii Ognia z Ręki."
 	done
 
 ThePkmnCardsInHandAndDeckWereShuffledText: ; 39470 (e:5470)
-	text "The Pokémon cards in <RAMNAME>'s"
-	line "Hand and Deck were shuffled"
+	text "<RAMNAME> tasuje karty Pokémon"
+	line "z Ręki i Talii."
 	done
 
 Text014f: ; 394a6 (e:54a6)
-	text "Remove Damage counter each time the"
-	line "A Button is pressed. B Button quits."
+	text "Każde naciśnięcie ”A” usuwa licznik"
+	line "obrażeń. ”B” kończy."
 	done
 
 ChoosePokemonToRemoveDamageCounterFromText: ; 394f0 (e:54f0)
-	text "Choose a Pokémon to remove"
-	line "the Damage counter from."
+	text "Wybierz Pokémona, z którego"
+	line "usuniesz licznik obrażeń."
 	done
 
 ChooseCardToDiscardFromHandText: ; 39525 (e:5525)
-	text "Choose the card to Discard"
-	line "from the Hand."
+	text "Wybierz kartę do odrzucenia"
+	line "z Ręki."
 	done
 
 ChoosePokemonToRemoveEnergyFromText: ; 39550 (e:5550)
-	text "Choose a Pokémon to remove"
-	line "Energy from and choose the Energy."
+	text "Wybierz Pokémona i Kartę Energii,"
+	line "którą z niego usuniesz."
 	done
 
 Choose2BasicEnergyCardsFromDiscardPileText: ; 3958f (e:558f)
-	text "Choose 2 Basic Energy cards"
-	line "from the Discard Pile."
+	text "Wybierz 2 Podstawowe Karty Energii"
+	line "ze Stosu Kart Odrzuconych."
 	done
 
 Text0154: ; 395c3 (e:55c3)
-	text "Choose a Pokémon and press the A"
-	line "Button to remove Damage counters."
+	text "Wybierz Pokémona i naciśnij ”A”"
+	line "aby usunąć liczniki obrażeń."
 	done
 
 Choose2CardsFromHandToDiscardText: ; 39607 (e:5607)
-	text "Choose 2 cards from the Hand"
-	line "to Discard."
+	text "Wybierz 2 karty z ręki"
+	line "do odrzucenia."
 	done
 
 Choose2HandCardsFromHandToReturnToDeckText: ; 39631 (e:5631)
-	text "Choose 2 cards from the Hand"
-	line "to return to the Deck."
+	text "Wybierz 2 karty, które"
+	line "wrócą z ręki do talii."
 	done
 
 ChooseCardToPlaceInHandText: ; 39666 (e:5666)
-	text "Choose a card to"
-	line "place in the Hand."
+	text "Wybierz kartę, którą"
+	line "umieścisz w ręce."
 	done
 
 ChoosePokemonToAttachDefenderToText: ; 3968b (e:568b)
-	text "Choose a Pokémon to"
-	line "attach Defender to."
+	text "Wybierz Pokémona, do"
+	line "którego dołączysz Obrońcę."
 	done
 
 Text0159: ; 396b4 (e:56b4)
-	text "You can draw up to <RAMNUM> cards."
-	line "A to Draw, B to End."
+	text "Możesz wziąć do <RAMNUM> kart."
+	line "”A” by wziąć, ”B” aby zakończyć."
 	done
 
 ChoosePokemonToReturnToTheDeckText: ; 396e6 (e:56e6)
-	text "Choose a Pokémon to"
-	line "return to the Deck."
+	text "Wybierz Pokémona, który"
+	line "wróci do talii."
 	done
 
 ChoosePokemonToPlaceInPlayText: ; 3970f (e:570f)
-	text "Choose a Pokémon to"
-	line "place in play."
+	text "Wybierz Pokémona, który"
+	line "wejdzie do gry."
 	done
 
 ChooseBasicPokemonToEvolveText: ; 39733 (e:5733)
-	text "Choose a Basic Pokémon"
-	line "to Evolve."
+	text "Wybierz Pokémon, który"
+	line "wyewoluuje."
 	done
 
 ChoosePokemonToScoopUpText: ; 39756 (e:5756)
-	text "Choose a Pokémon to"
-	line "Scoop Up."
+	text "Wybierz Pokémona"
+	line "do wciągnięcia."
 	done
 
 ChooseCardFromYourHandToSwitchText: ; 39775 (e:5775)
-	text "Choose a card from your"
-	line "Hand to Switch."
+	text "Wybierz kartę z ręki"
+	line "na wymianę."
 	done
 
 ChooseCardToSwitchText: ; 3979e (e:579e)
-	text "Choose a card to"
-	line "Switch."
+	text "Wybierz kartę"
+	line "na wymianę."
 	done
 
 ChooseBasicOrEvolutionPokemonCardFromDeckText: ; 397b8 (e:57b8)
-	text "Choose a Basic or Evolution"
-	line "Pokémon card from the Deck."
+	text "Wybierz Pokémona podstawowego lub"
+	line "kartę ewolucji z talii."
 	done
 
 ChoosePokemonCardText: ; 397f1 (e:57f1)
-	text "Choose"
-	line "a Pokémon card."
+	text "Wybierz"
+	line "kartę Pokémon."
 	done
 
 RearrangeThe5CardsAtTopOfDeckText: ; 39809 (e:5809)
-	text "Rearrange the 5 cards at"
-	line "the top of the Deck."
+	text "Ustal kolejność pierwszych 5 kart"
+	line "z wierzchu talii."
 	done
 
 PleaseCheckTheOpponentsHandText: ; 39838 (e:5838)
-	text "Please check the opponent's"
-	line "Hand."
+	text "Sprawdź rękę przeciwnika."
 	done
 
 EvolutionCardText: ; 3985b (e:585b)
-	text "Evolution card"
+	text "Karta ewolucji"
 	done
 
 CardWasChosenText: ; 3986b (e:586b)
-	text "<RAMTEXT> was chosen."
+	text "Wybrano <RAMTEXT>."
 	done
 
 ChooseBasicPokemonToPlaceOnBenchText: ; 3987a (e:587a)
-	text "Choose a Basic Pokémon"
-	line "to place on the Bench."
+	text "Wybierz Pokémona podstawowego"
+	line "do umieszczenia na ławce."
 	done
 
 ChooseEvolutionCardAndPressAButtonToDevolveText: ; 398a9 (e:58a9)
-	text "Choose an Evolution card and"
-	line "press the A Button to Devolve 1."
+	text "Wybierz kartę ewolucji i naciśnij"
+	line "”A” aby użyć ”Dewolucji 1”."
 	done
 
 ChoosePokemonInYourAreaThenPokemonInYourOppText: ; 398e8 (e:58e8)
-	text "Choose a Pokémon in your Area, then"
-	line "a Pokémon in your opponent's."
+	text "Wybierz swojego Pokémona,"
+	line "a następnie Pokémona przeciwnika."
 	done
 
 ChooseUpTo4FromDiscardPileText: ; 3992b (e:592b)
-	text "Choose up to 4"
-	line "from the Discard Pile."
+	text "Wybierz do 4 kart"
+	line "ze stosu kart odrzuconych."
 	done
 
 ChooseAPokemonToSwitchWithActivePokemonText: ; 39952 (e:5952)
-	text "Choose a Pokémon to switch"
-	line "with the Active Pokémon."
+	text "Wybierz Pokémona do zamiany"
+	line "z aktywnym Pokémonem."
 	done
 
 PokemonAndAllAttachedCardsWereReturnedToDeckText: ; 39987 (e:5987)
-	text "<RAMTEXT> and all attached"
-	line "cards were returned to the Deck."
+	text "<RAMTEXT> i wszystkie"
+	line "dołączone karty wróciły do talii."
 	done
 
 PokemonWasReturnedFromArenaToHandText: ; 399bc (e:59bc)
-	text "<RAMTEXT> was returned"
-	line "from the Arena to the Hand."
+	text "<RAMTEXT> wraca"
+	line "z areny na rękę."
 	done
 
 PokemonWasReturnedFromBenchToHandText: ; 399e8 (e:59e8)
-	text "<RAMTEXT> was returned"
-	line "from the Bench to the Hand."
+	text "<RAMTEXT> wraca"
+	line "z ławki na rękę."
 	done
 
 PokemonWasReturnedToDeckText: ; 39a14 (e:5a14)
-	text "<RAMTEXT> was returned"
-	line "to the Deck."
+	text "<RAMTEXT> wraca"
+	line "do talii."
 	done
 
 WasPlacedInTheHandText: ; 39a31 (e:5a31)
-	text "<RAMTEXT> was placed"
-	line "in the Hand."
+	text "Umieszczono <RAMTEXT>"
+	line "na ręce."
 	done
 
 TheCardYouReceivedText: ; 39a4c (e:5a4c)
-	text "The card you received"
+	text "Karta, którą otrzymano"
 	done
 
 YouReceivedTheseCardsText: ; 39a63 (e:5a63)
-	text "You received these cards:"
+	text "Otrzymano te karty:"
 	done
 
 ChooseTheCardToPutBackText: ; 39a7e (e:5a7e)
-	text "Choose the card"
-	line "to put back."
+	text "Wybierz kartę"
+	line "do odłożenia."
 	done
 
 ChooseTheCardToDiscardText: ; 39a9c (e:5a9c)
-	text "Choose the card"
-	line "to Discard."
+	text "Wybierz kartę"
+	line "do odrzucenia."
 	done
 
 DiscardedCardsFromDeckText: ; 39ab9 (e:5ab9)
-	text "Discarded <RAMNUM> cards"
-	line "from <RAMNAME>'s Deck."
+	text "Odrzucono <RAMNUM> kart"
+	line "z talii gracza <RAMNAME>."
 	done
 
 Text0175: ; 39adb (e:5adb)
-	text "Discarded <RAMTEXT>"
-	line "from the Hand."
+	text "Odrzucono <RAMTEXT>"
+	line "z ręki."
 	done
 
 NoneCameText: ; 39af7 (e:5af7)
-	text "None came!"
+	text "Nikt nie przyszedł!"
 	done
 
 CameToTheBenchText: ; 39b03 (e:5b03)
 	text "<RAMTEXT>"
-	line "came to the Bench!"
+	line "wskoczył na ławkę!"
 	done
 
 DuelistHasNoCardsInHandText: ; 39b19 (e:5b19)
-	text "<RAMNAME> has"
-	line "no cards in Hand!"
+	text "<RAMNAME> nie ma"
+	line "kart na ręce!"
 	done
 
 PokemonHealedDamageText: ; 39b32 (e:5b32)
-	text "<RAMTEXT> healed"
-	line "<RAMNUM> damage!"
+	text "<RAMTEXT> leczy"
+	line "<RAMNUM> obrażeń!"
 	done
 
 PokemonDevolvedToText: ; 39b46 (e:5b46)
-	text "<RAMTEXT> devolved"
-	line "to <RAMTEXT>!"
+	text "<RAMTEXT> deewoluował"
+	line "do <RAMTEXT>!"
 	done
 
 ThereWasNoFireEnergyText: ; 39b58 (e:5b58)
-	text "There was no Fire Energy."
+	text "Nie było kart Energii Ognia."
 	done
 
 YouCanSelectMoreCardsQuitText: ; 39b73 (e:5b73)
-	text "You can select <RAMNUM> more cards. Quit?"
+    text "Możesz jeszcze wybrać <RAMNUM> kart. Wyjść?"
 	done
 
 ThereWasNoEffectText: ; 39b97 (e:5b97)
-	text "There was no effect!"
+	text "Nic się nie stało!"
 	done
 
 ThereWasNoEffectFromToxicText: ; 39bad (e:5bad)
-	text "There was no effect"
-	line "from Toxic"
+	text "Toksyna nie dała"
+	line "żadnego efektu!"
 	done
 
 ThereWasNoEffectFromPoisonText: ; 39bcd (e:5bcd)
-	text "There was no effect"
-	line "from Poison."
+	text "Zatrucie nie dało"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromSleepText: ; 39bef (e:5bef)
-	text "There was no effect"
-	line "from Sleep."
+	text "Uśpienie nie dało"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromParalysisText: ; 39c10 (e:5c10)
-	text "There was no effect"
-	line "from Paralysis."
+	text "Paraliż nie dał"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromConfusionText: ; 39c35 (e:5c35)
-	text "There was no effect"
-	line "from Confusion."
+	text "Dezorientacja nie dała"
+	line "żadnego efektu."
 	done
 
 ThereWasNoEffectFromPoisonConfusionText: ; 39c5a (e:5c5a)
-	text "There was no effet"
-	line "from Poison, Confusion."
+	text "Dezorientacja i zatrucie"
+	line "nie dały żadnego efektu."
 	done
 
 ExchangedCardsInDuelistsHandText: ; 39c86 (e:5c86)
-	text "Exchanged the cards"
-	line "in <RAMNAME>'s Hand."
+	text "<RAMNAME>: karty na ręce"
+	line "zostały wymienione."
 	done
 
 Text0185: ; 39ca8 (e:5ca8)
-	text "Battle Center"
+	text "Centrum walk"
 	done
 
 PrizesCardsText: ; 39cb7 (e:5cb7)
-	text "Prizes"
-	line "       cards"
+	text "Nagrody"
+	line "       karty"
 	done
 
 ChooseTheNumberOfPrizesText: ; 39ccc (e:5ccc)
-	text "Choose the number"
-	line "of Prizes."
+	text "Wybierz liczbę"
+	line "nagród."
 	done
 
 PleaseWaitDecidingNumberOfPrizesText: ; 39cea (e:5cea)
-	text "Please wait..."
-	line "Deciding the number of Prizes..."
+	text "Proszę czekać..."
+	line "Decydowanie o liczbie nagród..."
 	done
 
 BeginAPrizeDuelWithText: ; 39d1b (e:5d1b)
-	text "Begin a <RAMNUM>-Prize Duel"
-	line "with <RAMNAME>."
+	text "Rozpocznij walkę o <RAMNUM> nagród"
+	line "z <RAMNAME>."
 	done
 
 AreYouBothReadyToCardPopText: ; 39d39 (e:5d39)
-	text "Are you both ready"
-	line "to Card Pop! ?"
+	text "Jesteście gotowi"
+	line "na Card Pop?!"
 	done
 
 ThePopWasntSuccessfulText: ; 39d5c (e:5d5c)
-	text "The Pop! wasn't successful."
-	line "Please try again."
+	text "Card Pop! się nie udał."
+	line "Spróbuj ponownie."
 	done
 
 CannotCardPopWithFriendPreviouslyPoppedWithText: ; 39d8b (e:5d8b)
-	text "You cannot Card Pop! with a"
-	line "friend you previously Popped! with."
+	text "Nie możesz użyć Card Pop! z tą samą"
+	line "osobą więcej niż raz!"
 	done
 
 PositionGameBoyColorsAndPressAButtonText: ; 39dcc (e:5dcc)
-	text "Position the Game Boy Colors"
-	line "and press the A Button."
+	text "Ustawcie Game Boy'e Color"
+	line "i naciśnijcie ”A”."
 	done
 
 ReceivedThroughCardPopText: ; 39e02 (e:5e02)
-	text "Received <RAMTEXT>"
-	line "through Card Pop!"
+	text "Otrzymano <RAMTEXT>"
+	line "dzięki Card Pop!"
 	done
 
 ReceivedCardText: ; 39e20 (e:5e20)
-	text "<RAMNAME> received"
-	line "a <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje"
+	line "<RAMTEXT>!"
 	done
 
 ReceivedPromotionalCardText: ; 39e31 (e:5e31)
-	text "<RAMNAME> received a Promotional"
-	line "card <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę <RAMTEXT>!"
 	done
 
 ReceivedLegendaryCardText: ; 39e53 (e:5e53)
-	text "<RAMNAME> received the Legendary"
-	line "card <RAMTEXT>!"
+	text "<RAMNAME> otrzymuje legendarną"
+	line "kartę <RAMTEXT>!"
 	done
 
 ReceivedPromotionalFlyingPikachuText: ; 39e75 (e:5e75)
-	text "<RAMNAME> received a Promotinal"
-	line "card Flyin' Pikachu!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę Latającego Pikachu!"
 	done
 
 ReceivedPromotionalSurfingPikachuText: ; 39ea3 (e:5ea3)
-	text "<RAMNAME> received a Promotional"
-	line "card Surfin' Pikachu!"
+	text "<RAMNAME> otrzymuje promocyjną"
+	line "kartę Pikachu Surfer!"
 	done
 
 Text0194: ; 39ed3 (e:5ed3)
-	text "Received a Flareon!!!"
-	line "Looked at the card list!"
+	text "Otrzymano Flareona!"
+	line "Spójrz na listę kart!"
 	done
 
 NowPrintingPleaseWaitText: ; 39f03 (e:5f03)
-	text "Now printing."
-	line "Please wait..."
+	text "Trwa drukowanie."
+	line "Proszę czekać..."
 	done
 
 BoosterPackText: ; 39f21 (e:5f21)
-	text "Booster Pack"
+	text "Paczka Booster'a"
 	done
 
 WouldYouLikeToTryAgainText: ; 39f2f (e:5f2f)
-	text "Would you like to try again?"
+	text "Czy chcesz spróbować ponownie?"
 	done
 
 Text0198: ; 39f4d (e:5f4d)
-	text "Sent to <RAMNAME>."
+	text "Wysłano do <RAMNAME>."
 	done
 
 Text0199: ; 39f59 (e:5f59)
-	text "Received from <RAMNAME>."
+	text "Otrzymano od <RAMNAME>."
 	done
 
 SendingACardText: ; 39f6b (e:5f6b)
-	text "Sending a card...Move the Game"
-	line "Boys close and press the A Button."
+	text "Wysyłanie karty... Zbliż Game"
+	line "Boye i naciśnij ”A”."
 	done
 
 ReceivingACardText: ; 39fae (e:5fae)
-	text "Receiving a card...Move"
-	line "the Game Boys close together."
+	text "Otrzymywanie karty... Zbliż Game"
+	line "Boye i naciśnij ”A”."
 	done
 
 SendingADeckConfigurationText: ; 39fe5 (e:5fe5)
-	text "Sending a Deck Configuration..."
-	line "Position the Game Boys and press A."
+	text "Wysyłanie planu talii... Zbliż Game"
+	line "Boye i naciśnij ”A”."
 	done
 
 ReceivingDeckConfigurationText: ; 3a02a (e:602a)
-	text "Receiving Deck configuration..."
-	line "Position the Game Boys and press A."
+	text "Otrzymywanie planu talii... Zbliż"
+	line "Game Boye i naciśnij ”A”."
 	done
 
 CardTransferWasntSuccessful1Text: ; 3a06f (e:606f)
-	text "Card transfer wasn't successful."
+	text "Nie udało się przesłać karty."
 	done
 
 CardTransferWasntSuccessful2Text: ; 3a091 (e:6091)
-	text "Card transfer wasn't successful"
+	text "Nie udało się przesłać karty."
 	done
 
 DeckConfigurationTransferWasntSuccessful1Text: ; 3a0b2 (e:60b2)
-	text "Deck configuration transfer"
-	line "wasn't successful"
+	text "Nie udało się przesłać"
+	line "planu talii."
 	done
 
 DeckConfigurationTransferWasntSuccessful2Text: ; 3a0e1 (e:60e1)
-	text "Deck configuration transfer"
-	line "wasn't successful."
+	text "Nie udało się przesłać"
+	line "planu talii."
 	done
 
 NowPrintingText: ; 3a111 (e:6111)
-	text "Now printing..."
+	text "Trwa drukowanie..."
 	done
 
 DrMasonText: ; 3a122 (e:6122)
-	text "Dr. Mason"
+	text "Doktor Mason"
 	done
 
 DrawSevenCardsPracticeDuelText: ; 3a12d (e:612d)
-	text "Draw 7 cards,"
+	text "Weź 7 kart"
 	line ""
-	line "and get ready for the battle!"
-	line "Choose your Active Pokémon."
-	line "You can only choose Basic Pokémon"
-	line "as your Active Pokémon,"
-	line "so you can choose either Goldeen"
-	line "or Staryu."
-	line "For our practice duel,"
-	line "choose Goldeen."
+	line "i przygotuj się do walki!"
+	line "Wybierz aktywnego Pokémona."
+	line "Może nim być tylko Pokémon"
+	line "podstawowy, możesz więc wybrać"
+	line "albo Goldeen, albo Staryu."
+	line "Dla naszego treningu"
+	line "wybierz Goldeen."
 	done
 
 ChooseGoldeenPracticeDuelText: ; 3a204 (e:6204)
-	text "Choose Goldeen for this"
-	line "practice duel, OK?"
+	text "Wybierz Goldeen na potrzeby"
+	line "tej walki, OK?"
 	done
 
 PutPokemonOnBenchPracticeDuelText: ; 3a230 (e:6230)
-	text "Next, put your Pokémon on your"
-	line "Bench."
-	line "You can switch Benched Pokémon"
-	line "with your Active Pokémon."
-	line "Again, only Basic Pokémon can be"
-	line "placed on your Bench."
-	line "Choose Staryu from your hand and"
-	line "put it there."
+	text "Wybierz Pokémony na ławkę."
+	line "Możesz potem zamienić aktywnego"
+	line "Pokémona na Pokémona z ławki."
+	line "Na ławce możesz umieścić tylko"
+	line "Pokémony podstawowe."
+	line "Wybierz Staryu z ręki i umieść"
+	line "go na ławce."
 	done
 
 ChooseStaryuPracticeDuelText: ; 3a2f6 (e:62f6)
-	text "Choose Staryu for this"
-	line "practice duel, OK?"
+	text "Wybierz Staryu na potrzeby"
+	line "tej walki, OK?"
 	done
 
 PressBToFinishPracticeDuelText: ; 3a321 (e:6321)
-	text "When you have no Pokémon to put on"
-	line "your Bench, press the B Button to"
-	line "finish."
+	text "Jeśli nie masz już Pokémona do"
+	line "umieszczenia na ławce, naciśnij ”B”."
 	done
 
 Turn1Instr1PracticeDuelText: ; 3a36f (e:636f)
-	text "1. Choose Hand from the Menu."
-	line "   Select a Water Energy card."
+	text "1. Wybierz Rękę z Menu."
+	line "   Wybierz kartę Energii Wody."
 	done
 
 Turn1Instr2PracticeDuelText: ; 3a3ad (e:63ad)
-	text "2. Attach a Water Energy card to"
-	line "   your Active Pokémon, Goldeen."
+	text "2. Dołącz kartę Energii Wody"
+	line "   do aktywnego Pokémona, Goldeen."
 	done
 
 Turn1Instr3PracticeDuelText: ; 3a3f0 (e:63f0)
-	text "3. Choose Attack from the Menu"
-	line "   and select Horn Attack."
+	text "3. Wybierz ”Atak” z menu."
+	line "   Wybierz ”Atak Rogiem”."
 	done
 
 Turn2Instr1PracticeDuelText: ; 3a42b (e:642b)
-	text "1. Evolve Goldeen by"
-	line "   attaching Seaking to it."
+	text "1. Ewoluuj Goldeen dołączając"
+	line "   do niej kartę ”Seaking”."
 	done
 
 Turn2Instr2PracticeDuelText: ; 3a45d (e:645d)
-	text "2. Attach a Psychic Energy card"
-	line "   to the evolved Seaking."
+	text "2. Dołącz kartę Energii Psychiki"
+	line "   do wyewoluowanego Seaking'a."
 	done
 
 Turn2Instr3PracticeDuelText: ; 3a499 (e:6499)
-	text "3. Choose Attack and select"
-	line "   Waterfall to attack your"
-	line "   opponent."
+	text "3. Wybierz ”Atak”, a następnie"
+	line "   ”Wodospad” aby zaatakować rywala."
 	done
 
 Turn3Instr1PracticeDuelText: ; 3a4df (e:64df)
-	text "1. Attach a Water Energy card to"
-	line "   your Benched Staryu."
+	text "1. Dołącz Energię Wody do"
+	line "   Staryu z ławki."
 	done
 
 Turn3Instr2PracticeDuelText: ; 3a519 (e:6519)
-	text "2. Choose Attack and attack your"
-	line "   opponent with Horn Attack."
+	text "2. Wybierz ”Atak” z menu."
+	line "   Wybierz ”Atak Rogiem”."
 	done
 
 Turn3Instr3PracticeDuelText: ; 3a559 (e:6559)
 	done
 
 Turn4Instr1PracticeDuelText: ; 3a55a (e:655a)
-	text "1. Take Drowzee from your hand"
-	line "   and put it on your Bench."
+	text "1. Weź Drowzee ze swojej ręki"
+	line "   i umieść go na ławce."
 	done
 
 Turn4Instr2PracticeDuelText: ; 3a597 (e:6597)
-	text "2. Attach a Water Energy card to"
-	line "   your Benched Drowzee."
+	text "2. Dołącz Energię Wody do"
+	line "   Drowzee z ławki."
 	done
 
 Turn4Instr3PracticeDuelText: ; 3a5d2 (e:65d2)
-	text "3. Choose Seaking and attack your"
-	line "   opponent with Waterfall."
+	text "3. Zaatakuj wroga ”Wodospadem”"
+	line "   Seakinga."
 	done
 
 Turn5Instr1PracticeDuelText: ; 3a611 (e:6611)
-	text "1. Choose a Water Energy card from"
-	line "   your hand and attach it to"
-	line "   Staryu."
+	text "1. Wybierz Energię Wody z ręki"
+	line "   i dołącz ją do Staryu."
 	done
 
 Turn5Instr2PracticeDuelText: ; 3a65e (e:665e)
-	text "2. Choose Staryu and attack your"
-	line "   opponent with Slap."
+	text "2. Wybierz Staryu i zaatakuj"
+	line "   rywala Plaskaczem."
 	done
 
 Turn6Instr1PracticeDuelText: ; 3a697 (e:6697)
-	text "1. Choose the Potion card in your"
-	line "   hand to recover Staryu's HP."
+	text "1. Wybierz kartę Eliksiru z ręki"
+	line "   aby wyleczyć Staryu."
 	done
 
 Turn6Instr2PracticeDuelText: ; 3a6da (e:66da)
-	text "2. Attach a Water Energy card to"
-	line "   Staryu."
+	text "2. Wybierz Energię Wody z ręki"
+	line "   i dołącz ją do Staryu."
 	done
 
 Turn6Instr3PracticeDuelText: ; 3a707 (e:6707)
-	text "3. Choose Staryu and attack your"
-	line "   opponent with Slap."
+	text "3. Wybierz Staryu i zaatakuj"
+	line "   rywala Plaskaczem."
 	done
 
 Turn7Instr1PracticeDuelText: ; 3a740 (e:6740)
-	text "1. Evolve Staryu by"
-	line "   attaching Starmie to it."
+	text "1. Wyewoluuj Staryu dołączając"
+	line "   do niego Starmie."
 	done
 
 Turn7Instr2PracticeDuelText: ; 3a771 (e:6771)
-	text "2. Select the evolved Starmie and"
-	line "   attack your opponent with Star "
-	line "   Freeze."
+	text "2. Wybierz Starmie i zaatakuj rywala"
+	line "   Gwiezdnym Zamrożeniem."
 	done
 
 Turn8Instr1PracticeDuelText: ; 3a7c2 (e:67c2)
-	text "1. Select Starmie and attack your"
-	line "   opponent with Star Freeze."
+	text "1. Wybierz Starmie i zaatakuj rywala"
+	line "   Gwiezdnym Zamrożeniem."
 	done
 
 Turn8Instr2PracticeDuelText: ; 3a803 (e:6803)
-	text "2. You Knocked Machop Out."
-	line "   Now you can draw a Prize."
+	text "2. Znokautowano Machop'a."
+	line "   Możesz teraz wziąć nagrodę."
 	done
 
 SamTurn4Instr1PracticeDuelText: ; 3a83c (e:683c)
-	text "1. Your Seaking was Knocked Out."
-	line "   Choose your Benched Staryu"
-	line "   and press the A Button to set"
-	line "   it as your Active Pokémon."
+	text "1. Twój Seaking jest znokautowany."
+	line "   Wybierz Staryu z ławki"
+	line "   i naciśnij ”A” aby wybrać go"
+	line "   jako Aktywnego Pokémona."
 	done
 
 SamTurn4Instr2PracticeDuelText: ; 3a8bb (e:68bb)
-	text "2. You can check Pokémon data by"
-	line "   pressing SELECT."
+	text "2. Możesz sprawdzić informacje"
+	line "   o Pokémonie naciskając SELECT."
 	done
 
 Turn1DrMason1PracticeDuelText: ; 3a8f1 (e:68f1)
-	text "To use the attack command, you need"
-	line "to attach Energy cards to your"
-	line "Pokémon."
+	text "Aby użyć ataku Pokémona, musisz"
+	line "dołączyć do niego Karty Energii."
 	line ""
-	line "Choose Cards from the Menu, and"
-	line "select a Water Energy card."
+	line "Wybierz Rękę z Menu, a następnie"
+	line "wybierz kartę Energii Wody."
 	done
 
 Turn1DrMason2PracticeDuelText: ; 3a97b (e:697b)
-	text "Next, choose your Active Pokémon,"
-	line "Goldeen, and press the A Button."
-	line "Then the Water Energy card will"
-	line "be attached to Goldeen."
+	text "Wybierz aktywnego Pokémona,"
+	line "Goldeen, i naciśnij przycisk ”A”."
+	line "W ten sposób karta Energii Wody"
+	line "będzie dołączona do Goldeen."
 	done
 
 Turn1DrMason3PracticeDuelText: ; 3a9f7 (e:69f7)
-	text "Finally, attack your opponent by"
-	line "selecting an attack command."
-	line "Choose Attack from the Menu, and"
-	line "select Horn Attack."
+	text "Aby zakończyć turę, zaatakuj rywala"
+	line "wybierając ”Atak”."
+	line "Wybierz ”Atak Rogiem”."
 	done
 
 Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
-	text "Your Goldeen's gonna get Knocked"
-	line "Out. Let's evolve it!"
-	line "Choose Seaking from your hand and"
-	line "attach it to Goldeen to"
-	line "Evolve it."
-	line "Its HP increases from 40 to 70."
+	text "Twój Goldeen może zostać"
+	line "znokautowany! Czas na ewolucję!"
+	line "Wybierz Seaking'a z ręki i dołącz"
+	line "go do Goldeen aby go ewoluować."
+	line "Jego Pż zwiększy się z 40 do 70."
 	done
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
-	text "Your Seaking doesn't have enough"
-	line "Energy to use Waterfall."
-	line "You need to attach a Psychic Energy"
-	line "card to Seaking."
-	line "<COLORLESS> means any Energy card."
-	line "Now you can use Waterfall."
-	line "Keep the Water Energy card for"
-	line "other Pokémon."
+	text "Seaking nie ma wystarczająco"
+	line "Energii żeby użyć Wodospadu."
+	line "Dołącz kartę Energii Psychiki"
+	line "do Seaking'a."
+	line "<COLORLESS> oznacza jakąkolwiek"
+	line "kartę Energii. Teraz możesz użyć"
+	line "wodospadu. Kartę Energii Wody"
+	line "zachowaj dla pozostałych Pokémonów."
 	done
 
 Turn2DrMason3PracticeDuelText: ; 3abdb (e:6bdb)
-	text "Now let's attack your opponent with"
-	line "Seaking's Waterfall!"
+	text "Zaatakuj przeciwnika"
+	line "Wodospadem Seaking'a!"
 	done
 
 Turn3DrMason1PracticeDuelText: ; 3ac15 (e:6c15)
-	text "Seaking's got enough Energy, so"
-	line "you don't need to attach any more."
-	line "Attach Energy cards to your Benched"
-	line "Pokémon to get them ready for"
-	line "battle."
+	text "Seaking ma wystarczająco energii,"
+	line "więc nie dołączaj kolejnych."
+	line "Skup się zamiast tego na swoich"
+	line "Pokémonach z ławki, aby przygotować"
+	line "je do walki."
 	line ""
-	line "Attach a Water Energy card to your"
-	line "Benched Staryu."
+	line "Dołącz kartę Energii Wody do"
+	line "Staryu z ławki."
 	done
 
 Turn3DrMason2PracticeDuelText: ; 3acd7 (e:6cd7)
-	text "Next, select the attack command."
-	line "Machop has 10 HP left."
-	line "Seaking's Horn Attack will be"
-	line "enough to Knock out Machop."
-	line "Now, choose Seaking's"
-	line "Horn Attack."
+	text "Wybierz polecenie ataku."
+	line "Machop'owi zostało 10 Pż, więc"
+	line "Atak Rogiem Seakinga będzie"
+	line "wystarczający do znokautowania go."
 	done
 
 Turn3DrMason3PracticeDuelText: ; 3ad6d (e:6d6d)
-	text "Now Machop's HP is 0 and it is"
-	line "Knocked Out."
-	line "When you Knock Out the Defending"
-	line "Pokémon, you can pick up a"
-	line "Prize."
+	text "Machop ma 0 Punktów życia i jest"
+	line "znokautowany."
+	line "Gracz który znokautuje wrogiego"
+	line "Pokémona otrzymuje jedną Nagrodę."
 	done
 
 Turn4DrMason1PracticeDuelText: ; 3addd (e:6ddd)
-	text "When all your Pokémon are Knocked"
-	line "Out and there are no Pokémon on your"
-	line "Bench, you lose the game."
+	text "Kiedy wszystkie twoje Pokémony będą"
+	line "znokautowane i nie masz Pokémona"
+	line "na ławce - przegrywasz grę."
 	line ""
-	line "Put Drowzee, the Basic Pokémon"
-	line "you just drew, on your Bench."
+	line "Połóż Drowzee, otrzymanego"
+	line "Pokémona, na swoją ławkę."
 	done
 
 Turn4DrMason2PracticeDuelText: ; 3ae7d (e:6e7d)
-	text "Attach a Water Energy card to"
-	line "Drowzee to get it ready to"
-	line "attack."
+	text "Dołącz kartę Energii Wody do"
+	line "Drowzee aby go przygotować do"
+	line "ataku."
 	done
 
 Turn4DrMason3PracticeDuelText: ; 3aebf (e:6ebf)
-	text "Choose your Active Seaking and"
-	line "attack your opponent with"
-	line "Waterfall."
+	text "Wybierz Seakinga i zaatakuj"
+	line "wroga za pomocą Wodospadu."
 	done
 
 Turn5DrMason1PracticeDuelText: ; 3af04 (e:6f04)
-	text "Staryu evolves into Starmie!"
+	text "Staryu ewoluuje w Starmie!"
 	line ""
-	line "Let's get Staryu ready to use"
-	line "Starmie's attack command when it"
-	line "evolves to Starmie."
+	line "Przygotujmy Staryu do użycia"
+	line "ataku Starmie po ewolucji."
 	line ""
-	line "Choose the Water Energy card from"
-	line "your hand and attach it to Staryu."
+	line "Wybierz kartę Energii Wody"
+	line "z ręki i dołącz ją do Staryu."
 	done
 
 Turn5DrMason2PracticeDuelText: ; 3afbc (e:6fbc)
-	text "Attack your opponent with Staryu's"
-	line "Slap."
+	text "Zaatakuj przeciwnika"
+	line "Plaskaczem Staryu."
 	done
 
 Turn6DrMason1PracticeDuelText: ; 3afe6 (e:6fe6)
-	text "Now, recover Staryu with a Trainer"
-	line "card."
-	line "Choose Potion from your hand."
+	text "Ulecz Staryu Kartą Trenera."
+	line "Wybierz Eliksir z Ręki."
 	done
 
 Turn6DrMason2PracticeDuelText: ; 3b02e (e:702e)
-	text "Now let's get ready to evolve"
-	line "it to Starmie."
-	line "Also, attach a Water Energy card to"
-	line "Staryu."
+	text "Przygotujmy się do ewolucji"
+	line "w Starmie."
+	line "Dołącz kartę Energii Wody"
+	line "do Staryu."
 	done
 
 Turn6DrMason3PracticeDuelText: ; 3b088 (e:7088)
-	text "Attack your opponent with Staryu's"
-	line "Slap to end your turn."
+	text "Zaatakuj przeciwnika Plaskaczem"
+	line "Staryu aby zakończyć turę."
 	done
 
 Turn7DrMason1PracticeDuelText: ; 3b0c3 (e:70c3)
-	text "Now you have finally drawn a"
-	line "Starmie card!"
-	line "Choose Starmie from your hand and"
-	line "use it to evolve Staryu."
+	text "W końcu trafiła się karta Starmie!"
+	line "Użyj jej z ręki aby"
+	line "ewoluować Staryu."
 	done
 
 Turn7DrMason2PracticeDuelText: ; 3b12a (e:712a)
-	text "You've already attached enough"
-	line "Energy to use Star Freeze."
-	line "Attack your opponent with"
-	line "Starmie's Star Freeze."
+	text "Starmie ma wystarczająco Kart"
+	line "Energii aby użyć Gwiezdnego"
+	line "Zamrożenia. Zaatakuj nim wroga!"
 	done
 
 Turn8DrMason1PracticeDuelText: ; 3b196 (e:7196)
-	text "Now Machop has only 10 HP left."
-	line "Let's finish the battle!"
-	line "Attack with Starmie's Star Freeze."
+	text "Machop'owi zostało tylko 10 Pż."
+	line "Czas zakończyć walkę!"
+	line "Zaatakuj Gwiezdnym Zamrożeniem!"
 	line ""
 	done
 
 Turn8DrMason2PracticeDuelText: ; 3b1f4 (e:71f4)
-	text "You've Knocked Out your opponent!"
+	text "Znokautowano przeciwnika!"
 	line ""
-	line "Pick up the last Prize."
+	line "Weź ostatnią nagrodę."
 	line ""
-	text "<RAMNAME> is the winner!"
+	text "<RAMNAME> zwycięża!"
 	done
 
 SamTurn4DrMason1PracticeDuelText: ; 3b242 (e:7242)
-	text "Choose a Benched Pokémon to replace"
-	line "your Knocked Out Pokémon."
-	line "You now have Drowzee and Staryu"
-	line "on your Bench."
-	line "Choose Staryu as the Active Pokémon"
-	line "for this practice duel."
+	text "Wybierz Pokémona z ławki"
+	line "do zastąpienia znokautowanego."
+	line "Masz na ławce Drowzee i Staryu."
+	line "Na potrzeby tej walki"
+	line "wybierz Staryu."
 	done
 
 SamTurn4DrMason2PracticeDuelText: ; 3b2ec (e:72ec)
-	text "Here, press SELECT to"
-	line "check Pokémon data."
-	line "It is important to know your cards"
-	line "and the status of your Pokémon."
+	text "Za pomocą przycisku ”SELECT”"
+	line "sprawdzisz dane Pokémona."
+	line "Poznanie własnych kart i statusów"
+	line "swoich Pokémonów jest bardzo ważne."
 	done
 
 SelectStaryuPracticeDuelText: ; 3b35a (e:735a)
-	text "Select Staryu for this practice,"
+	text "Wybierz Staryu w tym treningu,"
 	line "OK?"
 	done
 
 LetsPlayTheGamePracticeDuelText: ; 3b380 (e:7380)
-	text "Now, let's play the game!"
+	text "Do dzieła!"
 	done
 
 NeedPracticeAgainPracticeDuelText: ; 3b39b (e:739b)
-	text "Do you need to practice again?"
+	text "Wytłumaczyć Ci jeszcze raz?"
 	done
 
 FollowMyGuidancePracticeDuelText: ; 3b3bb (e:73bb)
-	text "This is Practice Mode, so"
-	line "please follow my guidance."
-	line "Do it again."
+	text "To tryb treningowy, więc"
+	line "postępuj zgodnie z moimi poradami."
+	line "Zróbmy to jeszcze raz."
 	done
 
 PlayersTurnPracticeDuelText: ; 3b3fe (e:73fe)
-	text "<RAMNAME>'s turn <RAMNUM>"
+	text "<RAMNAME>: tura <RAMNUM>"
 	done
 
 ReplaceDueToKnockoutPracticeDuelText: ; 3b40a (e:740a)
-	text " Replace due to Knockout "
+	text " Zastąp po nokaucie "
 	done
 
 Text01dd: ; 3b425 (e:7425)
@@ -1282,159 +1273,159 @@ Text01dd: ; 3b425 (e:7425)
 	done
 
 PracticePlayerDeckName: ; 3b42c (e:742c)
-	text "Practice Player"
+	text "Treningowy Gracz"
 	done
 
 SamsPracticeDeckName: ; 3b43d (e:743d)
-	text "Sam's Practice"
+	text "Treningowa Sama"
 	done
 
 CharmanderAndFriendsDeckName: ; 3b44d (e:744d)
-	text "Charmander & Friends"
+	text "Charmander i przyjaciele"
 	done
 
 CharmanderExtraDeckName: ; 3b463 (e:7463)
-	text "Charmander extra"
+	text "Charmander ekstra"
 	done
 
 SquirtleAndFriendsDeckName: ; 3b475 (e:7475)
-	text "Squirtle & Friends"
+	text "Squirtle i przyjaciele"
 	done
 
 SquirtleExtraDeckName: ; 3b489 (e:7489)
-	text "Squirtle extra"
+	text "Squirtle ekstra"
 	done
 
 BulbasaurAndFriendsDeckName: ; 3b499 (e:7499)
-	text "Bulbasaur & Friends"
+	text "Bulbasaur i przyjaciele"
 	done
 
 BulbasaurExtraDeckName: ; 3b4ae (e:74ae)
-	text "Bulbasaur extra"
+	text "Bulbasaur ekstra"
 	done
 
 FirstStrikeDeckName: ; 3b4bf (e:74bf)
-	text "First-Strike"
+	text "Szybki Atak"
 	done
 
 RockCrusherDeckName: ; 3b4cd (e:74cd)
-	text "Rock Crusher"
+	text "Kamienny Łamacz"
 	done
 
 GoGoRainDanceDeckName: ; 3b4db (e:74db)
-	text "Go Go Rain Dance"
+	text "Tancerz Deszczu"
 	done
 
 ZappingSelfdestructDeckName: ; 3b4ed (e:74ed)
-	text "Zapping Selfdestruct"
+	text "Prądowe Samozniszczenie"
 	done
 
 FlowerPowerDeckName: ; 3b503 (e:7503)
-	text "Flower Power"
+	text "Moc Kwiatów"
 	done
 
 StrangePsyshockDeckName: ; 3b511 (e:7511)
-	text "Strange Psyshock"
+	text "Tajemniczy Psychoszok"
 	done
 
 WondersofScienceDeckName: ; 3b523 (e:7523)
-	text "Wonders of Science"
+	text "Cuda Nauki"
 	done
 
 FireChargeDeckName: ; 3b537 (e:7537)
-	text "Fire Charge"
+	text "Ognista Szarża"
 	done
 
 LegendaryMoltresDeckName: ; 3b544 (e:7544)
-	text "Legendary Moltres"
+	text "Legendarny Moltres"
 	done
 
 LegendaryZapdosDeckName: ; 3b557 (e:7557)
-	text "Legendary Zapdos"
+	text "Legendarny Zapdos"
 	done
 
 LegendaryArticunoDeckName: ; 3b569 (e:7569)
-	text "Legendary Articuno"
+	text "Legendarny Articuno"
 	done
 
 LegendaryDragoniteDeckName: ; 3b57d (e:757d)
-	text "Legendary Dragonite"
+	text "Legendarny Dragonite"
 	done
 
 ImRonaldDeckName: ; 3b592 (e:7592)
-	text "I'm Ronald!"
+	text "To ja, Ronald!"
 	done
 
 PowerfulRonaldDeckName: ; 3b59f (e:759f)
-	text "Powerful Ronald"
+	text "Mocarny Ronald"
 	done
 
 InvincibleRonaldDeckName: ; 3b5b0 (e:75b0)
-	text "Invincible Ronald"
+	text "Nietykalny Ronald"
 	done
 
 LegendaryRonaldDeckName: ; 3b5c3 (e:75c3)
-	text "Legendary Ronald"
+	text "Legendarny Ronald"
 	done
 
 WaterfrontPokemonDeckName: ; 3b5d5 (e:75d5)
-	text "Waterfront Pokémon"
+	text "Nadbrzeżne Pokémony"
 	done
 
 LonelyFriendsDeckName: ; 3b5e9 (e:75e9)
-	text "Lonely Friends"
+	text "Samotni Przyjaciele"
 	done
 
 SoundoftheWavesDeckName: ; 3b5f9 (e:75f9)
-	text "Sound of the Waves"
+	text "Szum fal"
 	done
 
 AngerDeckName: ; 3b60d (e:760d)
-	text "Anger"
+	text "Złość"
 	done
 
 FlamethrowerDeckName: ; 3b614 (e:7614)
-	text "Flamethrower"
+	text "Miotacz Ognia"
 	done
 
 ReshuffleDeckName: ; 3b622 (e:7622)
-	text "Reshuffle"
+	text "Przetasowywacz"
 	done
 
 ExcavationDeckName: ; 3b62d (e:762d)
-	text "Excavation"
+	text "Wykopaliska"
 	done
 
 BlisteringPokemonDeckName: ; 3b639 (e:7639)
-	text "Blistering Pokémon"
+	text "Parzące Pokémony"
 	done
 
 HardPokemonDeckName: ; 3b64d (e:764d)
-	text "Hard Pokémon"
+	text "Twarde Pokémony"
 	done
 
 EtceteraDeckName: ; 3b65b (e:765b)
-	text "Etcetera"
+	text "I tym podobne"
 	done
 
 FlowerGardenDeckName: ; 3b665 (e:7665)
-	text "Flower Garden"
+	text "Kwiecisty Ogród"
 	done
 
 KaleidoscopeDeckName: ; 3b674 (e:7674)
-	text "Kaleidoscope"
+	text "Kalejdoskop"
 	done
 
 MusclesforBrainsDeckName: ; 3b682 (e:7682)
-	text "Muscles for Brains"
+	text "Mięśnie zamiast Mózgu"
 	done
 
 HeatedBattleDeckName: ; 3b696 (e:7696)
-	text "Heated Battle"
+	text "Płomienna Bitwa"
 	done
 
 LovetoBattleDeckName: ; 3b6a5 (e:76a5)
-	text "Love to Battle"
+	text "Kocham Walczyć"
 	done
 
 PikachuDeckName: ; 3b6b5 (e:76b5)
@@ -1442,35 +1433,35 @@ PikachuDeckName: ; 3b6b5 (e:76b5)
 	done
 
 BoomBoomSelfdestructDeckName: ; 3b6be (e:76be)
-	text "Boom Boom Selfdestruct"
+	text "Bum Bum Samozniszczenie"
 	done
 
 PowerGeneratorDeckName: ; 3b6d6 (e:76d6)
-	text "Power Generator"
+	text "Generator Mocy"
 	done
 
 GhostDeckName: ; 3b6e7 (e:76e7)
-	text "Ghost"
+	text "Duchy"
 	done
 
 NapTimeDeckName: ; 3b6ee (e:76ee)
-	text "Nap Time"
+	text "Czas Na Drzemkę"
 	done
 
 StrangePowerDeckName: ; 3b6f8 (e:76f8)
-	text "Strange Power"
+	text "Tajemnicza moc"
 	done
 
 FlyinPokemonDeckName: ; 3b707 (e:7707)
-	text "Flyin' Pokémon"
+	text "Latające Pokémony"
 	done
 
 LovelyNidoranDeckName: ; 3b717 (e:7717)
-	text "Lovely Nidoran"
+	text "Kochany Nidoran"
 	done
 
 PoisonDeckName: ; 3b727 (e:7727)
-	text "Poison"
+	text "Trucizna"
 	done
 
 ImakuniDeckName: ; 3b72f (e:772f)
@@ -1478,27 +1469,27 @@ ImakuniDeckName: ; 3b72f (e:772f)
 	done
 
 LightningAndFireDeckName: ; 3b739 (e:7739)
-	text "Lightning & Fire"
+	text "Elektro-ognista"
 	done
 
 WaterAndFightingDeckName: ; 3b74b (e:774b)
-	text "Water & Fighting"
+	text "Wodno-walcząca"
 	done
 
 GrassAndPsychicDeckName: ; 3b75d (e:775d)
-	text "Grass & Psychic"
+	text "Trawiasto-psychiczna"
 	done
 
 RetreatCostText: ; 3b76e (e:776e)
-	text "Retreat Cost"
+	text "Koszt wycof."
 	done
 
 Text0213: ; 3b77c (e:777c)
-	textfw3 "SWITCH TO UPPER"
+	textfw3 "ZMIEń NA WIELKIE"
 	done
 
 Text0214: ; 3b799 (e:7799)
-	textfw3 "SWITCH TO LOWER"
+	textfw3 "ZMIEń NA MAłE"
 	done
 
 FeetText: ; 3b7b6 (e:77b6)
@@ -1510,15 +1501,15 @@ InchesText: ; 3b7b9 (e:77b9)
 	done
 
 YourDiscardPileText: ; 3b7bc (e:77bc)
-	text "Your Discard Pile"
+	text "Twój Stos Odrzuconych"
 	done
 
 OpponentsDiscardPileText: ; 3b7cf (e:77cf)
-	text "Opponent's Discard Pile"
+	text "Stos Odrzuconych Rywala"
 	done
 
 DeckText: ; 3b7e8 (e:77e8)
-	text "Deck"
+	text "Talia"
 	done
 
 Text021a: ; 3b7ee (e:77ee)
@@ -1534,11 +1525,11 @@ Text021c: ; 3b7f9 (e:77f9)
 	done
 
 EndText: ; 3b800 (e:7800)
-	text "End"
+	text "Koniec"
 	done
 
 WhatIsYourNameText: ; 3b805 (e:7805)
-	text "What is your name?"
+	text "Jak masz na imię?"
 	done
 
 Text021f: ; 3b819 (e:7819)
@@ -1610,36 +1601,36 @@ DeckNameKeyboardText: ; 3b97b (e:797b)
 	done
 
 NewDeckText: ; 3ba03 (e:7a03)
-	text "New deck"
+	text "Nowa talia"
 	done
 
 PleaseSelectDeckText: ; 3ba0d (e:7a0d)
-	text "Please select deck."
+	text "Wybierz talię."
 	done
 
 ModifyDeckText: ; 3ba22 (e:7a22)
-	text "Modify deck"
+	text "Edytuj talię"
 	done
 
 ChangeNameText: ; 3ba2f (e:7a2f)
-	text "Change name"
+	text "Zmień nazwę"
 	done
 
 SelectDeckText: ; 3ba3c (e:7a3c)
-	text "Select deck"
+	text "Wybierz talię"
 	done
 
 CancelText: ; 3ba49 (e:7a49)
-	text "Cancel"
+	text "Anuluj"
 	done
 
 Text0229: ; 3ba51 (e:7a51)
-	text "as"
+	text "jako"
 	done
 
 ChosenAsDuelingDeckText: ; 3ba55 (e:7a55)
-	text "<RAMTEXT> was"
-	line "chosen as the dueling deck!"
+	text "Wybrano <RAMTEXT>"
+	line "jako aktywną talię!"
 	done
 
 Deck1Text: ; 3ba78 (e:7a78)
@@ -1659,142 +1650,142 @@ Deck4Text: ; 3ba81 (e:7a81)
 	done
 
 ThereIsNoDeckHereText: ; 3ba84 (e:7a84)
-	text "There is no Deck here!"
+	text "Nie ma tutaj talii!"
 	done
 
 ConfirmText: ; 3ba9c (e:7a9c)
-	text "Confirm"
+	text "Przejrzyj"
 	done
 
 DismantleText: ; 3baa5 (e:7aa5)
-	text "Dismantle"
+	text "Rozłóż"
 	done
 
 ModifyText: ; 3bab0 (e:7ab0)
-	text "Modify"
+	text "Edytuj"
 	done
 
 SaveText: ; 3bab8 (e:7ab8)
-	text "Save"
+	text "Zapisz"
 	done
 
 NameText: ; 3babe (e:7abe)
-	text "Name"
+	text "Nazwa"
 	done
 
 ThereIsOnly1DeckSoCannotBeDismantledText: ; 3bac4 (e:7ac4)
-	text "There is only 1 Deck, so this"
-	line "Deck cannot be dismantled."
+	text "To jedyna talia jaką masz,"
+	line "nie może być więc rozłożona."
 	done
 
 ThereAreNoBasicPokemonInThisDeckText: ; 3bafe (e:7afe)
-	text "There are no Basic Pokémon"
-	line "in this Deck!"
+	text "W tej talii nie ma żadnych"
+	line "Pokémonów podstawowych!"
 	done
 
 YouMustIncludeABasicPokemonInTheDeckText: ; 3bb28 (e:7b28)
-	text "You must include a Basic Pokémon"
-	line "in the Deck!"
+	text "Musisz mieć podstawowego"
+	line "Pokémona w talii!"
 	done
 
 ThisIsntA60CardDeckText: ; 3bb57 (e:7b57)
-	text "This isn't a 60-card deck!"
+	text "Ta talia nie ma 60 kart!"
 	done
 
 TheDeckMustInclude60CardsText: ; 3bb73 (e:7b73)
-	text "The Deck must include 60 cards!"
+	text "Talia musi mieć 60 kart!"
 	done
 
 ReturnToOriginalConfigurationText: ; 3bb94 (e:7b94)
-	text "Return to original configuration?"
+	text "Powrócić do oryginalnej listy kart?"
 	done
 
 SaveThisDeckText: ; 3bbb7 (e:7bb7)
-	text "Save this Deck?"
+	text "Zapisać tę talię?"
 	done
 
 QuitModifyingTheDeckText: ; 3bbc8 (e:7bc8)
-	text "Quit modifying the Deck?"
+	text "Zakończyć modyfikację talii?"
 	done
 
 DismantleThisDeckText: ; 3bbe2 (e:7be2)
-	text "Dismantle this Deck?"
+	text "Rozłożyć tę talię?"
 	done
 
 NoCardsChosenText: ; 3bbf8 (e:7bf8)
-	text "No cards chosen."
+	text "Nie wybrano kart."
 	done
 
 YourPokemonText: ; 3bc0a (e:7c0a)
-	text "Your Pokémon"
+	text "Twoje Pokémony"
 	done
 
 YourDiscardPileText2: ; 3bc18 (e:7c18)
-	text "Your Discard Pile"
+	text "Twój stos kart odrzuconych"
 	done
 
 YourHandText: ; 3bc2b (e:7c2b)
-	text "Your Hand"
+	text "Twoja ręka"
 	done
 
 Text0242: ; 3bc36 (e:7c36)
-	text "To Your Play Area"
+	text "Do Twojego obszaru gry"
 	done
 
 OpponentsPokemonText: ; 3bc49 (e:7c49)
-	text "Opponent's Pokémon"
+	text "Pokémony Rywala"
 	done
 
 OpponentsDiscardPileText2: ; 3bc5d (e:7c5d)
-	text "Opponent's Discard Pile"
+	text "Stos Kart Odrzuconych Rywala"
 	done
 
 OpponentsHandText: ; 3bc76 (e:7c76)
-	text "Opponent Hand"
+	text "Ręka Rywala"
 	done
 
 Text0246: ; 3bc85 (e:7c85)
-	text "To Opponent's Play Area"
+	text "Do obszaru gry rywala"
 	done
 
 DuelistsPlayAreaText: ; 3bc9e (e:7c9e)
-	text "<RAMNAME>'s Play Area"
+	text "<RAMNAME>: obszar gry"
 	done
 
 YourPlayAreaText: ; 3bcad (e:7cad)
-	text "Your Play Area"
+	text "Twój obszar gry"
 	done
 
 OppPlayAreaText: ; 3bcbd (e:7cbd)
-	text "Opp. Play Area"
+	text "Obszar gry wroga"
 	done
 
 InPlayAreaText: ; 3bccd (e:7ccd)
-	text "In Play Area"
+	text "Obszar gry"
 	done
 
 GlossaryText: ; 3bcdb (e:7cdb)
-	text "Glossary"
+	text "Pomoc"
 	done
 
 WhichCardWouldYouLikeToSeeText: ; 3bce5 (e:7ce5)
-	text "Which card would you like to see?"
+	text "Którą kartę chcesz zobaczyć?"
 	done
 
 PleaseChooseAPrizeText: ; 3bd08 (e:7d08)
-	text "Please choose a Prize."
+	text "Wybierz nagrodę."
 	done
 
 HandText_2: ; 3bd20 (e:7d20)
-	text "Hand"
+	text "Ręka"
 	done
 
 DuelistHandText_2: ; 3bd26 (e:7d26)
-	text "<RAMNAME>'s Hand"
+	text "<RAMNAME>: ręka"
 	done
 
 DuelistDiscardPileText: ; 3bd30 (e:7d30)
-	text "<RAMNAME>'s Discard Pile"
+	text "<RAMNAME>: stos odrzuconych"
 	done
 
 EmptyLineText: ; 3bd42 (e:7d42)
@@ -1807,27 +1798,27 @@ BoosterPackTitleText: ; 3bd55 (e:7d55)
 	done
 
 Item1ColosseumText: ; 3bd63 (e:7d63)
-	text "1. Colosseum"
+	text "1. Koloseum"
 	done
 
 Item2EvolutionText: ; 3bd71 (e:7d71)
-	text "2. Evolution"
+	text "2. Ewolucja"
 	done
 
 Item3MysteryText: ; 3bd7f (e:7d7f)
-	text "3. Mystery"
+	text "3. Tajemnica"
 	done
 
 Item4LaboratoryText: ; 3bd8b (e:7d8b)
-	text "4. Laboratory"
+	text "4. Laboratorium"
 	done
 
 Item5PromotionalCardText: ; 3bd9a (e:7d9a)
-	text "5. Promotional Card"
+	text "5. Karty Promocyjne"
 	done
 
 ViewWhichCardFileText: ; 3bdaf (e:7daf)
-	text "View which Card File?"
+	text "Który plik kart pokazać?"
 	done
 
 EmptyPromotionalCardText: ; 3bdc6 (e:7dc6)
@@ -1835,7 +1826,7 @@ EmptyPromotionalCardText: ; 3bdc6 (e:7dc6)
 	done
 
 SCardsText: ; 3bdd1 (e:7dd1)
-	text "'s Cards"
+	text ": Karty"
 	done
 
 EmptyDeckNameText: ; 3bddb (e:7ddb)
@@ -1843,76 +1834,61 @@ EmptyDeckNameText: ; 3bddb (e:7ddb)
 	done
 
 DeckSaveMachineText: ; 3bdea (e:7dea)
-	text "  Deck Save Machine   "
+	text " Automat zapisu talii "
 	done
 
 SaveADeckText: ; 3be02 (e:7e02)
-	text "Save a Deck"
+	text "Zapisz talię"
 	done
 
 DeleteADeckText: ; 3be0f (e:7e0f)
-	text "Delete a Deck"
+	text "Usuń talię"
 	done
 
 BuildADeckText: ; 3be1e (e:7e1e)
-	text "Build a Deck"
+	text "Złóż talię"
 	done
 
 ChooseADeckToSaveText: ; 3be2c (e:7e2c)
-	text "Choose a Deck to Save."
+	text "Wybierz talię do zapisu."
 	done
 
 Text0261: ; 3be44 (e:7e44)
-	text "You may only Save 60 Decks."
-	line "Please Delete a Deck first."
+	text "Możesz zapisać tylko 60 talii."
+	line "Najpierw usuń talię."
 	done
 
 Text0262: ; 3be7d (e:7e7d)
-	text "for"
+	text "dla"
 	done
 
 SavedTheConfigurationForText: ; 3be82 (e:7e82)
-	text "Saved the configuration for"
+	text "Zapisano plan talii"
 	line ""
-	text "<RAMTEXT>! "
+	text "<RAMTEXT>!"
 	done
 
 Text0264: ; 3bea4 (e:7ea4)
-	text "No Deck is saved."
+	text "Nie zapisano żadnej talii."
 	done
 
 Text0265: ; 3beb7 (e:7eb7)
-	text "Please choose a Deck "
-	line "configuration to delete."
+	text "Wybierz plan talii"
+	line "do usunięcia."
 	done
 
 DoYouReallyWishToDeleteText: ; 3bee7 (e:7ee7)
-	text "Do you really wish to delete?"
+	text "Naprawdę chcesz usunąć?"
 	done
 
 DeletedTheConfigurationForText: ; 3bf06 (e:7f06)
-	text "Deleted the configuration for"
+	text "Usunięto plan talii dla"
 	line ""
 	text "<RAMTEXT>."
 	done
 
 YouMayOnlyCarry4DecksText: ; 3bf29 (e:7f29)
-	text "You may only carry 4 Decks!"
-	done
-
-ChooseADeckToDismantleText: ; 3bf46 (e:7f46)
-	text "Choose a deck to dismantle."
-	done
-
-DismantledDeckText: ; 3bf63 (e:7f63)
-	text "Dismantled"
-	line ""
-	text "<RAMTEXT>."
-	done
-
-Text026b: ; 3bf73 (e:7f73)
-	text "Please choose the Deck"
-	line "you wish to Build."
+	text "Możesz nosić tylko 4 talie!"
 	done
 
 	ds $26

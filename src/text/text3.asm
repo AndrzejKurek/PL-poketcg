@@ -1,3 +1,18 @@
+ChooseADeckToDismantleText: ; 3bf46 (e:7f46)
+	text "Wybierz talię do rozłożenia."
+	done
+	
+DismantledDeckText: ; 3bf63 (e:7f63)
+	text "Rozłożono"
+	line ""
+	text "<RAMTEXT>."
+	done
+
+Text026b: ; 3bf73 (e:7f73)
+	text "Wybierz talię, którą"
+	line "chcesz zbudować."
+	done
+
 ThisDeckCanOnlyBeBuiltIfYouDismantleText: ; 3bf9e (e:7f9e)
 	text "Ta talia może być złożona tylko,"
 	line "jeśli inna zostanie rozłożona."
@@ -134,43 +149,43 @@ ReceivedADeckConfigurationFromText: ; 3c3eb (f:43eb)
 	done
 
 FightingMachineText: ; 3c413 (f:4413)
-	text "  Walcząca Maszyna  "
+	text " Automat Walki "
 	done
 
 RockMachineText: ; 3c429 (f:4429)
-	text "  Kamienna Maszyna  "
+	text " Automat Kamienia "
 	done
 
 WaterMachineText: ; 3c43b (f:443b)
-	text "  Wodna Maszyna     "
+	text " Automat Wody "
 	done
 
 LightningMachineText: ; 3c44f (f:444f)
-	text " Elektryczna Maszyna"
+	text " Elektryczny Automat "
 	done
 
 GrassMachineText: ; 3c467 (f:4467)
-	text " Trawiasta Maszyna  "
+	text " Automat Trawy "
 	done
 
 PsychicMachineText: ; 3c47b (f:447b)
-	text "  Psychiczna Maszyna"
+	text " Automat Psychiki "
 	done
 
 ScienceMachineText: ; 3c491 (f:4491)
-	text "  Naukowa Maszyna   "
+	text " Naukowy Automat "
 	done
 
 FireMachineText: ; 3c4a7 (f:44a7)
-	text "  Ognista Maszyna   "
+	text " Automat Ognia "
 	done
 
 AutoMachineText: ; 3c4b9 (f:44b9)
-	text "  Auto Maszyna      "
+	text " Automat Nowicjusza "
 	done
 
 LegendaryMachineText: ; 3c4cb (f:44cb)
-	text "  Legendarna Maszyna"
+	text " Legendarny Automat "
 	done
 
 AllFightingPokemonText: ; 3c4e3 (f:44e3)
@@ -384,13 +399,13 @@ BenchAttackDescriptionText: ; 3c835 (f:4835)
 	done
 
 BattleContestDescriptionText: ; 3c863 (f:4863)
-	text "Talia używająca walczących ataków"
+	text "Talia używająca fizycznych ataków"
 	line "Takich jak Cięcie i Cios."
 	done
 
 HeatedBattleDescriptionText: ; 3c8a0 (f:48a0)
-	text "Silna talia z ognistymi i"
-	line "walczącymi Pokémonami."
+	text "Silna talia z Pokémonami"
+	line "Ognia i Walki."
 	done
 
 FirstStrikeDescriptionText: ; 3c8d6 (f:48d6)
@@ -461,12 +476,12 @@ PokemonFluteDescriptionText: ; 3cb7b (f:4b7b)
 
 YellowFlashDescriptionText: ; 3cbbb (f:4bbb)
 	text "Talia pokemonów używających"
-	line "elektryczną energię - porazi"
+	line "Energię Elektryczną - porazi"
 	line "przeciwników!"
 	done
 
 ElectricShockDescriptionText: ; 3cbfa (f:4bfa)
-	text "Talia która szokuje i paraliżuje"
+	text "Talia, która szokuje i paraliżuje"
 	line "przeciwników swymi atakami"
 	done
 
@@ -497,7 +512,7 @@ KaleidoscopeDescriptionText: ; 3cd1d (f:4d1d)
 
 FlowerPowerDescriptionText: ; 3cd5f (f:4d5f)
 	text "Potężne połączenie eksplodujących"
-	line "jajek i transferu energii!"
+	line "jajek i transferu Energii!"
 	done
 
 PsychicPowerDescriptionText: ; 3cd97 (f:4d97)
@@ -541,7 +556,7 @@ FlyinPokemonDescriptionText: ; 3cf21 (f:4f21)
 	done
 
 PoisonDescriptionText: ; 3cf5d (f:4f5d)
-	text "Talia która otruje i powoli"
+	text "Talia, która otruje i powoli"
 	line "wykończy twoich przeciwników."
 	done
 
@@ -557,12 +572,12 @@ ReplaceEmAllDescriptionText: ; 3cfd1 (f:4fd1)
 
 ChariSaurDescriptionText: ; 3cffc (f:4ffc)
 	text "Atakuj Charizardem z pomocą"
-	line "kilku kart ognistej energii!"
+	line "kilku kart Energii Ognia!"
 	done
 
 TrafficLightDescriptionText: ; 3d039 (f:5039)
-	text "Pokémony atakujące za pomocą wodnej,"
-	line "ognistej i elektrycznej energii!"
+	text "Pokémony atakujące za pomocą Energii"
+	line "Wody, Ognia i Elektrycznej!"
 	done
 
 FirePokemonDescriptionText: ; 3d078 (f:5078)
@@ -577,17 +592,17 @@ FireChargeDescriptionText: ; 3d0bb (f:50bb)
 
 CharmanderAndFriendsDescriptionText: ; 3d0ed (f:50ed)
 	text "Talia wody, trawy i ognia:"
-	line "Charmander, Pinsir i Seel"
+	line "Charmander, Pinsir i Seel!"
 	done
 
 SquirtleAndFriendsDescriptionText: ; 3d128 (f:5128)
 	text "Talia wody, ognia i elektryczności:"
-	line "Squirtle, Charmander i Pikachu"
+	line "Squirtle, Charmander i Pikachu!"
 	done
 
 BulbasaurAndFriendsDescriptionText: ; 3d16d (f:516d)
 	text "Talia trawy i elektro-psychiki:"
-	line "Bulbasaur, Pikachu oraz Abra"
+	line "Bulbasaur, Pikachu oraz Abra!"
 	done
 
 PsychicMachampDescriptionText: ; 3d1af (f:51af)
@@ -597,11 +612,11 @@ PsychicMachampDescriptionText: ; 3d1af (f:51af)
 
 WaterBeetleDescriptionText: ; 3d1f0 (f:51f0)
 	text "Talia stawiająca na ewolucje:"
-	line "Weedle, Nidoran♂ i Bellsprout."
+	line "Weedle, Nidoran♂ i Bellsprout!"
 	done
 
 LegendaryMoltresDescriptionText: ; 3d22a (f:522a)
-	text "Zbieraj ognistą energię"
+	text "Zbieraj Energię Ognia"
 	line "z legendarnym Moltresem!"
 	done
 
@@ -626,7 +641,7 @@ MysteriousPokemonDescriptionText: ; 3d2e6 (f:52e6)
 	done
 
 PokemonCardGlossaryText: ; 3d31c (f:531c)
-	text "Opis kart Pokémon"
+	text "Pomoc"
 	done
 
 GlossaryMenuPage1Text: ; 3d333 (f:5333)
@@ -638,88 +653,88 @@ GlossaryMenuPage1Text: ; 3d333 (f:5333)
 	done
 
 GlossaryMenuPage2Text: ; 3d3e0 (f:53e0)
-	text "Karta energii       Moce Pokémon    "
-	line "Trainer Card        Słabości        "
-	line "Basic Pokémon       Odporności      "
-	line "Karta ewolucji      Wycofanie       "
+	text "Karty Energii       Moce Pokémon    "
+	line "Karty Trenera       Słabości        "
+	line "Pokémony Podst.     Odporności      "
+	line "Karty Ewolucji      Wycofanie       "
 	line "Atak                Cofnij stronę   "
 	done
 
 ChooseWordAndPressAButtonText: ; 3d48f (f:548f)
-	text "Wybierz słowo i potwierdź za pomocą"
-	line "przycisku A."
+	text "Wybierz hasło i potwierdź za pomocą"
+	line "przycisku ”A”."
 	done
 
 AboutTheDeckText: ; 3d4b6 (f:54b6)
-	text "O Talię"
+	text "O Talii"
 	done
 
 AboutTheDiscardPileText: ; 3d4c6 (f:54c6)
-	text "O stos kart odrzuconych"
+	text "O stosie kart odrzuconych"
 	done
 
 AboutTheHandText: ; 3d4de (f:54de)
-	text "O karty na ręce"
+	text "O kartach na ręce"
 	done
 
 AboutTheArenaText: ; 3d4ee (f:54ee)
-	text "O arenę"
+	text "O arenie"
 	done
 
 AboutTheBenchText: ; 3d4ff (f:54ff)
-	text "O ławkę"
+	text "O ławce"
 	done
 
 AboutTheActivePokemonText: ; 3d510 (f:5510)
-	text "O aktywnego Pokémona"
+	text "O aktywnym Pokémonie"
 	done
 
 AboutBenchPokemonText: ; 3d52a (f:552a)
-	text "O Pokémony na ławce"
+	text "O Pokémonach na ławce"
 	done
 
 AboutPrizesText: ; 3d53f (f:553f)
-	text "O nagrody"
+	text "O nagrodach"
 	done
 
 AboutDamageCountersText: ; 3d54d (f:554d)
-	text "O liczniki obrażeń"
+	text "O licznikach obrażeń"
 	done
 
 AboutEnergyCardsText: ; 3d564 (f:5564)
-	text "O karty energii"
+	text "O kartach Energii"
 	done
 
 AboutTrainerCardsText: ; 3d578 (f:5578)
-	text "O karty trenera"
+	text "O kartach Trenera"
 	done
 
 AboutBasicPokemonText: ; 3d58d (f:558d)
-	text "O podstawowe Pokémony"
+	text "O podstawowych Pokémonach"
 	done
 
 AboutEvolutionCardsText: ; 3d5a2 (f:55a2)
-	text "O karty ewolucji"
+	text "O kartach ewolucji"
 	done
 
 AboutAttackingText: ; 3d5b9 (f:55b9)
-	text "O atakowanie"
+	text "O atakowaniu"
 	done
 
 AboutPokemonPowerText: ; 3d5ca (f:55ca)
-	text "O moce Pokémon"
+	text "O mocach Pokémon"
 	done
 
 AboutWeaknessText: ; 3d5df (f:55df)
-	text "O słabości"
+	text "O słabościach"
 	done
 
 AboutResistanceText: ; 3d5ef (f:55ef)
-	text "O odporności"
+	text "O odpornościach"
 	done
 
 AboutRetreatingText: ; 3d601 (f:5601)
-	text "O wycofanie"
+	text "O wycofaniu"
 	done
 
 DeckDescriptionText: ; 3d613 (f:5613)
@@ -740,20 +755,20 @@ DiscardPileDescriptionText: ; 3d6d0 (f:56d0)
 
 HandDescriptionText: ; 3d769 (f:5769)
 	text "Karty trzymane przez gracza nazywane"
-	line "są ręką. Nie ma ograniczenia co do"
+	line "są ręką . Nie ma ograniczenia co do"
 	line "liczby kart w twojej ręce."
 	line "Możesz mieć w niej nawet 20 kart."
 	done
 
 ArenaDescriptionText: ; 3d807 (f:5807)
-	text "Miejsce w którym walczą aktywne"
-	line "Pokémony nazywane jest areną."
+	text "Miejsce, w którym walczą aktywne"
+	line "Pokémony nazywane jest areną ."
 	line "Gramy używając ataków i umiejętności"
 	line "aktywnych Pokémonów z areny."
 	done
 
 BenchDescriptionText: ; 3d899 (f:5899)
-	text "Na ławce siedzą Pokémony które"
+	text "Na ławce siedzą Pokémony, które"
 	line "nie uczestniczą aktywnie w walce,"
 	line "ale są już w grze."
 	line "Są gotowe zastąpić aktywnego"
@@ -763,7 +778,7 @@ BenchDescriptionText: ; 3d899 (f:5899)
 	done
 
 ActivePokemonDescriptionText: ; 3d96e (f:596e)
-	text "Aktywny Pokémon to ten który"
+	text "Aktywny Pokémon to ten, który"
 	line "znajduje się na arenie."
 	line "Tylko aktywny Pokémon może atakować."
 	done
@@ -803,12 +818,12 @@ EnergyCardsDescriptionText: ; 3dcb2 (f:5cb2)
 	text "Karty energii zasilają twoje"
 	line "Pokémony, pozwalają im na atak."
 	line "Jest 7 różnych kart energii:"
-	line "[<GRASS> Trawiaste] [<FIRE> Ogniste]"
-	line "[<WATER> Wodne] [<LIGHTNING> Elektryczne]"
-	line "[<PSYCHIC> Psychiczne] [<FIGHTING> Walczące]"
-	line "i [<COLORLESS> Podwójne Bezbarwne]"
+	line "[<GRASS> Trawy] [<FIRE> Ognia]"
+	line "[<WATER> Wody] [<LIGHTNING> Elektrycznej]"
+	line "[<PSYCHIC> Psychiki] [<FIGHTING> Walki]"
+	line "i [<COLORLESS> Podwójnej Bezbarwnej]."
 	line "Możesz zagrać tylko jedną kartę"
-	line "energii z ręki na turę."
+	line "Energii z ręki na turę."
 	done
 
 TrainerCardsDescriptionText: ; 3ddbe (f:5dbe)
@@ -848,9 +863,9 @@ EvolutionCardsDescriptionText: ; 3df82 (f:5f82)
 AttackingDescriptionText: ; 3e10a (f:610a)
 	text "Wybierając atak decydujesz się na"
     line "walkę z wrogim Pokémonem."
-	line "Pokémony wymagają kart energii"
+	line "Pokémony wymagają kart Energii"
 	line "do ataku. Dokładna liczba kart"
-	line "energii potrzebna do ataku"
+	line "Energii potrzebna do ataku"
 	line "zależy od pokemona i ataku."
 	line "Tylko aktywny Pokémon może atakować."
 	done
@@ -863,7 +878,7 @@ PokemonPowerDescriptionText: ; 3e1f7 (f:61f7)
 	line "po umieszczeniu Pokémona na ławce,"
 	line "inne gdy stanie się aktywnym"
 	line "Pokémonem, a dla innych trzeba użyć"
-	line "polecenia moc PKMN."
+	line "polecenia Moc Pokémon."
 	done
 
 WeaknessDescriptionText: ; 3e2c5 (f:62c5)
@@ -896,24 +911,24 @@ Text031e: ; 3e4ed (f:64ed)
 	text "Modyfikuj talię"
 	line "Lista kart"
 	line "Lista talii"
-	line "Maszyna zapisu talii"
+	line "Automat zapisu talii"
 	line "Menu drukowania"
-	line "Maszyna auto-talii"
+	line "Automat talii"
 	line "Cetrum prezentów"
 	line "Zmiana nazwy"
 	done
 
 Text031f: ; 3e558 (f:6558)
-	text "Walcząca Maszyna"
-	line "Kamienna Maszyna"
-	line "Wodna Maszyna"
-	line "Elektryczna Maszyna"
-	line "Trawiasta Maszyna"
-	line "Psychiczna Maszyna"
-	line "Naukowa Maszyna"
-	line "Ognista Maszyna"
-	line "Maszyna auto-talii"
-	line "Legendarna Maszyna"
+	text "Automat Walki"
+	line "Automat Kamienia"
+	line "Automat Wody"
+	line "Elektryczny Automat"
+	line "Automat Trawy"
+	line "Automat Psychiki"
+	line "Automat Nauki"
+	line "Automat Ognia"
+	line "Automat Nowicjusza"
+	line "Legendarny Automat"
 	done
 
 Text0320: ; 3e5f1 (f:65f1)
@@ -941,15 +956,15 @@ OverworldMapIshiharasHouseText: ; 3e676 (f:6676)
 	done
 
 OverworldMapFightingClubText: ; 3e68c (f:668c)
-	text "   Klub Walczący    "
+	text "     Klub Walki     "
 	done
 
 OverworldMapRockClubText: ; 3e6a2 (f:66a2)
-	text "   Klub Kamienny    "
+	text "   Klub Kamienia    "
 	done
 
 OverworldMapWaterClubText: ; 3e6b8 (f:66b8)
-	text "     Klub Wodny     "
+	text "     Klub Wody      "
 	done
 
 OverworldMapLightningClubText: ; 3e6ce (f:66ce)
@@ -957,19 +972,19 @@ OverworldMapLightningClubText: ; 3e6ce (f:66ce)
 	done
 
 OverworldMapGrassClubText: ; 3e6e4 (f:66e4)
-	text "   Klub Trawiasty   "
+	text "     Klub Trawy     "
 	done
 
 OverworldMapPsychicClubText: ; 3e6fa (f:66fa)
-	text "  Klub Psychiczny   "
+	text "   Klub Psychiki    "
 	done
 
 OverworldMapScienceClubText: ; 3e710 (f:6710)
-	text "    Klub Naukowy    "
+	text "     Klub Nauki     "
 	done
 
 OverworldMapFireClubText: ; 3e726 (f:6726)
-	text "    Klub Ognisty    "
+	text "     Klub Ognia     "
 	done
 
 OverworldMapChallengeHallText: ; 3e73c (f:673c)
@@ -993,15 +1008,15 @@ MrIshiharasHouseMapNameText: ; 3e790 (f:6790)
 	done
 
 FightingClubMapNameText: ; 3e7a5 (f:67a5)
-	text "Walczący"
+	text "Walki"
 	done
 
 RockClubMapNameText: ; 3e7af (f:67af)
-	text "Kamienny"
+	text "Kamienia"
 	done
 
 WaterClubMapNameText: ; 3e7b5 (f:67b5)
-	text "Wodny"
+	text "Wody"
 	done
 
 LightningClubMapNameText: ; 3e7bc (f:67bc)
@@ -1009,19 +1024,19 @@ LightningClubMapNameText: ; 3e7bc (f:67bc)
 	done
 
 GrassClubMapNameText: ; 3e7c7 (f:67c7)
-	text "Trawiasty"
+	text "Trawy"
 	done
 
 PsychicClubMapNameText: ; 3e7ce (f:67ce)
-	text "Psychiczny"
+	text "Psychiki"
 	done
 
 ScienceClubMapNameText: ; 3e7d7 (f:67d7)
-	text "Naukowy"
+	text "Nauki"
 	done
 
 FireClubMapNameText: ; 3e7e0 (f:67e0)
-	text "Ognisty"
+	text "Ognia"
 	done
 
 ChallengeHallMapNameText: ; 3e7e6 (f:67e6)
@@ -1144,7 +1159,7 @@ Text0350: ; 3ea2b (f:6a2b)
 Text0351: ; 3ea3a (f:6a3a)
 	text "Album kart"
 	line "Sprawdź maile"
-	line "Glosariusz"
+	line "Pomoc"
 	line "Drukuj"
 	line "Wyłącz"
 	done
@@ -1303,7 +1318,7 @@ StartANewGameText: ; 3ed14 (f:6d14)
 	done
 
 TheGameWillContinueFromThePointInTheDuelText: ; 3ed28 (f:6d28)
-	text "Gra będzie kontynuowana od momentu"
+	text "Gra będzie kontynuowana od momentu,"
 	line "w którym wyłączono grę podczas walki"
 	done
 
@@ -1351,7 +1366,7 @@ IsCrazyAboutPokemonAndPokemonCardCollectingText: ; 3efc3 (f:6fc3)
 	line "  wyjątkowo rzadkie i potężne"
 	line "  karty będące w posiadaniu tylko"
 	line "  najlepszych graczy... "
-	line "  Arcymistrzowie poszukują tego"
+	line "  Arcymistrzowie poszukują tego,"
 	line "  który je odziedziczy!”"
 	line "Marząc o otrzymaniu legendarnych"
 	line "kart Pokémon, <RAMNAME> odwiedza"
@@ -1524,67 +1539,67 @@ OpponentDeckNameText: ; 3f4f9 (f:74f9)
 	done
 
 FightingClubMemberText: ; 3f501 (f:7501)
-	text "Członek klubu walczącego"
+	text "Członek Klubu Walki"
 	done
 
 RockClubMemberText: ; 3f517 (f:7517)
-	text "Członek klubu kamiennego"
+	text "Członek Klubu Kamienia"
 	done
 
 WaterClubMemberText: ; 3f529 (f:7529)
-	text "Członek klubu wodnego"
+	text "Członek Klubu Wody"
 	done
 
 LightningClubMemberText: ; 3f53c (f:753c)
-	text "Członek klubu elektrycznego"
+	text "Członek Klubu Elektrycznego"
 	done
 
 GrassClubMemberText: ; 3f553 (f:7553)
-	text "Członek klubu trawiastego"
+	text "Członek Klubu Trawy"
 	done
 
 PsychicClubMemberText: ; 3f566 (f:7566)
-	text "Członek klubu psychicznego"
+	text "Członek Klubu Psychiki"
 	done
 
 ScienceClubMemberText: ; 3f57b (f:757b)
-	text "Członek klubu naukowego"
+	text "Członek Klubu Nauki"
 	done
 
 FireClubMemberText: ; 3f590 (f:7590)
-	text "Członek klubu ognistego"
+	text "Członek Klubu Ognia"
 	done
 
 FightingClubMasterText: ; 3f5a2 (f:75a2)
-	text "Mistrz klubu walczącego"
+	text "Mistrz Klubu Walki"
 	done
 
 RockClubMasterText: ; 3f5b8 (f:75b8)
-	text "Mistrz klubu kamiennego"
+	text "Mistrz Klubu Kamienia"
 	done
 
 WaterClubMasterText: ; 3f5ca (f:75ca)
-	text "Mistrz klubu wodnego"
+	text "Mistrz Klubu Wody"
 	done
 
 LightningClubMasterText: ; 3f5dd (f:75dd)
-	text "Mistrz klubu elektrycznego"
+	text "Mistrz Klubu Elektrycznego"
 	done
 
 GrassClubMasterText: ; 3f5f4 (f:75f4)
-	text "Mistrz klubu trawiastego"
+	text "Mistrz Klubu Trawy"
 	done
 
 PsychicClubMasterText: ; 3f607 (f:7607)
-	text "Mistrz klubu psychicznego"
+	text "Mistrz Klubu Psychiki"
 	done
 
 ScienceClubMasterText: ; 3f61c (f:761c)
-	text "Mistrz klubu naukowego"
+	text "Mistrz Klubu Nauki"
 	done
 
 FireClubMasterText: ; 3f631 (f:7631)
-	text "Mistrz klubu ognistego"
+	text "Mistrz Klubu Ognia"
 	done
 
 EmptyText: ; 3f643 (f:7643)
@@ -1623,7 +1638,7 @@ ImakuniNPCName: ; 3f68c (f:768c)
 	done
 
 ClerkNPCName: ; 3f696 (f:7696)
-	text "Kasjer"
+	text "Ekspedientka"
 	done
 
 SamNPCName: ; 3f69d (f:769d)
@@ -1803,7 +1818,7 @@ LassNPCName: ; 3f7da (f:77da)
 	done
 
 PappyNPCName: ; 3f7e0 (f:77e0)
-	text "Tatuś"
+	text "Starzec"
 	done
 
 LadNPCName: ; 3f7e7 (f:77e7)
@@ -1815,7 +1830,7 @@ HostNPCName: ; 3f7ec (f:77ec)
 	done
 
 SpecsNPCName: ; 3f7f2 (f:77f2)
-	text "Spec"
+	text "Naukowiec"
 	done
 
 ButchNPCName: ; 3f7f9 (f:77f9)
@@ -1936,7 +1951,7 @@ SelectDeckToTakeText: ; 3f9d0 (f:79d0)
 	done
 
 HowCanIHelpText: ; 3f9f2 (f:79f2)
-	text "Hej, <RAMNAME>."
+	text "Hej,<RAMNAME>."
 	line "Jak mogę Ci pomóc?"
 	done
 
@@ -1997,18 +2012,18 @@ Text0403: ; 3fe10 (f:7e10)
 	line "To ja, Doktor Mason."
 	line "Mam dla Ciebie trochę informacji o"
 	line "talii Mitcha - jest mistrzem"
-	line "Walczącego Klubu. Jego talia"
+	line "Klubu Walki. Jego talia"
 	line "szybkiego ataku ma słabość - są"
 	line "nią Pokémony psychiczne!"
 	line "Proponuję walczyć z nim używając"
-	line "talii z maszyny z medalem"
-	line "psychicznym. Będzie łatwiej!"
+	line "Talii z Automatu z medalem"
+	line "Psychiki. Będzie łatwiej!"
 	line "Weź też tego booster packa..."
 	done
 
 Text0404: ; 3ff4d (f:7f4d)
 	text "<RAMNAME>, wierzę w Ciebię!"
-	line "Wygraj medal klubu walczących!"
+	line "Wygraj medal Klubu Walki!"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"
 	done

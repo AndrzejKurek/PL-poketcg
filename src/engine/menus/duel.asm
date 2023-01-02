@@ -236,8 +236,8 @@ DuelCheckMenu_OppPlayArea:
 CheckMenuData:
 	textitem  2, 14, InPlayAreaText
 	textitem  2, 16, YourPlayAreaText
-	textitem 12, 14, GlossaryText
-	textitem 12, 16, OppPlayAreaText
+	textitem 11, 14, GlossaryText
+	textitem 11, 16, OppPlayAreaText
 	db $ff
 
 YourPlayAreaMenuData:

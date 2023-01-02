@@ -101,7 +101,7 @@ EraseCheckMenuCursor:
 ; a = tile byte to draw
 DrawCheckMenuCursor:
 	ld e, a
-	ld a, 10
+	ld a, 9
 	ld l, a
 	ld a, [wCheckMenuCursorXPosition]
 	ld h, a
