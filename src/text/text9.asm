@@ -1,213 +1,213 @@
 Text073f: ; 54000 (15:4000)
-	text "Who?"
-	line "Oh! It's you, <RAMNAME>..."
-	line "I couldn't believe that I could"
-	line "lose, but now..."
-	line "Now I understand."
-	line "The fun thing about the "
-	line "Pokémon Trading Card Game"
-	line "is not who wins or loses..."
-	line "I couldn't inherit the Legendary "
-	line "Pokémon Cards because all that "
-	line "was important to me was winning."
-	line "But now I understand!"
-	line "What's important..."
-	line "Is to love each card, to use all "
-	line "the different cards to build "
-	line "different types of Decks, and"
-	line "to play against different people!"
-	line "So...<RAMNAME>..."
-	line "Will you play with me again?"
-	line "With all sorts of different Decks?"
-	line "And this time, I not gonna lose!"
+	text "Kto?"
+	line "Och! To Ty, <RAMNAME>..."
+	line "Nie wierzyłem że kiedykolwiek"
+	line "przegram, ale teraz..."
+	line "Teraz rozumiem."
+	line "W Kartach Pokémon nie to jest"
+	line "najważniejsze czy wygrasz, czy"
+	line "przegrasz..."
+	line "Nie mogłem odziedziczyć Legendarnych"
+	line "Kart Pokémon, bo liczyło się dla"
+	line "mnie tylko zwycięstwo!"
+	line "Teraz już rozumiem!"
+	line "Ważne jest to, aby..."
+	line "Aby traktować każdą kartę z"
+	line "szacunkiem, użyć tych przeróżnych"
+	line "kart do zbudowania przemyślanych"
+	line "Talii... I wypróbować je w walce!"
+	line "Więc...<RAMNAME>..."
+	line "Walczymy jeszcze raz?"
+	line "Używając przeróżnych Talii?"
+	line "Tym razem na pewno nie przegram!"
 	done
 
 Text0740: ; 54223 (15:4223)
-	text "Oh, hi <RAMNAME>..."
-	line "Do you want to Duel?"
+	text "Och, hej <RAMNAME>..."
+	line "Chcesz ze mną walczyć?"
 	done
 
 Text0741: ; 54245 (15:4245)
-	text "Would you like to Duel Ronald?"
+	text "Chcesz wyzwać Ronalda na pojedynek?"
 	done
 
 Text0742: ; 54265 (15:4265)
-	text "OK... That suits me fine!"
-	line "I'm building a new Deck!"
-	line "I'm busy building a better Deck"
-	line "than yours!!!"
-	line "We'll Duel another time!"
+	text "Dobrze... Nie ma sprawy!"
+	line "Zbuduję w tym czasie lepszą Talię!"
+	line "Na pewno będzie mocniejsza"
+	line "od Twojej!"
+	line "Zagramy kiedy indziej!"
 	done
 
 Text0743: ; 542e0 (15:42e0)
-	text "I can't..."
-	line "I'm building a new Deck!"
-	line "I'm busy building a better Deck"
-	line "than yours!!!"
-	line "We'll Duel another time!"
+	text "Nie mogę..."
+	line "Muszę zbudować nową Talię!"
+	line "Na pewno będzie mocniejsza"
+	line "od Twojej!"
+	line "Zagramy kiedy indziej!"
 	done
 
 Text0744: ; 5434c (15:434c)
 	text "Greetings."
-	line "Welcome to the Science Club!"
-	line "This Club is for technicians"
-	line "who love the sciences."
-	line "The Pokémon cards used here are "
-	line "those with the powers of science!"
+	line "Przekraczasz próg Klubu Nauki!"
+	line "Zapraszamy tu osoby ze ścisłymi"
+	line "umysłami, lubiące się uczyć."
+	line "Karty Pokémon, których tu używamy"
+	line "czerpią moc z postępu nauki!"
 	done
 
 Text0745: ; 543ec (15:43ec)
-	text "Umm... Umm..."
-	line "Do you know ISHIHARA?"
-	line "He lives in the house on the cape"
-	line "to the northwest."
-	line "He's a very famous Card Collector!"
-	line "I hope to be like him someday."
+	text "Hmm... Hmm..."
+	line "Czy znasz ISHIHARę?"
+	line "żyje w domu na przylądku, na"
+	line "północny-zachód stąd."
+	line "Jest bardzo znanym zbieraczem kart!"
+	line "Chcę być taki jak on..."
 	done
 
 Text0746: ; 54487 (15:4487)
-	text "Umm... Umm..."
-	line "ISHIHARA wants to trade"
-	line "a very rare card."
-	line "If I had a card, I'd go and trade"
-	line "with him myself."
+	text "Hmm... Hmm..."
+	line "ISHIHARA ma rzadką kartę"
+	line "na wymianę."
+	line "Jeśli tylko miałbym tę kartę, której"
+	line "on chce, na pewno bym się wymienił."
 	done
 
 Text0747: ; 544f3 (15:44f3)
-	text "Umm... Umm..."
-	line "ISHIHARA wants to trade"
-	line "another very rare card."
-	line "I wish I could trade cards"
-	line "like ISHIHARA."
+	text "Hmm... Hmm..."
+	line "ISHIHARA ma baaardzo rzadką kartę"
+	line "na wymianę."
+	line "Chciałbym mieć taką kolekcję"
+	line "jak ISHIHARA."
 	done
 
 Text0748: ; 5455c (15:455c)
-	text "Umm... Umm..."
-	line "ISHIHARA wants to trade a"
-	line "very, very, very rare card!"
-	line "I wish I could trade, so I could"
-	line "meet ISHIHARA."
+	text "Hmm... Hmm..."
+	line "ISHIHARA ma na wymianę"
+	line "niesamowicie rzadką kartę!"
+	line "Chciałbym móc się wymieniać kartami,"
+	line "wtedy poznałbym ISHIHARę."
 	done
 
 Text0749: ; 545d1 (15:45d1)
-	text "Umm... Umm..."
-	line "Did you meet ISHIHARA?"
-	line "I wish I could be like him."
+	text "Hmm... Hmm..."
+	line "Znasz ISHIHARę?"
+	line "Chciałbym być taki jak on."
 	done
 
 Text074a: ; 54613 (15:4613)
-	text "Umm... Umm..."
-	line "ISHIHARA left on a trip"
-	line "in search of a really rare card."
-	line "I wish I could have gone with him..."
+	text "Hmm... Hmm..."
+	line "ISHIHARA wyruszył na poszukiwania"
+	line "baaardzo rzadkiej karty."
+	line "Chciałbym móc podróżować z nim..."
 	done
 
 Text074b: ; 54680 (15:4680)
-	text "I don't understand science,"
-	line "but I understand Pokémon cards!"
-	line "... I  L O S T..."
+	text "Nie rozumiem nauki,"
+	line "ale rozumiem karty Pokémon!"
+	line "... P R Z E G R A ł E M..."
 	done
 
 Text074c: ; 546cf (15:46cf)
-	text "Please don't disturb me!"
-	line "I'm in the middle of"
-	line "a very important experiment!"
+	text "Nie przeszkadzaj mi!"
+	line "Właśnie przeprowadzam"
+	line "niesamowicie ważny eksperyment!"
 	done
 
 Text074d: ; 5471b (15:471b)
-	text "If I use <RAMTEXT> now,"
-	line "This will happen..."
+	text "Co się wydarzy, jeśli użyję"
+	line "teraz <RAMTEXT>..."
 	done
 
 Text074e: ; 54740 (15:4740)
-	text "I get so involved in the Pokémon "
-	line "Trading Card Game, I lose track "
-	line "of time. Isn't the Pokémon Trading"
-	line "Card Game really fun?"
+	text "Czasem tak się wkręcam w Karty"
+	line "Pokémon, że tracę rachubę czasu."
+	line "Nie uważasz że Karty Pokémon"
+	line "to świetna gra?"
 	done
 
 Text074f: ; 547bd (15:47bd)
-	text "Hmmm... The machine..."
-	line "It's not quite working right."
-	line "Huh? Oh, this? This is a machine "
-	line "that makes Decks."
-	line "It's much better than Dr. Mason's."
-	line "Hmmm... Let's see here..."
-	line "Do you want to Duel against me?"
+	text "Hmmm... Ten Automat..."
+	line "Nie działa do końca dobrze."
+	line "Hę? Och, co to? To jest Automat"
+	line "do tworzenia Talii."
+	line "Jest dużo lepszy od tego Doktora"
+	line "Masona. Ale zaraz, zaraz..."
+	line "Chcesz ze mną walczyć?"
 	done
 
 Text0750: ; 54884 (15:4884)
-	text "Hmmm... The machine..."
-	line "It's not quite working right."
-	line "Unlike Dr. Mason's machine,"
-	line "this machine is very complicated."
-	line "Hmmm... Let's see here..."
-	line "Do you want to Duel against me?"
+	text "Hmmm... Ten Automat..."
+	line "Nie działa do końca dobrze."
+	line "W przeciwieństwie do tego Doktora"
+	line "Masona, ten jest bardzo"
+	line "skomplikowany. Ale zaraz..."
+	line "Czy Ty chcesz ze mną walczyć?"
 	done
 
 Text0751: ; 54932 (15:4932)
-	text "Would you like to Duel David?"
+	text "Chcesz wyzwać Davida na pojedynek?"
 	done
 
 Text0752: ; 54951 (15:4951)
-	text "OK, Then I guess I'll "
-	line "fix the machine."
+	text "No dobra, to wracam do naprawiania"
+	line "tego Automatu."
 	done
 
 Text0753: ; 5497a (15:497a)
-	text "Shall we begin the Match? It will"
-	line "be a single Match for 4 Prizes."
+	text "Możemy zaczynać? Zagrajmy"
+	line "z 4 Nagrodami."
 	done
 
 Text0754: ; 549bd (15:49bd)
-	text "My theory is that the machine's"
-	line "malfunctioning caused it."
+	text "To na pewno wina"
+	line "tego zepsutego Automatu."
 	done
 
 Text0755: ; 549f8 (15:49f8)
-	text "I've got to fix this machine..."
+	text "Muszę naprawić ten Automat..."
 	done
 
 Text0756: ; 54a19 (15:4a19)
-	text "See! Isn't the Deck built"
-	line "by this machine great?"
+	text "Widzisz! Mówiłem że ten Automat"
+	line "buduje rewelacyjne talie!"
 	done
 
 Text0757: ; 54a4b (15:4a4b)
-	text "We research Pokémon cards here"
-	line "at the Science Club, especially"
-	line "Science Pokémon Cards! Science"
-	line "Pokémon are exceedingly strong."
-	line "Would you like to Duel against"
-	line "my Science Pokémon Deck?"
+	text "Tutaj, w Klubie Nauki, analizujemy"
+	line "wszystkie karty Pokémon, ale"
+	line "szczególnie te związane z techniką!"
+	line "Naukowe Pokémony są wyjątkowo mocne."
+	line "Może chcesz sprawdzić siłę"
+	line "mojej Talii Pokémonów naukowych?"
 	done
 
 Text0758: ; 54b02 (15:4b02)
-	text "Would you like to Duel Erik?"
+	text "Chcesz wyzwać Erika na pojedynek?"
 	done
 
 Text0759: ; 54b20 (15:4b20)
-	text "That's too bad. I hoped to show "
-	line "you the results of my research."
+	text "Szkoda. Chciałem przedstawić Ci"
+	line "wyniki moich analiz."
 	done
 
 Text075a: ; 54b62 (15:4b62)
-	text "We'll play with 4 Prizes."
-	line "Let's begin."
+	text "Zagrajmy z 4 Nagrodami."
+	line "Zaczynajmy!"
 	done
 
 Text075b: ; 54b8a (15:4b8a)
-	text "I can't believe my Science Pokémon"
-	line "Deck could lose..."
+	text "Jak to możliwe że naukowe Pokémony"
+	line "to przegrały..."
 	done
 
 Text075c: ; 54bc1 (15:4bc1)
-	text "I must research this further!"
+	text "Muszę to jeszcze przeanalizować!"
 	done
 
 Text075d: ; 54be0 (15:4be0)
-	text "So how do you like the results"
-	line "of my research?"
+	text "Jak Ci się spodobały wyniki"
+	line "mojej analizy?"
 	done
 
 Text075e: ; 54c10 (15:4c10)

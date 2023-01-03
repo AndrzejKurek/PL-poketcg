@@ -1,3 +1,11 @@
+AlakazamName: ; 5ffb8 (17:7fb8)
+	text "Alakazam"
+	done
+
+DamageSwapName: ; 5ffc2 (17:7fc2)
+	text "Damage Swap"
+	done
+
 DamageSwapDescription: ; 60000 (18:4000)
 	text "As often as you like during your"
 	line "turn (before your attack), you may"
@@ -1397,19 +1405,6 @@ PokemonCenterDescription: ; 63e9e (18:7e9e)
 
 PokeBallName: ; 63f2e (18:7f2e)
 	text "Poké Ball"
-	done
-
-PokeBallDescription: ; 63f39 (18:7f39)
-	text "Flip a coin. If heads, you may"
-	line "search your deck for any Basic"
-	line "Pokémon or Evolution card. Show that"
-	line "card to your opponent, then put it"
-	line "into your hand. Shuffle your deck"
-	line "afterward."
-	done
-
-ScoopUpName: ; 63fed (18:7fed)
-	text "Scoop Up"
 	done
 
 	ds $9

@@ -66,7 +66,7 @@ StaryuName: ; 5c2d7 (17:42d7)
 	done
 
 SlapName: ; 5c2df (17:42df)
-	text "Slap"
+	text "Plaskacz"
 	done
 
 StarshapeName: ; 5c2e5 (17:42e5)
@@ -95,7 +95,7 @@ StarmiesRecoverDescription: ; 5c35b (17:435b)
 	done
 
 StarFreezeName: ; 5c3cf (17:43cf)
-	text "Star Freeze"
+	text "Gwiezdne Zamrożenie"
 	done
 
 MysteriousName: ; 5c3dc (17:43dc)
@@ -605,7 +605,7 @@ ElectrodeLv35Description: ; 5daeb (17:5aeb)
 	done
 
 ChainLightningName: ; 5db4f (17:5b4f)
-	text "Chain Lightning"
+	text "łańcuch Piorunów"
 	done
 
 ChainLightningDescription: ; 5db60 (17:5b60)
@@ -1419,14 +1419,6 @@ KadabraDescription: ; 5ff5b (17:7f5b)
 	text "It emits special alpha waves from"
 	line "its body that induce headaches even"
 	line "to those just nearby."
-	done
-
-AlakazamName: ; 5ffb8 (17:7fb8)
-	text "Alakazam"
-	done
-
-DamageSwapName: ; 5ffc2 (17:7fc2)
-	text "Damage Swap"
 	done
 
 	ds $31

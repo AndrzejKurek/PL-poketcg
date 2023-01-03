@@ -1,3 +1,16 @@
+PokeBallDescription: ; 63f39 (18:7f39)
+	text "Flip a coin. If heads, you may"
+	line "search your deck for any Basic"
+	line "Pokémon or Evolution card. Show that"
+	line "card to your opponent, then put it"
+	line "into your hand. Shuffle your deck"
+	line "afterward."
+	done
+
+ScoopUpName: ; 63fed (18:7fed)
+	text "Scoop Up"
+	done
+
 ScoopUpDescription: ; 64000 (19:4000)
 	text "Choose 1 of your Pokémon in play"
 	line "and return its Basic Pokémon card to"
