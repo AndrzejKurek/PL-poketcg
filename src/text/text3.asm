@@ -1465,13 +1465,13 @@ UseDuelistsDeckText: ; 3f2f1 (f:72f1)
 	done
 
 ReceivedBoosterPackText: ; 3f308 (f:7308)
-	text "<RAMNAME> otrzymał paczkę boosterów:"
-	line "<RAMTEXT>."
+	text "<RAMNAME> otrzymuje paczkę"
+	line "boosterów: <RAMTEXT>."
 	done
 
 AndAnotherBoosterPackText: ; 3f327 (f:7327)
-	text ", a także następną paczkę boosterów:"
-	line "<RAMTEXT>."
+	text "Dostaje także następną paczkę"
+	line "boosterów: <RAMTEXT>."
 	done
 
 CheckedCardsInBoosterPackText: ; 3f348 (f:7348)

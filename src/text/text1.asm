@@ -530,12 +530,11 @@ DuelWasADrawText: ; 36db1 (d:6db1)
 	done
 
 WonDuelText: ; 36dce (d:6dce)
-	text "Wygrano walkę z <RAMNAME>!"
+	text "<RAMNAME> przegrywa walkę!"
 	done
 
 LostDuelText: ; 36de8 (d:6de8)
-	text "Przegrano walkę"
-	line "z <RAMNAME>..."
+	text "<RAMNAME> wygrywa walkę..."
 	done
 
 StartSuddenDeathMatchText: ; 36e05 (d:6e05)

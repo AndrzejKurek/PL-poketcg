@@ -1713,7 +1713,7 @@ DismantleThisDeckText: ; 3bbe2 (e:7be2)
 	done
 
 NoCardsChosenText: ; 3bbf8 (e:7bf8)
-	text "Nie wybrano kart."
+	text "Wybrano 0 kart."
 	done
 
 YourPokemonText: ; 3bc0a (e:7c0a)

@@ -48,7 +48,7 @@ Text0743: ; 542e0 (15:42e0)
 	done
 
 Text0744: ; 5434c (15:434c)
-	text "Greetings."
+	text "Witaj."
 	line "Przekraczasz próg Klubu Nauki!"
 	line "Zapraszamy tu osoby ze ścisłymi"
 	line "umysłami, lubiące się uczyć."
@@ -527,7 +527,7 @@ Text0791: ; 55aea (15:5aea)
 Text0792: ; 55b6f (15:5b6f)
 	text "Jaa! Przegrałem!"
 	line "Matthew jest naprawdę dobry!"
-	line "Prawdopodobnie odziedziczy"
+	line "Pewnie to on odziedziczy"
 	line "Legendarne Karty Pokémon!"
 	done
 
