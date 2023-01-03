@@ -1,3 +1,29 @@
+MayInflictPoisonDescription: ; 57eaf (15:7eaf)
+	text "Rzuć monetą. Pikachu: atakowany"
+	line "Pokémon jest teraz zatruty."
+	done
+
+HairyBugName: ; 57eee (15:7eee)
+	text "Włochaty Robak"
+	done
+	
+WeedleDescription: ; 57ef9 (15:7ef9)
+	text "Often found in forests, eating"
+	line "leaves. It has a sharp, venomous"
+	line "stinger on its head."
+	done
+
+KakunaName: ; 57f4f (15:7f4f)
+	text "Kakuna"
+	done
+
+KakunasStiffenDescription: ; 57f57 (15:7f57)
+	text "Flip a coin. If heads, prevent all"
+	line "damage done to Kakuna during your"
+	line "opponent's next turn. (Any other"
+	line "effects of attacks still happen.)"
+	done
+
 KakunaDescription: ; 58000 (16:4000)
 	text "Almost incapable of moving, this"
 	line "Pokémon can only harden its shell to"
@@ -1555,41 +1581,6 @@ KinglerName: ; 5be73 (16:7e73)
 
 FlailName: ; 5be7c (16:7e7c)
 	text "Flail"
-	done
-
-KinglersFlailDescription: ; 5be83 (16:7e83)
-	text "Does 10 damage times the number of"
-	line "damage counters on Kingler."
-	done
-
-CrabhammerName: ; 5bec3 (16:7ec3)
-	text "Crabhammer"
-	done
-
-PincerName: ; 5becf (16:7ecf)
-	text "Pincer"
-	done
-
-KinglerDescription: ; 5bed7 (16:7ed7)
-	text "The large pincer has 10,000"
-	line "horsepower of crushing power."
-	line "However, its huge size makes it"
-	line "unwieldy to use."
-	done
-
-HorseaName: ; 5bf43 (16:7f43)
-	text "Horsea"
-	done
-
-OpponentAttackMayDoNothingDescription: ; 5bf4b (16:7f4b)
-	text "If the Defending Pokémon tries to"
-	line "attack during your opponent's next"
-	line "turn, your opponent flips a coin."
-	line "If tails, that attack does nothing."
-	done
-
-DragonName: ; 5bfd7 (16:7fd7)
-	text "Dragon"
 	done
 
 	ds $21

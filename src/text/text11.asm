@@ -1,3 +1,38 @@
+KinglersFlailDescription: ; 5be83 (16:7e83)
+	text "Does 10 damage times the number of"
+	line "damage counters on Kingler."
+	done
+	
+CrabhammerName: ; 5bec3 (16:7ec3)
+	text "Crabhammer"
+	done
+
+PincerName: ; 5becf (16:7ecf)
+	text "Pincer"
+	done
+	
+KinglerDescription: ; 5bed7 (16:7ed7)
+	text "The large pincer has 10,000"
+	line "horsepower of crushing power."
+	line "However, its huge size makes it"
+	line "unwieldy to use."
+	done
+
+HorseaName: ; 5bf43 (16:7f43)
+	text "Horsea"
+	done
+
+OpponentAttackMayDoNothingDescription: ; 5bf4b (16:7f4b)
+	text "If the Defending Pokémon tries to"
+	line "attack during your opponent's next"
+	line "turn, your opponent flips a coin."
+	line "If tails, that attack does nothing."
+	done
+
+DragonName: ; 5bfd7 (16:7fd7)
+	text "Dragon"
+	done
+
 HorseaDescription: ; 5c000 (17:4000)
 	text "Known to shoot down flying bugs with"
 	line "precision blasts of ink from the"
@@ -1378,47 +1413,6 @@ PrehistoricPowerDescription: ; 5fd8b (17:7d8b)
 
 FossilName: ; 5fe00 (17:7e00)
 	text "Fossil"
-	done
-
-AerodactylDescription: ; 5fe08 (17:7e08)
-	text "A ferocious prehistoric Pokémon that"
-	line "goes for the enemy's throat with its"
-	line "serrated saw-like fangs."
-	done
-
-AbraName: ; 5fe6c (17:7e6c)
-	text "Abra"
-	done
-
-PsiName: ; 5fe72 (17:7e72)
-	text "Psi"
-	done
-
-AbraDescription: ; 5fe77 (17:7e77)
-	text "Using its ability to read minds, it"
-	line "will identify impending danger and"
-	line "teleport to safety."
-	done
-
-KadabraName: ; 5fed3 (17:7ed3)
-	text "Kadabra"
-	done
-
-KadabrasRecoverDescription: ; 5fedc (17:7edc)
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Kadabra in order to use this attack."
-	line "Remove all damage counters from"
-	line "Kadabra."
-	done
-
-SuperPsiName: ; 5ff50 (17:7f50)
-	text "Super Psy"
-	done
-
-KadabraDescription: ; 5ff5b (17:7f5b)
-	text "It emits special alpha waves from"
-	line "its body that induce headaches even"
-	line "to those just nearby."
 	done
 
 	ds $31

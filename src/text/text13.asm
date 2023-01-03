@@ -1,3 +1,36 @@
+SuperEnergyRemovalDescription: ; 63d9c (18:7d9c)
+	text "Discard 1 Energy card attached to 1"
+	line "of your own Pokémon in order to"
+	line "choose 1 of your opponent's Pokémon"
+	line "and up to 2 Energy cards attached"
+	line "to it. Discard those Energy cards."
+	done
+
+SwitchName: ; 63e4a (18:7e4a)
+	text "Switch"
+	done
+
+SwitchDescription: ; 63e52 (18:7e52)
+	text "Switch 1 of your Benched Pokémon"
+	line "with your Active Pokémon."
+	done
+
+PokemonCenterName: ; 63e8e (18:7e8e)
+	text "Pokémon Center"
+	done
+
+PokemonCenterDescription: ; 63e9e (18:7e9e)
+	text "Remove all damage counters from all"
+	line "of your own Pokémon with damage"
+	line "counters on them, then discard all"
+	line "Energy cards attached to those"
+	line "Pokémon."
+	done
+
+PokeBallName: ; 63f2e (18:7f2e)
+	text "Poké Ball"
+	done
+
 PokeBallDescription: ; 63f39 (18:7f39)
 	text "Flip a coin. If heads, you may"
 	line "search your deck for any Basic"
@@ -195,4 +228,10 @@ RecycleDescription: ; 6495e (19:495e)
 	text "Flip a coin. If heads, put a card"
 	line "in your discard pile on top of your"
 	line "deck."
+	done
+
+KadabraDescription: ; 5ff5b (17:7f5b)
+	text "It emits special alpha waves from"
+	line "its body that induce headaches even"
+	line "to those just nearby."
 	done

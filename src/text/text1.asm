@@ -1070,7 +1070,7 @@ ConfusionCheckText: ; 37ca8 (d:7ca8)
 	done
 
 VenomPowderCheckText: ; 37cdf (d:7cdf)
-	text "Test jadowitego prochu! Pikachu:"
+	text "Test Jadowitego Prochu! Pikachu:"
 	line "przeciwnik otruty i zdezorientowany."
 	done
 

@@ -1,3 +1,38 @@
+AerodactylDescription: ; 5fe08 (17:7e08)
+	text "A ferocious prehistoric Pokémon that"
+	line "goes for the enemy's throat with its"
+	line "serrated saw-like fangs."
+	done
+
+AbraName: ; 5fe6c (17:7e6c)
+	text "Abra"
+	done
+
+PsiName: ; 5fe72 (17:7e72)
+	text "Psi"
+	done
+
+AbraDescription: ; 5fe77 (17:7e77)
+	text "Using its ability to read minds, it"
+	line "will identify impending danger and"
+	line "teleport to safety."
+	done
+
+KadabraName: ; 5fed3 (17:7ed3)
+	text "Kadabra"
+	done
+
+KadabrasRecoverDescription: ; 5fedc (17:7edc)
+	text "Discard 1 <PSYCHIC> Energy card attached to"
+	line "Kadabra in order to use this attack."
+	line "Remove all damage counters from"
+	line "Kadabra."
+	done
+
+SuperPsiName: ; 5ff50 (17:7f50)
+	text "Super Psy"
+	done
+
 AlakazamName: ; 5ffb8 (17:7fb8)
 	text "Alakazam"
 	done
@@ -1372,39 +1407,6 @@ EnergyRemovalDescription: ; 63d37 (18:7d37)
 
 SuperEnergyRemovalName: ; 63d86 (18:7d86)
 	text "Super Energy Removal"
-	done
-
-SuperEnergyRemovalDescription: ; 63d9c (18:7d9c)
-	text "Discard 1 Energy card attached to 1"
-	line "of your own Pokémon in order to"
-	line "choose 1 of your opponent's Pokémon"
-	line "and up to 2 Energy cards attached"
-	line "to it. Discard those Energy cards."
-	done
-
-SwitchName: ; 63e4a (18:7e4a)
-	text "Switch"
-	done
-
-SwitchDescription: ; 63e52 (18:7e52)
-	text "Switch 1 of your Benched Pokémon"
-	line "with your Active Pokémon."
-	done
-
-PokemonCenterName: ; 63e8e (18:7e8e)
-	text "Pokémon Center"
-	done
-
-PokemonCenterDescription: ; 63e9e (18:7e9e)
-	text "Remove all damage counters from all"
-	line "of your own Pokémon with damage"
-	line "counters on them, then discard all"
-	line "Energy cards attached to those"
-	line "Pokémon."
-	done
-
-PokeBallName: ; 63f2e (18:7f2e)
-	text "Poké Ball"
 	done
 
 	ds $9
