@@ -67,7 +67,7 @@ Text05e0: ; 4c5a1 (13:45a1)
 
 Text05e1: ; 4c66a (13:466a)
 	text "Brawo, <RAMNAME>!"
-	line "Słyszałem że masz już"
+	line "Słyszałem, że masz już"
 	line "Legendarne Karty Pokémon!"
 	line "Siła Talii nie opiera się na żadnej"
 	line "pojedynczej karcie, ale na tym,"
@@ -85,7 +85,7 @@ Text05e2: ; 4c786 (13:4786)
 	line "Sprawdź, jak daleko zajdziesz ze"
 	line "swoją Talią! Dane wrogów bazują"
 	line "na spotkanych już rywalach."
-	line "Mam nadzieję że spodoba Ci się"
+	line "Mam nadzieję, że spodoba Ci się"
 	line "efekt pracy mojego"
 	line "naukowego geniuszu!"
 	done
@@ -277,7 +277,7 @@ Text05fc: ; 4d423 (13:5423)
 	done
 
 Text05fd: ; 4d466 (13:5466)
-	text "Ho-ho! Może powalczymy żeby"
+	text "Ho-ho! Może powalczymy, żeby"
 	line "przetestować Twoją talię?"
 	line "Jeśli wygrasz, dam Ci"
 	line "Booster Pack'a z samymi"
@@ -408,7 +408,7 @@ Text0614: ; 4d99f (13:599f)
 	text "<Lv>35 Electabuzz?"
 	line "Mega! ...ej, zaraz, dzieciaku!"
 	line "Masz tę kartę w swojej Talii!"
-	line "Lepiej żebym Ci jej nie zabierał!"
+	line "Lepiej, żebym Ci jej nie zabierał!"
 	line "Dbaj o tę wyjątkową kartę."
 	line "Electabuzz jest tego wart!"
 	done
@@ -524,8 +524,8 @@ Text0627: ; 4df50 (13:5f50)
 Text0628: ; 4df7c (13:5f7c)
 	text "Zszokowało cię to?"
 	line "Moja elektryczna talia jest mocna!"
-	line "Jeśli chcesz żebym Cię znów poraził,"
-	line "zapraszam...Będę czekać!"
+	line "Jeśli chcesz, żebym Cię znów"
+	line "poraził, zapraszam...Będę czekać!"
 	done
 
 Text0629: ; 4dff2 (13:5ff2)
@@ -585,7 +585,7 @@ Text0633: ; 4e235 (13:6235)
 	line "pracowałem, ale scena działa!"
 	line "Trzeba czasem o nią zadbać!"
 	line "Jestem Mistrzem Klubu Elektrycznego!"
-	line "Jasne że z tobą powalczę!"
+	line "Jasne, że z tobą powalczę!"
 	done
 
 Text0634: ; 4e2cc (13:62cc)
@@ -727,7 +727,7 @@ Text0649: ; 4e991 (13:6991)
 	line "Klubów i dostać od nich 8 Medali!"
 	line "Dopiero wtedy, na Stadionie Pokémon,"
 	line "możesz wyzwać na pojedynek czworo"
-	line "Arcymistrzów! Nie ma mowy że"
+	line "Arcymistrzów! Nie ma mowy, że"
 	line "dasz radę ich pokonać. Równie"
 	line "dobrze możesz już się poddać"
 	line "i wrócić do domu!"
@@ -837,7 +837,7 @@ Text0657: ; 4f04d (13:704d)
 	done
 
 Text0658: ; 4f0ab (13:70ab)
-	text "Jak to możliwe że duchy przegrały?!"
+	text "Jak to możliwe, że duchy przegrały?!"
 	done
 
 Text0659: ; 4f0cc (13:70cc)
@@ -846,7 +846,7 @@ Text0659: ; 4f0cc (13:70cc)
 	done
 
 Text065a: ; 4f0f7 (13:70f7)
-	text "Mówiłem że moja Talia duchów jest"
+	text "Mówiłem, że moja Talia duchów jest"
 	line "mocna! Wpadnij jeszcze na kolejną"
 	line "walkę, dobrze? Do widzenia!"
 	done
@@ -855,7 +855,7 @@ Text065b: ; 4f148 (13:7148)
 	text "Nie lubię za bardzo zarozumiałych"
 	line "ludzi. Dlatego też nie przepadam"
 	line "za członkami Klubu Psychiki..."
-	line "Pokonanie ich na pewno sprawi"
+	line "Pokonanie ich na pewno sprawi,"
 	line "że przestaną tak patrzeć z góry!"
 	line "Niestety nie dam rady tego zrobić..."
 	line "Może spróbujesz pokonać dla mnie"
@@ -881,7 +881,7 @@ Text065e: ; 4f2cb (13:72cb)
 	done
 
 Text065f: ; 4f2f0 (13:72f0)
-	text "Widzę że jeszcze nie udało Ci się"
+	text "Widzę, że jeszcze nie udało Ci się"
 	line "pokonać Murray'a. Jest bardzo mocny,"
 	line "ale nie poddawaj się! Trzymam za"
 	line "Ciebie kciuki! Jeśli go pokonasz,"
@@ -937,7 +937,7 @@ Text0665: ; 4f640 (13:7640)
 	done
 
 Text0666: ; 4f70e (13:770e)
-	text "Krążą plotki że ktoś odziedziczył"
+	text "Krążą plotki, że ktoś odziedziczył"
 	line "Legendarne Karty Pokémon!"
 	line "Ktokolwiek to jest, musi być"
 	line "naprawdę mocny, skoro pokonał"
@@ -971,7 +971,7 @@ Text066a: ; 4f8aa (13:78aa)
 	done
 
 Text066b: ; 4f91b (13:791b)
-	text "Widzę że masz już Medal."
+	text "Widzę, że masz już Medal."
 	line "Mogę zatem z Tobą walczyć."
 	done
 
@@ -1043,7 +1043,7 @@ Text0677: ; 4fc12 (13:7c12)
 	done
 
 Text0678: ; 4fc41 (13:7c41)
-	text "Nie mogę uwierzyć że moja"
+	text "Nie mogę uwierzyć, że moja"
 	line "przepowiednia była błędna..."
 	done
 
@@ -1053,7 +1053,7 @@ Text0679: ; 4fc6d (13:7c6d)
 	done
 
 Text067a: ; 4fc99 (13:7c99)
-	text "Mówiłam że ze mną przegrasz..."
+	text "Mówiłam, że ze mną przegrasz..."
 	line "Potrafię przepowiadać przyszłość!"
 	line "Mam wizję, w której... "
 	line "Znów ze mną walczysz!"
@@ -1075,7 +1075,7 @@ Text067d: ; 4fd8e (13:7d8e)
 	line "Klubami zdobywając Medale!"
 	line "Skąd to wiem? To oczywiste!"
 	line "Jestem Medium!"
-	line "Dobrze, pozwól że sprawdzę na tobie"
+	line "Dobrze, pozwól, że sprawdzę na tobie"
 	line "moją nową strategię!"
 	line "Możemy zaczynać?"
 	done

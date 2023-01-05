@@ -1,7 +1,7 @@
 Text073f: ; 54000 (15:4000)
 	text "Kto?"
 	line "Och! To Ty, <RAMNAME>..."
-	line "Nie wierzyłem że kiedykolwiek"
+	line "Nie wierzyłem, że kiedykolwiek"
 	line "przegram, ale teraz..."
 	line "Teraz rozumiem."
 	line "W Kartach Pokémon nie to jest"
@@ -122,7 +122,7 @@ Text074d: ; 5471b (15:471b)
 Text074e: ; 54740 (15:4740)
 	text "Czasem tak się wkręcam w Karty"
 	line "Pokémon, że tracę rachubę czasu."
-	line "Nie uważasz że Karty Pokémon"
+	line "Nie uważasz, że Karty Pokémon"
 	line "to świetna gra?"
 	done
 
@@ -169,7 +169,7 @@ Text0755: ; 549f8 (15:49f8)
 	done
 
 Text0756: ; 54a19 (15:4a19)
-	text "Widzisz! Mówiłem że ten Automat"
+	text "Widzisz! Mówiłem, że ten Automat"
 	line "buduje rewelacyjne talie!"
 	done
 
@@ -197,7 +197,7 @@ Text075a: ; 54b62 (15:4b62)
 	done
 
 Text075b: ; 54b8a (15:4b8a)
-	text "Jak to możliwe że naukowe Pokémony"
+	text "Jak to możliwe, że naukowe Pokémony"
 	line "to przegrały..."
 	done
 
@@ -372,7 +372,7 @@ Text0779: ; 5532c (15:532c)
 
 Text077a: ; 553bf (15:53bf)
 	text "Lubię trenować w Klubie Kamienia!"
-	line "Mitch chce żebyśmy walczyli ze sobą"
+	line "Mitch chce, żebyśmy walczyli ze sobą"
 	line "zanim poprosisz o to innych graczy!"
 	done
 
@@ -396,7 +396,7 @@ Text077e: ; 554ac (15:54ac)
 	done
 
 Text077f: ; 554e0 (15:54e0)
-	text "Muszę wrócić do Klubu Walki"
+	text "Muszę wrócić do Klubu Walki,"
 	line "żeby od nowa zrobić trening!"
 	done
 

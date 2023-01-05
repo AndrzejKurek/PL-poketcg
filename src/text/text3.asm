@@ -506,7 +506,7 @@ FlowerGardenDescriptionText: ; 3ccea (f:4cea)
 	done
 
 KaleidoscopeDescriptionText: ; 3cd1d (f:4d1d)
-	text "Użyj Pokémocy Venomotha żeby"
+	text "Użyj Pokémocy Venomotha, żeby"
 	line "zmienić słabości wroga."
 	done
 
@@ -810,7 +810,7 @@ DamageCountersDescriptionText: ; 3dbc5 (f:5bc5)
 	line "Każdy licznik oznacza 10 punktów"
 	line "życia (Pż) obrażeń. Jeśli Pokémon"
 	line "ma 30 Pż i 3 liczniki obrażeń,"
-	line "oznacza to że dostał 30 Pż obrażeń"
+	line "oznacza to, że dostał 30 Pż obrażeń"
 	line "i jego Pż spadły do zera."
 	done
 
@@ -1982,10 +1982,10 @@ Text0401: ; 3faaa (f:7aaa)
 	line "paczkach boosterów."
 	line "Jeśli chcesz nazbierać wiele tych"
 	line "samych kard, walcz z tą samą osobą"
-	line "wielokrotnie żeby dostać tego samego"
-	line "boostera! W ten sposób uzbierasz"
-	line "sporo tych samych kart, a to ułatwi"
-	line "Ci złożenie talii."
+	line "wielokrotnie, żeby dostać tego"
+	line "samego boostera! W ten sposób"
+	line "uzbierasz sporo tych samych kart,"
+	line "a to ułatwi Ci złożenie talii."
 	line "Inną metodą zbierania kart jest"
 	line "użycie z menu funkcji CARD POP!"
 	line "Gdy użyjecie CARD POP! w dwie osoby,"

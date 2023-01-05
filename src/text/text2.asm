@@ -1108,7 +1108,7 @@ Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
 	text "Seaking nie ma wystarczająco"
-	line "Energii żeby użyć Wodospadu."
+	line "Energii, żeby użyć Wodospadu."
 	line "Dołącz kartę Energii Psychiki"
 	line "do Seaking'a."
 	line "<COLORLESS> oznacza jakąkolwiek"

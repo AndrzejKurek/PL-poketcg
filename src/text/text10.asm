@@ -767,7 +767,7 @@ MantisName: ; 59d0b (16:5d0b)
 ScytherDescription: ; 59d13 (16:5d13)
 	text "Poruszając się zwinnie i z finezją"
 	line "niczym ninja, jest w stanie stworzyć"
-	line "iluzję że jest ich dwóch."
+	line "iluzję, że jest ich dwóch."
 	done
 
 PinsirName: ; 59d75 (16:5d75)
