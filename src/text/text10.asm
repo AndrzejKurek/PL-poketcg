@@ -451,7 +451,7 @@ InsectName: ; 590cf (16:50cf)
 	done
 
 VenonatDescription: ; 590d7 (16:50d7)
-	text "Żyje w cieniu wysokich drzew,"
+	text "żyje w cieniu wysokich drzew,"
 	line "zjadając insekty."
 	line "W nocy ciągnie go do światła."
 	done
@@ -775,7 +775,7 @@ PinsirName: ; 59d75 (16:5d75)
 	done
 
 IronGripName: ; 59d7d (16:5d7d)
-	text "Żelazny Uścisk"
+	text "żelazny Uścisk"
 	done
 
 GuillotineName: ; 59d87 (16:5d87)
@@ -811,7 +811,7 @@ LizardName: ; 59e63 (16:5e63)
 
 CharmanderDescription: ; 59e6b (16:5e6b)
 	text "Preferuje gorące miejsca. Mówi się,"
-	line "że gdy stoi na deszczu, to widać"
+	line "że gdy stoi na deszczu, widać"
 	line "parę unoszącą się z czubka jego"
 	line "ogona."
 	done
@@ -920,34 +920,32 @@ MixUpName: ; 5a2ec (16:62ec)
 	done
 
 MixUpDescription: ; 5a2f4 (16:62f4)
-	text "If your opponent has any Basic"
-	line "Pokémon or Evolution cards in his"
-	line "or her hand, your opponent shuffles"
-	line "them into his or her deck. Then,"
-	line "your opponent puts an equal number"
-	line "of Basic Pokémon or Evolution cards"
-	line "chosen at random from his or"
+	text "Jeśli Twój przeciwnik ma podstawowe"
+	line "Pokémony lub karty ewolucji na ręce,"
+	line "musi wtasować je w talię,"
+	line "a następnie wyjąć z niej taką samą"
+	line "liczbę losowo wybranych Pokémonów"
+	line "podstawowych lub kart Ewolucji"
+	line "i wziąć je na rękę."
 	done
 
 MixUpDescriptionCont: ; 5a3df (16:63df)
-	text "her deck into his or her hand. Your"
-	line "opponent shuffles his or her deck"
-	line "afterward."
+	text "Po wszystkim musi przetasować talię."
 	done
 
 DancingEmbersName: ; 5a431 (16:6431)
-	text "Dancing Embers"
+	text "Tańczący żar"
 	done
 
 DancingEmbersDescription: ; 5a441 (16:6441)
-	text "Flip 8 coins. This attack does 10"
-	line "damage times the number of heads."
+	text "Rzuć 8 monetami. Ten atak zadaje 10"
+	line "obrażeń razy liczba Pikachu."
 	done
 
 NinetalesLv35Description: ; 5a486 (16:6486)
-	text "According to an enduring legend,"
-	line "9 noble heroes were united and"
-	line "reincarnated as this."
+	text "Zgodnie z pradawną legendą,"
+	line "9 szlachetnych herosów zjednoczyło się"
+	line "i odrodziło jako ten Pokémon."
 	done
 
 GrowlitheName: ; 5a4dd (16:64dd)
@@ -955,17 +953,17 @@ GrowlitheName: ; 5a4dd (16:64dd)
 	done
 
 FlareName: ; 5a4e8 (16:64e8)
-	text "Flare"
+	text "Pochodnia"
 	done
 
 PuppyName: ; 5a4ef (16:64ef)
-	text "Puppy"
+	text "Szczeniak"
 	done
 
 GrowlitheDescription: ; 5a4f6 (16:64f6)
-	text "Very protective of its territory."
-	line "It will bark and bite to repel"
-	line "intruders from its space."
+	text "Chroni swoje terytorium."
+	line "Będzie gryźć i szczekać, aby odgonić"
+	line "intruzów z bronionego terenu."
 	done
 
 ArcanineName: ; 5a552 (16:6552)
@@ -973,56 +971,54 @@ ArcanineName: ; 5a552 (16:6552)
 	done
 
 QuickAttackName: ; 5a55c (16:655c)
-	text "Quick Attack"
+	text "Szybki Atak"
 	done
 
 QuickAttackDescription: ; 5a56a (16:656a)
-	text "Flip a coin. If heads, this attack"
-	line "does 10 damage plus 20 more damage;"
-	line "if tails, this attack does 10"
-	line "damage."
+	text "Rzuć monetą ."
+	line "Pikachu: ten atak zada 30 obrażeń."
+	line "Reszka: ten atak zada 10 obrażeń."
 	done
 
 FlamesOfRageName: ; 5a5d8 (16:65d8)
-	text "Flames of Rage"
+	text "Ognista Furia"
 	done
 
 FlamesOfRageDescription: ; 5a5e8 (16:65e8)
-	text "Discard 2 <FIRE> Energy cards attached"
-	line "to Arcanine in order to use this"
-	line "attack. This attack does 40 damage"
-	line "plus 10 more damage for each damage"
-	line "counter on Arcanine."
+	text "Odrzuć 2 karty Energii <FIRE> dołączone"
+	line "do Arcanine'a, aby użyć tego ataku."
+	line "Ten atak zadaje 40 obrażeń plus"
+	line "10 więcej obrażeń za każdy licznik"
+	line "obrażeń na Arcanine."
 	done
 
 LegendaryName: ; 5a689 (16:6689)
-	text "Legendary"
+	text "Legendarny"
 	done
 
 ArcanineLv34Description: ; 5a694 (16:6694)
-	text "A legendary Pokémon famous for its"
-	line "beauty. It looks almost as if it"
-	line "flies when it runs."
+	text "Legendarny Pokémon znany ze swego"
+	line "piękna. Jego majestatyczny bieg"
+	line "przypomina niektórym lot."
 	done
 
 ArcaninesFlamethrowerDescription: ; 5a6ed (16:66ed)
-	text "Discard 1 <FIRE> Energy card attached to"
-	line "Arcanine in order to use this"
-	line "attack."
+	text "Odrzuć 1 kartę Energii <FIRE> dołączoną"
+	line "do Arcanine'a, aby użyć tego ataku."
 	done
 
 TakeDownName: ; 5a739 (16:6739)
-	text "Take Down"
+	text "Powalenie"
 	done
 
 TakeDownDescription: ; 5a744 (16:6744)
-	text "Arcanine does 30 damage to itself."
+	text "Arcanine zadaje 30 obrażeń sobie."
 	done
 
 ArcanineLv45Description: ; 5a768 (16:6768)
-	text "A Pokémon that has been long admired"
-	line "for its beauty. It runs gracefully,"
-	line "as if on wings."
+	text "Legendarny Pokémon znany ze swego"
+	line "piękna. Jego majestatyczny bieg"
+	line "przypomina niektórym lot."
 	done
 
 PonytaName: ; 5a7c2 (16:67c2)
@@ -1030,21 +1026,21 @@ PonytaName: ; 5a7c2 (16:67c2)
 	done
 
 SmashKickName: ; 5a7ca (16:67ca)
-	text "Smash Kick"
+	text "Kopniak"
 	done
 
 FlameTailName: ; 5a7d6 (16:67d6)
-	text "Flame Tail"
+	text "Ognisty Ogon"
 	done
 
 FireHorseName: ; 5a7e2 (16:67e2)
-	text "Fire Horse"
+	text "Ognisty Koń"
 	done
 
 PonytaDescription: ; 5a7ee (16:67ee)
-	text "Its hooves are 10 times harder than"
-	line "diamonds. It can trample anything"
-	line "flat in moments."
+	text "Jego kopyta są 10 razy twardsze"
+	line "od diamentów. Może szybko stratować"
+	line "każdego wroga."
 	done
 
 RapidashName: ; 5a846 (16:6846)
@@ -1052,31 +1048,30 @@ RapidashName: ; 5a846 (16:6846)
 	done
 
 StompName: ; 5a850 (16:6850)
-	text "Stomp"
+	text "Zdeptanie"
 	done
 
 StompDescription: ; 5a857 (16:6857)
-	text "Flip a coin. If heads, this attack"
-	line "does 20 damage plus 10 more damage;"
-	line "if tails, this attack does 20"
-	line "damage."
+	text "Rzuć monetą ."
+	line "Pikachu: atak zadaje 30 obrażeń."
+	line "Reszka: atak zadaje 20 obrażeń."
 	done
 
 AgilityName: ; 5a8c5 (16:68c5)
-	text "Agility"
+	text "Zwinność"
 	done
 
 RapidashsAgilityDescription: ; 5a8ce (16:68ce)
-	text "Flip a coin. If heads, during your"
-	line "opponent's next turn, prevent all"
-	line "effects of attacks, including"
-	line "damage, done to Rapidash."
+	text "Rzuć monetą ."
+	line "Pikachu: Rapidash nie otrzyma"
+	line "żadnych obrażeń ani efektów ataków"
+	line "w kolejnej turze przeciwnika."
 	done
 
 RapidashDescription: ; 5a94c (16:694c)
-	text "Very competitive, this Pokémon will"
-	line "chase anything that moves fast in"
-	line "the hopes of racing it."
+	text "Bardzo ambitny, lubi rywalizację."
+	line "Będzie gonić wszystko, co szybko się"
+	line "porusza w nadziei na wyścig."
 	done
 
 MagmarName: ; 5a9ab (16:69ab)
@@ -1084,40 +1079,40 @@ MagmarName: ; 5a9ab (16:69ab)
 	done
 
 FirePunchName: ; 5a9b3 (16:69b3)
-	text "Fire Punch"
+	text "Ognisty Cios"
 	done
 
 FirePunchDescription: ; 5a9bf (16:69bf)
-	text "Discard 1 <FIRE> Energy card attached to"
-	line "Magmar in order to use this attack."
+	text "Odrzuć 1 Kartę <FIRE> dołączoną do"
+	line "Magmar'a aby użyć tego ataku."
 	done
 
 SpitfireName: ; 5aa09 (16:6a09)
-	text "Spitfire"
+	text "Piekielnik"
 	done
 
 MagmarLv24Description: ; 5aa13 (16:6a13)
-	text "Its body always burns with an orange"
-	line "glow that enables it to hide"
-	line "perfectly among flames."
+	text "Jego ciało zawsze płonie, emitując"
+	line "pomarańczową aurę, która czyni go"
+	line "niewidocznym wśród płomieni."
 	done
 
 SmokescreenName: ; 5aa6e (16:6a6e)
-	text "Smokescreen"
+	text "Zasłona Dymna"
 	done
 
 MagmarsSmokescreenDescription: ; 5aa7b (16:6a7b)
-	text "If the Defending Pokémon tries to"
-	line "attack during your opponent's next"
-	line "turn, your opponent flips a coin. If"
-	line "tails, that attack does nothing."
+	text "Jeśli atakowany Pokémon spróbuje"
+	line "zaatakować w następnej turze, rywal"
+	line "musi rzucić monetą. Reszka oznacza,"
+	line "że atak się nie powiedzie."
 	done
 
 MagmarLv31Description: ; 5ab07 (16:6b07)
-	text "Found at the mouths of volcanoes and"
-	line "extremely hard to spot. There are"
-	line "very few instances of capturing this"
-	line "Pokémon."
+	text "Można go znaleźć w czeluściach"
+	line "wulkanu, ale ciężko go dostrzec."
+	line "Rzadko komu udaje się złapać tego"
+	line "Pokémona."
 	done
 
 FlareonName: ; 5ab7d (16:6b7d)
@@ -1129,33 +1124,34 @@ EeveeName: ; 5ab86 (16:6b86)
 	done
 
 BiteName: ; 5ab8d (16:6b8d)
-	text "Bite"
+	text "Kąsanie"
 	done
 
 RageName: ; 5ab93 (16:6b93)
-	text "Rage"
+	text "Furia"
 	done
 
 FlareonsRageDescription: ; 5ab99 (16:6b99)
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on Flareon."
+	text "Zadaje 10 obrażeń plus 10 za każdy"
+	line "licznik obrażeń na Flareonie."
 	done
 
 FlareonLv22Description: ; 5abe1 (16:6be1)
-	text "It has a flame chamber inside its"
-	line "body. It inhales, then blows out"
-	line "fire that is over 3,000 degrees."
+	text "Ma ognistą komorę wewnątrz swego"
+	line "ciała. Wdycha powietrze, ale wypluwa"
+	line "płomień o temperaturze 1600 stopni."
 	done
 
 FlareonsFlamethrowerDescription: ; 5ac46 (16:6c46)
-	text "Discard 1 <FIRE> Energy card attached to"
-	line "Flareon in order to use this attack."
+	text "Odrzuć 1 kartę Energii <FIRE>"
+	line "dołączoną do Flareona, aby użyć"
+	line "tego ataku."
 	done
 
 FlareonLv28Description: ; 5ac91 (16:6c91)
-	text "When storing thermal energy in its"
-	line "body, its temperature could soar to"
-	line "over 1,600 degrees."
+	text "Gdy magazynuje energię cieplną"
+	line "w swoim ciele, jego temperatura może"
+	line "poszybować nawet do 900 stopni."
 	done
 
 MoltresName: ; 5aced (16:6ced)
@@ -1163,44 +1159,43 @@ MoltresName: ; 5aced (16:6ced)
 	done
 
 WildfireName: ; 5acf6 (16:6cf6)
-	text "Wildfire"
+	text "Pożar"
 	done
 
 WildfireDescription: ; 5ad00 (16:6d00)
-	text "You may discard any number of <FIRE>"
-	line "Energy cards attached to Moltres"
-	line "when you use this attack. If you do,"
-	line "discard that many cards from the top"
-	line "of your opponent's deck."
+	text "Możesz odrzucić dowolną liczbę kart"
+	line "Energii <FIRE> dołączonych do Moltresa"
+	line "przy użyciu tego ataku. Jeśli to"
+	line "zrobisz, odrzuć tyle samo kart z"
+	line "wierzchu Talii przeciwnika."
 	done
 
 DiveBombName: ; 5ada6 (16:6da6)
-	text "Dive Bomb"
+	text "Bombardowanie"
 	done
 
 MoltresLv35Description: ; 5adb1 (16:6db1)
-	text "Known as the legendary bird of fire."
-	line "Every flap of its wings creates a"
-	line "dazzling flash of flames."
+	text "Znany jako Legendarny Ptak Ognia."
+	line "Każde machnięcie jego skrzydeł"
+	line "wznieca olśniewające płomienie."
 	done
 
 FiregiverName: ; 5ae13 (16:6e13)
-	text "Firegiver"
+	text "Prometeusz"
 	done
 
 FiregiverDescription: ; 5ae1e (16:6e1e)
-	text "When you put Moltres into play"
-	line "during your turn (not during"
-	line "set-up), put from 1 to 4 (chosen at"
-	line "random) <FIRE> Energy cards from your"
-	line "deck into your hand. Shuffle your"
-	line "deck afterward."
+	text "Gdy umieścisz Moltresa w obszarze"
+	line "gry, w trakcie swojej tury,"
+	line "weź od 1 do 4 (losowo) Kart"
+	line "Energii <FIRE> ze swojej Talii do Ręki."
+	line "Przetasuj po tym Talię."
 	done
 
 MoltresLv37Description: ; 5aed3 (16:6ed3)
-	text "A legendary bird Pokémon. As it"
-	line "flaps its flaming wings, even the"
-	line "night sky will turn red."
+	text "Legendarny Ptak Pokémon. Gdy macha"
+	line "swymi płonącymi skrzydłami, nawet"
+	line "nocne niebo robi się czerwone."
 	done
 
 SquirtleName: ; 5af2f (16:6f2f)
@@ -1208,28 +1203,28 @@ SquirtleName: ; 5af2f (16:6f2f)
 	done
 
 BubbleName: ; 5af39 (16:6f39)
-	text "Bubble"
+	text "Bąbelki"
 	done
 
 WithdrawName: ; 5af41 (16:6f41)
-	text "Withdraw"
+	text "Schowanie"
 	done
 
 SquirtlesWithdrawDescription: ; 5af4b (16:6f4b)
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Squirtle during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+	text "Rzuć monetą ."
+	line "Pikachu: Squirtle nie otrzyma"
+	line "obrażeń w turze przeciwnika."
+	line "(Inne efekty ataków zadziałają)"
 	done
 
 TinyTurtleName: ; 5afd6 (16:6fd6)
-	text "Tiny Turtle"
+	text "Mały żółwik"
 	done
 
 SquirtleDescription: ; 5afe3 (16:6fe3)
-	text "After birth, its back swells and"
-	line "hardens into a shell. It powerfully"
-	line "sprays foam from its mouth."
+	text "Po narodzinach, jego plecy puchną"
+	line "i utwardzają się, tworząc muszlę."
+	line "Tryska potężną pianą z buzi."
 	done
 
 WartortleName: ; 5b045 (16:7045)
@@ -1237,20 +1232,20 @@ WartortleName: ; 5b045 (16:7045)
 	done
 
 WartortlesWithdrawDescription: ; 5b050 (16:7050)
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Wartortle during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+	text "Rzuć monetą ."
+	line "Pikachu: Wartortle nie otrzyma"
+	line "obrażeń w turze przeciwnika."
+	line "(Inne efekty ataków zadziałają)"
 	done
 
 TurtleName: ; 5b0dc (16:70dc)
-	text "Turtle"
+	text "żółw"
 	done
 
 WartortleDescription: ; 5b0e4 (16:70e4)
-	text "Often hides in water to stalk unwary"
-	line "prey. When swimming quickly, it"
-	line "moves its ears to maintain balance."
+	text "Często chowa się w wodzie, śledząc"
+	line "nieświadome tego ofiary. Szybko"
+	line "pływa, zachowując balans uszami."
 	done
 
 BlastoiseName: ; 5b14e (16:714e)
@@ -1258,34 +1253,34 @@ BlastoiseName: ; 5b14e (16:714e)
 	done
 
 RainDanceName: ; 5b159 (16:7159)
-	text "Rain Dance"
+	text "Taniec Deszczu"
 	done
 
 RainDanceDescription: ; 5b165 (16:7165)
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "attach 1 <WATER> Energy card to 1 of"
-	line "your <WATER> Pokémon. (This doesn't use"
-	line "up your 1 Energy card attachment"
-	line "for the turn.)"
+	text "Tyle razy ile chcesz, w trakcie swej"
+	line "tury (przed atakiem), możesz"
+	line "dołączyć 1 kartę Energii <WATER> do"
+	line "jednego ze swoich <WATER> Pokémonów."
+	line "Ta moc nie wlicza się do limitu 1"
+	line "dołączonej karty Energii na turę."
 	done
 
 RainDanceDescriptionCont: ; 5b21d (16:721d)
-	text "This power can't be used if"
-	line "Blastoise is Asleep, Confused, or"
-	line "Paralyzed."
+	text "Ta moc nie może być użyta, jeśli"
+	line "Blastoise śpi, jest sparaliżowany"
+	line "albo zdezorientowany."
 	done
 
 HydroPumpName: ; 5b267 (16:7267)
-	text "Hydro Pump"
+	text "Hydro Pompa"
 	done
 
 HydroPumpDescription: ; 5b273 (16:7273)
-	text "Does 40 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Blastoise but not used to pay for"
-	line "this attack's Energy cost. You can't"
-	line "add more than 20 damage in this way."
+	text "Zadaje 40 obrażeń plus 10 więcej"
+	line "za każdą nadmiarową Energię <WATER>"
+	line "dołączoną do Blastoise'a powyżej"
+	line "kosztu ataku. Nie możesz dodać"
+	line "więcej niż 20 obrażeń w ten sposób."
 	done
 
 ShellfishName: ; 5b322 (16:7322)
@@ -1293,9 +1288,9 @@ ShellfishName: ; 5b322 (16:7322)
 	done
 
 BlastoiseDescription: ; 5b32d (16:732d)
-	text "A brutal Pokémon with pressurized"
-	line "water jets on its shell. They are"
-	line "used for high-speed tackles."
+	text "Brutalny Pokémon z ciśnieniowymi"
+	line "dyszami wodnymi na muszli. Używa ich"
+	line "do ataków z dużą prędkością."
 	done
 
 PsyduckName: ; 5b38f (16:738f)
