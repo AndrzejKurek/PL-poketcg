@@ -1317,7 +1317,7 @@ GoGoRainDanceDeckName: ; 3b4db (e:74db)
 	done
 
 ZappingSelfdestructDeckName: ; 3b4ed (e:74ed)
-	text "Prądowe Samozniszczenie"
+	text "Prądowa Autodestrukcja"
 	done
 
 FlowerPowerDeckName: ; 3b503 (e:7503)
@@ -1433,7 +1433,7 @@ PikachuDeckName: ; 3b6b5 (e:76b5)
 	done
 
 BoomBoomSelfdestructDeckName: ; 3b6be (e:76be)
-	text "Bum Bum Samozniszczenie"
+	text "Bum Bum Autodestrukcja"
 	done
 
 PowerGeneratorDeckName: ; 3b6d6 (e:76d6)

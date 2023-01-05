@@ -265,7 +265,7 @@ ElectricShockText: ; 3c5e6 (f:45e6)
 	done
 
 ZappingSelfdestructText: ; 3c5f6 (f:45f6)
-	text "Prądowe Samozniszczenie"
+	text "Prądowa Autodestrukcja"
 	done
 
 InsectCollectionText: ; 3c60c (f:460c)
@@ -486,7 +486,7 @@ ElectricShockDescriptionText: ; 3cbfa (f:4bfa)
 	done
 
 ZappingSelfdestructDescriptionText: ; 3cc39 (f:4c39)
-	text "Samozniszczenie robi duże obrażenia"
+	text "Autodestrukcja robi duże obrażenia"
 	line "- nawet wrogiej ławce."
 	done
 
