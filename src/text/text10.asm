@@ -1,5 +1,5 @@
 MayInflictPoisonDescription: ; 57eaf (15:7eaf)
-	text "Rzuć monetą. Pikachu: atakowany"
+	text "Rzuć monetą . Pikachu: atakowany"
 	line "Pokémon jest teraz zatruty."
 	done
 
@@ -8,9 +8,9 @@ HairyBugName: ; 57eee (15:7eee)
 	done
 	
 WeedleDescription: ; 57ef9 (15:7ef9)
-	text "Often found in forests, eating"
-	line "leaves. It has a sharp, venomous"
-	line "stinger on its head."
+	text "Często widziany w lasach gdzie zjada"
+	line "liście. Ma na czole ostre, jadowite"
+	line "żądło, które odstrasza drapiezników."
 	done
 
 KakunaName: ; 57f4f (15:7f4f)
@@ -18,16 +18,16 @@ KakunaName: ; 57f4f (15:7f4f)
 	done
 
 KakunasStiffenDescription: ; 57f57 (15:7f57)
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Kakuna during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+	text "Rzuć monetą . Pikachu: Kakuna"
+	line "nie otrzyma żadnych obrażeń"
+	line "w kolejnej turze przeciwnika. (Inne"
+	line "efekty ataków nie są blokowane)"
 	done
 
 KakunaDescription: ; 58000 (16:4000)
-	text "Almost incapable of moving, this"
-	line "Pokémon can only harden its shell to"
-	line "protect itself from predators."
+	text "Prawie niezdolny do ruchu, ten"
+	line "Pokémon wzmacnia swoją skorupę,"
+	line "chroniąc się przed drapieznikami."
 	done
 
 BeedrillName: ; 58066 (16:4066)
@@ -35,22 +35,22 @@ BeedrillName: ; 58066 (16:4066)
 	done
 
 TwineedleName: ; 58070 (16:4070)
-	text "Twineedle"
+	text "Bliźnigła"
 	done
 
 DoubleAttackX30Description: ; 5807b (16:407b)
-	text "Flip 2 coins. This attack does 30"
-	line "damage times the number of heads."
+	text "Rzuć 2 monetami. Ten atak zadaje 30"
+	line "obrażeń razy liczba Pikachu."
 	done
 
 PoisonBeeName: ; 580c0 (16:40c0)
-	text "Poison Bee"
+	text "Jadowita Osa"
 	done
 
 BeedrillDescription: ; 580cc (16:40cc)
-	text "Flies at high speed and attacks"
-	line "using the large, venomous stingers"
-	line "on its forelegs and tail."
+	text "Lata z dużą prędkością, atakując"
+	line "przy pomocy wielkich, jadowitych"
+	line "żądeł na odnóżach i ogonie."
 	done
 
 EkansName: ; 5812a (16:412a)
@@ -58,21 +58,21 @@ EkansName: ; 5812a (16:412a)
 	done
 
 SpitPoisonName: ; 58131 (16:4131)
-	text "Spit Poison"
+	text "Plucie Trucizną"
 	done
 
 WrapName: ; 5813e (16:413e)
-	text "Wrap"
+	text "Omotanie"
 	done
 
 SnakeName: ; 58144 (16:4144)
-	text "Snake"
+	text "Wąż"
 	done
 
 EkansDescription: ; 5814b (16:414b)
-	text "Moves silently and stealthily. Eats"
-	line "the eggs of birds, such as Pidgey"
-	line "and Spearow, whole."
+	text "Porusza się cichcem i chyłkiem."
+	line "Zjada jaja ptaków takich jak Pidgey"
+	line "i Spearow - w całości."
 	done
 
 ArbokName: ; 581a6 (16:41a6)
@@ -80,31 +80,30 @@ ArbokName: ; 581a6 (16:41a6)
 	done
 
 TerrorStrikeName: ; 581ad (16:41ad)
-	text "Terror Strike"
+	text "Uderzenie Terroru"
 	done
 
 TerrorStrikeDescription: ; 581bc (16:41bc)
-	text "Flip a coin. If heads and if your"
-	line "opponent has any Benched Pokémon,"
-	line "he or she chooses 1 of them and"
-	line "switches it with the Defending"
-	line "Pokémon."
-	line "(Do the damage before switching"
-	line "the Pokémon.)"
+	text "Rzuć monetą. Jeśli wypadnie Pikachu,"
+	line "a twój rywal ma jakiekolwiek"
+	line "Pokémony na ławce, wybiera jednego"
+	line "z nich i zamienia z aktywnym"
+	line "Pokémonem. (Obrażenia zadane są"
+	line "przed zamianą Pokémona.)"
 	done
 
 PoisonFangName: ; 58277 (16:4277)
-	text "Poison Fang"
+	text "Zatruty Kieł"
 	done
 
 CobraName: ; 58284 (16:4284)
-	text "Cobra"
+	text "Kobra"
 	done
 
 ArbokDescription: ; 5828b (16:428b)
-	text "It is rumored that the ferocious"
-	line "warning markings on its belly differ"
-	line "from area to area."
+	text "Plotka głosi, że znaki ostrzegawcze"
+	line "na ich brzuchach różnią się,"
+	line "zależnie od pochodzenia Pokémona."
 	done
 
 NidoranFName: ; 582e5 (16:42e5)
@@ -112,34 +111,34 @@ NidoranFName: ; 582e5 (16:42e5)
 	done
 
 FurySwipesName: ; 582ef (16:42ef)
-	text "Fury Swipes"
+	text "Dzikie Pacnięcia"
 	done
 
 TripleAttackX10Description: ; 582fc (16:42fc)
-	text "Flip 3 coins. This attack does 10"
-	line "damage times the number of heads."
+	text "Rzuć 3 monetami. Ten atak zadaje 10"
+	line "obrażeń razy liczba Pikachu."
 	done
 
 CallForFamilyName: ; 58341 (16:4341)
-	text "Call for Family"
+	text "Wezwanie Rodziny"
 	done
 
 NidoranFsCallForFamilyDescription: ; 58352 (16:4352)
-	text "Search your deck for a Basic Pokémon"
-	line "named Nidoran♀ or Nidoran♂ and put"
-	line "it onto your Bench. Shuffle your"
-	line "deck afterward. (You can't use this"
-	line "attack if your Bench is full.)"
+	text "Przejrzyj Talię w poszukiwaniu"
+	line "Nidoran'a♀ lub Nidoran'a♂ i umieść"
+	line "tego Pokémona na swej ławce. Potasuj"
+	line "po tym Talię. (Nie możesz użyć tego"
+	line "ataku jeśli masz pełną ławkę)"
 	done
 
 PoisonPinName: ; 583ff (16:43ff)
-	text "Poison Pin"
+	text "Zatruta Szpilka"
 	done
 
 NidoranFDescription: ; 5840b (16:440b)
-	text "Although small, its venomous barbs"
-	line "make this Pokémon dangerous."
-	line "The female has smaller horns."
+	text "Pomimo małego rozmiaru, jadowite"
+	line "kolce czynią tego Pokémona groźnym."
+	line "Samica mają mniejsze rogi."
 	done
 
 NidorinaName: ; 5846a (16:446a)
@@ -147,22 +146,22 @@ NidorinaName: ; 5846a (16:446a)
 	done
 
 SupersonicName: ; 58474 (16:4474)
-	text "Supersonic"
+	text "Ultradźwięki"
 	done
 
 MayInflictConfusionDescription: ; 58480 (16:4480)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon is now Confused."
+	text "Rzuć monetą . Pikachu: atakowany"
+	line "Pokémon jest Zdezorientowany."
 	done
 
 DoubleKickName: ; 584bf (16:44bf)
-	text "Double Kick"
+	text "Podwójne kopnięcie"
 	done
 
 NidorinaDescription: ; 584cc (16:44cc)
-	text "The female's horn develops slowly."
-	line "Prefers physical attacks such as"
-	line "clawing and biting."
+	text "Rogi samic rosną powoli."
+	line "Preferują ataki fizyczne, takie jak"
+	line "drapania czy ugryzienia."
 	done
 
 NidoqueenName: ; 58525 (16:4525)
@@ -170,26 +169,26 @@ NidoqueenName: ; 58525 (16:4525)
 	done
 
 BoyfriendsName: ; 58530 (16:4530)
-	text "Boyfriends"
+	text "Chłopacy"
 	done
 
 BoyfriendsDescription: ; 5853c (16:453c)
-	text "Does 20 damage plus 20 more damage"
-	line "for each Nidoking you have in play."
+	text "Zadaje 20 obrażeń plus 20 więcej"
+	line "za każdego Nidokinga w obszarze gry."
 	done
 
 MegaPunchName: ; 58584 (16:4584)
-	text "Mega Punch"
+	text "Mega Cios"
 	done
 
 DrillName: ; 58590 (16:4590)
-	text "Drill"
+	text "Wiertło"
 	done
 
 NidoqueenDescription: ; 58597 (16:4597)
-	text "Its hard scales provide strong"
-	line "protection. It uses its hefty bulk"
-	line "to execute powerful moves."
+	text "Jej twarde łuski zapewniają dobrą"
+	line "ochronę. Używa swej sporej masy"
+	line "do wzmocnienia silnych ataków."
 	done
 
 NidoranMName: ; 585f5 (16:45f5)
@@ -197,18 +196,18 @@ NidoranMName: ; 585f5 (16:45f5)
 	done
 
 HornHazardName: ; 585ff (16:45ff)
-	text "Horn Hazard"
+	text "Róg Ryzyka"
 	done
 
 MayDoNothingDescription: ; 5860c (16:460c)
-	text "Flip a coin. If tails, this attack"
-	line "does nothing."
+	text "Rzuć monetą . Reszka: ten atak"
+	line "nic nie robi."
 	done
 
 NidoranMDescription: ; 5863e (16:463e)
-	text "Stiffens its ears to sense danger."
-	line "The larger, more powerful of its"
-	line "horns secretes venom."
+	text "Wyczuwa zagrożenie ruszając uszami."
+	line "Z większych, twardszych rogów sączy"
+	line "się trująca wydzielina."
 	done
 
 NidorinoName: ; 58699 (16:4699)
@@ -216,13 +215,13 @@ NidorinoName: ; 58699 (16:4699)
 	done
 
 HornDrillName: ; 586a3 (16:46a3)
-	text "Horn Drill"
+	text "Wiercący Róg"
 	done
 
 NidorinoDescription: ; 586af (16:46af)
-	text "An aggressive Pokémon that is quick"
-	line "to attack. The horn on its head"
-	line "secretes a powerful venom."
+	text "Bardzo agresywny i porywczy Pokémon."
+	line "Róg na jego głowie wydziela groźną"
+	line "truciznę."
 	done
 
 NidokingName: ; 5870f (16:470f)
@@ -230,33 +229,32 @@ NidokingName: ; 5870f (16:470f)
 	done
 
 ThrashName: ; 58719 (16:4719)
-	text "Thrash"
+	text "Lanie"
 	done
 
 ThrashDescription: ; 58721 (16:4721)
-	text "Flip a coin. If heads, this attack"
-	line "does 30 damage plus 10 more damage;"
-	line "if tails, this attack does 30 damage"
-	line "and Nidoking does 10 damage to"
-	line "itself."
+	text "Rzuć monetą . Pikachu: ten atak zada"
+	line "30 obrażeń plus 10 dodatkowych;"
+	line "Reszka: atak zada 30 obrażeń, a"
+	line "Nidoking zada 10 obrażeń sobie."
 	done
 
 ToxicName: ; 587b5 (16:47b5)
-	text "Toxic"
+	text "Toksyna"
 	done
 
 ToxicDescription: ; 587bc (16:47bc)
-	text "The Defending Pokémon is now"
-	line "Poisoned. It now takes 20 Poison"
-	line "damage instead of 10 after each"
-	line "player's turn (even if it was"
-	line "already Poisoned)."
+	text "Wrogi Pokémon jest teraz zatruty."
+	line "Otrzymuje aż 20 obrażeń od trucizny"
+	line "(zamiast 10) po każdej turze gracza."
+	line "Obrażenia będą zwiększone nawet"
+	line "jeśli Pokémon już był zatruty."
 	done
 
 NidokingDescription: ; 5884c (16:484c)
-	text "Uses its powerful tail in battle to"
-	line "smash, constrict, then break its"
-	line "prey's bones."
+	text "Używa swego potężnego ogona w walce,"
+	line "by okładać i dusić ofiarę,"
+	line "a następnie łamać jej kości."
 	done
 
 ZubatName: ; 588a0 (16:48a0)
@@ -264,26 +262,26 @@ ZubatName: ; 588a0 (16:48a0)
 	done
 
 LeechLifeName: ; 588a7 (16:48a7)
-	text "Leech Life"
+	text "Wyssanie"
 	done
 
 ZubatsLeechLifeDescription: ; 588b3 (16:48b3)
-	text "Remove a number of damage counters"
-	line "from Zubat equal to the damage done"
-	line "to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Zubat has fewer damage counters"
-	line "than that, remove all of them."
+	text "Usuń tyle liczników obrażeń"
+	line "z Zubata, ile obrażeń zadał wrogowi"
+	line "(po uwzględnieniu Słabości"
+	line "i Odporności). Jeśli Zubat ma na"
+	line "sobie mniej liczników obrażeń -"
+	line "usuń wszystkie z nich."
 	done
 
 BatName: ; 58980 (16:4980)
-	text "Bat"
+	text "Nietoperz"
 	done
 
 ZubatDescription: ; 58985 (16:4985)
-	text "Forms colonies in perpetually dark"
-	line "places. Uses ultrasonic waves to"
-	line "identify and approach targets."
+	text "Tworzy kolonie w miejscach"
+	line "kompletnej ciemnośći. Używa fal"
+	line "ultradźwiękowych do identyfikacji."
 	done
 
 GolbatName: ; 589e9 (16:49e9)
@@ -291,22 +289,22 @@ GolbatName: ; 589e9 (16:49e9)
 	done
 
 WingAttackName: ; 589f1 (16:49f1)
-	text "Wing Attack"
+	text "Atak Skrzydłem"
 	done
 
 GolbatsLeechLifeDescription: ; 589fe (16:49fe)
-	text "Remove a number of damage counters"
-	line "from Golbat equal to the damage done"
-	line "to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Golbat has fewer damage counters"
-	line "than that, remove all of them."
+	text "Usuń tyle liczników obrażeń"
+	line "z Golbata, ile obrażeń zadał wrogowi"
+	line "(po uwzględnieniu Słabości"
+	line "i Odporności). Jeśli Golbat ma na"
+	line "sobie mniej liczników obrażeń -"
+	line "usuń wszystkie z nich."
 	done
 
 GolbatDescription: ; 58acd (16:4acd)
-	text "Once it strikes, it will not stop"
-	line "draining energy from the victim even"
-	line "if it gets too heavy to fly."
+	text "Jak już zaatakuje, to nie przestanie"
+	line "wysysać energii z ofiary aż nie"
+	line "będzie zbyt ciężki by znów latać."
 	done
 
 OddishName: ; 58b32 (16:4b32)
@@ -314,25 +312,25 @@ OddishName: ; 58b32 (16:4b32)
 	done
 
 SproutName: ; 58b3a (16:4b3a)
-	text "Sprout"
+	text "Kiełkowanie"
 	done
 
 SproutDescription: ; 58b42 (16:4b42)
-	text "Search your deck for a Basic Pokémon"
-	line "named Oddish and put it onto your"
-	line "Bench. Shuffle your deck afterward."
-	line "(You can't use this attack if your"
-	line "Bench is full.)"
+	text "Przeszukaj Talię w poszukiwaniu"
+	line "Oddish'a i umieść go na ławce."
+	line "Potasuj potem Talię. Nie możesz"
+	line "użyć tego ataku jeśli masz"
+	line "pełną ławkę."
 	done
 
 WeedName: ; 58be1 (16:4be1)
-	text "Weed"
+	text "Chwast"
 	done
 
 OddishDescription: ; 58be7 (16:4be7)
-	text "During the day, it keeps its face"
-	line "buried in the ground. At night, it"
-	line "wanders around sowing its seeds."
+	text "W dzień zakopuje głowę pod ziemią."
+	line "W nocy szwędza się po okolicy"
+	line "rozsiewając dookoła swoje nasiona."
 	done
 
 GloomName: ; 58c4e (16:4c4e)
@@ -340,19 +338,19 @@ GloomName: ; 58c4e (16:4c4e)
 	done
 
 FoulOdorName: ; 58c55 (16:4c55)
-	text "Foul Odor"
+	text "Podły Smród"
 	done
 
 FoulOdorDescription: ; 58c60 (16:4c60)
-	text "Both the Defending Pokémon and"
-	line "Gloom are now Confused (after doing"
-	line "damage)."
+	text "Zarówno atakowany Pokémon jak i"
+	line "Gloom są teraz zdezorientowane"
+	line "(po zadaniu obrażeń)."
 	done
 
 GloomDescription: ; 58cad (16:4cad)
-	text "The fluid that oozes from its mouth"
-	line "isn't drool; it is a nectar that is"
-	line "used to attract prey."
+	text "Wydzielina płynąca z jego ust to nie"
+	line "ślina - to nektar używany do"
+	line "zwabienia ofiar."
 	done
 
 VileplumeName: ; 58d0c (16:4d0c)
@@ -360,37 +358,38 @@ VileplumeName: ; 58d0c (16:4d0c)
 	done
 
 HealName: ; 58d17 (16:4d17)
-	text "Heal"
+	text "Uzdrowienie"
 	done
 
 HealDescription: ; 58d1d (16:4d1d)
-	text "Once during your turn (before your"
-	line "attack), you may flip a coin. If"
-	line "heads, remove 1 damage counter from"
-	line "1 of your Pokémon. This power can't"
-	line "be used if Vileplume is Asleep,"
-	line "Confused, or Paralyzed."
+	text "Podczas swojej tury (przed atakiem)"
+	line "możesz jeden raz rzucić monetą."
+	line "Jeśli wypadnie Pikachu, usuń 1"
+	line "licznik obrażeń z jednego z twoich"
+	line "Pokémonów. Moc nie może być użyta"
+	line "jeśli Vileplume śpi, jest"
+	line "sparaliżowany lub zdezorientowany."
 	done
 
 PetalDanceName: ; 58de2 (16:4de2)
-	text "Petal Dance"
+	text "Taniec Płatków"
 	done
 
 PetalDanceDescription: ; 58def (16:4def)
-	text "Flip 3 coins. This attack does 40"
-	line "damage times the number of heads."
-	line "Vileplume is now Confused (after"
-	line "doing damage)."
+	text "Rzuć 3 monetami. Atak zadaje 40"
+	line "obrażeń razy liczba Pikachu."
+	line "Vileplume jest zdezorientowany"
+	line "(po zadaniu obrażeń)."
 	done
 
 FlowerName: ; 58e64 (16:4e64)
-	text "Flower"
+	text "Kwiat"
 	done
 
 VileplumeDescription: ; 58e6c (16:4e6c)
-	text "The larger its petals, the more"
-	line "toxic pollen it contains. Its big"
-	line "head is heavy and hard to hold up."
+	text "Im większe jego płatki, tym bardziej"
+	line "toksyczny jest jego pyłek. Ma ciężką"
+	line "głowę, którą trudno mu utrzymać."
 	done
 
 ParasName: ; 58ed2 (16:4ed2)
@@ -398,25 +397,25 @@ ParasName: ; 58ed2 (16:4ed2)
 	done
 
 ScratchName: ; 58ed9 (16:4ed9)
-	text "Scratch"
+	text "Drapanie"
 	done
 
 SporeName: ; 58ee2 (16:4ee2)
-	text "Spore"
+	text "Zarodnik"
 	done
 
 InflictSleepDescription: ; 58ee9 (16:4ee9)
-	text "The Defending Pokémon is now Asleep."
+	text "Atakowany Pokémon zasypia."
 	done
 
 MushroomName: ; 58f0f (16:4f0f)
-	text "Mushroom"
+	text "Grzyb"
 	done
 
 ParasDescription: ; 58f19 (16:4f19)
-	text "Burrows to suck tree roots."
-	line "The mushrooms on its back grow by"
-	line "drawing nutrients from the bug host."
+	text "Zakopuje się i wysysa sok z korzeni"
+	line "drzew. Grzyby na jego plecach rosną"
+	line "z kolei czerpiąc składniki z niego."
 	done
 
 ParasectName: ; 58f7d (16:4f7d)
@@ -424,13 +423,13 @@ ParasectName: ; 58f7d (16:4f7d)
 	done
 
 SlashName: ; 58f87 (16:4f87)
-	text "Slash"
+	text "Cięcie"
 	done
 
 ParasectDescription: ; 58f8e (16:4f8e)
-	text "A host-parasite pair in which the"
-	line "parasite mushroom has taken over"
-	line "the host bug. Prefers damp places."
+	text "Para gospodarza i pasożyta, gdzie"
+	line "pasożytniczy grzyb przejął kontrolę"
+	line "nad robakiem. Lubi wilgotne miejsca."
 	done
 
 VenonatName: ; 58ff5 (16:4ff5)
@@ -438,22 +437,22 @@ VenonatName: ; 58ff5 (16:4ff5)
 	done
 
 VenonatLeechLifeDescription: ; 58ffe (16:4ffe)
-	text "Remove a number of damage counters"
-	line "from Venonat equal to the damage"
-	line "done to the Defending Pokémon (after"
-	line "applying Weakness and Resistance)."
-	line "If Venonat has fewer damage counters"
-	line "than that, remove all of them."
+	text "Usuń tyle liczników obrażeń"
+	line "Venonata, ile obrażeń zadał wrogowi"
+	line "(po uwzględnieniu Słabości"
+	line "i Odporności). Jeśli Venonat ma na"
+	line "sobie mniej liczników obrażeń -"
+	line "usuń wszystkie z nich."
 	done
 
 InsectName: ; 590cf (16:50cf)
-	text "Insect"
+	text "Insekt"
 	done
 
 VenonatDescription: ; 590d7 (16:50d7)
-	text "Lives in the shadows of tall trees"
-	line "where it eats insects."
-	line "It is attracted by light at night."
+	text "Żyje w cieniu wysokich drzew,"
+	line "zjadając insekty."
+	line "W nocy ciągnie go do światła."
 	done
 
 VenomothName: ; 59135 (16:5135)
@@ -461,37 +460,37 @@ VenomothName: ; 59135 (16:5135)
 	done
 
 ShiftName: ; 5913f (16:513f)
-	text "Shift"
+	text "Przesunięcie"
 	done
 
 ShiftDescription: ; 59146 (16:5146)
-	text "Once during your turn (before your"
-	line "attack), you may change the type of"
-	line "Venomoth to the type of any other"
-	line "Pokémon in play other than"
-	line "Colorless."
-	line "This power can't be used if Venomoth"
-	line "is Asleep, Confused, or Paralyzed."
+	text "Raz podczas swojej tury (przed"
+	line "atakiem) możesz zmienić typ"
+	line "Venomotha na typ innego Pokémona"
+	line "w grze (poza Bezbarwnym)."
+	line "Moc nie może być użyta jeśli"
+	line "Venomoth śpi, jest zdezorientowany,"
+	line "lub sparaliżowany."
 	done
 
 VenomPowderName: ; 5921e (16:521e)
-	text "Venom Powder"
+	text "Jadowity Proch"
 	done
 
 VenomPowderDescription: ; 5922c (16:522c)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon is now Confused and"
-	line "Poisoned."
+	text "Rzuć monetą . Pikachu: atakowany"
+	line "Pokémon jest zdezorientowany"
+	line "oraz zatruty."
 	done
 
 PoisonmothName: ; 59278 (16:5278)
-	text "Poisonmoth"
+	text "Jadowita Ćma"
 	done
 
 VenomothDescription: ; 59284 (16:5284)
-	text "The dust-like scales covering its"
-	line "wings are color coded to indicate"
-	line "the kinds of poison it has."
+	text "Z kolorowych, opylonych łusek"
+	line "pokrywających skrzydła można"
+	line "odczytać rodzaj jadu jaki posiada."
 	done
 
 BellsproutName: ; 592e5 (16:52e5)
@@ -499,17 +498,17 @@ BellsproutName: ; 592e5 (16:52e5)
 	done
 
 BellsproutsCallForFamilyDescription: ; 592f1 (16:52f1)
-	text "Search your deck for a Basic Pokémon"
-	line "named Bellsprout and put it onto"
-	line "your Bench. Shuffle your deck"
-	line "afterward. (You can't use this"
-	line "attack if your Bench is full.)"
+	text "Przeszukaj Talię w poszukiwaniu"
+	line "Bellsprout'a i umieść go na ławce."
+	line "Potasuj potem Talię. Nie możesz"
+	line "użyć tego ataku jeśli masz"
+	line "pełną ławkę."
 	done
 
 BellsproutDescription: ; 59394 (16:5394)
-	text "A carnivorous Pokémon that traps and"
-	line "eats bugs. It uses its root feet to"
-	line "soak up needed moisture."
+	text "Mięsożerny Pokémon łapiący i jedzący"
+	line "robaki. Używa swoich stóp-korzeni,"
+	line "by wyssać potrzebną wilgoć z ziemi."
 	done
 
 WeepinbellName: ; 593f7 (16:53f7)
@@ -517,18 +516,18 @@ WeepinbellName: ; 593f7 (16:53f7)
 	done
 
 RazorLeafName: ; 59403 (16:5403)
-	text "Razor Leaf"
+	text "Liściaste Ostrze"
 	done
 
 FlycatcherName: ; 5940f (16:540f)
-	text "Flycatcher"
+	text "łapacz much"
 	done
 
 WeepinbellDescription: ; 5941b (16:541b)
-	text "It spits out poisonpowder to"
-	line "immobilize the enemy, and then"
-	line "finishes the enemy with a spray of"
-	line "acid."
+	text "Pluje trującym prochem aby"
+	line "unieruchomić przeciwnika,"
+	line "a następnie go wykończyć opryskiem"
+	line "z kwasu."
 	done
 
 VictreebelName: ; 59481 (16:5481)
@@ -536,29 +535,29 @@ VictreebelName: ; 59481 (16:5481)
 	done
 
 LureName: ; 5948d (16:548d)
-	text "Lure"
+	text "Wabik"
 	done
 
 VictreebelsLureDescription: ; 59493 (16:5493)
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and switch"
-	line "it with his or her Active Pokémon."
+	text "Jeśli twój przeciwnik ma Pokémony"
+	line "na ławce, wybierz 1 z nich i zamień"
+	line "z jego/jej aktywnym Pokémonem."
 	done
 
 AcidName: ; 594fd (16:54fd)
-	text "Acid"
+	text "Kwas"
 	done
 
 VictreebelsAcidDescription: ; 59503 (16:5503)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon can't retreat during your"
-	line "opponent's next turn."
+	text "Rzuć monetą . Pikachu: atakowany"
+	line "Pokémon nie może się wycofać"
+	line "w trakcie tury przeciwnika."
 	done
 
 VictreebelDescription: ; 59561 (16:5561)
-	text "Said to live in huge colonies deep"
-	line "in jungles, although no one has ever"
-	line "returned from there."
+	text "Podobno żyje w licznych koloniach"
+	line "głęboko w dżungli, ale nikt jeszcze"
+	line "stamtąd nie wrócił."
 	done
 
 GrimerName: ; 595bf (16:55bf)
@@ -566,7 +565,7 @@ GrimerName: ; 595bf (16:55bf)
 	done
 
 NastyGooName: ; 595c7 (16:55c7)
-	text "Nasty Goo"
+	text "Paskudna Breja"
 	done
 
 MinimizeName: ; 595d2 (16:55d2)

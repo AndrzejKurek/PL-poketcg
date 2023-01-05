@@ -1309,7 +1309,7 @@ FirstStrikeDeckName: ; 3b4bf (e:74bf)
 	done
 
 RockCrusherDeckName: ; 3b4cd (e:74cd)
-	text "Kamienny Łamacz"
+	text "Kamienny łamacz"
 	done
 
 GoGoRainDanceDeckName: ; 3b4db (e:74db)

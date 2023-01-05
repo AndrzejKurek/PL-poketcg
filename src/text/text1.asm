@@ -326,7 +326,7 @@ PsychicSymbolText: ; 36857 (d:6857)
 	done
 
 BenchText: ; 3685a (d:685a)
-	text "Ławka"
+	text "ławka"
 	done
 
 KnockOutText: ; 36861 (d:6861)
