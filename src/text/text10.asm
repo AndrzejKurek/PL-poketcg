@@ -196,7 +196,7 @@ NidoranMName: ; 585f5 (16:45f5)
 	done
 
 HornHazardName: ; 585ff (16:45ff)
-	text "Róg Ryzyka"
+	text "Zdradliwy Róg"
 	done
 
 MayDoNothingDescription: ; 5860c (16:460c)
@@ -1218,11 +1218,11 @@ SquirtlesWithdrawDescription: ; 5af4b (16:6f4b)
 	done
 
 TinyTurtleName: ; 5afd6 (16:6fd6)
-	text "Mały żółwik"
+	text "żółwik"
 	done
 
 SquirtleDescription: ; 5afe3 (16:6fe3)
-	text "Po narodzinach, jego plecy puchną"
+	text "Po narodzinach jego plecy puchną"
 	line "i utwardzają się, tworząc muszlę."
 	line "Tryska potężną pianą z buzi."
 	done
@@ -1284,7 +1284,7 @@ HydroPumpDescription: ; 5b273 (16:7273)
 	done
 
 ShellfishName: ; 5b322 (16:7322)
-	text "Shellfish"
+	text "Skorupiak"
 	done
 
 BlastoiseDescription: ; 5b32d (16:732d)
@@ -1298,22 +1298,22 @@ PsyduckName: ; 5b38f (16:738f)
 	done
 
 HeadacheName: ; 5b398 (16:7398)
-	text "Headache"
+	text "Ból Głowy"
 	done
 
 HeadacheDescription: ; 5b3a2 (16:73a2)
-	text "Your opponent can't play Trainer"
-	line "cards during his or her next turn."
+	text "Twój przeciwnik nie może użyć kart"
+	line "Trenera w następnej turze."
 	done
 
 DuckName: ; 5b3e7 (16:73e7)
-	text "Duck"
+	text "Kaczka"
 	done
 
 PsyduckDescription: ; 5b3ed (16:73ed)
-	text "While lulling its enemies with its"
-	line "vacant look, this wily Pokémon will"
-	line "use psychokinetic powers."
+	text "Ten nerwowy Pokémon usypia czujność"
+	line "przeciwników swoim wyglądem, po czym"
+	line "atakuje mocą psychokinetyczną."
 	done
 
 GolduckName: ; 5b44f (16:744f)
@@ -1321,23 +1321,23 @@ GolduckName: ; 5b44f (16:744f)
 	done
 
 PsyshockName: ; 5b458 (16:7458)
-	text "Psyshock"
+	text "Psychoszok"
 	done
 
 HyperBeamName: ; 5b462 (16:7462)
-	text "Hyper Beam"
+	text "Hiperwiązka"
 	done
 
 Discard1EnergyFromTargetDescription: ; 5b46e (16:746e)
-	text "If the Defending Pokémon has any"
-	line "Energy cards attached to it, choose"
-	line "1 of them and discard it."
+	text "Jeśli atakowany Pokémon ma dołączone"
+	line "jakiekolwiek karty Energii - wybierz"
+	line "jedną z nich i ją odrzuć."
 	done
 
 GolduckDescription: ; 5b4ce (16:74ce)
-	text "Often seen swimming elegantly by"
-	line "lake shores. It is often mistaken"
-	line "for the Japanese monster, Kappa."
+	text "Często widziany gdy z gracją pływa"
+	line "wzdłuż brzegów jezior. Bywa mylony"
+	line "z Japońskim potworem, Kappa."
 	done
 
 PoliwagName: ; 5b533 (16:7533)
@@ -1345,25 +1345,25 @@ PoliwagName: ; 5b533 (16:7533)
 	done
 
 WaterGunName: ; 5b53c (16:753c)
-	text "Water Gun"
+	text "Wodny Strzał"
 	done
 
 PoliwagsWaterGunDescription: ; 5b547 (16:7547)
-	text "Does 10 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Poliwag but not used to pay for"
-	line "this attack's Energy cost. You can't"
-	line "add more than 20 damage in this way."
+	text "Zadaje 10 obrażeń plus 10 więcej"
+	line "za każdą nadmiarową Energię <WATER>"
+	line "dołączoną do Poliwag'a powyżej"
+	line "kosztu ataku. Nie możesz dodać"
+	line "więcej niż 20 obrażeń w ten sposób."
 	done
 
 TadpoleName: ; 5b5f4 (16:75f4)
-	text "Tadpole"
+	text "Kijanka"
 	done
 
 PoliwagDescription: ; 5b5fd (16:75fd)
-	text "Its newly grown legs prevent it"
-	line "from running. It appears to prefer"
-	line "swimming over trying to stand."
+	text "Dopiero co wyrosły mu nogi i nie"
+	line "potrafi jeszcze biegać. Zdecydowanie"
+	line "woli pływać, zamiast stać na ziemi."
 	done
 
 PoliwhirlName: ; 5b660 (16:7660)
@@ -1371,24 +1371,23 @@ PoliwhirlName: ; 5b660 (16:7660)
 	done
 
 AmnesiaName: ; 5b66b (16:766b)
-	text "Amnesia"
+	text "Amnezja"
 	done
 
 PoliwhirlsAmnesiaDescription: ; 5b674 (16:7674)
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. That Pokémon can't use that"
-	line "attack during your opponent's next"
-	line "turn."
+	text "Wybierz 1 z ataków wrogiego"
+	line "Pokémona. Nie będzie mógł go użyć"
+	line "w kolejnej turze."
 	done
 
 DoubleslapName: ; 5b6e7 (16:76e7)
-	text "Doubleslap"
+	text "Podwójny Plaskacz"
 	done
 
 PoliwhirlsDescription: ; 5b6f3 (16:76f3)
-	text "Capable of living in or out of"
-	line "water. When out of water, it sweats"
-	line "to keep its body slimy."
+	text "Potrafi żyć zarówno w, jak i poza"
+	line "wodą. Gdy przebywa na ziemi, poci"
+	line "się aby ciało pozostało oślizgłe."
 	done
 
 PoliwrathName: ; 5b74f (16:774f)
@@ -1396,22 +1395,21 @@ PoliwrathName: ; 5b74f (16:774f)
 	done
 
 PoliwrathsWaterGunDescription: ; 5b75a (16:775a)
-	text "Does 30 damage plus 10 more damage"
-	line "for each <WATER> Energy attached to"
-	line "Poliwrath but not used to pay for"
-	line "this attack's Energy cost. You"
-	line "can't add more than 20 damage in"
-	line "this way."
+	text "Zadaje 30 obrażeń plus 10 więcej"
+	line "za każdą nadmiarową Energię <WATER>"
+	line "dołączoną do Poliwrath'a powyżej"
+	line "kosztu ataku. Nie możesz dodać"
+	line "więcej niż 20 obrażeń w ten sposób."
 	done
 
 WhirlpoolName: ; 5b809 (16:7809)
-	text "Whirlpool"
+	text "Wir"
 	done
 
 PoliwrathDescription: ; 5b814 (16:7814)
-	text "An adept swimmer at both the front"
-	line "crawl and breaststroke. Easily"
-	line "overtakes the best human swimmers."
+	text "Świetnie pływa kraulem i stylem"
+	line "klasycznym. Bez problemu wyprzedza"
+	line "najlepszych ludzkich pływaków."
 	done
 
 TentacoolName: ; 5b87a (16:787a)
@@ -1419,27 +1417,27 @@ TentacoolName: ; 5b87a (16:787a)
 	done
 
 CowardiceName: ; 5b885 (16:7885)
-	text "Cowardice"
+	text "Tchórz"
 	done
 
 CowardiceDescription: ; 5b890 (16:7890)
-	text "At any time during your turn"
-	line "(before your attack), you may return"
-	line "Tentacool to your hand. (Discard all"
-	line "cards attached to Tentacool.) This"
-	line "power can't be used the turn you put"
-	line "Tentacool into play or if Tentacool"
-	line "is Asleep, Confused, or Paralyzed."
+	text "W dowolnym momencie twojej tury"
+	line "Tentacool może wrócić na rękę."
+	line "Odrzuć wtedy wszystkie karty do"
+	line "niego dołączone. Ta moc nie może być"
+	line "być użyta w turze, w której"
+	line "Tentacool wszedł do gry, śpi, jest"
+	line "sparaliżowany lub zdezorientowany."
 	done
 
 JellyfishName: ; 5b987 (16:7987)
-	text "Jellyfish"
+	text "Meduza"
 	done
 
 TentacoolDescription: ; 5b992 (16:7992)
-	text "Drifts in shallow seas. Anglers who"
-	line "hook them by accident are often"
-	line "punished by its stinging acid."
+	text "Dryfuje w płytkich morzach. W ramach"
+	line "obrony przed wędkarzami używa"
+	line "używa piekącego kwasu."
 	done
 
 TentacruelName: ; 5b9f6 (16:79f6)
@@ -1447,13 +1445,13 @@ TentacruelName: ; 5b9f6 (16:79f6)
 	done
 
 JellyfishStingName: ; 5ba02 (16:7a02)
-	text "Jellyfish Sting"
+	text "Poparzenie"
 	done
 
 TentacruelDescription: ; 5ba13 (16:7a13)
-	text "The tentacles are normally kept"
-	line "short. On hunts, they are extended"
-	line "to ensnare and immobilize prey."
+	text "Zazwyczaj krótkie macki wydłużają"
+	line "się w trakcie polowania, aby oplątać"
+	line "i unieruchomić ofiarę."
 	done
 
 SeelName: ; 5ba77 (16:7a77)
@@ -1461,17 +1459,17 @@ SeelName: ; 5ba77 (16:7a77)
 	done
 
 HeadbuttName: ; 5ba7d (16:7a7d)
-	text "Headbutt"
+	text "Tryknięcie"
 	done
 
 SeaLionName: ; 5ba87 (16:7a87)
-	text "Sea Lion"
+	text "Lew Wodny"
 	done
 
 SeelDescription: ; 5ba91 (16:7a91)
-	text "The protruding horn on its head is"
-	line "very hard. This horn is used for"
-	line "bashing through thick ice."
+	text "Róg wystający z jego głowy jest"
+	line "bardzo twardy. Używa go do"
+	line "przebijania się przez gruby lód."
 	done
 
 DewgongName: ; 5baf1 (16:7af1)
@@ -1479,17 +1477,17 @@ DewgongName: ; 5baf1 (16:7af1)
 	done
 
 AuroraBeamName: ; 5bafa (16:7afa)
-	text "Aurora Beam"
+	text "Promień Zorzy"
 	done
 
 IceBeamName: ; 5bb07 (16:7b07)
-	text "Ice Beam"
+	text "Wiązka Lodu"
 	done
 
 DewgongDescription: ; 5bb11 (16:7b11)
-	text "Stores thermal energy in its body."
-	line "Swims at a steady 8 knots even in"
-	line "intensely cold waters."
+	text "Przechowuje energię cieplną w ciele."
+	line "Pływa z prędkością 8 węzłów, nawet"
+	line "w lodowatej wodzie."
 	done
 
 ShellderName: ; 5bb6e (16:7b6e)
@@ -1497,24 +1495,24 @@ ShellderName: ; 5bb6e (16:7b6e)
 	done
 
 HideInShellName: ; 5bb78 (16:7b78)
-	text "Hide in Shell"
+	text "Ukrycie w Muszli"
 	done
 
 HideInShellDescription: ; 5bb87 (16:7b87)
-	text "Flip a coin. If heads, prevent all"
-	line "damage done to Shellder during your"
-	line "opponent's next turn. (Any other"
-	line "effects of attacks still happen.)"
+	text "Rzuć monetą . Pikachu: Shellder"
+	line "nie otrzyma żadnych obrażeń"
+	line "w kolejnej turze przeciwnika. (Inne"
+	line "efekty ataków nie są blokowane)"
 	done
 
 BivalveName: ; 5bc12 (16:7c12)
-	text "Bivalve"
+	text "Małż"
 	done
 
 ShellderDescription: ; 5bc1b (16:7c1b)
-	text "Its hard shell repels any kind of"
-	line "attack. It is vulnerable only when"
-	line "its shell is open."
+	text "Twarda muszla chroni go przed"
+	line "każdym atakiem. Dopiero uchylenie"
+	line "jej czyni go podatnym na obrażenia."
 	done
 
 CloysterName: ; 5bc74 (16:7c74)
@@ -1522,24 +1520,24 @@ CloysterName: ; 5bc74 (16:7c74)
 	done
 
 ClampName: ; 5bc7e (16:7c7e)
-	text "Clamp"
+	text "Zacisk"
 	done
 
 ClampDescription: ; 5bc85 (16:7c85)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon is now Paralyzed. If tails,"
-	line "this attack does nothing (not even"
-	line "damage)."
+	text "Rzuć monetą . Pikachu: atakowany"
+	line "Pokémon jest teraz sparaliżowany."
+	line "Reszka: atak nic nie robi (nawet "
+	line "obrażeń)."
 	done
 
 SpikeCannonName: ; 5bcfb (16:7cfb)
-	text "Spike Cannon"
+	text "Kolcowa Armata"
 	done
 
 CloysterDescription: ; 5bd09 (16:7d09)
-	text "When attacked, it launches its horns"
-	line "in quick volleys. Its innards have"
-	line "never been seen."
+	text "Zaatakowany wystrzeliwuje kolce"
+	line "krótkimi seriami. Nikt nie widział"
+	line "jego wnętrza."
 	done
 
 KrabbyName: ; 5bd63 (16:7d63)
@@ -1547,21 +1545,21 @@ KrabbyName: ; 5bd63 (16:7d63)
 	done
 
 KrabbysCallForFamilyDescription: ; 5bd6b (16:7d6b)
-	text "Search your deck for a Basic Pokémon"
-	line "named Krabby and put it onto your"
-	line "Bench. Shuffle your deck afterward."
-	line "(You can't use this attack if your"
-	line "Bench is full.)"
+	text "Przeszukaj Talię w poszukiwaniu"
+	line "Krabby'ego i umieść go na ławce."
+	line "Potasuj potem Talię. Nie możesz"
+	line "użyć tego ataku jeśli masz"
+	line "pełną ławkę."
 	done
 
 RiverCrabName: ; 5be0a (16:7e0a)
-	text "River Crab"
+	text "Wodny Krab"
 	done
 
 KrabbyDescription: ; 5be16 (16:7e16)
-	text "Its pincers are not only powerful"
-	line "weapons, they are used for balance"
-	line "when walking sideways."
+	text "Jego szczypce są nie tylko silną"
+	line "bronią, ale także pomocą"
+	line "w balansowaniu gdy chodzi bokiem."
 	done
 
 KinglerName: ; 5be73 (16:7e73)
@@ -1569,7 +1567,7 @@ KinglerName: ; 5be73 (16:7e73)
 	done
 
 FlailName: ; 5be7c (16:7e7c)
-	text "Flail"
+	text "Młócenie"
 	done
 
 	ds $21

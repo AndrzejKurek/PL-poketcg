@@ -31,7 +31,7 @@ Text05dd: ; 4c2c4 (13:42c4)
 	line "jeśli chcesz odziedziczyć Legendarne"
 	line "Karty Pokémon! Słuchaj co mówią"
 	line "inni gracze, czytaj książki"
-	line "z półek. Jeśli ja będę miał jakieś"
+	line "z półek. Jeśli będę miał jakieś"
 	line "porady, wyślę Ci je e-mailem."
 	line "Możesz je przeczytać na komputerze."
 	line "Wyślę Ci też niespodziankę!"
