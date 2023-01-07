@@ -1567,7 +1567,7 @@ KinglerName: ; 5be73 (16:7e73)
 	done
 
 FlailName: ; 5be7c (16:7e7c)
-	text "Młócenie"
+	text "Wymachiwanie"
 	done
 
 	ds $21
