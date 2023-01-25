@@ -1,7 +1,7 @@
 AerodactylDescription: ; 5fe08 (17:7e08)
-	text "A ferocious prehistoric Pokémon that"
-	line "goes for the enemy's throat with its"
-	line "serrated saw-like fangs."
+	text "Brutalny, prehistoryczny Pokémon,"
+	line "atakujący gardło wroga karbowanymi"
+	line "zębami przypominającymi piłę."
 	done
 
 AbraName: ; 5fe6c (17:7e6c)
@@ -13,9 +13,9 @@ PsiName: ; 5fe72 (17:7e72)
 	done
 
 AbraDescription: ; 5fe77 (17:7e77)
-	text "Using its ability to read minds, it"
-	line "will identify impending danger and"
-	line "teleport to safety."
+	text "Wyczuwa zagrożenia używając mocy"
+	line "czytania umysłów, a następnie"
+	line "teleportuje się w inne miejsce."
 	done
 
 KadabraName: ; 5fed3 (17:7ed3)
@@ -23,14 +23,14 @@ KadabraName: ; 5fed3 (17:7ed3)
 	done
 
 KadabrasRecoverDescription: ; 5fedc (17:7edc)
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Kadabra in order to use this attack."
-	line "Remove all damage counters from"
-	line "Kadabra."
+	text "Odrzuć 1 kartę Energii <PSYCHIC> dołączoną"
+	line "do Kadabry aby użyć tego ataku."
+	line "Usuń wszystkie liczniki obrażeń"
+	line "z Kadabry."
 	done
 
 SuperPsiName: ; 5ff50 (17:7f50)
-	text "Super Psy"
+	text "Super Psi"
 	done
 
 AlakazamName: ; 5ffb8 (17:7fb8)
@@ -38,23 +38,23 @@ AlakazamName: ; 5ffb8 (17:7fb8)
 	done
 
 DamageSwapName: ; 5ffc2 (17:7fc2)
-	text "Damage Swap"
+	text "Zamiana Ran"
 	done
 
 DamageSwapDescription: ; 60000 (18:4000)
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "move 1 damage counter from 1 of your"
-	line "Pokémon to another as long as you"
-	line "don't Knock Out that Pokémon."
-	line "This power can't be used if Alakazam"
-	line "is Asleep, Confused, or Paralyzed."
+	text "Tak często jak chcesz w trakcie swej"
+	line "tury (przed swoim atakiem), możesz"
+	line "przenieść licznik obrażeń między"
+	line "swoimi Pokémonami, o ile ich to nie"
+	line "znokautuje. Moc nie może być użyta,"
+	line "jeśli Alakazam śpi, jest"
+	line "sparaliżowany lub zdezorientowany."
 	done
 
 AlakazamDescription: ; 600f2 (18:40f2)
-	text "Its brain can outperform a"
-	line "supercomputer. Its intelligence"
-	line "quotient is said to be 5000."
+	text "Jego umysł jest sprawniejszy od"
+	line "superkomputera. Podobno jego IQ"
+	line "wynosi aż 5000 punktów."
 	done
 
 SlowpokeName: ; 6014b (18:414b)
@@ -62,42 +62,42 @@ SlowpokeName: ; 6014b (18:414b)
 	done
 
 SlowpokesAmnesiaDescription: ; 60155 (18:4155)
-	text "Choose 1 of the Defending Pokémon's"
-	line "attacks. That Pokémon can't use"
-	line "that attack during your opponent's"
-	line "next turn."
+	text "Wybierz jeden z ruchów atakowanego"
+	line "Pokémona. Nie może on zostać użyty"
+	line "w kolejnej turze wroga."
 	done
 
 DopeyName: ; 601c8 (18:41c8)
-	text "Dopey"
+	text "Ogłupiony"
 	done
 
 SlowpokeLv9Description: ; 601cf (18:41cf)
-	text "Incredibly slow and dopey. It takes"
-	line "5 seconds for it to feel pain when"
-	line "under attack."
+	text "Bardzo wolny i ogłupiony. Dopiero"
+	line "po 5 sekundach od ataku jest"
+	line "w stanie poczuć płynący z niego ból."
 	done
 
 SpacingOutName: ; 60225 (18:4225)
-	text "Spacing Out"
+	text "Zamulenie"
 	done
 
 SpacingOutDescription: ; 60232 (18:4232)
-	text "Flip a coin. If heads, remove a"
-	line "damage counter from Slowpoke. This"
-	line "attack can't be used if Slowpoke"
-	line "has no damage counters on it."
+	text "Rzuć monetą . Pikachu: usuń"
+	line "1 licznik obrażeń ze Slowpoke'a."
+	line "Ten atak nie może zostać użyty,"
+	line "jeśli Slowpoke nie ma na sobie"
+	line "liczników obrażeń."
 	done
 
 ScavengeName: ; 602b5 (18:42b5)
-	text "Scavenge"
+	text "Wygrzebanie"
 	done
 
 ScavengeDescription: ; 602bf (18:42bf)
-	text "Discard 1 <PSYCHIC> Energy card attached"
-	line "to Slowpoke in order to use this"
-	line "attack. Put a Trainer card from your"
-	line "discard pile into your hand."
+	text "Odrzuć 1 kartę Energii <PSYCHIC> dołączoną"
+	line "do Slowpoke'a, aby użyć tego ataku."
+	line "Weź kartę Trenera ze stosu kart"
+	line "odrzuconych na rękę."
 	done
 
 SlowbroName: ; 60345 (18:4345)
@@ -105,27 +105,27 @@ SlowbroName: ; 60345 (18:4345)
 	done
 
 StrangeBehaviorName: ; 6034e (18:434e)
-	text "Strange Behavior"
+	text "Dziwne Zachowanie"
 	done
 
 StrangeBehaviorDescription: ; 60360 (18:4360)
-	text "As often as you like during your"
-	line "turn (before your attack), you may"
-	line "move 1 damage counter from 1 of your"
-	line "Pokémon to Slowbro as long as you"
-	line "don't Knock Out Slowbro. This power"
-	line "can't be used if Slowbro is Asleep,"
-	line "Confused, or Paralyzed."
+	text "Tak często jak chcesz w trakcie"
+	line "swojej tury (przed atakiem), możesz"
+	line "przenieść licznik obrażeń z innego"
+	line "Pokémona na Slowbro, o ile go to"
+	line "nie znokautuje. Ta moc nie może być"
+	line "użyta jeśli Slowbro śpi, jest"
+	line "sparaliżowany lub zdezorientowany."
 	done
 
 HermitcrabName: ; 6044c (18:444c)
-	text "Hermitcrab"
+	text "Pustelnik"
 	done
 
 SlowbroDescription: ; 60458 (18:4458)
-	text "The Shellder that is latched onto"
-	line "Slowpoke's tail is said to feed on"
-	line "the host's left-over scraps."
+	text "Podobno Shellder dołączony do jego"
+	line "ogona żywi się resztkami, które"
+	line "Slowbro zostawia."
 	done
 
 GastlyName: ; 604bb (18:44bb)
@@ -133,12 +133,12 @@ GastlyName: ; 604bb (18:44bb)
 	done
 
 SleepingGasName: ; 604c3 (18:44c3)
-	text "Sleeping Gas"
+	text "Gaz Usypiający"
 	done
 
 MayInflictSleepDescription: ; 604d1 (18:44d1)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon is now Asleep."
+	text "Rzuć monetą . Pikachu: atakowany"
+	line "Pokémon zasypia."
 	done
 
 DestinyBondName: ; 6050e (18:450e)
@@ -146,42 +146,42 @@ DestinyBondName: ; 6050e (18:450e)
 	done
 
 DestinyBondDescription: ; 6051c (18:451c)
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Gastly in order to use this attack."
-	line "If a Pokémon Knocks Out Gastly"
-	line "during your opponent's next turn,"
-	line "Knock Out that Pokémon."
+	text "Odrzuć 1 kartę energii <PSYCHIC> dołączoną"
+	line "do Gastly'ego, aby użyć tego ataku."
+	line "Jeśli Pokémon znokautuje Gastly'ego"
+	line "w kolejnej turze przeciwnika, ten"
+	line "Pokémon też zostanie znokautowany."
 	done
 
 GasName: ; 605bf (18:45bf)
-	text "Gas"
+	text "Gaz"
 	done
 
 GastlyLv8Description: ; 605c4 (18:45c4)
-	text "Almost invisible, this gaseous"
-	line "Pokémon cloaks the target and puts"
-	line "it to sleep without notice."
+	text "Prawie niewidzialny, ten gazowy"
+	line "Pokémon otula swój cel"
+	line "i niepostrzeżenie go usypia."
 	done
 
 LickName: ; 60623 (18:4623)
-	text "Lick"
+	text "Polizanie"
 	done
 
 EnergyConversionName: ; 60629 (18:4629)
-	text "Energy Conversion"
+	text "Konwersja Energii"
 	done
 
 EnergyConversionDescription: ; 6063c (18:463c)
-	text "Put up to 2 Energy cards from your"
-	line "discard pile into your hand. Gastly"
-	line "does 10 damage to itself."
+	text "Połóż do 2 kart Energii ze stosu"
+	line "kart odrzuconych na rękę. Gastly"
+	line "zadaje sobie 10 obrażeń."
 	done
 
 GastlyLv17Description: ; 6069e (18:469e)
-	text "A mysterious Pokémon. Some say it is"
-	line "a lifeform from another dimension,"
-	line "while others believe it is formed"
-	line "from smog."
+	text "Tajemniczy Pokémon. Niektórzy mówią,"
+	line "że to forma życia z innego wymiaru,"
+	line "a inni, że powstaje w wyniku"
+	line "nagromadzenia smogu."
 	done
 
 HaunterName: ; 60714 (18:4714)
@@ -189,36 +189,36 @@ HaunterName: ; 60714 (18:4714)
 	done
 
 TransparencyName: ; 6071d (18:471d)
-	text "Transparency"
+	text "Przejrzystość"
 	done
 
 TransparencyDescription: ; 6072b (18:472b)
-	text "Whenever an attack does anything to"
-	line "Haunter, flip a coin. If heads,"
-	line "prevent all effects of that attack,"
-	line "including damage, done to Haunter."
-	line "This power stops working while"
-	line "Haunter is Asleep, Confused, or"
-	line "Paralyzed."
+	text "Kiedy jakikolwiek atak miałby coś"
+	line "zrobić Haunter'owi, rzuć monetą."
+	line "Pikachu: zignoruj wszystkie efekty"
+	line "ataku, wliczając w to obrażenia."
+	line "Ta moc przestaje działać gdy Haunter"
+	line "śpi, jest sparaliżowany, lub"
+	line "zdezorientowany."
 	done
 
 NightmareName: ; 60801 (18:4801)
-	text "Nightmare"
+	text "Koszmar"
 	done
 
 HaunterDescription: ; 6080c (18:480c)
-	text "Because of its ability to slip"
-	line "through block walls, it is said to"
-	line "be from another dimension."
+	text "Potrafi przenikać przez ściany,"
+	line "przez co niektóry sądzą, że pochodzi"
+	line "z innego wymiaru."
 	done
 
 DreamEaterName: ; 6086a (18:486a)
-	text "Dream Eater"
+	text "Zjadacz Snów"
 	done
 
 DreamEaterDescription: ; 60877 (18:4877)
-	text "You can't use this attack unless"
-	line "the Defending Pokémon is Asleep."
+	text "Nie możesz użyć tego ataku, jeśli"
+	line "atakowany Pokémon nie śpi!"
 	done
 
 GengarName: ; 608ba (18:48ba)
@@ -226,39 +226,39 @@ GengarName: ; 608ba (18:48ba)
 	done
 
 CurseName: ; 608c2 (18:48c2)
-	text "Curse"
+	text "Klątwa"
 	done
 
 CurseDescription: ; 608c9 (18:48c9)
-	text "Once during your turn (before your"
-	line "attack), you may move 1 damage"
-	line "counter from 1 of your opponent's"
-	line "Pokémon to another (even if it would"
-	line "Knock Out the other Pokémon)."
-	line "This power can't be used if Gengar"
-	line "is Asleep, Confused, or Paralyzed."
+	text "Raz podczas swojej tury (przed"
+	line "atakiem), możesz przenieść 1 licznik"
+	line "obrażeń z jednego z Pokémonów wroga"
+	line "na innego (nawet, jeśli to go"
+	line "znokautuje). Ta moc nie może zostać"
+	line "użyta, jeśli Gengar śpi, jest"
+	line "sparaliżowany lub zdezorientowany."
 	done
 
 DarkMindName: ; 609b7 (18:49b7)
-	text "Dark Mind"
+	text "Mroczny Umysł"
 	done
 
 DarkMindDescription: ; 609c2 (18:49c2)
-	text "If your opponent has any Benched"
-	line "Pokémon, choose 1 of them and this"
-	line "attack does 10 damage to it."
-	line "(Don't apply Weakness and Resistance"
-	line "for Benched Pokémon.)"
+	text "Jeśli twój przeciwnik ma Pokémony"
+	line "na ławce, wybierz 1 z nich i zadaj"
+	line "mu 10 obrażeń tym atakiem (nie"
+	line "uwzględniaj słabości i odporności"
+	line "dla Pokémonów z ławki)."
 	done
 
 ShadowName: ; 60a5f (18:4a5f)
-	text "Shadow"
+	text "Cień"
 	done
 
 GengarDescription: ; 60a67 (18:4a67)
-	text "Under a full moon, this Pokémon"
-	line "likes to mimic the shadows of people"
-	line "and laugh at their fright."
+	text "W trakcie pełni księżyca, ten"
+	line "Pokémon udaje cienie ludzi i śmieje"
+	line "się z ich przerażenia."
 	done
 
 DrowzeeName: ; 60ac8 (18:4ac8)
@@ -266,13 +266,13 @@ DrowzeeName: ; 60ac8 (18:4ac8)
 	done
 
 PoundName: ; 60ad1 (18:4ad1)
-	text "Pound"
+	text "Zgniecenie"
 	done
 
 DrowzeeDescription: ; 60ad8 (18:4ad8)
-	text "Puts enemies to sleep, then eats"
-	line "their dreams. Occasionally gets sick"
-	line "from eating bad dreams."
+	text "Usypia przeciwników i zjada ich sny."
+	line "Może się rozchorować, jeśli trafi"
+	line "na szczególnie nieprzyjemne sny."
 	done
 
 HypnoName: ; 60b37 (18:4b37)
@@ -280,19 +280,19 @@ HypnoName: ; 60b37 (18:4b37)
 	done
 
 ProphecyName: ; 60b3e (18:4b3e)
-	text "Prophecy"
+	text "Przepowiednia"
 	done
 
 ProphecyDescription: ; 60b48 (18:4b48)
-	text "Look at up to 3 cards from the top"
-	line "of either player's deck and"
-	line "rearrange them as you like."
+	text "Przejrzyj 3 karty z wierzchu talii"
+	line "jednego z graczy i ustaw je wedle"
+	line "uznania."
 	done
 
 HypnoDescription: ; 60ba4 (18:4ba4)
-	text "When it locks eyes with an enemy,"
-	line "it will use a mix of psi moves such"
-	line "as Hypnosis and Confusion."
+	text "Gdy wymieni się wrogimi spojrzeniami"
+	line "z przeciwnikiem, zaczyna używać"
+	line "na nich kombinacji ruchów PSI."
 	done
 
 MrMimeName: ; 60c06 (18:4c06)
@@ -300,41 +300,42 @@ MrMimeName: ; 60c06 (18:4c06)
 	done
 
 InvisibleWallName: ; 60c10 (18:4c10)
-	text "Invisible Wall"
+	text "Niewidoczna ściana"
 	done
 
 InvisibleWallDescription: ; 60c20 (18:4c20)
-	text "Whenever an attack (including your"
-	line "own) does 30 or more damage to Mr."
-	line "Mime (after applying Weakness and"
-	line "Resistance), prevent that damage."
-	line "(Any other effects of attacks still"
-	line "happen.)"
+	text "Kiedy atak (w tym i twój) miałby"
+	line "zadać 30 lub więcej obrażeń Mr."
+	line "Mime'owi (po uwzględnieniu słabości"
+	line "i odporności), zignoruj"
+	line "te obrażenia (inne efekty ataków"
+	line "nadal wystąpią)."
 	done
 
 InvisibleWallDescriptionCont: ; 60cd8 (18:4cd8)
-	text "This power can't be used if Mr. Mime"
-	line "is Asleep, Confused, or Paralyzed."
+	text "Ta moc nie może być użyta jeśli Mr."
+	line "Mime śpi, jest zdezorientowany, lub"
+	line "sparaliżowany."
 	done
 
 MeditateName: ; 60d21 (18:4d21)
-	text "Meditate"
+	text "Medytacja"
 	done
 
 MrMimesMeditateDescription: ; 60d2b (18:4d2b)
-	text "Does 10 damage plus 10 more damage"
-	line "for each damage counter on the"
-	line "Defending Pokémon."
+	text "Zadaje 10 obrażeń plus 10 więcej za"
+	line "każdy licznik obrażeń na atakowanym"
+	line "Pokémonie."
 	done
 
 BarrierName: ; 60d81 (18:4d81)
-	text "Barrier"
+	text "Bariera"
 	done
 
 MrMimeDescription: ; 60d8a (18:4d8a)
-	text "If interrupted while miming, it will"
-	line "slap around the enemy with its broad"
-	line "hands."
+	text "Jeśli ktoś przerwie mu pantomimę,"
+	line "zaatakuje go plaskaczami przy pomocy"
+	line "wielkich dłoni."
 	done
 
 JynxName: ; 60ddc (18:4ddc)
@@ -342,24 +343,24 @@ JynxName: ; 60ddc (18:4ddc)
 	done
 
 DoubleAttackX10Description: ; 60de2 (18:4de2)
-	text "Flip 2 coins. This attack does 10"
-	line "damage times the number of heads."
+	text "Rzuć 2 monetami. Ten atak zada 10"
+	line "razy liczba Pikachu."
 	done
 
 JynxsMeditateDescription: ; 60e27 (18:4e27)
-	text "Does 20 damage plus 10 more damage"
-	line "for each damage counter on the"
-	line "Defending Pokémon."
+	text "Zadaje 20 obrażeń plus 10 więcej"
+	line "za każdy licznik obrażeń na"
+	line "atakowanym Pokémonie."
 	done
 
 HumanShapeName: ; 60e7d (18:4e7d)
-	text "Human Shape"
+	text "Ludzki Kształt"
 	done
 
 JynxDescription: ; 60e8a (18:4e8a)
-	text "Merely by meditating, the Pokémon"
-	line "launches a powerful psychic energy"
-	line "attack."
+	text "Samą medytacją ten Pokémon jest"
+	line "w stanie wykonać mocny atak"
+	line "psychiczną energią."
 	done
 
 MewtwoName: ; 60ed8 (18:4ed8)
@@ -367,52 +368,52 @@ MewtwoName: ; 60ed8 (18:4ed8)
 	done
 
 PsychicName: ; 60ee0 (18:4ee0)
-	text "Psychic"
+	text "Medium"
 	done
 
 PsychicDescription: ; 60ee9 (18:4ee9)
-	text "Does 10 damage plus 10 more damage"
-	line "for each Energy card attached to the"
-	line "Defending Pokémon."
+	text "Zadaje 10 obrażeń plus 10 więcej"
+	line "za każdą kartę Energii dołączoną"
+	line "do atakowanego Pokémona."
 	done
 
 BarrierDescription: ; 60f45 (18:4f45)
-	text "Discard 1 <PSYCHIC> Energy card attached to"
-	line "Mewtwo in order to use this attack."
-	line "During your opponent's next turn,"
-	line "prevent all effects of attacks,"
-	line "including damage, done to Mewtwo."
+	text "Odrzuć 1 kartę Energii <PSYCHIC> dołączoną"
+	line "do Mewtwo aby użyć tego ataku."
+	line "W kolejnej turze wroga wszystkie"
+	line "efekty ataku na Mewtwo, wliczając"
+	line "obrażenia, będą zignorowane."
 	done
 
 GeneticName: ; 60ff3 (18:4ff3)
-	text "Genetic"
+	text "Genetyczny"
 	done
 
 MewtwoLv53Description: ; 60ffc (18:4ffc)
-	text "A scientist created this Pokémon"
-	line "after years of horrific"
-	line "gene-splicing and DNA engineering"
-	line "experiments."
+	text "Naukowiec stworzył tego Pokémona"
+	line "po latach straszliwych eksperymentów"
+	line "łączenia i cięcia DNA, a także"
+	line "skomplikowanej inżynierii."
 	done
 
 EnergyAbsorptionName: ; 61065 (18:5065)
-	text "Energy Absorption"
+	text "Wchłonięcie Energii"
 	done
 
 EnergyAbsorptionDescription: ; 61078 (18:5078)
-	text "Choose up to 2 Energy cards from"
-	line "your discard pile and attach them"
-	line "to Mewtwo."
+	text "Wybierz do 2 kart Energii ze stosu"
+	line "kart odrzuconych i dołącz je"
+	line "do Mewtwo."
 	done
 
 PsyburnName: ; 610c7 (18:50c7)
-	text "Psyburn"
+	text "Psychospalenie"
 	done
 
 MewtwoLv60Description: ; 610d0 (18:50d0)
-	text "Years of genetic experiments"
-	line "resulted in the creation of this"
-	line "never-before-seen violent Pokémon."
+	text "Lata genetycznych eksperymentów"
+	line "dały w wyniku tego okrutnego,"
+	line "ale i niespotykanego Pokémona."
 	done
 
 MewName: ; 61132 (18:5132)
@@ -420,65 +421,63 @@ MewName: ; 61132 (18:5132)
 	done
 
 NeutralizingShieldName: ; 61137 (18:5137)
-	text "Neutralizing Shield"
+	text "Tarcza Neutralizacji"
 	done
 
 NeutralizingShieldDescription: ; 6114c (18:514c)
-	text "Prevent all effects of attacks,"
-	line "including damage, done to Mew by"
-	line "evolved Pokémon (excluding your"
-	line "own). This power stops working while"
-	line "Mew is Asleep, Confused, or"
-	line "Paralyzed."
+	text "Zignoruj wszystkie efekty ataków,"
+	line "w tym obrażenia, zadane Mew przez"
+	line "wyewoluowane Pokémony (poza swoimi"
+	line "własnymi). Ta moc przestaje działać"
+	line "gdy Mew śpi, jest zdezorientowany,"
+	line "lub sparaliżowany."
 	done
 
 NewSpeciesName: ; 611fa (18:51fa)
-	text "New Species"
+	text "Nowy Gatunek"
 	done
 
 MewLv8Description: ; 61207 (18:5207)
-	text "So rare that it is still said to be"
-	line "a mirage by many experts. Only a few"
-	line "people have seen it worldwide."
+	text "Tak rzadki, że wielu ekspertów nadal"
+	line "uważa go za złudzenie. Tylko kilka"
+	line "osób z całego świata go widziało."
 	done
 
 MysteryAttackName: ; 61270 (18:5270)
-	text "Mystery Attack"
+	text "Tajemniczy Atak"
 	done
 
 MysteryAttackDescription: ; 61280 (18:5280)
-	text "Does a random amount of damage to"
-	line "the Defending Pokémon and may cause"
-	line "a random effect to the Defending"
-	line "Pokémon."
+	text "Zadaje losową liczbę obrażeń"
+	line "wrogiemu Pokémonowi i może także"
+	line "nałożyć na niego losowy efekt."
 	done
 
 MewLv15Description: ; 612f1 (18:52f1)
-	text "When viewed through a microscope, "
-	line "this Pokémon's short, fine, delicate"
-	line "hair can be seen."
+	text "Pod mikroskopem da się zauważyć"
+	line "krótkie, drobne i delikatne włosy"
+	line "tego Pokémona."
 	done
 
 PsywaveName: ; 6134c (18:534c)
-	text "Psywave"
+	text "Psychofala"
 	done
 
 PsywaveDescription: ; 61355 (18:5355)
-	text "Does 10 damage times the number of"
-	line "Energy cards attached to the"
-	line "Defending Pokémon."
+	text "Zadaje 10 obrażeń razy liczba kart"
+	line "Energii dołączonych do atakowanego"
+	line "Pokémona."
 	done
 
 DevolutionBeamName: ; 613a9 (18:53a9)
-	text "Devolution Beam"
+	text "Wiązka Dewolucji"
 	done
 
 DevolutionBeamDescription: ; 613ba (18:53ba)
-	text "Choose an evolved Pokémon (Your"
-	line "own or your opponent's). Return"
-	line "the highest stage evolution card"
-	line "on that Pokémon to Its player's"
-	line "hand."
+	text "Wybierz wyewoluowanego Pokémona"
+	line "(własnego, lub wroga). Zwróć"
+	line "najwyższą kartę Ewolucji do ręki"
+	line "tego gracza."
 	done
 
 PidgeyName: ; 61442 (18:5442)
@@ -486,13 +485,13 @@ PidgeyName: ; 61442 (18:5442)
 	done
 
 TinyBirdName: ; 6144a (18:544a)
-	text "Tiny Bird"
+	text "Drobny Ptak"
 	done
 
 PidgeyDescription: ; 61455 (18:5455)
-	text "A common sight in forests and woods."
-	line "It flaps its wings at ground level"
-	line "to kick up blinding sand."
+	text "Spotykany w lasach i puszczach."
+	line "Machając skrzydłami przy ziemi"
+	line "oślepia wrogów piachem."
 	done
 
 PidgeottoName: ; 614b8 (18:54b8)
@@ -500,7 +499,7 @@ PidgeottoName: ; 614b8 (18:54b8)
 	done
 
 MirrorMoveName: ; 614c3 (18:54c3)
-	text "Mirror Move"
+	text "Lustrzany Atak"
 	done
 
 PidgeottosMirrorMoveDescription: ; 614d0 (18:54d0)

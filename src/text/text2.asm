@@ -18,27 +18,27 @@ DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
 	done
 
 AcidCheckText: ; 38000 (e:4000)
-	text "Test kwasu! Pikachu: nie można"
+	text "Test Kwasu! Pikachu: nie można"
 	line "się wycofać w następnej turze."
 	done
 
 TransparencyCheckText: ; 3803b (e:403b)
-	text "Test przejrzystości! Pikachu:"
+	text "Test Przejrzystości! Pikachu:"
 	line "unikasz następnego ataku!"
 	done
 
 ConfusionCheckDamageText: ; 3807c (e:407c)
-	text "Test dezorientacji! Reszka:"
+	text "Test Dezorientacji! Reszka:"
 	line "zadajesz obrażenia sobie!"
 	done
 
 ConfusionCheckRetreatText: ; 380ac (e:40ac)
-	text "Test dezorientacji! Reszka:"
+	text "Test Dezorientacji! Reszka:"
 	line "nie możesz się wycofać."
 	done
 
 PokemonsSleepCheckText: ; 380db (e:40db)
-	text "<RAMTEXT>: test snu!"
+	text "<RAMTEXT>: test Snu!"
 	done
 
 PoisonedIfHeadsConfusedIfTailsText: ; 380ed (e:40ed)
@@ -62,47 +62,47 @@ AttackUnsuccessfulText: ; 38197 (e:4197)
 
 UnableToRetreatDueToAcidText: ; 381ad (e:41ad)
 	text "Nie można wycofać"
-	line "przez efekt kwasu."
+	line "przez efekt Kwasu."
 	done
 
 UnableToUseTrainerDueToHeadacheText: ; 381dc (e:41dc)
 	text "Nie można użyć kart trenera"
-	line "przez ból głowy."
+	line "przez Ból Głowy."
 	done
 
 UnableToAttackDueToTailWagText: ; 3821a (e:421a)
 	text "Nie można atakować"
-	line "przez merdanie ogonem."
+	line "przez Merdanie Ogonem."
 	done
 
 UnableToAttackDueToLeerText: ; 3824c (e:424c)
 	text "Nie można atakować"
-	line "przez złe spojrzenie."
+	line "przez Złe Spojrzenie."
 	done
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
 	text "Nie można atakować"
-	line "przez efekt ciosu kością ."
+	line "przez efekt Ciosu Kością ."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
 	text "Nie można atakować"
-	line "przez efekt amnezji."
+	line "przez efekt Amnezji."
 	done
 
 KnockedOutDueToDestinyBondText: ; 382e9 (e:42e9)
 	text "<RAMTEXT> jest znokautowany"
-	line "przez efekt więzi przeznaczenia."
+	line "przez efekt Więzi Przeznaczenia."
 	done
 
 ReceivesDamageDueToStrikesBackText: ; 38320 (e:4320)
 	text "<RAMTEXT> otrzymuje <RAMNUM> obrażeń"
-	line "przez efekt rewanżu."
+	line "przez efekt Rewanżu."
 	done
 
 UnableToEvolveDueToPrehistoricPowerText: ; 38359 (e:4359)
 	text "Nie można ewoluować"
-	line "przez efekt prehistorycznej mocy."
+	line "przez efekt Prehistorycznej Mocy."
 	done
 
 NoDamageOrEffectDueToFlyText: ; 38394 (e:4394)

@@ -818,7 +818,7 @@ BigThunderDescription: ; 5e40d (17:640d)
 	line "i odporności dla tego ataku"
 	line "(inne efekty, które miałyby miejsce"
 	line "po uwzględnieniu słabości"
-	line "i odporności nadal się wydarzą)."
+	line "i odporności nadal wystąpią)."
 	done
 
 ZapdosLv68Description: ; 5e4f8 (17:64f8)
