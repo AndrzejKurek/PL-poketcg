@@ -467,7 +467,7 @@ ThereAreNoBasicPokemonInHand: ; 36bf1 (d:6bf1)
 	done
 
 NeitherPlayerHasBasicPkmnText: ; 36c1a (d:6c1a)
-	text "Żaden z graczy nie ma podstawowego"
+	text "żaden z graczy nie ma podstawowego"
 	line "Pokémona w ręce."
 	done
 

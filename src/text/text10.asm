@@ -485,7 +485,7 @@ VenomPowderDescription: ; 5922c (16:522c)
 	done
 
 PoisonmothName: ; 59278 (16:5278)
-	text "Jadowita Ćma"
+	text "Jadowita ćma"
 	done
 
 VenomothDescription: ; 59284 (16:5284)

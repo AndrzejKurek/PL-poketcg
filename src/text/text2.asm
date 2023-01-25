@@ -97,7 +97,7 @@ KnockedOutDueToDestinyBondText: ; 382e9 (e:42e9)
 
 ReceivesDamageDueToStrikesBackText: ; 38320 (e:4320)
 	text "<RAMTEXT> otrzymuje <RAMNUM> obrażeń"
-	line "przez efekt oddania ciosu."
+	line "przez efekt rewanżu."
 	done
 
 UnableToEvolveDueToPrehistoricPowerText: ; 38359 (e:4359)
