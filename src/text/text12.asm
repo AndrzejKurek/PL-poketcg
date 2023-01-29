@@ -142,7 +142,7 @@ MayInflictSleepDescription: ; 604d1 (18:44d1)
 	done
 
 DestinyBondName: ; 6050e (18:450e)
-	text "Destiny Bond"
+	text "Więź Przeznaczenia"
 	done
 
 DestinyBondDescription: ; 6051c (18:451c)
@@ -1003,17 +1003,17 @@ FetchDescription: ; 62a55 (18:6a55)
 	done
 
 CometPunchName: ; 62a63 (18:6a63)
-	text "Comet Punch"
+	text "Grad Ciosów"
 	done
 
 ParentName: ; 62a70 (18:6a70)
-	text "Parent"
+	text "Rodzic"
 	done
 
 KangaskhanDescription: ; 62a78 (18:6a78)
-	text "The infant rarely ventures out of"
-	line "its mother's protective pouch until"
-	line "it is three years old."
+	text "Bobasy bardzo rzadko wychodzą"
+	line "z zacisza matczynej kieszeni (póki"
+	line "nie ukończą trzeciego roku życia)."
 	done
 
 TaurosName: ; 62ad6 (18:6ad6)
@@ -1021,24 +1021,24 @@ TaurosName: ; 62ad6 (18:6ad6)
 	done
 
 RampageName: ; 62ade (18:6ade)
-	text "Rampage"
+	text "Szał"
 	done
 
 RampageDescription: ; 62ae7 (18:6ae7)
-	text "Does 20 damage plus 10 more damage"
-	line "for each damage counter on Tauros."
-	line "Flip a coin. If tails, Tauros is"
-	line "now Confused (after doing damage)."
+	text "Zadaj 20 obrażeń plus 10 za każdy"
+	line "licznik obrażeń na Taurosie."
+	line "Rzuć monetą . Reszka: Tauros jest"
+	line "zdezorientowany (po zadaniu obrażeń)"
 	done
 
 WildBullName: ; 62b72 (18:6b72)
-	text "Wild Bull"
+	text "Dziki Byk"
 	done
 
 TaurosDescription: ; 62b7d (18:6b7d)
-	text "When it targets an enemy, it charges"
-	line "furiously while whipping its body"
-	line "with its long tails."
+	text "Szarżuje na swych przeciwników"
+	line "dziko wierzgając kopytami i machając"
+	line "długimi ogonami."
 	done
 
 DittoName: ; 62bda (18:6bda)
@@ -1046,55 +1046,56 @@ DittoName: ; 62bda (18:6bda)
 	done
 
 MorphName: ; 62be1 (18:6be1)
-	text "Morph"
+	text "Przemiana"
 	done
 
 MorphDescription: ; 62be8 (18:6be8)
-	text "Remove all damage counters from"
-	line "Ditto. For the rest of the game,"
-	line "replace Ditto with a copy of a Basic"
-	line "Pokémon card (other than Ditto)"
-	line "chosen at random from your deck."
+	text "Usuń wszystkie liczniki obrażeń"
+	line "z Ditto. Na resztę gry podmień Ditto"
+	line "z kopią karty podstawowego Pokémona"
+	line "(innego niż Ditto) wybranego losowo"
+	line "z twojej Talii."
 	done
 
 MorphDescriptionCont: ; 62c90 (18:6c90)
-	text "Ditto is no longer Asleep, Confused,"
-	line "Paralyzed, Poisoned, or anything"
-	line "else that might be the result of an"
-	line "attack (just as if you had evolved"
-	line "it)."
+	text "Ditto przestaje być zdezorientowany,"
+	line "nie śpi, nie jest sparaliżowany,"
+	line "czy zatruty; Nie ma na sobie żadnego"
+	line "efektu wrogiego ataku (tak jakby"
+	line "właśnie wyewoluował)."
 	done
 
 TransformName: ; 62d23 (18:6d23)
-	text "Transform"
+	text "Zmiennokształtny"
 	done
 
 DittoDescription: ; 62d2e (18:6d2e)
-	text "When it spots an enemy, its body"
-	line "transfigures into an almost perfect"
-	line "copy of its opponent."
+	text "Kiedy zauważy przeciwnika,"
+	line "przemienia się w prawie"
+	line "idealną jego kopię."
 	done
 
 TailWagName: ; 62d8a (18:6d8a)
-	text "Tail Wag"
+	text "Merdanie Ogonem"
 	done
 
 TailWagDescription: ; 62d94 (18:6d94)
-	text "Flip a coin. If heads, the Defending"
-	line "Pokémon can't attack Eevee during"
-	line "your opponent's next turn. (Benching"
-	line "or evolving either Pokémon ends this"
-	line "effect.)"
+	text "Rzuć monetą . Pikachu: wrogi"
+	line "Pokémon nie może atakować Eevee"
+	line "w kolejnej turze przeciwnika"
+	line "(Ewoluowanie lub umieszczenie"
+	line "któregoś z aktywnych Pokémonów na"
+	line "ławce przerywa ten efekt)."
 	done
 
 EvolutionName: ; 62e2f (18:6e2f)
-	text "Evolution"
+	text "Ewoluujący"
 	done
 
 EeveeDescription: ; 62e3a (18:6e3a)
-	text "Its genetic code is irregular."
-	line "It may mutate if it is exposed to"
-	line "radiation from elemental stones."
+	text "Ma nieregularny kod genetyczny."
+	line "Może zmutować po ekspozycji na jeden"
+	line "z kamieni żywiołów."
 	done
 
 PorygonName: ; 62e9d (18:6e9d)
@@ -1102,34 +1103,32 @@ PorygonName: ; 62e9d (18:6e9d)
 	done
 
 Conversion1Name: ; 62ea6 (18:6ea6)
-	text "Conversion 1"
+	text "Konwersja 1"
 	done
 
 Conversion1Description: ; 62eb4 (18:6eb4)
-	text "If the Defending Pokémon has a"
-	line "Weakness, you may change it to a"
-	line "type of your choice other than"
-	line "Colorless."
+	text "Jeśli broniący Pokémon ma jakąś"
+	line "słabość, możesz zmienić ją na inną"
+	line "(poza Bezbarwną)."
 	done
 
 Conversion2Name: ; 62f1f (18:6f1f)
-	text "Conversion 2"
+	text "Konwersja 2"
 	done
 
 Conversion2Description: ; 62f2d (18:6f2d)
-	text "Change Porygon's Resistance to a"
-	line "type of your choice other than"
-	line "Colorless."
+	text "Zmień odporność Porygona na dowolną"
+	line "inną, ale nie Bezbarwną."
 	done
 
 VirtualName: ; 62f79 (18:6f79)
-	text "Virtual"
+	text "Wirtualny"
 	done
 
 PorygonDescription: ; 62f82 (18:6f82)
-	text "A Pokémon that consists entirely of"
-	line "programming code. Capable of moving"
-	line "freely in cyberspace."
+	text "Ten Pokémon składa się w całości"
+	line "z kodu programistycznego. Może się"
+	line "dowolnie ruszać w cyberprzestrzeni."
 	done
 
 SnorlaxName: ; 62fe1 (18:6fe1)
@@ -1137,29 +1136,29 @@ SnorlaxName: ; 62fe1 (18:6fe1)
 	done
 
 ThickSkinnedName: ; 62fea (18:6fea)
-	text "Thick Skinned"
+	text "Gruboskórność"
 	done
 
 ThickSkinnedDescription: ; 62ff9 (18:6ff9)
-	text "Snorlax can't become Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
-	line "This power can't be used if Snorlax"
-	line "is already Asleep, Confused, or"
-	line "Paralyzed."
+	text "Snorlax nie może zasnąć, być"
+	line "zdezorientowany, sparaliżowany, ani"
+	line "zatruty. Ta moc nie zadziała, jeżeli"
+	line "Snorlax już śpi, jest sparaliżowany,"
+	line "lub zdezorientowany."
 	done
 
 BodySlamName: ; 63088 (18:7088)
-	text "Body Slam"
+	text "Przyciśnięcie"
 	done
 
 SleepingName: ; 63093 (18:7093)
-	text "Sleeping"
+	text "śpiący"
 	done
 
 SnorlaxDescription: ; 6309d (18:709d)
-	text "Very lazy. Just eats and sleeps."
-	line "As its rotund bulk builds,"
-	line "it becomes steadily more slothful."
+	text "Bardo leniwy. Tylko je i śpi."
+	line "Im większy się staje, tym mniej"
+	line "się rusza."
 	done
 
 DratiniName: ; 630fd (18:70fd)
@@ -1167,9 +1166,9 @@ DratiniName: ; 630fd (18:70fd)
 	done
 
 DratiniDescription: ; 63106 (18:7106)
-	text "Long considered a mythical Pokémon"
-	line "until recently, when a small colony"
-	line "was found living underwater."
+	text "Przez długi czas uważany za"
+	line "mitycznego Pokémona, ale niedawno"
+	line "znaleziono ich podwodną kolonię."
 	done
 
 DragonairName: ; 6316b (18:716b)
@@ -1177,13 +1176,13 @@ DragonairName: ; 6316b (18:716b)
 	done
 
 SlamName: ; 63176 (18:7176)
-	text "Slam"
+	text "Trzaśnięcie"
 	done
 
 DragonairDescription: ; 6317c (18:717c)
-	text "A mystical Pokémon that exudes a"
-	line "gentle aura. Has the ability to"
-	line "change climate conditions."
+	text "Mityczny Pokémon emanujący delikatną"
+	line "aurą . Może zmieniać otaczające go"
+	line "warunki klimatyczne."
 	done
 
 DragoniteName: ; 631d9 (18:71d9)
@@ -1191,63 +1190,63 @@ DragoniteName: ; 631d9 (18:71d9)
 	done
 
 HealingWindName: ; 631e4 (18:71e4)
-	text "Healing Wind"
+	text "Leczący Wiatr"
 	done
 
 HealingWindDescription: ; 631f2 (18:71f2)
-	text "When you put Dragonite into play,"
-	line "remove 2 damage counters from each"
-	line "of your Pokémon. If a Pokémon has "
-	line "fewer damage counters than that,"
-	line "remove all of them from that"
-	line "Pokémon."
+	text "Kiedy umieszczasz Dragonite w grze,"
+	line "zdejmij po 2 liczniki obrażeń"
+	line "z każdego swego Pokémona. Jeśli"
+	line "Pokémon ma mniej niż 2 liczniki"
+	line "obrażeń - usuń wszystkie."
 	done
 
 DragoniteLv41Description: ; 632a2 (18:72a2)
-	text "It is said that this Pokémon lives"
-	line "somewhere in the sea and that it"
-	line "flies. However, it is only a rumor."
+	text "Legenda głosi, że ten Pokémon żyje"
+	line "gdzieś w morzu i potrafi latać. Nikt"
+	line "jednak nie wie tego na pewno."
 	done
 
 StepInName: ; 6330b (18:730b)
-	text "Step In"
+	text "Wkroczenie"
 	done
 
 StepInDescription: ; 63314 (18:7314)
-	text "Once during your turn (before your"
-	line "attack), if Dragonite is on your"
-	line "Bench, you may switch it with your"
-	line "Active Pokémon."
+	text "Raz w trakcie swojej tury (przed"
+	line "atakiem), jeśli Dragonite jest na"
+	line "ławce, możesz go zamienić"
+	line "z aktywnym Pokémonem."
 	done
 
 DoubleAttackX40Description: ; 6338c (18:738c)
-	text "Flip 2 coins. This attack does 40"
-	line "damage times the number of heads."
+	text "Rzuć 2 monetami. Ten atak zada 40"
+	line "obrażeń razy liczba Pikachu."
 	done
 
 DragoniteDescription: ; 633d1 (18:73d1)
-	text "An extremely rarely seen marine"
-	line "Pokémon. Its intelligence is said"
-	line "to match that of humans."
+	text "Ekstremalnie rzadki morski Pokémon."
+	line "Jego inteligencja dorównuje"
+	line "inteligencji ludzi."
 	done
 
 ProfessorOakName: ; 6342d (18:742d)
-	text "Professor Oak"
+	text "Profesor Oak"
 	done
 
 ProfessorOakDescription: ; 6343c (18:743c)
-	text "Discard your hand, then draw 7"
-	line "cards."
+	text "Odrzuć wszystkie karty z ręki,"
+	line "a następnie weź 7 nowych kart"
+	line "z talii na rękę."
 	done
 
 ImposterProfessorOakName: ; 63463 (18:7463)
-	text "Imposter Professor Oak"
+	text "Profesor Oszust"
 	done
 
 ImposterProfessorOakDescription: ; 6347b (18:747b)
-	text "Your opponent shuffles his or her"
-	line "hand into his or her deck, then"
-	line "draws 7 cards."
+	text "Twój przeciwnik wtasowuje swoją"
+	line "rękę w talię, a następnie bierze"
+	line "7 kart."
 	done
 
 BillName: ; 634cd (18:74cd)
@@ -1255,7 +1254,7 @@ BillName: ; 634cd (18:74cd)
 	done
 
 BillDescription: ; 634d3 (18:74d3)
-	text "Draw 2 cards."
+	text "Weź 2 karty z talii na rękę."
 	done
 
 MrFujiName: ; 634e2 (18:74e2)
@@ -1263,20 +1262,20 @@ MrFujiName: ; 634e2 (18:74e2)
 	done
 
 MrFujiDescription: ; 634eb (18:74eb)
-	text "Choose a Pokémon on your Bench."
-	line "Shuffle it and any cards attached"
-	line "to it into your deck."
+	text "Wybierz Pokémona z ławki."
+	line "Wtasuj go, razem z dołączonymi"
+	line "kartami, w talię."
 	done
 
 LassName: ; 63544 (18:7544)
-	text "Lass"
+	text "Laska"
 	done
 
 LassDescription: ; 6354a (18:754a)
-	text "You and your opponent show each"
-	line "other your hands, then shuffle all"
-	line "the Trainer cards from your hands"
-	line "into your decks."
+	text "Razem z przeciwnikiem obejrzyjcie"
+	line "nawzajem swoje karty na ręce, a"
+	line "potem wtasujcie karty Trenera"
+	line "z ręki w swoje talie."
 	done
 
 ImakuniName: ; 635c1 (18:75c1)
@@ -1284,125 +1283,121 @@ ImakuniName: ; 635c1 (18:75c1)
 	done
 
 ImakuniDescription: ; 635cb (18:75cb)
-	text "Your Active Pokémon is now Confused."
-	line "Imakuni wants you to play him as a"
-	line "Basic Pokémon, but you can't."
-	line "A mysterious creature not listed in"
-	line "the Pokédex. He asks kids around the"
-	line "world,”Who is cuter-Pikachu or me?”"
+	text "Twój aktywny Pokémon jest teraz"
+	line "zdezorientowany. Imakuni chce być"
+	line "zagrany jako podstawowy Pokémon, ale"
+	line "przecież nie może, bo jest dziwnym"
+	line "stworzeniem spoza Pokédex'u. Pyta"
+	line "dzieci z całego świata: ”Kto jest"
+	line "słodszy, Pikachu, czy ja?”"
 	done
 
 PokemonTraderName: ; 6369f (18:769f)
-	text "Pokémon Trader"
+	text "Handlarz Pokémonów"
 	done
 
 PokemonTraderDescription: ; 636af (18:76af)
-	text "Trade 1 of the Basic Pokémon or"
-	line "Evolution cards in your hand for 1"
-	line "of the Basic Pokémon or Evolution"
-	line "cards from your deck. Show both"
-	line "cards to your opponent."
-	line "Shuffle your deck afterward."
+	text "Wymień 1 z podstawowych Pokémonów"
+	line "lub Kart Ewolucji z ręki za jednego"
+	line "z podstawowych Pokémonów lub Kart"
+	line "Ewolucji z Talii. Pokaż obie karty"
+	line "swojemu przeciwnikowi."
+	line "Potasuj po tym Talię."
 	done
 
 PokemonBreederName: ; 6376a (18:776a)
-	text "Pokémon Breeder"
+	text "Hodowca Pokémonów"
 	done
 
 PokemonBreederDescription: ; 6377b (18:777b)
-	text "Put a Stage 2 Evolution card from"
-	line "your hand on the matching Basic"
-	line "Pokémon. You can only play this card"
-	line "when you would be allowed to evolve"
-	line "that Pokémon anyway."
+	text "Użyj Karty Ewolucji 2 stadium z ręki"
+	line "na pasującym Pokémonie podstawowym."
+	line "Możesz użyć tej karty tylko jeśli"
+	line "ewolucja do 1 stadium była możliwa."
 	done
 
 ClefairyDollName: ; 6381c (18:781c)
-	text "Clefairy Doll"
+	text "Lalka Clefairy"
 	done
 
 ClefairyDollDescription: ; 6382b (18:782b)
-	text "Play Clefairy Doll as if it were a"
-	line "Basic Pokémon. While in play,"
-	line "Clefairy Doll counts as a Pokémon"
-	line "(instead of a Trainer card)."
-	line "Clefairy Doll has no attacks, can't"
-	line "retreat, and can't be Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
+	text "Zagraj Lalkę Clefairy jakby była"
+	line "podstawowym Pokémonem. Kiedy jest"
+	line "w grze, liczy się jak Pokémon"
+	line "(a nie karta Trenera)."
+	line "Lalka Clefairy nie ma żadnych"
+	line "ataków, nie może się wycofać, nie"
+	line "może spać, być sparaliżowana,"
 	done
 
 ClefairyDollDescriptionCont: ; 63910 (18:7910)
-	text "If Clefairy Doll is Knocked Out, it"
-	line "doesn't count as a Knocked Out"
-	line "Pokémon. At any time during your"
-	line "turn before your attack, you may"
-	line "discard Clefairy Doll."
-	line "(Use GameBoy Pokémon Power menu"
-	line "option to do this.)"
+    text "zatruta czy zdezorientowana."
+	line "Jeśli zostanie znokautowana, nie"
+	line "liczy się jako znokautowany Pokémon."
+	line "Przed atakiem możesz ją odrzucić"
+	line "w menu mocy Pokémon."
 	done
 
 MysteriousFossilDescription: ; 639e1 (18:79e1)
-	text "Play Mysterious Fossil as if it were"
-	line "a Basic Pokémon. While in play,"
-	line "Mysterious Fossil counts as a"
-	line "Pokémon (instead of a Trainer card)."
-	line "Mysterious Fossil has no attacks,"
-	line "can't retreat, and can't be Asleep,"
-	line "Confused, Paralyzed, or Poisoned."
+	text "Zagraj Tajemniczą Skamielinę jakby"
+	line "była podstawowym Pokémonem. Kiedy"
+	line "jest w grze, liczy się jak Pokémon"
+	line "(a nie karta Trenera)."
+	line "Lalka Clefairy nie ma żadnych"
+	line "ataków, nie może się wycofać, nie"
+	line "może spać, być sparaliżowana,"
 	done
 
 MysteriousFossilDescriptionCont: ; 63ad2 (18:7ad2)
-	text "If Mysterious Fossil is Knocked Out,"
-	line "it doesn't count as a Knocked Out"
-	line "Pokémon. (Discard it anyway.) At any"
-	line "time during your turn before your"
-	line "attack, you may discard Mysterious"
-	line "Fossil from play. (Use GameBoy Poké-"
-	line "mon Power menu option to do this.)"
+    text "zatruta czy zdezorientowana."
+	line "Jeśli zostanie znokautowana, nie"
+	line "liczy się jako znokautowany Pokémon."
+	line "Przed atakiem możesz ją odrzucić"
+	line "w menu mocy Pokémon."
 	done
 
 EnergyRetrievalName: ; 63bcc (18:7bcc)
-	text "Energy Retrieval"
+	text "Odzyskiwacz Energii"
 	done
 
 EnergyRetrievalDescription: ; 63bde (18:7bde)
-	text "Trade 1 of the other cards in your"
-	line "hand for up to 2 basic Energy cards"
-	line "from your discard pile."
+	text "Wymień 1 z innych kart z ręki za"
+	line "jedną lub 2 podstawowe karty Energii"
+	line "ze stosu kart odrzuconych."
 	done
 
 SuperEnergyRetrievalName: ; 63c3e (18:7c3e)
-	text "Super Energy Retrieval"
+	text "Megaodzyskiwacz Energii"
 	done
 
 SuperEnergyRetrievalDescription: ; 63c56 (18:7c56)
-	text "Trade 2 of the other cards in your"
-	line "hand for up to 4 basic Energy cards"
-	line "from your discard pile."
+	text "Wymień 2 z innych kart z ręki za"
+	line "1 do 4 podstawowych kart Energii"
+	line "ze stosu kart odrzuconych."
 	done
 
 EnergySearchName: ; 63cb6 (18:7cb6)
-	text "Energy Search"
+	text "Wyszukiwacz Energii"
 	done
 
 EnergySearchDescription: ; 63cc5 (18:7cc5)
-	text "Search your deck for a basic Energy"
-	line "card and put it into your hand."
-	line "Shuffle your deck afterward."
+	text "Wyszukaj w talii podstawową Kartę"
+	line "Energii i umieść ją na swpjej Ręce."
+	line "Potasuj po tym swoją talię."
 	done
 
 EnergyRemovalName: ; 63d27 (18:7d27)
-	text "Energy Removal"
+	text "Usuwacz Energii"
 	done
 
 EnergyRemovalDescription: ; 63d37 (18:7d37)
-	text "Choose 1 Energy card attached to 1"
-	line "of your opponent's Pokémon and"
-	line "discard it."
+	text "Wybierz jedną z kart Energii"
+	line "dołączonych do Pokémona przeciwnika"
+	line "i ją odrzuć."
 	done
 
 SuperEnergyRemovalName: ; 63d86 (18:7d86)
-	text "Super Energy Removal"
+	text "Megausuwacz Energii"
 	done
 
 	ds $9
