@@ -136,7 +136,7 @@ Text05e9: ; 4ca79 (13:4a79)
 	done
 
 Text05ea: ; 4ca87 (13:4a87)
-	text "Podobno czyny mówią głośniej niż"
+	text "Podobno czyny mówią więcej, niż"
 	line "słowa, więc zagrajmy!"
 	line "Jako że to Twoja pierwsza gra,"
 	line "postaraj się nauczyć podstaw."
