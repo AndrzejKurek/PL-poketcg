@@ -530,7 +530,7 @@ Text0628: ; 4df7c (13:5f7c)
 
 Text0629: ; 4dff2 (13:5ff2)
 	text "Isaac pracuje nad okablowaniem tej"
-	line "sceny. Światła wyglądają spoko,"
+	line "sceny. światła wyglądają spoko,"
 	line "ale ciągła wymiana żarówek to"
 	line "naprawdę sporo pracy!"
 	done

@@ -312,7 +312,7 @@ FreezeDryName: ; 5cb61 (17:4b61)
 	done
 
 BlizzardName: ; 5cb6d (17:4b6d)
-	text "Śnieżyca"
+	text "śnieżyca"
 	done
 
 BlizzardDescription: ; 5cb77 (17:4b77)

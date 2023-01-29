@@ -658,7 +658,7 @@ ClefairyName: ; 61be2 (18:5be2)
 	done
 
 SingName: ; 61bec (18:5bec)
-	text "Śpiew"
+	text "śpiew"
 	done
 
 MetronomeName: ; 61bf2 (18:5bf2)

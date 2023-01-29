@@ -581,7 +581,7 @@ GrimersMinimizeDescription: ; 595dc (16:55dc)
 	done
 
 SludgeName: ; 5965e (16:565e)
-	text "Ściek"
+	text "ściek"
 	done
 
 GrimerDescription: ; 59666 (16:5666)
@@ -1407,7 +1407,7 @@ WhirlpoolName: ; 5b809 (16:7809)
 	done
 
 PoliwrathDescription: ; 5b814 (16:7814)
-	text "Świetnie pływa kraulem i stylem"
+	text "świetnie pływa kraulem i stylem"
 	line "klasycznym. Bez problemu wyprzedza"
 	line "najlepszych ludzkich pływaków."
 	done
