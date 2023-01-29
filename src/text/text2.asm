@@ -1281,7 +1281,7 @@ SamsPracticeDeckName: ; 3b43d (e:743d)
 	done
 
 CharmanderAndFriendsDeckName: ; 3b44d (e:744d)
-	text "Charmander i przyjaciele"
+	text "Charmander z kolegami"
 	done
 
 CharmanderExtraDeckName: ; 3b463 (e:7463)
@@ -1289,7 +1289,7 @@ CharmanderExtraDeckName: ; 3b463 (e:7463)
 	done
 
 SquirtleAndFriendsDeckName: ; 3b475 (e:7475)
-	text "Squirtle i przyjaciele"
+	text "Squirtle ze znajomymi"
 	done
 
 SquirtleExtraDeckName: ; 3b489 (e:7489)
@@ -1297,7 +1297,7 @@ SquirtleExtraDeckName: ; 3b489 (e:7489)
 	done
 
 BulbasaurAndFriendsDeckName: ; 3b499 (e:7499)
-	text "Bulbasaur i przyjaciele"
+	text "Bulbasaur z kumplami"
 	done
 
 BulbasaurExtraDeckName: ; 3b4ae (e:74ae)

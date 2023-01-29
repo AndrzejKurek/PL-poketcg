@@ -212,7 +212,7 @@ Text05f5: ; 4cf40 (13:4f40)
 	line "<RAMTEXT>!"
 	line ""
 	text "<RAMNAME> dostaje też"
-	line "30 kart!"
+	line "30 kart luzem!"
 	done
 
 Text05f6: ; 4cf67 (13:4f67)

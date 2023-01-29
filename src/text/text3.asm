@@ -349,15 +349,15 @@ FireChargeText: ; 3c730 (f:4730)
 	done
 
 CharmanderAndFriendsText: ; 3c73d (f:473d)
-	text "Charmander i przyjaciele"
+	text "Charmander z kolegami"
 	done
 
 SquirtleAndFriendsText: ; 3c753 (f:4753)
-	text "Squirtle i przyjaciele"
+	text "Squirtle ze znajomymi"
 	done
 
 BulbasaurAndFriendsText: ; 3c767 (f:4767)
-	text "Bulbasaur i przyjaciele"
+	text "Bulbasaur z kumplami"
 	done
 
 PsychicMachampText: ; 3c77c (f:477c)
@@ -1935,15 +1935,15 @@ SelectDeckToDuelText: ; 3f950 (f:7950)
 	done
 
 CharmanderAndFriendsDeckChoiceText: ; 3f982 (f:7982)
-	text "CHARMANDER i przyjaciele"
+	text "CHARMANDER z kolegami"
 	done
 
 SquirtleAndFriendsDeckChoiceText: ; 3f99d (f:799d)
-	text "SQUIRTLE i przyjaciele"
+	text "SQUIRTLE ze znajomymi"
 	done
 
 BulbasaurAndFriendsDeckChoiceText: ; 3f9b6 (f:79b6)
-	text "BULBASAUR i przyjaciele"
+	text "BULBASAUR z kumplami"
 	done
 
 SelectDeckToTakeText: ; 3f9d0 (f:79d0)

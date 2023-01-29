@@ -583,7 +583,7 @@ RatName: ; 618ce (18:58ce)
 RattataDescription: ; 618d3 (18:58d3)
 	text "W trakcie ataku gryzie co popadnie."
 	line "Mały i bardzo szybki, często"
-	line "widziany w wielu miejscach."
+	line "widziany w pospolitych miejscach."
 	done
 
 RaticateName: ; 6192f (18:592f)
