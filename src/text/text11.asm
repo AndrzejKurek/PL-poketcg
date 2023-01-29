@@ -262,7 +262,7 @@ ClairvoyanceName: ; 5c8a7 (17:48a7)
 
 ClairvoyanceDescription: ; 5c8b5 (17:48b5)
 	text "Przeciwnik musi grać z odsłoniętą"
-	line "ręką. Ta moc przestaje działać, gdy"
+	line "ręką . Ta moc przestaje działać, gdy"
 	line "Omanyte śpi, jest zdezorientowany,"
 	line "lub sparaliżowany."
 	done
@@ -541,7 +541,7 @@ MagnetName: ; 5d636 (17:5636)
 MagnemiteLv13Description: ; 5d63e (17:563e)
 	text "Używa antygrawitacji aby wisieć w"
 	line "powietrzu. Pojawia się z zaskoczenia"
-	line "atakując Piorunującą Falą."
+	line "atakując Piorunującą Falą ."
 	done
 
 MagneticStormName: ; 5d6a0 (17:56a0)
@@ -674,7 +674,7 @@ LightScreenDescription: ; 5dc80 (17:5c80)
 
 LightScreenDescriptionCont: ; 5dd4f (17:5d4f)
 	text "(Inne efekty ataków nadal się"
-	line "wydarzą.)"
+	line "wydarzą .)"
 	done
 
 ElectabuzzsQuickAttackDescription: ; 5dd7d (17:5d7d)
@@ -775,7 +775,7 @@ ZapdosLv40Description: ; 5e1d2 (17:61d2)
 	done
 
 ZapdosThunderDescription: ; 5e257 (17:6257)
-	text "Rzuć monetą. Reszka: Zapdos zada"
+	text "Rzuć monetą . Reszka: Zapdos zada"
 	line "30 obrażeń sobie."
 	done
 
@@ -874,7 +874,7 @@ MoleName: ; 5e697 (17:6697)
 DiglettDescription: ; 5e69d (17:669d)
 	text "żyje metr pod ziemią, żywiąc się"
 	line "korzeniami roślin. Czasem można go"
-	line "zauważyć nad powierzchnią."
+	line "zauważyć nad powierzchnią ."
 	done
 
 DugtrioName: ; 5e704 (17:6704)
@@ -894,7 +894,7 @@ EarthquakeDescription: ; 5e719 (17:6719)
 DugtrioDescription: ; 5e789 (17:6789)
 	text "Zespół żłożony z trzech Diglett'ów."
 	line "Wywołują olbrzymie trzęsienia ziemi"
-	line "kopiąc 100 km pod ziemią."
+	line "kopiąc 100 km pod ziemią ."
 	done
 
 MankeyName: ; 5e7e6 (17:67e6)
@@ -963,7 +963,7 @@ SuperpowerName: ; 5ea39 (17:6a39)
 	done
 
 MachopDescription: ; 5ea45 (17:6a45)
-	text "Kocha budować masę mięśniową."
+	text "Kocha budować masę mięśniową ."
 	line "Trenuje przeróżne sztuki walki,"
 	line "aby stać się jeszcze silniejszym."
 	done
@@ -1050,7 +1050,7 @@ RockName: ; 5eda8 (17:6da8)
 GeodudeDescription: ; 5edae (17:6dae)
 	text "Można go znaleźć na polach"
 	line "i w górach. Bywa mylony z głazami,"
-	line "ludzie się o niego potykają."
+	line "ludzie się o niego potykają ."
 	done
 
 GravelerName: ; 5ee0e (17:6e0e)
@@ -1216,7 +1216,7 @@ WailDescription: ; 5f4cb (17:74cb)
 
 MarowakLv32Description: ; 5f5b6 (17:75b6)
 	text "Mały i słaby Pokémon, nadrabia swoją"
-	line "umiejętnością walki kością. Z"
+	line "umiejętnością walki kością . Z"
 	line "wiekiem staje się coraz groźniejszy."
 	done
 
@@ -1345,7 +1345,7 @@ KabutoArmorDescription: ; 5fa63 (17:7a63)
 	done
 
 KabutoArmorDescriptionCont: ; 5fb19 (17:7b19)
-	text "Inne efekty ataków nadal wystąpią."
+	text "Inne efekty ataków nadal wystąpią ."
     line "Ta moc przestanie działać jeśli"
 	line "Kabuto zaśnie, będzie sparaliżowany,"
 	line "lub zdezorientowany."

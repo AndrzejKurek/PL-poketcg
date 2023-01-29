@@ -194,7 +194,7 @@ TransparencyName: ; 6071d (18:471d)
 
 TransparencyDescription: ; 6072b (18:472b)
 	text "Kiedy jakikolwiek atak miałby coś"
-	line "zrobić Haunter'owi, rzuć monetą."
+	line "zrobić Haunter'owi, rzuć monetą ."
 	line "Pikachu: zignoruj wszystkie efekty"
 	line "ataku, wliczając w to obrażenia."
 	line "Ta moc przestaje działać gdy Haunter"
@@ -360,7 +360,7 @@ HumanShapeName: ; 60e7d (18:4e7d)
 JynxDescription: ; 60e8a (18:4e8a)
 	text "Samą medytacją ten Pokémon jest"
 	line "w stanie wykonać mocny atak"
-	line "psychiczną energią."
+	line "psychiczną energią ."
 	done
 
 MewtwoName: ; 60ed8 (18:4ed8)
@@ -814,7 +814,7 @@ CatPunchDescription: ; 62287 (18:6287)
 	line "ataku. Wszystkie inne efekty, które"
 	line "miałyby miejsce po liczeniu"
 	line "słabości i odporności, nadal"
-	line "wystąpią."
+	line "wystąpią ."
 	done
 
 ScratchCatName: ; 62359 (18:6359)
@@ -822,7 +822,7 @@ ScratchCatName: ; 62359 (18:6359)
 	done
 
 MeowthLv14Description: ; 62366 (18:6366)
-	text "Jest bardziej aktywny nocą."
+	text "Jest bardziej aktywny nocą ."
 	line "Uwielbia błyszczące, okrągłe rzeczy,"
 	line "nie może przestać ich zbierać."
 	done
@@ -973,11 +973,11 @@ ScrunchName: ; 6292f (18:692f)
 	done
 
 ScrunchDescription: ; 62938 (18:6938)
-	text "Rzuć monetą. Pikachu: zignoruj"
+	text "Rzuć monetą . Pikachu: zignoruj"
 	line "wszystkie obrażenia zadane Chansey"
 	line "w następnej turze przeciwnika."
 	line "Wszystkie inne efekty ataków nadal"
-	line "wystąpią."
+	line "wystąpią ."
 	done
 
 ChanseysDoubleEdgeDescription: ; 629c2 (18:69c2)
@@ -1118,7 +1118,7 @@ Conversion2Name: ; 62f1f (18:6f1f)
 
 Conversion2Description: ; 62f2d (18:6f2d)
 	text "Zmień odporność Porygona na dowolną"
-	line "inną, ale nie Bezbarwną."
+	line "inną, ale nie Bezbarwną ."
 	done
 
 VirtualName: ; 62f79 (18:6f79)

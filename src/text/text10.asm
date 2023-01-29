@@ -84,8 +84,8 @@ TerrorStrikeName: ; 581ad (16:41ad)
 	done
 
 TerrorStrikeDescription: ; 581bc (16:41bc)
-	text "Rzuć monetą. Jeśli wypadnie Pikachu,"
-	line "a twój rywal ma jakiekolwiek"
+	text "Rzuć monetą . Pikachu: jeżeli"
+	line "twój rywal ma jakiekolwiek"
 	line "Pokémony na ławce, wybiera jednego"
 	line "z nich i zamienia z aktywnym"
 	line "Pokémonem. (Obrażenia zadane są"
@@ -329,7 +329,7 @@ WeedName: ; 58be1 (16:4be1)
 	done
 
 OddishDescription: ; 58be7 (16:4be7)
-	text "W dzień zakopuje głowę pod ziemią."
+	text "W dzień zakopuje głowę pod ziemią ."
 	line "W nocy szwędza się po okolicy"
 	line "rozsiewając dookoła swoje nasiona."
 	done
@@ -364,7 +364,7 @@ HealName: ; 58d17 (16:4d17)
 
 HealDescription: ; 58d1d (16:4d1d)
 	text "Podczas swojej tury (przed atakiem)"
-	line "możesz jeden raz rzucić monetą."
+	line "możesz jeden raz rzucić monetą ."
 	line "Jeśli wypadnie Pikachu, usuń 1"
 	line "licznik obrażeń z jednego z twoich"
 	line "Pokémonów. Moc nie może być użyta"
@@ -633,7 +633,7 @@ EggName: ; 59828 (16:5828)
 ExeggcuteDescription: ; 5982d (16:582d)
 	text "Często mylony z jajkami."
 	line "W niebezpieczeństwie zbierają się"
-	line "w grupę i wspólnie atakują."
+	line "w grupę i wspólnie atakują ."
 	done
 
 ExeggutorName: ; 59881 (16:5881)
@@ -1104,7 +1104,7 @@ SmokescreenName: ; 5aa6e (16:6a6e)
 MagmarsSmokescreenDescription: ; 5aa7b (16:6a7b)
 	text "Jeśli atakowany Pokémon spróbuje"
 	line "zaatakować w następnej turze, rywal"
-	line "musi rzucić monetą. Reszka oznacza,"
+	line "musi rzucić monetą . Reszka oznacza,"
 	line "że atak się nie powiedzie."
 	done
 
@@ -1290,7 +1290,7 @@ ShellfishName: ; 5b322 (16:7322)
 BlastoiseDescription: ; 5b32d (16:732d)
 	text "Brutalny Pokémon z ciśnieniowymi"
 	line "dyszami wodnymi na muszli. Używa ich"
-	line "do ataków z dużą prędkością."
+	line "do ataków z dużą prędkością ."
 	done
 
 PsyduckName: ; 5b38f (16:738f)
@@ -1313,7 +1313,7 @@ DuckName: ; 5b3e7 (16:73e7)
 PsyduckDescription: ; 5b3ed (16:73ed)
 	text "Ten nerwowy Pokémon usypia czujność"
 	line "przeciwników swoim wyglądem, po czym"
-	line "atakuje mocą psychokinetyczną."
+	line "atakuje mocą psychokinetyczną ."
 	done
 
 GolduckName: ; 5b44f (16:744f)
@@ -1386,7 +1386,7 @@ DoubleslapName: ; 5b6e7 (16:76e7)
 
 PoliwhirlsDescription: ; 5b6f3 (16:76f3)
 	text "Potrafi żyć zarówno w, jak i poza"
-	line "wodą. Gdy przebywa na ziemi, poci"
+	line "wodą . Gdy przebywa na ziemi, poci"
 	line "się aby ciało pozostało oślizgłe."
 	done
 

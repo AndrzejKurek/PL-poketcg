@@ -31,7 +31,7 @@ PokeBallName: ; 63f2e (18:7f2e)
 	done
 
 PokeBallDescription: ; 63f39 (18:7f39)
-	text "Rzuć monetą. Pikachu: Weź z talii"
+	text "Rzuć monetą . Pikachu: Weź z talii"
 	line "wybraną kartę podstawowego Pokémona"
 	line "lub kartę Ewolucji. Pokaż tę kartę"
 	line "przeciwnikowi, a następnie umieść"
