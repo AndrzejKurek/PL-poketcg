@@ -285,7 +285,7 @@ ProphecyName: ; 60b3e (18:4b3e)
 
 ProphecyDescription: ; 60b48 (18:4b48)
 	text "Przejrzyj 3 karty z wierzchu talii"
-	line "jednego z graczy i ustaw je wedle"
+	line "jednego z graczy i ustaw je według"
 	line "uznania."
 	done
 

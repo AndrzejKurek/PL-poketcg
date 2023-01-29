@@ -800,11 +800,10 @@ PealOfThunderName: ; 5e345 (17:6345)
 	done
 
 PealOfThunderDescription: ; 5e356 (17:6356)
-	text "When you put Zapdos into play during"
-	line "your turn (not during set-up), do"
-	line "30 damage to a Pokémon other than"
-	line "Zapdos chosen at random. (Don't"
-	line "apply Weakness and Resistance.)"
+	text "Gdy umieścisz Zapdosa w grze w swej"
+	line "turze, zadaj 30 obrażeń innemu,"
+	line "losowemu Pokémonowi (nie uwzględniaj"
+	line "słabości i odporności)."
 	done
 
 BigThunderName: ; 5e400 (17:6400)

@@ -1,30 +1,29 @@
 SuperEnergyRemovalDescription: ; 63d9c (18:7d9c)
-	text "Discard 1 Energy card attached to 1"
-	line "of your own Pokémon in order to"
-	line "choose 1 of your opponent's Pokémon"
-	line "and up to 2 Energy cards attached"
-	line "to it. Discard those Energy cards."
+	text "Odrzuć 1 kartę Energii dołączoną do"
+	line "jednego z własnych Pokémonów, aby"
+	line "wybrać Pokémona przeciwnika"
+	line "i odrzucić do 2 kart Energii"
+	line "dołączonych do niego."
 	done
 
 SwitchName: ; 63e4a (18:7e4a)
-	text "Switch"
+	text "Podmiana"
 	done
 
 SwitchDescription: ; 63e52 (18:7e52)
-	text "Switch 1 of your Benched Pokémon"
-	line "with your Active Pokémon."
+	text "Zamień miejscami Aktywnego Pokémona"
+	line "z Pokémonem z ławki."
 	done
 
 PokemonCenterName: ; 63e8e (18:7e8e)
-	text "Pokémon Center"
+	text "Centrum Pokémon"
 	done
 
 PokemonCenterDescription: ; 63e9e (18:7e9e)
-	text "Remove all damage counters from all"
-	line "of your own Pokémon with damage"
-	line "counters on them, then discard all"
-	line "Energy cards attached to those"
-	line "Pokémon."
+	text "Zdejmij wszystkie liczniki obrażeń"
+	line "ze wszystkich swoich Pokémonów,"
+	line "a następnie odrzuć wszystkie"
+	line "dołączone do nich Karty Energii."
 	done
 
 PokeBallName: ; 63f2e (18:7f2e)
@@ -32,35 +31,32 @@ PokeBallName: ; 63f2e (18:7f2e)
 	done
 
 PokeBallDescription: ; 63f39 (18:7f39)
-	text "Flip a coin. If heads, you may"
-	line "search your deck for any Basic"
-	line "Pokémon or Evolution card. Show that"
-	line "card to your opponent, then put it"
-	line "into your hand. Shuffle your deck"
-	line "afterward."
+	text "Rzuć monetą. Pikachu: Weź z talii"
+	line "wybraną kartę podstawowego Pokémona"
+	line "lub kartę Ewolucji. Pokaż tę kartę"
+	line "przeciwnikowi, a następnie umieść"
+	line "ją na swojej ręce. Przetasuj Talię."
 	done
 
 ScoopUpName: ; 63fed (18:7fed)
-	text "Scoop Up"
+	text "Wciągnięcie"
 	done
 
 ScoopUpDescription: ; 64000 (19:4000)
-	text "Choose 1 of your Pokémon in play"
-	line "and return its Basic Pokémon card to"
-	line "your hand. (Discard all cards"
-	line "attached to that card.)"
+	text "Wybierz jednego z Twoich Pokémonów"
+	line "w grze i zwróc na rękę jego kartę"
+	line "Pokémona Podstawowego. Odrzuć"
+	line "wszystkie dołączone karty."
 	done
 
 ComputerSearchName: ; 6407d (19:407d)
-	text "Computer Search"
+	text "Wyszukiwarka PC"
 	done
 
 ComputerSearchDescription: ; 6408e (19:408e)
-	text "Discard 2 of the other cards from"
-	line "your hand in order to search your"
-	line "deck for any card and put it into"
-	line "your hand. Shuffle your deck"
-	line "afterward."
+	text "Odrzuć 2 inne karty z ręki, aby"
+	line "wziąć dowolną kartę z talii na rękę."
+	line "Potasuj po tym talię."
 	done
 
 PokedexName: ; 6411d (19:411d)
@@ -68,170 +64,166 @@ PokedexName: ; 6411d (19:411d)
 	done
 
 PokedexDescription: ; 64126 (19:4126)
-	text "Look at up to 5 cards from the top"
-	line "of your deck and rearrange them as"
-	line "you like."
+	text "Podejrzyj 5 kart z wierzchu talii"
+	line "i poprzestawiaj je według uznania."
 	done
 
 PlusPowerName: ; 64177 (19:4177)
-	text "PlusPower"
+	text "PlusMoc"
 	done
 
 PlusPowerDescription: ; 64182 (19:4182)
-	text "Attach PlusPower to your Active"
-	line "Pokémon. At the end of your turn,"
-	line "discard PlusPower. If this Pokémon's"
-	line "attack does damage to any Active"
-	line "Pokémon (after applying Weakness and"
-	line "Resistance), the attack does 10 more"
-	line "damage to that Active Pokémon."
+	text "Dołącz PlusMoc do aktywnego"
+	line "Pokémona. Jeżeli jego atak zrobi"
+	line "jakiekolwiek obrażenia któremuś"
+	line "z aktywnych Pokémonów (po"
+	line "uwzględnieniu słabości i odporności)"
+	line ", zwiększ zadane obrażenia o 10."
+	line "Na koniec tury odrzuć PlusMoc."
 	done
 
 DefenderName: ; 64274 (19:4274)
-	text "Defender"
+	text "Obrońca"
 	done
 
 DefenderDescription: ; 6427e (19:427e)
-	text "Attach Defender to 1 of your"
-	line "Pokémon. At the end of your"
-	line "opponent's next turn, discard"
-	line "Defender. Damage done to that"
-	line "Pokémon by attacks is reduced by 20"
-	line "(after applying Weakness and"
-	line "Resistance)."
+	text "Dołącz Obrońcę do jednego z twoich"
+	line "Pokémonów. Obrażenia otrzymane przez"
+	line "niego z ataków będą zmniejszone o 20"
+	line "(po uwzględnieniu słabości"
+	line "i odporności). Na koniec kolejnej"
+	line "tury przeciwnika odrzuć Obrońcę."
 	done
 
 ItemFinderName: ; 64342 (19:4342)
-	text "Item Finder"
+	text "Wykrywacz przedmiotów"
 	done
 
 ItemFinderDescription: ; 6434f (19:434f)
-	text "Discard 2 of the other cards from"
-	line "your hand in order to put a Trainer"
-	line "card from your discard pile into"
-	line "your hand."
+	text "Odrzuć dwie inne karty z ręki, aby"
+	line "wziąć kartę Trenera ze stosu kart"
+	line "odrzuconych na rękę."
 	done
 
 GustOfWindName: ; 643c2 (19:43c2)
-	text "Gust of Wind"
+	text "Podmuch Wiatru"
 	done
 
 GustOfWindDescription: ; 643d0 (19:43d0)
-	text "Choose 1 of your opponent's Benched"
-	line "Pokémon and switch it with his or"
-	line "her Active Pokémon."
+	text "Wybierz Pokémona z ławki przeciwnika"
+	line "i zamień go miejscami z aktywnym"
+	line "Pokémonem."
 	done
 
 DevolutionSprayName: ; 6442b (19:442b)
-	text "Devolution Spray"
+	text "Sprej Dewolucji"
 	done
 
 DevolutionSprayDescription: ; 6443d (19:443d)
-	text "Choose 1 of your own Pokémon in play"
-	line "and a Stage of Evolution. Discard"
-	line "all Evolution cards of that Stage or"
-	line "higher attached to that Pokémon."
+	text "Wybierz jednego ze swoich Pokémonów"
+	line "w grze i stadium Ewolucji. Odrzuć"
+	line "wszystkie karty ewolucji tego"
+	line "stadium (lub wyżej) z tego Pokémona."
 	done
 
 DevolutionSprayDescriptionCont: ; 644cb (19:44cb)
-	text "That Pokémon is no longer Asleep,"
-	line "Confused, Paralyzed, Poisoned, or"
-	line "anything else that might be the"
-	line "result of an attack (just as if you"
-	line "had evolved it)."
+	text "Ten Pokémon nie będzie już spał, nie"
+	line "będzie sparaliżowany, zatruty, czy"
+	line "zdezorientowany, ani nie będzie"
+	line "miał na sobie żadnych efektów ataku"
+	line "(tak jakby właśnie ewoluował)."
 	done
 
 PotionName: ; 64565 (19:4565)
-	text "Potion"
+	text "Eliksir"
 	done
 
 PotionDescription: ; 6456d (19:456d)
-	text "Remove 2 damage counters from 1 of"
-	line "your Pokémon. If that Pokémon has"
-	line "fewer damage counters than that,"
-	line "remove all of them."
+	text "Usuń 2 liczniki obrażeń z jednego"
+	line "ze swoich Pokémonów. Jeśli ten"
+	line "Pokémon ma tylko jeden licznik"
+	line "obrażeń, usuń go."
 	done
 
 SuperPotionName: ; 645e8 (19:45e8)
-	text "Super Potion"
+	text "Super Eliksir"
 	done
 
 SuperPotionDescription: ; 645f6 (19:45f6)
-	text "Discard 1 Energy card attached to 1"
-	line "of your own Pokémon in order to"
-	line "remove 4 damage counters from that"
-	line "Pokémon. If the Pokémon has fewer"
-	line "damage counters than that, remove"
-	line "all of them."
+	text "Odrzuć 1 kartę Energoi dołączoną do"
+	line "jednego z twoich Pokémonów, aby"
+	line "usunąć z niego do 4 liczników"
+	line "obrażeń. Jeśli ma na sobie mniej"
+	line "liczników obrażeń, usuń wszystkie."
 	done
 
 FullHealName: ; 646af (19:46af)
-	text "Full Heal"
+	text "Pełne Uzdrowienie"
 	done
 
 FullHealDescription: ; 646ba (19:46ba)
-	text "Your Active Pokémon is no longer"
-	line "Asleep, Confused, Paralyzed, or"
-	line "Poisoned."
+	text "Twój aktywny Pokémon już nie śpi,"
+	line "nie jest zdezorientowany, zatruty,"
+	line "czy sparaliżowany."
 	done
 
 ReviveName: ; 64706 (19:4706)
-	text "Revive"
+	text "Wskrzeszenie"
 	done
 
 ReviveDescription: ; 6470e (19:470e)
-	text "Put 1 Basic Pokémon card from your"
-	line "discard pile onto your Bench."
-	line "Put damage counters on that Pokémon"
-	line "equal to half its HP (rounded down"
-	line "to the nearest 10). (You can't play"
-	line "Revive if your Bench is full.)"
+	text "Umieść 1 podstawowego Pokémona"
+	line "ze stosu kart odrzuconych na ławce."
+	line "Umieść na nim liczniki obrażeń równe"
+	line "połowie jego Pż (zaokrąglone do"
+	line "najbliższych 10) (Nie możesz użyć"
+	line "tej karty jesli masz pełną ławkę)."
 	done
 
 MaintenanceName: ; 647da (19:47da)
-	text "Maintenance"
+	text "Konserwacja"
 	done
 
 MaintenanceDescription: ; 647e7 (19:47e7)
-	text "Shuffle 2 of the other cards from"
-	line "your hand into your deck in order"
-	line "to draw a card."
+	text "Wtasuj 2 inne karty z ręki w talię"
+	line "aby wziąć 1 kartę z talii na rękę."
 	done
 
 PokemonFluteName: ; 6483c (19:483c)
-	text "Pokémon Flute"
+	text "Pokéflet"
 	done
 
 PokemonFluteDescription: ; 6484b (19:484b)
-	text "Choose 1 Basic Pokémon card from"
-	line "your opponent's discard pile and put"
-	line "it onto his or her Bench. (You can't"
-	line "play Pokémon Flute if your"
-	line "opponent's Bench is full.)"
+	text "Wybierz kartę Pokémona podstawowego"
+	line "ze stosu kart odrzuconych rywala"
+	line "i połóż go na jego ławce. Nie możesz"
+	line "użyć Pokéfletu jeśli ławka rywala"
+	line "jest pełna."
 	done
 
 GamblerName: ; 648ed (19:48ed)
-	text "Gambler"
+	text "Hazardzista"
 	done
 
 GamblerDescription: ; 648f6 (19:48f6)
-	text "Shuffle your hand into your deck."
-	line "Flip a coin. If heads, draw 8 cards."
-	line "If tails, draw 1 card."
+	text "Wtasuj swoją rękę w talię."
+	line "Rzuć monetą ."
+	line "Pikachu: weź 8 kart z talii na rękę."
+	line "Reszka: weź 1 kartę z talii na rękę."
 	done
 
 RecycleName: ; 64955 (19:4955)
-	text "Recycle"
+	text "Recykling"
 	done
 
 RecycleDescription: ; 6495e (19:495e)
-	text "Flip a coin. If heads, put a card"
-	line "in your discard pile on top of your"
-	line "deck."
+	text "Rzuć monetą ."
+	line "Pikachu: połóż kartę ze stosu kart"
+	line "odrzuconych na wierzch talii."
 	done
 
 KadabraDescription: ; 5ff5b (17:7f5b)
-	text "It emits special alpha waves from"
-	line "its body that induce headaches even"
-	line "to those just nearby."
+	text "Wydziela specjalne fale alfa,"
+	line "zdolne wywoływać bóle głowy wśród"
+	line "osób w bezpośrednim otoczeniu."
 	done
