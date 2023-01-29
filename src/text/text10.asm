@@ -132,7 +132,7 @@ NidoranFsCallForFamilyDescription: ; 58352 (16:4352)
 	done
 
 PoisonPinName: ; 583ff (16:43ff)
-	text "Zatruta Szpilka"
+	text "Kłująco-trujący"
 	done
 
 NidoranFDescription: ; 5840b (16:440b)
@@ -830,7 +830,7 @@ CharmeleonsFlamethrowerDescription: ; 59ef4 (16:5ef4)
 	done
 
 FlameName: ; 59f42 (16:5f42)
-	text "Płomień"
+	text "Płomienny"
 	done
 
 CharmeleonDescription: ; 59f49 (16:5f49)

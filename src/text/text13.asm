@@ -75,10 +75,10 @@ PlusPowerName: ; 64177 (19:4177)
 PlusPowerDescription: ; 64182 (19:4182)
 	text "Dołącz PlusMoc do aktywnego"
 	line "Pokémona. Jeżeli jego atak zrobi"
-	line "jakiekolwiek obrażenia któremuś"
-	line "z aktywnych Pokémonów (po"
-	line "uwzględnieniu słabości i odporności)"
-	line ", zwiększ zadane obrażenia o 10."
+	line "obrażenia jednemu z aktywnych"
+	line "Pokémonów (po uwzględnieniu"
+	line "słabości i odporności),"
+	line "zwiększ zadane obrażenia o 10."
 	line "Na koniec tury odrzuć PlusMoc."
 	done
 
@@ -162,9 +162,9 @@ FullHealName: ; 646af (19:46af)
 	done
 
 FullHealDescription: ; 646ba (19:46ba)
-	text "Twój aktywny Pokémon już nie śpi,"
-	line "nie jest zdezorientowany, zatruty,"
-	line "czy sparaliżowany."
+	text "Leczy aktywnego Pokémona ze snu,"
+	line "zdezorientowania, zatrucia"
+	line "i paraliżu."
 	done
 
 ReviveName: ; 64706 (19:4706)

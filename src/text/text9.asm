@@ -1261,7 +1261,7 @@ BulbasaursLeechSeedDescription: ; 57569 (15:7569)
 	done
 
 SeedName: ; 575cb (15:75cb)
-	text "Nasiono"
+	text "Nasienny"
 	done
 
 BulbasaurDescription: ; 575d1 (15:75d1)
@@ -1361,7 +1361,7 @@ SolarBeamName: ; 57a51 (15:7a51)
 	done
 
 VenusaurLv67Description: ; 57a5c (15:7a5c)
-	text "Ten kwiat kwitnie, kiedy pochłania"
+	text "Jego kwiat kwitnie, kiedy pochłania"
 	line "energie słoneczną . Venasaur ciągle"
 	line "poszukuje światła słonecznego."
 	done

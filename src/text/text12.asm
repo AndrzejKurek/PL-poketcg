@@ -154,7 +154,7 @@ DestinyBondDescription: ; 6051c (18:451c)
 	done
 
 GasName: ; 605bf (18:45bf)
-	text "Gaz"
+	text "Gazowy"
 	done
 
 GastlyLv8Description: ; 605c4 (18:45c4)
@@ -354,7 +354,7 @@ JynxsMeditateDescription: ; 60e27 (18:4e27)
 	done
 
 HumanShapeName: ; 60e7d (18:4e7d)
-	text "Ludzki Kształt"
+	text "Człekokształtny"
 	done
 
 JynxDescription: ; 60e8a (18:4e8a)

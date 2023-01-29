@@ -8,7 +8,7 @@ CrabhammerName: ; 5bec3 (16:7ec3)
 	done
 
 PincerName: ; 5becf (16:7ecf)
-	text "Szczypce"
+	text "Szczypcowy"
 	done
 	
 KinglerDescription: ; 5bed7 (16:7ed7)
@@ -225,7 +225,7 @@ FocusEnergyDescription: ; 5c6c2 (17:46c2)
 	done
 
 BubbleJetName: ; 5c70b (17:470b)
-	text "Bąblotrysk"
+	text "Bąbelkowy"
 	done
 
 VaporeonLv29Description: ; 5c717 (17:4717)
@@ -868,7 +868,7 @@ MudSlapName: ; 5e68d (17:668d)
 	done
 
 MoleName: ; 5e697 (17:6697)
-	text "Mole"
+	text "Kreci"
 	done
 
 DiglettDescription: ; 5e69d (17:669d)
