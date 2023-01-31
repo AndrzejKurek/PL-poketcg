@@ -898,8 +898,8 @@ NoEnergyCardsAttachedToPokemonInOppPlayAreaText: ; 37715 (d:7715)
 	done
 
 EnergyCardsRequiredToRetreatText: ; 37758 (d:7758)
-	text "Potrzebujesz <RAMNUM> kart Energii"
-	line "aby wycofać Pokémona."
+	text "Potrzebujesz <RAMNUM> kart(ę)"
+	line "Energii aby wycofać Pokémona."
 	done
 
 NotEnoughEnergyCardsText: ; 37781 (d:7781)

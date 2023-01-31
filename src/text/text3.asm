@@ -2000,8 +2000,8 @@ Text0401: ; 3faaa (f:7aaa)
 Text0402: ; 3fd72 (f:7d72)
 	text "Będę Ci przesyłał przydatne"
 	line "informacje mailem."
-	line "Będę też dorzucał booster packi do"
-	line "wiadomości, więc często sprawdzaj"
+	line "Będę też dorzucał paczki boosterów"
+	line "do wiadomości, więc często sprawdzaj"
 	line "maila!"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"

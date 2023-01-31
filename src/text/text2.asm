@@ -864,7 +864,7 @@ NowPrintingPleaseWaitText: ; 39f03 (e:5f03)
 	done
 
 BoosterPackText: ; 39f21 (e:5f21)
-	text "Paczka Booster'a"
+	text "Paczka Boosterów"
 	done
 
 WouldYouLikeToTryAgainText: ; 39f2f (e:5f2f)
