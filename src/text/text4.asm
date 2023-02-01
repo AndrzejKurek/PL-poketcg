@@ -158,7 +158,7 @@ Text0411: ; 40c2e (10:4c2e)
 	line "laboratorium, może to Ci podsunie"
 	line "jakiś pomysł."
 	line "A tu drobny prezent!"
-	line "Paczka Boosterów Mystery!"
+	line "Paczka Boosterów ”Tajemnica”!"
 	done
 
 Text0412: ; 40dc1 (10:4dc1)
@@ -507,7 +507,7 @@ Text043b: ; 4242a (10:642a)
 	line "to Amy, Mistrzyni Klubu."
 	line "Jeśli chcesz z nią walczyć,"
 	line "pokonaj najpierw Sarę i Amandę."
-	line "Potem ja przetestuję twoje"
+	line "Potem ja sprawdzę twoje"
 	line "umiejętności i jeśli dziwnym trafem"
 	line "ze mną też wygrasz, przedstawię Cię"
 	line "Amy, naszej Mistrzyni Klubu!"
@@ -521,7 +521,7 @@ Text043c: ; 42508 (10:6508)
 Text043d: ; 4252d (10:652d)
 	text "Musisz nieźle grać, skoro ani Sara,"
 	line "ani Amanda nie dały rady..."
-	line "Tak jak obiecywałem, przetestuję"
+	line "Tak jak obiecywałem, sprawdzę"
 	line "twoje umiejętności, a jeśli wygrasz,"
 	line "przedstawię Cię Amy..."
 	done
@@ -681,12 +681,12 @@ Text0459: ; 42c3e (10:6c3e)
 
 Text045a: ; 42c77 (10:6c77)
 	text "Witaj."
-	line "Wkraszasz w progi Klubu Walki!"
+	line "Wkraczasz w progi Klubu Walki!"
 	line "Walczymy tutaj ze sobą nie"
 	line "na pięści, a na karty z Pokémonami"
 	line "Walki. żadnych brudnych sztuczek"
-	line "i ciosów poniżej pasa! Walczymy"
-	line "tu zgodnie z zasadami Fair Play."
+	line "i ciosów poniżej pasa!"
+	line "Obowiązują zasady Fair Play!"
 	done
 
 Text045b: ; 42d1e (10:6d1e)
@@ -860,9 +860,9 @@ Text0471: ; 435a7 (10:75a7)
 
 Text0472: ; 4364c (10:764c)
 	text "Właśnie wspominałem o tym, który"
-	line "Arcymistrz jest najlepszy."
-	line "Myślę, że Steve jest zdecydowanie"
-	line "najlepszym graczem."
+	line "Arcymistrz jest najsilniejszy."
+	line "Myślę, że Steve jest najlepszym"
+	line "graczem spośród nich!"
 	done
 
 Text0473: ; 436a2 (10:76a2)
@@ -885,8 +885,8 @@ Text0475: ; 43752 (10:7752)
 	done
 
 Text0476: ; 437da (10:77da)
-	text "Jeśli byłbym młodszy o kilka lat,"
-	line "walczyłbym podobnie jak wy, dzieci."
+	text "Jeśli byłabym młodsza o kilka lat,"
+	line "walczyłabym podobnie jak wy, dzieci."
 	done
 
 Text0477: ; 43822 (10:7822)
