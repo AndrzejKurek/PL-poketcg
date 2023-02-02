@@ -96,7 +96,7 @@ DefenderDescription: ; 6427e (19:427e)
 	done
 
 ItemFinderName: ; 64342 (19:4342)
-	text "Wykrywacz przedmiotów"
+	text "Wykrywacz Przedmiotów"
 	done
 
 ItemFinderDescription: ; 6434f (19:434f)

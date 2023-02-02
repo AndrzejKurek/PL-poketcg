@@ -1,513 +1,496 @@
 Text048c: ; 44000 (11:4000)
-	text "You're just going to turn "
-	line "and run!?! You chicken!"
+	text "Zamierzasz po prostu uciec?!"
+	line "Jak tchórz?!"
 	done
 
 Text048d: ; 44034 (11:4034)
-	text "A 1-match duel with 4 prizes!"
-	line "Let's do it!"
+	text "Walka z 4 nagrodami!"
+	line "Zaczynajmy!"
 	done
 
 Text048e: ; 44060 (11:4060)
-	text "No! I lost again!"
-	line "I can't start training, yet!"
+	text "Nie wierzę! Znowu przegrałem!"
+	line "Nie mogę jeszcze zacząc treningu..."
 	done
 
 Text048f: ; 44090 (11:4090)
-	text "Shoot! I'm going to "
-	line "become a better player!"
+	text "A niech to! Muszę się"
+	line "stać lepszym graczem!"
 	done
 
 Text0490: ; 440be (11:40be)
-	text "Yeah! I won!"
-	line "I've gotten pretty good, haven't I?"
-	line "I think I'll start training again."
+	text "Tak jest, wygrałem!"
+	line "Coraz lepiej mi idzie, prawda?"
+	line "Chyba muszę wrócić do treningów."
 	done
 
 Text0491: ; 44113 (11:4113)
-	text "I've been training since I lost"
-	line "to you at the Grass Club."
-	line "How about a rematch?"
+	text "Trenowałem od kiedy przegrałem"
+	line "z Tobą w Klubie Trawy."
+	line "Może zagramy jeszcze raz?"
 	done
 
 Text0492: ; 44163 (11:4163)
-	text "Would you like to duel Michael?"
+	text "Wyzwać Michael'a na pojedynek?"
 	done
 
 Text0493: ; 44184 (11:4184)
-	text "OK. But do duel me "
-	line "again sometime."
+	text "No dobrze, ale chciałbym jeszcze"
+	line "z tobą powalczyć."
 	done
 
 Text0494: ; 441a9 (11:41a9)
-	text "OK, a 1-match duel with 4 prizes!"
-	line "Let's do it!"
+	text "W takim razie walczmy z 4 nagrodami!"
+	line "Przygotuj się!"
 	done
 
 Text0495: ; 441d9 (11:41d9)
-	text "I guess I need to train more..."
+	text "Chyba muszę więcej trenować..."
 	done
 
 Text0496: ; 441fa (11:41fa)
-	text "Duel me again another time."
-	line "See ya!"
+	text "Powalczmy jeszcze kiedyś."
+	line "Do zobaczenia!"
 	done
 
 Text0497: ; 4421f (11:421f)
-	text "I guess my training has paid off!"
-	line "Duel me again sometime. See ya!"
+	text "Mój trening się opłacił!"
+	line "Powalczmy jeszcze kiedyś."
 	done
 
 Text0498: ; 44262 (11:4262)
-	text "Training is so boring..."
-	line "Why anyone would want to?"
-	line "Hey, it's you!"
-	line "Do you want to duel me again?"
+	text "Ćwiczenia fizyczne są takie nudne..."
+	line "Dlaczego ludzie to robią?"
+	line "O, to Ty!"
+	line "Chcesz ze mną walczyć?"
 	done
 
 Text0499: ; 442c3 (11:42c3)
-	text "Would you like to duel Jessica?"
+	text "Wyzwać Jessicę na pojedynek?"
 	done
 
 Text049a: ; 442e4 (11:42e4)
-	text "Well, OK."
-	line "I'm busy anyway!"
+	text "Pff, no dobra."
+	line "I tak jestem zajęta!"
 	done
 
 Text049b: ; 44300 (11:4300)
-	text "OK! A 1-match duel with 4 prizes!"
-	line "Let's go to it!"
+	text "Dobra! Walka z 4 nagrodami!"
+	line "Bierzmy się do roboty!"
 	done
 
 Text049c: ; 44333 (11:4333)
-	text "Oops! I lost..."
-	line "Here! You can have this!"
+	text "Ups! Przegrałam..."
+	line "Proszę! Weź to!"
 	done
 
 Text049d: ; 4435d (11:435d)
-	text "Don't talk to me, I'm busy!"
+	text "Nie rozmawiaj ze mną, jestem zajęta!"
 	done
 
 Text049e: ; 4437a (11:437a)
-	text "Hey, I won!"
-	line "Could this also be due to my "
-	line "natural ability? "
-	line "Well, I hope I see you around!"
+	text "No proszę, wygrałam!"
+	line "Może po prostu mam taki talent?"
+	line "No nic, do zobaczenia!"
 	done
 
 WhatIsADeckText: ; 443d6 (11:43d6)
-	text "What is a deck?"
+	text "Czym jest Talia?"
 	done
 
 Text04a0: ; 443e7 (11:43e7)
-	text "A deck is the set of Pokémon cards"
-	line "used in duels."
-	line "A deck consists of 60 cards."
-	line "Only 4 of the same card are"
-	line "allowed in a deck. Create your "
-	line "own deck to play the game."
-	line "These are the basic rules of the"
-	line "Pokémon Trading Card Game."
+	text "Talia to zestaw kart Pokémon"
+	line "używanych w walce. Składa się"
+	line "z 60 kart. Możesz mieć do 4 takich"
+	line "samych kart w talii (poza Kartami"
+	line "Energii) Musisz mieć swoją talię,"
+	line "żeby zagrać z kimś w karty Pokémon."
 	done
 
 Text04a1: ; 444ca (11:44ca)
-	text "Cards, Vol. 1: Pokémon Cards"
+	text "Karty, Tom 1: Karty Pokémon"
 	done
 
 Text04a2: ; 444e8 (11:44e8)
-	text "There are 2 types of Pokémon cards "
-	line "in the Pokémon Trading Card Game:"
-	line "Basic Pokémon and Evolution "
-	line "Pokémon. Only Basic Pokémon may be "
-	line "placed directly on the Bench."
-	line "There are 2 types of Evolution"
-	line "Pokémon cards: Stage 1 and "
-	line "Stage 2. Play Stage 1 Pokémon on "
-	line "top of Basic Pokémon, and Stage 2"
-	line "Pokémon on top of Stage 1 Pokémon."
+	text "Istnieją dwa typy Kart Pokémon:"
+	line "Karty Pokémonów Podstawowych"
+	line "i Karty Ewolucji. Tylko Podstawowe"
+	line "Pokémony mogą być umieszczone"
+	line "na Ławce. Karty Ewolucji mogą być"
+	line "pierwszym, lub drugim stadium"
+	line "ewolucji Pokémona podstawowego."
+	line "Najpierw dołączamy kartę pierwszego"
+	line "stadium, a dopiero po niej drugiego."
 	done
 
 Text04a3: ; 44630 (11:4630)
-	text "Cards, Vol. 2: Energy Cards"
+	text "Karty, Tom 2: Karty Energii"
 	done
 
 Text04a4: ; 4464d (11:464d)
-	text "Attach Energy cards to your Pokémon"
-	line "to give them the energy they need to"
-	line "attack. Choose an Energy card from "
-	line "your hand and attach it to a"
-	line "Pokémon. You may attach only "
-	line "one Energy card per turn."
+	text "Dołącz Karty Energii do swoich"
+	line "Pokémonów, aby zapewnić im energię"
+	line "potrzebną do ataku. Weź taką kartę"
+	line "z ręki i dołącz ją do karty"
+	line "Pokémona. Możesz dołączyć tylko"
+	line "jedną kartę Energii na turę."
 	done
 
 Text04a5: ; 44710 (11:4710)
-	text "Cards, Vol. 3: Trainer Cards"
+	text "Karty, Tom 3: Karty Trenera"
 	done
 
 Text04a6: ; 4472e (11:472e)
-	text "Trainer cards are one-shot cards"
-	line "that can be used once and are "
-	line "then discarded. You can play as "
-	line "many Trainer cards as you like "
-	line "during your turn."
+	text "Karty Trenera to jednorazowe"
+	line "karty, odrzucane po użyciu na Stos"
+	line "Kart Odrzuconych. Możesz zagrać tyle"
+	line "Kart Trenera w turze, ile chcesz."
 	done
 
 Text04a7: ; 447c2 (11:47c2)
-	text "Win or Loss of a Match, Vol. 1"
+	text "Wygrana/Przegrana, Tom 1"
 	done
 
 Text04a8: ; 447e2 (11:47e2)
-	text "When a Pokémon loses all of "
-	line "its HP, the Pokémon is knocked out. "
-	line "Place it and all attached Energy "
-	line "cards in the discard pile."
-	line "Each time you knock out 1 "
-	line "of your opponent's Pokémon, "
-	line "you draw 1 of your prize cards "
-	line "and place it in your hand. "
-	line "When you've taken all "
-	line "of your prizes, you win the game."
+	text "Kiedy Pokémon straci całe swoje Pż"
+	line "(Punkty życia), zostanie"
+	line "znokautowany. Umieść go razem"
+	line "ze wszystkimi dołączonymi kartami"
+	line "na Stosie Kart Odrzuconych."
+	line "Po każdym znokautowaniu Pokémona"
+	line "przeciwnika weź jedną ze swoich"
+	line "nagród i umieść ją na ręce."
+	line "Kiedy zbierzesz wszystkie swoje"
+	line "nagrody - wygrywasz pojedynek!"
 	done
 
 Text04a9: ; 4490f (11:490f)
-	text "Win or Loss of a Match, Vol. 2"
+	text "Wygrana/Przegrana, Tom 2"
 	done
 
 Text04aa: ; 4492f (11:492f)
-	text "You also win if your opponent's"
-	line "deck is out of cards at the start"
-	line "of your opponent's turn. Be "
-	line "careful not to run out of cards!"
+	text "Możesz także wygrać, kiedy twojemu"
+	line "przeciwnikowi zabraknie kart w talii"
+	line "na początku jego tury. Uważaj, żeby"
+	line "i Tobie nie skońćzyły się karty!"
 	done
 
 Text04ab: ; 449b0 (11:49b0)
-	text "Win or Loss of a Match, Vol. 3"
+	text "Wygrana/Przegrana, Tom 3"
 	done
 
 Text04ac: ; 449d0 (11:49d0)
-	text "You also win if your opponent has"
-	line "no Pokémon left on the bench"
-	line "after you have knocked out his or"
-	line "her active Pokémon. Be sure to "
-	line "keep enough Pokémon on your bench."
+	text "Wygrasz mecz także wtedy, gdy"
+	line "twojemu przeciwnikowi zabraknie"
+	line "Pokémonów na ławce po znokautowaniu"
+	line "jego Pokémona aktywnego."
+	line "Pamiętaj, żeby zawsze mieć"
+	line "zapasowego Pokémona!"
 	done
 
 Text04ad: ; 44a75 (11:4a75)
-	text "Combos"
+	text "Kombinacje"
 	done
 
 Text04ae: ; 44a7d (11:4a7d)
-	text "You can create powerful combos by"
-	line "combining the abilities of 2 cards."
-	line "Pokémon Powers and Trainer Cards "
-	line "are useful in creating combos! "
-	line "Find card combinations that will"
-	line "create your own powerful combos."
+	text "Możesz stworzyć potężne kombinacje"
+	line "kart sprytnie łącząc ich"
+	line "umiejętności! Moce Pokémon razem"
+	line "z Kartami Trenera też mogą nieźle"
+	line "dać w kość! Znajdź taką kombinację"
+	line "kart, która zaskoczy Twojego"
+	line "przeciwnika."
 	done
 
 Text04af: ; 44b48 (11:4b48)
-	text "Energy Trans"
+	text "Transfer Energii"
 	done
 
 Text04b0: ; 44b56 (11:4b56)
-	text "What if you place Exeggutor in the"
-	line "arena, but you don't have any Energy"
-	line "cards? In this case, use Venusaur's"
-	line "Energy Trans to transfer Grass"
-	line "Energy and use Big Eggsplosion! If"
-	line "you attach 8 Energy cards, you can"
-	line "give your opponent up to 160 damage."
+	text "Co zrobić, gdy umieścisz Exeggutora"
+	line "w obszarze gry, ale nie masz żadnych"
+	line "Kart Energii? Użyj Transferu Energii"
+	line "Venasaura i przenieś Energię Trawy,"
+	line "by użyć Wielkiej Eggsplozji! Jeśli"
+	line "dołączysz 8 Kart Energii, możesz"
+	line "zadać nawet 160 obrażeń!"
 	done
 
 Text04b1: ; 44c4d (11:4c4d)
-	text "Toxic Gas"
+	text "Toksyczny Gaz"
 	done
 
 Text04b2: ; 44c58 (11:4c58)
-	text "Muk's Toxic Gas is very powerful!"
-	line "It can block all Pokémon Powers!"
-	line "But be careful because it also"
-	line "blocks your own Pokémon's Powers!"
+	text "Toksyczny Gaz Muka jest naprawdę"
+	line "potężny! Może zablokować wszystkie"
+	line "Moce Pokémon! Musisz jednak uważać,"
+	line "bo Twoje też zablokuje!"
 	done
 
 Text04b3: ; 44cdd (11:4cdd)
-	text "Rain Dance"
+	text "Taniec Deszczu"
 	done
 
 Text04b4: ; 44ce9 (11:4ce9)
-	text "Blastoise's Pokémon Power, Rain "
-	line "Dance, is a great boon for your"
-	line "Water Pokémon! You can attach "
-	line "as many Water Energy cards as "
-	line "you have to your Water Pokémon."
-	line "Power up your Pokémon and attack!"
+	text "Taniec Deszczu Blastoise'a to"
+	line "świetna moc dla Pokémonów Wody!"
+	line "Możesz dołączyć tyle Energii Wody,"
+	line "ile tylko masz! Zasil swoje Pokémony"
+	line "i ruszaj do ataku!"
 	done
 
 Text04b5: ; 44dab (11:4dab)
-	text "Selfdestruct"
+	text "Autodestrukcja"
 	done
 
 Text04b6: ; 44db9 (11:4db9)
-	text "It's a good idea to use Defender"
-	line "when attacking with Selfdestruct."
-	line "That way, you'll be able to give"
-	line "major damage to your opponent's "
-	line "Active and Benched Pokémon without "
-	line "your Pokémon getting knocked out."
+	text "Jeśli decydujesz się na użycie"
+	line "Autodestrukcji, rozważ użycie karty"
+	line "Obrońcy. W ten sposób zadasz spore"
+	line "obrażenia aktywnemu Pokémonowi"
+	line "i ławce rywala, a twój aktywny"
+	line "Pokémon nie będzie znokautowany."
 	done
 
 Text04b7: ; 44e85 (11:4e85)
-	text "Damage Swap"
+	text "Zamiana Ran"
 	done
 
 Text04b8: ; 44e92 (11:4e92)
-	text "You can use Alakazam's Damage Swap"
-	line "to move damage counters off of a"
-	line "Pokémon that is almost knocked out,"
-	line "or you can create a combo by"
-	line "combining it with Chansey and"
-	line "Scoop Up. Keep moving damage "
-	line "counters to Chansey and use Scoop "
-	line "Up to return Chansey to your hand."
-	line "Then put Chansey back in play. You"
-	line "will have lost all damage counters!"
+	text "Możesz użyć Zamiany Ran Alakazama"
+	line "aby przenieść liczniki obrażeń"
+	line "z prawie znokautowanego Pokémona na"
+	line "innego, albo możesz dorzucić Chansey"
+	line "z dużą liczbą Pż i użyć Wciągnięcia."
+	line "Przenoś obrażenia na Chansey, a gdy"
+	line "już nazbierasz ich sporo, za pomocą"
+	line "Wciągnięcia zwróć Chansey na rękę."
+	line "Możesz znowu umieścić Chansey"
+	line "w grze, ale już bez obrażeń!"
 	done
 
 Text04b9: ; 44fe1 (11:4fe1)
-	text "Hyper Beam"
+	text "Hiperwiązka"
 	done
 
 Text04ba: ; 44fed (11:4fed)
-	text "Hyper Beam is extremely powerful!"
-	line "You can remove the Energy cards "
-	line "attached to your opponent's"
-	line "Pokémon! Without Energy, they won't"
-	line "be able to Attack or Retreat!"
+	text "Hiperwiązka ma niesamowitą moc!"
+	line "Możesz nią usuwać Karty Energii"
+	line "dołączone do wrogich Pokémonów!"
+	line "Bez energii nie będą w stanie ani"
+	line "atakować, ani się wycofać!"
 	done
 
 Text04bb: ; 4508f (11:508f)
-	text "Prehistoric Power"
+	text "Prehistoryczna Moc"
 	done
 
 Text04bc: ; 450a2 (11:50a2)
-	text "Use Aerodactyl's Prehistoric Power"
-	line "to block your opponent's Pokémon"
-	line "from evolving. Your own Pokémon "
-	line "can't evolve? In that case, use"
-	line "Devolution Spray on Aerodactyl "
-	line "and turn it back into a "
-	line "Mysterious Fossil. Then you'll "
-	line "be able to evolve your Pokémon!"
+	text "Możesz zablokować ewolucje Pokémonów"
+	line "przeciwnika Prehistoryczną Mocą"
+	line "Aerodactyla. Twoje własne Pokémony"
+	line "nie mogą wyewoluować? Użyj Spreju"
+	line "Dewolucji na Aerodactylu a zmieni"
+	line "się z powrotem w Zagadkową"
+	line "Skamielinę."
 	done
 
 Text04bd: ; 451a1 (11:51a1)
-	text "Phantom Cards"
+	text "Widmowe Karty"
 	done
 
 Text04be: ; 451b0 (11:51b0)
-	text "It is rumored that there is a"
-	line "Phantom Card that can only be "
-	line "gotten by using Card Pop!"
-	line "It is believed there are 2 such"
-	line "cards, but no one knows what"
-	line "kind of cards they are."
-	line "I'm off to search for someone "
-	line "who will give me these cards!"
-	line "                        ISHIHARA"
+	text "Podobno istnieją karty, które można"
+	line "otrzymać tylko używając ”Card Pop!”"
+	line "Słyszałem o dwóch takich kartach,"
+	line "ale kto wie jakiego są rodzaju."
+	line "Idę szukać kogoś, dzięki komu"
+	line "dostanę te karty!"
+	line "                        Ishihara"
 	done
 
 Text04bf: ; 452bb (11:52bb)
-	text "Weakness and Resistance"
+	text "Słabości i Odporności"
 	done
 
 Text04c0: ; 452d4 (11:52d4)
-	text "If a Pokémon has a Weakness,"
-	line "it takes double damage when attacked"
-	line "by Pokémon of a certain type!"
-	line "If a Water Pokémon attacks"
-	line "a Fire Pokémon, the Fire Pokémon"
-	line "will receive double damage!"
-	line "If a Pokémon has a Resistance,"
-	line "it takes 30 less damage when"
-	line "attacked by Pokémon of a certain"
-	line "type. If an Attack gives a damage "
-	line "of 30, the Pokémon will not receive "
-	line "damage! Beware of the Weaknesses"
-	line "and Resistances of your Pokémon!"
+	text "Jeśli Pokémon ma słabość, otrzymuje"
+	line "podwójne obrażenia, gdy zostanie"
+	line "zaatakowany przez Pokémona tego"
+	line "typu! Jeśli Pokémon Wody zaatakuje"
+	line "Pokémona Ognia, dostanie on podwójne"
+	line "obrażenia!"
+	line "Jeśli natomiast Pokémon jest odporny"
+	line "na dany typ, obrażenia z ataku od"
+	line "Pokémona tego typu będą zmniejszone"
+	line "o 30. Jeśli atak miałby zadać 30"
+	line "obrażeń lub mniej, nie otrzyma ich"
+	line "wcale! Dobrze jest zdawać sobie"
+	line "sprawę ze słabości i odporności."
 	done
 
 Text04c1: ; 45474 (11:5474)
-	text "Drawing Desired Cards"
+	text "Poszukiwania Kart"
 	done
 
 Text04c2: ; 4548b (11:548b)
-	text "The Trainer card, Computer Search,"
-	line "is useful when you want to draw a"
-	line "certain card! Item Finder and"
-	line "Poké Ball will also help!"
+	text "Karty Trenera takie jak Wyszukiwarka"
+	line "PC, Wykrywacz Przedmiotów, czy Poké"
+	line "Ball na pewno pomogą Ci znaleźć"
+	line "potrzebne karty w każdej sytuacji!"
 	done
 
 Text04c3: ; 45509 (11:5509)
-	text "Retreating"
+	text "Wycofanie"
 	done
 
 Text04c4: ; 45515 (11:5515)
-	text "Retreating your Active Pokémon to"
-	line "the Bench is a good strategy in"
-	line "certain situations! Retreating a "
-	line "Pokémon requires Energy cards."
-	line "Dodrio's Retreat Aid decreases the "
-	line "number of Energy cards required to"
-	line "retreat. If you retreat right away,"
-	line "your Pokémon won't get knocked out!"
+	text "Wycofanie Aktywnego Pokémona na"
+	line "ławkę to w określonych sytuacjach"
+	line "dobre posunięcie! Potrzebujesz do"
+	line "tego dołączonych Kart Energii."
+	line "”Pomoc w ucieczce” Dodrio zmniejsza"
+	line "liczbę Kart Energii potrzebną do"
+	line "wycofania. Może się przydać!"
 	done
 
 Text04c5: ; 45628 (11:5628)
-	text "Fighting Pokémon"
+	text "Pokémony Walki"
 	done
 
 Text04c6: ; 4563a (11:563a)
-	text "Fighting Pokémon Characteristics:"
-	line "Strong against Lightning Pokémon."
-	line "Weak against Psychic Pokémon."
-	line "Require Fighting Energy cards "
-	line "to Attack."
+	text "Charakterystyka Pokémonów Walki:"
+	line "Mocne przeciwko Pokémonom"
+	line "Elektrycznym. Słabe przeciw"
+	line "Pokémonom Psychiki."
 	done
 
 Text04c7: ; 456c7 (11:56c7)
-	text "Fighting Pokémon and Combos"
+	text "Kombinacje Pokémonów Walki"
 	done
 
 Text04c8: ; 456e4 (11:56e4)
-	text "It is difficult to create combos"
-	line "with a Fighting Pokémon, since"
-	line "not many Fighting Pokémon have "
-	line "Pokémon Power. However, their "
-	line "strong attacks make up for this."
+	text "Ciężko jest dobrać dobre kombinacje"
+	line "z Pokémonami walki, bo nie mają"
+	line "zbyt dużo Mocy Pokémon. Mają za to"
+	line "silne ataki, którymi nadrabiają."
 	done
 
 Text04c9: ; 45785 (11:5785)
-	text "Double Colorless Energy"
+	text "Podwójna Bezbarwna Energia"
 	done
 
 Text04ca: ; 4579e (11:579e)
-	text "Double Colorless Energy is a"
-	line "very useful card. By using this "
-	line "single card, you are able to"
-	line "attach 2 Energies at once."
-	line "But be careful because the "
-	line "energy is colorless."
+	text "Podwójna Bezbarwna Energia to bardzo"
+	line "przydatna karta. Z jej pomocą można"
+	line "w jednej turze dorzucić dwa razy"
+	line "więcej Energii niż zwykle."
+	line "Nie wszystkie Pokémony jednak mogą"
+	line "z niej skorzystać."
 	done
 
 Text04cb: ; 45846 (11:5846)
-	text "Rock Pokémon"
+	text "Pokémony Kamienia"
 	done
 
 Text04cc: ; 45854 (11:5854)
-	text "Rock Pokémon Characteristics:"
-	line "Strong against Lightning Pokémon."
-	line "Weak against Grass Pokémon."
-	line "Require Fighting Energy cards"
-	line "to Attack."
+	text "Charakterystyka Pokémonów Kamienia:"
+	line "Silne przeciw Pokemonom Elektrycznym"
+	line "Słabe przeciwko Pokémonom Trawy."
 	done
 
 Text04cd: ; 458da (11:58da)
-	text "Winning with Fighting Pokémon"
+	text "Granie Pokémonami Walki"
 	done
 
 Text04ce: ; 458f9 (11:58f9)
-	text "Fighting Pokémon will have a hard"
-	line "time against Stage 2 Pokémon,"
-	line "as many Stage 2 Pokémon are"
-	line "resistant to Fighting Pokémon."
-	line "Try to knock out your opponent's"
-	line "Pokémon before they evolve."
+	text "Pokémonom walki ciężko wygrać"
+	line "z Pokémonami 2 stadium ewolucji."
+	line "Sporo z nich jest odpornych na"
+	line "Pokémony Walki, do tego mają dużo"
+	line "życia. Znokautuj przeciwników zanim"
+	line "wyewoluują!"
 	done
 
 Text04cf: ; 459b2 (11:59b2)
-	text "Basic Pokémon"
+	text "Podstawowe Pokémony"
 	done
 
 Text04d0: ; 459c1 (11:59c1)
-	text "Basic Pokémon are a must in the"
-	line "Pokémon Trading Card Game!"
-	line "Basic Pokémon are the only Pokémon"
-	line "you can put directly from your"
-	line "hand into the play area. Stage 1"
-	line "and Stage 2 Evolution cards can"
-	line "only be used on Basic Pokémon."
-	line "Make sure you have enough"
-	line "Basic Pokémon in your deck!"
+	text "Musisz mieć Podstawowego Pokémona"
+	line "na ręce aby zacząć grę. To jedyne"
+	line "Pokémony, które możesz zagrać z ręki"
+	line "bezpośrednio na puste miejsce na"
+	line "ławce. Karty ewolucji stadium 1 i 2"
+	line "mogą być umieszczane tylko na innych"
+	line "Pokémonach! Upewnij się że masz"
+	line "wystarczającą liczbę Pokémonów"
+	line "Podstawowych w swojej talii."
 	done
 
 Text04d1: ; 45ad5 (11:5ad5)
-	text "Water Pokémon"
+	text "Pokémony Wody"
 	done
 
 Text04d2: ; 45ae4 (11:5ae4)
-	text "Water Pokémon Characteristics:"
-	line "Strong against Fire Pokémon."
-	line "Weak against Lightning Pokémon."
-	line "Some cards are weak against "
-	line "Grass Pokémon. Require Water "
-	line "Energy cards to attack."
+	text "Charakterystyka Pokémonów Wody:"
+	line "Silne przeciwko Pokémonom Ognia."
+	line "Słabe przeciwko Pokémonom Wodnym,"
+	line "lub Elektrycznym."
 	done
 
 Text04d3: ; 45b94 (11:5b94)
-	text "Water Pokémon Attacks"
+	text "Ataki Pokémonów Wody"
 	done
 
 Text04d4: ; 45bab (11:5bab)
-	text "Water Gun and Hydro Pump are"
-	line "attacks which have variable damage."
-	line "The more Water Energy you attach,"
-	line "the more powerful the attack is!"
-	line "The attack can do up to 20 more "
-	line "damage in this way."
+	text "Wodny Strzał i Hydro Pompa to ataki"
+	line "o zmiennych obrażeniach."
+	line "Im więcej kart Energii Wody"
+	line "dołączysz, tym mocniejszy jest atak!"
+	line "Atak może zadać dzięki temu do"
+	line "20 obrażeń więcej."
 	done
 
 Text04d5: ; 45c65 (11:5c65)
-	text "Paralyze"
+	text "Paraliż"
 	done
 
 Text04d6: ; 45c6f (11:5c6f)
-	text "When a Pokémon is paralyzed, it"
-	line "is unable to do anything."
-	line "It cannot retreat, attack or use"
-	line "Pokémon Power, but the player may"
-	line "use any cards in his or her hand."
-	line "Paralysis lasts until the end of "
-	line "the paralyzed player's turn. "
-	line "Paralysis can be healed with"
-	line "Full Heal and Evolution cards."
+	text "Kiedy Pokémon jest sparaliżowany,"
+	line "nie może nic zrobić w swojej turze."
+	line "Nie może się wycofać, atakować, czy"
+	line "użyć Mocy Pokémon, ale gracz może"
+	line "nadal używać kart z ręki."
+	line "Paraliż trwa do końca tury"
+	line "sparaliżowanego gracza, ale można"
+	line "go wyleczyć ”Pełnym Uzdrowieniem”,"
+	line "lub Kartą Ewolucji."
 	done
 
 Text04d7: ; 45d8b (11:5d8b)
-	text "Lightning Pokémon"
+	text "Pokémony Elektryczne"
 	done
 
 Text04d8: ; 45d9e (11:5d9e)
-	text "Lightning Pokémon Characteristics:"
-	line "Strong against Water Pokémon."
-	line "Weak against Fighting Pokémon."
-	line "Require Lightning Energy cards"
-	line "to attack."
+	text "Właściwości Pokémonów Elektrycznych:"
+	line "Mocne przeciwko Pokémonom Wody."
+	line "Słabe przeciwko Pokémonom Walki."
 	done
 
 Text04d9: ; 45e29 (11:5e29)
-	text "Energy Cards"
+	text "Karty Energii"
 	done
 
 Text04da: ; 45e37 (11:5e37)
-	text "There are 6 Basic Energy cards:"
-	line "Grass, Fire, Water, Lightning,"
-	line "Fighting and Psychic!"
-	line "There is also the Double Colorless"
-	line "Energy card."
-	line "You may include as many Energy "
-	line "cards as you like in your deck,"
-	line "but you may only include 4"
-	line "Double Colorless Energy cards."
+	text "Istnieje 6 Podstawowych Kart Energii"
+	line "Trawy, Ognia, Wody, Elektryczności,"
+	line "Walki i Psychiki!"
+	line "Istnieje też Podwójna Bezbarwna"
+	line "Karta Energii."
+	line "Możesz mieć tyle kart Energii"
+	line "w Talii ile chcesz, ale tylko"
+	line "4 Karty Podwójne Bezbarwne."
 	done
 
 Text04db: ; 45f37 (11:5f37)
@@ -515,510 +498,494 @@ Text04db: ; 45f37 (11:5f37)
 	done
 
 Text04dc: ; 45f42 (11:5f42)
-	text "When you and a friend Card Pop!,"
-	line "you will each receive a new card."
-	line "After you Pop! with a friend, you "
-	line "won't be able to Pop! with the same"
-	line "friend for a while. You always get"
-	line "the same card when you Pop! with"
-	line "the same friend, so Pop! with many"
-	line "friends to get different cards!"
+	text "Gdy użyjesz z kimś ”Card Pop!”,"
+	line "dostaniecie po nowej karcie."
+	line "Po użyciu tej funkcji nie można"
+	line "użyć jej ponownie z tą samą osobą"
+	line "przez jakiś czas. Dostaniesz tę samą"
+	line "kartę jeśli użyjesz ”Card Pop!”"
+	line "z tą samą osobą, więc szukaj"
+	line "różnych chętnych!"
 	done
 
 Text04dd: ; 46054 (11:6054)
-	text "Grass Pokémon"
+	text "Pokémony Trawy"
 	done
 
 Text04de: ; 46063 (11:6063)
-	text "Grass Pokémon Characteristics:"
-	line "Strong against Rock Pokémon."
-	line "Weak against Fire Pokémon."
-	line "Some Water Pokémon are weak"
-	line "against Grass Pokémon. Require "
-	line "Grass Energy cards to attack."
+	text "Charakterystyka Pokémonów Trawy:"
+	line "Mocne przeciwko Pokémonom Kamienia"
+	line "i niektórym Pokémonom Wody."
+	line "Ich słabością jest Ogień."
 	done
 
 Text04df: ; 46115 (11:6115)
-	text "Poison"
+	text "Trucizna"
 	done
 
 Text04e0: ; 4611d (11:611d)
-	text "When your Pokémon is poisoned, it"
-	line "will continue to lose HP."
-	line "The poisoned Pokémon will lose"
-	line "10 HP at the end of each player's "
-	line "turn. To heal a Poisoned Pokémon,"
-	line "you may retreat it to the Bench"
-	line "or use the Trainer Card, Full Heal."
-	line "Evolving or Devolving the Pokémon "
-	line "are other ways of healing it."
+	text "Kiedy Twój Pokémon jest zatruty,"
+	line "będzie na końcu każdej tury tracił"
+	line "10 Punktów Życia. Aby go uzdrowić,"
+	line "możesz albo go wycofać, albo"
+	line "uleczyć używając ”Pełnego"
+	line "Uzdrowienia”, albo wyewoluować."
 	done
 
 Text04e1: ; 46243 (11:6243)
-	text "Grass Pokémon & Pokémon Breeder"
+	text "Pokémony Trawy i Hodowca Pokémonów"
 	done
 
 Text04e2: ; 46264 (11:6264)
-	text "Many Grass Pokémon are capable of"
-	line "evolving to Stage 2 Pokémon."
-	line "Use the Trainer Card, Pokémon"
-	line "Breeder, to evolve Pokémon quickly."
-	line "You'll be able to use powerful"
-	line "attacks early in the game."
+	text "Wiele Pokémonów Trawy ma ewolucję"
+	line "2 Stadium. Użyj karty ”Hodowca"
+	line "Pokémonów”, aby szybko wyewoluować"
+	line "je z pominięciem 1 stadium. Możesz"
+	line "wtedy używać potężnych ataków na"
+	line "wcześniejszym etapie gry."
 	done
 
 Text04e3: ; 46320 (11:6320)
-	text "Psychic Pokémon"
+	text "Pokémony Psychiki"
 	done
 
 Text04e4: ; 46331 (11:6331)
-	text "Psychic Pokémon Characteristics:"
-	line "Weak against Psychic Pokémon."
-	line "Some Colorless Pokémon are strong "
-	line "against Psychic Pokémon. Require"
-	line "Psychic Energy cards to attack."
+	text "Charakterystyka Pokémonów Psychiki:"
+	line "Słabe przeciwko Pokémonom Psychiki."
+	line "Niektóre Pokémony Bezbarwne mogą"
+	line "być mocne przeciw Pokémonom"
+	line "Psychiki."
 	done
 
 Text04e5: ; 463d5 (11:63d5)
-	text "Sleep"
+	text "Sen"
 	done
 
 Text04e6: ; 463dc (11:63dc)
-	text "When a Pokémon is asleep,"
-	line "it is unable to do anything."
-	line "It cannot attack, retreat or use"
-	line "Pokémon Power. A coin will be "
-	line "flipped at the end of each player's "
-	line "turn. If the coin comes up heads, "
-	line "the Pokémon will wake up. If it's"
-	line "tails, the Pokémon remains asleep."
-	line "Use Full Heal to wake it up!"
+	text "Kiedy Pokémon śpi, nie jest"
+	line "w stanie nic zrobić."
+	line "Nie może atakować, wycofać się, ani"
+	line "używać Mocy Pokémon. Rzut monetą"
+	line "na końcu tury każdego gracza"
+	line "zdecyduje, czy się wybudzi. Możesz"
+	line "też go obudzić używając ”Pełnego"
+	line "Uzdrowienia”!"	
 	done
 
 Text04e7: ; 464fe (11:64fe)
-	text "Pokémon Power"
+	text "Moc Pokémon"
 	done
 
 Text04e8: ; 4650d (11:650d)
-	text "Some Pokémon have special "
-	line "abilities called Pokémon Power."
-	line "They are very powerful abilities!"
-	line "They can be used before attacking, "
-	line "even if the Pokémon with the "
-	line "Pokémon Power is still on the Bench."
-	line "There are many different Pokémon "
-	line "Powers, so check your cards!"
+	text "Niektóre Pokémony mają specjalną"
+	line "umiejętność zwaną ”Mocą Pokémon”."
+	line "Są bardzo potężne i zróżnicowane!"
+	line "Mogą być używane przed atakiem,"
+	line "nawet jeśli Pokémon jest na Ławce."
+	line "Każda moc jest inna i jest ich"
+	line "wiele, więc sprawdzaj swoje karty!"
 	done
 
 Text04e9: ; 46611 (11:6611)
-	text "Science Club Pokémon"
+	text "Pokémony z Klubu Nauki"
 	done
 
 Text04ea: ; 46627 (11:6627)
-	text "Characteristics of Pokémon used"
-	line "in the Science Club:"
-	line "Strong against Rock Pokémon."
-	line "Weak against Psychic Pokémon."
-	line "Many cards have attacks with "
-	line "poison and sleep effects."
-	line "Require Grass Energy cards"
-	line "to attack."
+	text "Cechy Pokémonów z Klubu Nauki:"
+	line "Mocne przeciwko Pokémonom Kamienia."
+	line "Słabe przeciwko Pokémonom Psychiki."
+	line "Sporo ataków trujących"
+	line "i usypiających. Używają dużo"
+	line "Energii Trawy do ataków."
 	done
 
 Text04eb: ; 466f6 (11:66f6)
-	text "Confusion"
+	text "Dezorientacja"
 	done
 
 Text04ec: ; 46701 (11:6701)
-	text "It's big trouble if your Pokémon"
-	line "gets Confused!"
-	line "When a Confused Pokémon tries to"
-	line "attack, you must flip a coin!"
-	line "If it's heads, the attack is "
-	line "successful, but if it's tails,"
-	line "the Pokémon will attack itself"
-	line "for 20 damage!"
+	text "Dezorientacja potrafi być sporym"
+	line "problemem!"
+	line "Kiedy zdezorientowany Pokémon"
+	line "próbuje zaatakować, musisz"
+	line "rzucić monetą! Pikachu oznacza,"
+	line "że atak się uda, ale reszka"
+	line "spowoduje że Pokémon zada sobie sam"
+	line "20 punktów obrażeń!"
 	done
 
 Text04ed: ; 467dc (11:67dc)
-	text "Useful Buttons"
+	text "Przydatne Przyciski"
 	done
 
 Text04ee: ; 467ec (11:67ec)
-	text "While pressing the B Button,"
-	line "use the + Control Pad to view"
-	line "your own or your opponent's "
-	line "Play Area or Discard Pile!"
-	line "B + Down = Your Play Area"
-	line "B + Left = Your Discard Pile"
-	line "B + Up = Opponent's Play Area"
-	line "B + Right = Opponent's Discard Pile"
-	line "Remember these handy functions!"
+	text "Wciskając przycisk B, użyj"
+	line "strzałek +, aby wyświetlić"
+	line "swój lub rywala obszar gry, a także"
+	line "stosy kart odrzuconych!"
+	line "B + Dół = Twój obszar gry"
+	line "B + Lewo = Twoje karty odrzucone"
+	line "B + Góra = Obszar gry rywala"
+	line "B + Prawo = Odrzucone karty rywala"
+	line "Te skróty mogą się przydać!"
 	done
 
 Text04ef: ; 468f9 (11:68f9)
-	text "Fire Pokémon"
+	text "Pokémony Ognia"
 	done
 
 Text04f0: ; 46907 (11:6907)
-	text "Fire Pokémon Characteristics:"
-	line "Strong against Grass Pokémon."
-	line "Weak against Water Pokémon."
-	line "Some Grass Pokémon are not weak"
-	line "against Fire Pokémon."
-	line "Require Fire Energy cards"
-	line "to attack."
+	text "Charakterystyka Pokémonów Ognia:"
+	line "Silne przeciwko Pokémonom Trawy."
+	line "Słabe przeciwko Pokémonom Wody."
+	line "Niektóre Pokémony trawy nie mają"
+	line "Ognia jako słabości."
 	done
 
 Text04f1: ; 469bb (11:69bb)
-	text "Fire Pokémon Attacks"
+	text "Ataki Pokémonów Ognia"
 	done
 
 Text04f2: ; 469d1 (11:69d1)
-	text "Many Fire Pokémon attacks require"
-	line "that an Energy card be removed."
-	line "Be sure to include many Energy"
-	line "cards in decks with Fire Pokémon."
-	line "It might be wise to also include"
-	line "Energy Retrieval in your deck."
+	text "Wiele Pokémonów ognia ma ataki"
+	line "usuwające Karty Energii."
+	line "Dodaj do swojej ognistej talii"
+	line "wiele Kart Energii, żeby zaspokoić"
+	line "ich potrzeby! Pomyśl też o dodaniu"
+	line "karty ”Odzyskiwacza Energii”!"
 	done
 
 Text04f3: ; 46a95 (11:6a95)
-	text "Original Game Boy Cards"
+	text "Unikatowe Karty Game Boy"
 	done
 
 Text04f4: ; 46aae (11:6aae)
-	text "The Pokémon Trading Card Game"
-	line "for Game Boy includes many "
-	line "original cards, like the "
-	line ""
-	text "<Lv>14 Meowth with the Cat Punch "
-	line "attack. There are many new cards,"
-	line "so go search them out!"
+	text "W grze Pokémon, w którą grasz, jest"
+	line "wiele oryginalnych kart, które"
+	line "możesz dostać w sklepach! Niektóre"
+	line "karty są także unikatowe dla tej"
+	line "gry i nie istnieją ich fizyczne"
+	line "wersje. Znajdź je wszystkie!"
 	done
 
 Text04f5: ; 46b5d (11:6b5d)
-	text "Colorless Pokémon"
+	text "Pokémony Bezbarwne"
 	done
 
 Text04f6: ; 46b70 (11:6b70)
-	text "Colorless Pokémon are very easy"
-	line "to use. They can attack with "
-	line "any type of Energy card, so"
-	line "you can include them in any type"
-	line "of deck. There are many Colorless "
-	line "Pokémon, so check them all out!"
+	text "Bezbarwne Pokémony są bardzo"
+	line "łatwe w użyciu. Mogą atakować"
+	line "jakąkolwiek z jakąkolwiek Kartą"
+	line "Energii, więc możesz je dorzucić"
+	line "do różnych Talii! Jest wiele"
+	line "Bezbarwnych Pokémonów, sprawdź je!"
 	done
 
 Text04f7: ; 46c2f (11:6c2f)
-	text "Dragon Pokémon"
+	text "Smocze Pokémony"
 	done
 
 Text04f8: ; 46c3f (11:6c3f)
-	text "Colorless Dragon Pokémon cards"
-	line "have resistance to Psychic"
-	line "Pokémon and have no weaknesses."
-	line "They can attack with any type"
-	line "of Energy card - they are truly"
-	line "worthy of the name ”dragon!”"
+	text "Bezbarwne, Smocze Pokémony"
+	line "są odporne na Pokémony Psychiki"
+	line "i nie mają słabości. Mogą też"
+	line "atakować z każdą Kartą Energii -"
+	line "są naprawdę godne miana ”smoków”!"
 	done
 
 Text04f9: ; 46cf5 (11:6cf5)
-	text "Bird Pokémon"
+	text "Pokémony Ptaki"
 	done
 
 Text04fa: ; 46d03 (11:6d03)
-	text "Colorless Bird Pokémon cards"
-	line "have resistance to Fighting"
-	line "Pokémon but are weak against"
-	line "Lightning Pokémon. They can attack"
-	line "with any type of Energy card."
-	line "They can retreat easily, since"
-	line "they are flying."
+	text "Bezbarwne Ptaki Pokémon są odporne"
+	line "na Pokémony Walki, ale ich słabością"
+	line "jest elektryczność. Mogą atakować"
+	line "z dowolną Kartą Energii i często"
+	line "łatwo im się wycofać dzięki lataniu."
 	done
 
 Text04fb: ; 46dcb (11:6dcb)
-	text "Legendary Pokémon Cards, Vol. 1"
+	text "Legendarne Karty Pokémon, Tom 1"
 	done
 
 Text04fc: ; 46dec (11:6dec)
-	text "The first of the Legendary Pokémon"
-	line "Cards is <Lv>37 Moltres. With"
-	line "Firegiver, you can place Fire"
-	line "Energy cards in your hand! Also,"
-	line "Dive Bomb is a powerful attack!"
-	line "Grand Master Courtney, the Fire"
-	line "Queen, owns this card!"
+	text "Pierwszą z Legendarnych Kart Pokémon"
+	line "jest <Lv>37 Moltres. Jego Moc,"
+	line "Prometeusz, umieszcza Karty Energii"
+	line "Ognia w Twojej ręce! Bombardowanie,"
+	line "jego główny atak, to bardzo potężny"
+	line "ruch! Arcymistrzyni Courtney,"
+	line "Ognista Królowa, posiada tę kartę!"
 	done
 
 Text04fd: ; 46ec2 (11:6ec2)
-	text "Legendary Pokémon Cards, Vol. 2"
+	text "Legendarne Karty Pokémon, Tom 2"
 	done
 
 Text04fe: ; 46ee3 (11:6ee3)
-	text "The second Legendary Pokémon Card"
-	line "is <Lv>68 Zapdos. With Peal of"
-	line "Thunder, just putting this card on"
-	line "the bench causes damage!"
-	line "Also, Big Thunder is a powerful"
-	line "attack! The Thunder Grand Master,"
-	line "Steve, owns this card!"
+	text "Drugą Legendarną Kartą Pokémon"
+	line "jest <Lv>68 Zapdos. Z łomotem"
+	line "Pioruna samo umieszczenie tej karty"
+	line "na ławce zadaje obrażenia!"
+	line "Wielki Grzmot to jego główny atak!"
+	line "Arcymistrz Piorunów, Steve, posiada"
+	line "tę kartę!"
 	done
 
 Text04ff: ; 46fb8 (11:6fb8)
-	text "Legendary Pokémon Cards, Vol. 3"
+	text "Legendarne Karty Pokémon, Tom 3"
 	done
 
 Text0500: ; 46fd9 (11:6fd9)
-	text "The third Legendary Pokémon Card"
-	line "is <Lv>37 Articuno. Its Quickfreeze"
-	line "will paralyze opponents' Pokémon"
-	line "when the card is put in play!"
-	line "Also, Ice Breath is a powerful"
-	line "Attack! Grand Master Jack,"
-	line "the Ice-man, owns this card!"
+	text "Trzecia Legendarna Karta Pokémon"
+	line "to <Lv>37 Articuno. Kiedy ta gra"
+	line "wejdzie do gry, jej moc - Zmrożenie"
+	line "- może sparaliżować wrogie Pokémony!"
+	line "Używa też zatrważającego Mroźnego"
+	line "Tchnienia. Arcymistrz Jack, Władca"
+	line "Lodu, posiada tę kartę!"
 	done
 
 Text0501: ; 470b3 (11:70b3)
-	text "Legendary Pokémon Cards, Vol. 4"
+	text "Legendarne Karty Pokémon, Tom 4"
 	done
 
 Text0502: ; 470d4 (11:70d4)
-	text "The fourth Legendary Pokémon Card"
-	line "is <Lv>41 Dragonite. Its Healing"
-	line "Wind will heal damage done to "
-	line "Pokémon when this card is played!"
-	line "Also, Slam is a powerful attack!"
-	line "Rod, Leader of the Grand Masters,"
-	line "owns this card!"
+	text "Czwartą Legendarną Kartą jest"
+	line "<Lv>41 Dragonite. Leczący Wiatr"
+	line "uleczy obrażenia na każdym Pokémonie"
+	line "osoby która zagra tę kartę!"
+	line "Uważaj też na Trzaśnięcie ogonem"
+	line "Dragonite'a! Lider Arcymistrzów,"
+	line "Rod, posiada tę kartę!"
 	done
 
 Text0503: ; 471aa (11:71aa)
-	text "The Grand Masters"
+	text "Arcymistrzowie"
 	done
 
 Text0504: ; 471bd (11:71bd)
-	text "Courtney, Steve, Jack and Rod -"
-	line "the 4 Grand Masters who defend"
-	line "the Legendary Pokémon Cards - "
-	line "are all master players of the "
-	line "Pokémon Trading Card Game!"
+	text "Courtney, Steve, Jack oraz Rod -"
+	line "to czworo Arcymistrzów broniących"
+	line "Legendarnych Kart Pokémon. Każde"
+	line "z nich jest prawdziwym Guru"
+	line "w temacie kart Pokémon!"
 	done
 
 Text0505: ; 47256 (11:7256)
-	text "Master Medals"
+	text "Medale Mistrzów"
 	done
 
 Text0506: ; 47265 (11:7265)
-	text "There are a total of 8 Master Medals"
-	line "owned by the Club Masters. It is "
-	line "said that the secret of their Club's"
-	line "deck is encrypted in the Master "
-	line "Medals. Some say the medals were "
-	line "a gift from the Grand Masters."
+	text "Istnieje 8 Medalów Mistrzów, które"
+	line "są rozdawane przez Mistrzów Klubów."
+	line "Podobno w każdym medalu zaszyfrowane"
+	line "są tajemnice Talii używanych w tym"
+	line "Klubie. Plotka głosi, że te medale"
+	line "były prezentem od Arcymistrzów."
 	done
 
 Text0507: ; 47334 (11:7334)
-	text "Plate of Legends"
+	text "Płyta z Legendą"
 	done
 
 Text0508: ; 47346 (11:7346)
-	text "”Those in search of the Legendary"
-	line " Pokémon Cards..."
-	line " Defeat the Masters of the 8 Clubs"
-	line " and attain the 8 Medals."
-	line " Once attained, defeat the Grand"
-	line " Master here at Pokémon Dome..."
-	line " Then you shall inherit"
-	line " the Legendary Pokémon Cards.”"
+	text "”Szukający Legendarnych Kart"
+	line " Pokémon..."
+	line " Pokona Mistrzów 8 Klubów i zbierze"
+	line " ich 8 Medali."
+	line " Wygra walkę z Liderem Arcymistrzów"
+	line " tutaj, w Hali Pokémon..."
+	line " Dopiero wtedy będzie godzien"
+	line " Legendarnych Kart Pokémon.”"
 	done
 
 Text0509: ; 47430 (11:7430)
-	text "Mysterious Voice"
+	text "Tajemniczy Głos"
 	done
 
 Text050a: ; 47442 (11:7442)
-	text "Greetings! Welcome to the "
-	line "Challenge Hall! The Challenge Cup "
-	line "will begin soon. If you win the "
-	line "Challenge Cup, you will receive "
-	line "a Promotional Card! Please join "
-	line "us for this competition."
+	text "Witaj! Wkraczasz do Hali Wyzwań!"
+	line "Puchar Wyzwań niedługo się zacznie."
+	line "Jeśli go wygrasz, otrzymasz kartę"
+	line "Promocyjną! Dołącz do grona"
+	line "uczestników i spróbuj swoich sił!"
 	done
 
 Text050b: ; 474fd (11:74fd)
-	text "Greetings! Welcome to the "
-	line "Challenge Hall! This is where the"
-	line "the Challenge Cup is held. The "
-	line "Challenge Cup may start at any"
-	line "time, so please visit the "
-	line "Challenge Hall often."
+	text "Witaj! Wkraczasz do Hali Wyzwań!"
+	line "To tutaj organizowany jest Puchar"
+	line "Wyzwań. Może się zacząć w każdym"
+	line "momencie, więc wpadaj tu często,"
+	line "żeby go nie przeoczyć! Dobrze"
+	line "jest odwiedzić to miejsce chociaż po"
+	line "zdobyciu każdego Medalu Mistrzów."
 	done
 
 Text050c: ; 475ab (11:75ab)
-	text "Greetings! Welcome to the "
-	line "Challenge Hall! Defeat 3 "
-	line "opponents here, and you shall be "
-	line "presented with a wonderful gift!"
-	line "Please join in the competition!"
+	text "Witaj! Wkraczasz do Hali Wyzwań!"
+	line "Pokonaj 3 rywali, a otrzymasz"
+	line "niesamowitą nagrodę! Dołącz"
+	line "do grona uczestników i spróbuj"
+	line "swych sił!"
 	done
 
 Text050d: ; 47644 (11:7644)
-	text "Most unfortunate, <RAMNAME>."
-	line "Once you enter, you won't be able"
-	line "to re-enter for some time. "
-	line "Please try again another day."
+	text "Przykro mi, <RAMNAME>."
+	line "Po wzięciu udziału musisz trochę"
+	line "poczekać zanim znów spróbujesz."
+	line "Spróbuj tu przyjść innego dnia."
 	done
 
 Text050e: ; 476b6 (11:76b6)
-	text "Congratulations, <RAMNAME>!"
-	line "You received a card!"
-	line "Please join us for the next "
-	line "Challenge Cup, too."
+	text "Gratulacje, <RAMNAME>!"
+	line "Otrzymujesz Kartę!"
+	line "Wpadnij też na kolejny"
+	line "Puchar Wyzwań."
 	done
 
 Text050f: ; 47711 (11:7711)
-	text "I won't lose to any"
-	line "whipper-snapper!"
-	line "I'm going to win this "
-	line "Challenge Cup!"
+	text "Nie przegram z żadnym"
+	line "słabeuszem!"
+	line "Chcę wygrać ten"
+	line "Puchar Wyzwań!"
 	done
 
 Text0510: ; 4775d (11:775d)
-	text "I work at the Challenge Cup"
-	line "as the HOST."
-	line "I can't wait to get up on stage!"
+	text "Pracuję przy organizacji Pucharu"
+	line "jako organizator. Nie mogę się"
+	line "doczekać aż wskoczę na scenę!"
 	done
 
 Text0511: ; 477a8 (11:77a8)
-	text "The time has come to see if all"
-	line "my training has paid off!"
-	line "I'm going to win the Challenge Cup"
-	line "and become a Grand Master!"
+	text "Nadszedł czas sprawdzić, czy mój"
+	line "trening się opłacił!"
+	line "Teraz wygram Puchar Mistrzów,"
+	line "a potem stanę się Arcymistrzem!"
 	done
 
 Text0512: ; 47821 (11:7821)
-	text "Hey now! It's the Challenge Cup!"
-	line "Hey now! Gonna give it a try!"
-	line "Hey now! Gonna beat 3 people!"
-	line "Hey now! Watch me win the prize!"
+	text "Hej ho! To pucharu czas!"
+	line "Hey ho! Nie zabraknie nas!"
+	line "Hey ho! Wygrać walki trzy!"
+	line "Hey ho! Nie dasz rady ty!"
 	done
 
 Text0513: ; 478a0 (11:78a0)
-	text "I'm good enough to compete in"
-	line "the Challenge Cup! Girls are just"
-	line "as good at the Pokémon Trading"
-	line "Card Game as boys!"
+	text "Jestem na tyle dobra, żeby walczyć"
+	line "w Pucharze Wyzwań! Dziewczyny"
+	line "są tak samo dobre w Karty Pokémon,"
+	line "co chłopcy!"
 	done
 
 Text0514: ; 47913 (11:7913)
-	text "What's that? Oh! The Challenge "
-	line "Cup isn't being held right now."
-	line "Me? I'm waiting for the Challenge"
-	line "Cup to begin."
+	text "Słucham? Och, Puchar Wyzwań nie jest"
+	line "teraz organizowany. Ja?"
+	line "Czekam aż zacznie się kolejny..."
 	done
 
 Text0515: ; 47984 (11:7984)
-	text "Hi, <RAMNAME>."
-	line "Are you competing, too?"
+	text "Hej, <RAMNAME>."
+	line "Też startujesz?"
 	done
 
 Text0516: ; 479a4 (11:79a4)
-	text "I'm the one who's going to"
-	line "defeat 3 opponents! The prize, "
+	text "To ja pokonam 3 wrogów!"
+	line "Nagroda zwycięzcy,"
 	line ""
-	text "<Lv>60 Mewtwo, belongs to me!"
-	line "You just sit tight and watch me win!"
-	line "See Ya! Ha ha ha ha ha ha!"
+	text "<Lv>60 Mewtwo, będzie należeć do"
+	line "mnie! Usiądź i popatrz jak wygrywam!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text0517: ; 47a3d (11:7a3d)
-	text "Hey, it's <RAMNAME> - the loser"
-	line "of the Challenge Cup!"
+	text "O proszę, to <RAMNAME>!"
+	line "Jak można było tak przegrać?!"
 	done
 
 Text0518: ; 47a6c (11:7a6c)
-	text "What? You're asking if I won?"
-	line "I lost to the third opponent!"
-	line "I just lost my concentration."
-	line "But I'll win the next Challenge "
-	line "Cup! Of course I'll puverize you!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Co? Pytasz czy wygrałem?"
+	line "Przegrałem z trzecim przeciwnikiem!"
+	line "Coś rozproszyło moją uwagę..."
+	line "Ale oczywiście kolejny Puchar będzie"
+	line "mój! Z Tobą też wygram, jeśli"
+	line "tylko odważysz się przyjść!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text0519: ; 47b25 (11:7b25)
-	text "Hey <RAMNAME>, too bad "
-	line "you're too late!"
+	text "Hej <RAMNAME>, przychodzisz"
+	line "za późno!"
 	done
 
 Text051a: ; 47b47 (11:7b47)
-	text "The Challenge Cup is over! I"
-	line "defeated 3 opponents and won"
-	line "the prize - <Lv>60 Mewtwo!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Puchar Wyzwań się skończył!"
+	line "Pokonałem 3 przeciwników, zdobywając"
+	line "nagrodę - <Lv>60 Mewtwo!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text051b: ; 47bb6 (11:7bb6)
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
+	text "Hej, <RAMNAME>."
+	line "Co Ty tu robisz?"
 	done
 
 Text051c: ; 47bd7 (11:7bd7)
-	text "The Challenge Cup is over! I"
-	line "defeated 3 opponents and won"
-	line "the prize - <Lv>60 Mewtwo!"
-	line "I guess you could try entering"
-	line "the next Challenge Cup, but "
-	line "you won't have a chance since "
-	line "I'll win that one, too!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "Puchar Wyzwań się skończył!"
+    line "Pokonałem 3 przeciwników, zdobywając"
+	line "nagrodę - <Lv>60 Mewtwo!"
+	line "Możesz spróbować wystartować"
+	line "w kolejnym Pucharze, ale raczej nie"
+	line "będziesz mieć szans - zamierzm"
+	line "go też wygrać, tak jak ten!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text051d: ; 47cb9 (11:7cb9)
-	text "Hey, <RAMNAME>."
-	line "We meet again."
+	text "Hej, <RAMNAME>."
+	line "Znowu się spotykamy."
 	done
 
 Text051e: ; 47cd1 (11:7cd1)
-	text "No matter who enters the Challenge"
-	line "Cup, I'll be the winner! "
+	text "Nieważne kto wystartuje w Pucharze"
+	line "Wyzwań, wygram Ja!"
 	line ""
-	text "<Lv>8 Mew, this Cup's prize, will "
-	line "belong to me! Why don't you just"
-	line "give up and go home!"
-	line "See ya! Ha ha ha ha ha ha!"
+	text "<Lv>8 Mew, nagroda za ten Puchar,"
+	line "będzie należeć do mnie! Po co tracić"
+	line "czas, idź lepiej do domu!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text051f: ; 47d82 (11:7d82)
-	text "Hey, it's <RAMNAME> - the"
-	line "loser of the Challenge Cup!"
+	text "Zaraz, to <RAMNAME>!"
+	line "Jak można było tak przegrać?!"
 	done
 
 Text0520: ; 47db1 (11:7db1)
-	text "That was a close one for me!"
-	line "I lost to the third opponent!"
-	line "But I'll win the next Challenge "
-	line "Cup! And of course, I'll pulverize "
-	line "you! See ya! Ha ha ha ha ha!"
+	text "A niech to, było blisko!"
+	line "Pokonał mnie trzeci przeciwnik!"
+	line "Ale kolejny Puchar Wyzwań będzie!"
+	line "mój! Zgłoś się też, to z chęcią Cię"
+	line "rozgniotę! Narka! Hahahahaha!"
 	done
 
 Text0521: ; 47e4f (11:7e4f)
-	text "Hey, isn't that <RAMNAME>?"
-	line "Late as always!"
+	text "Zaraz, czy to nie <RAMNAME>?"
+	line "Jak zwykle po czasie!"
 	done
 
 Text0522: ; 47e73 (11:7e73)
-	text "The Challenge Cup is already"
-	line "over! What? Who won?"
-	line "Who do you expect!?! Me, of "
-	line "course! The prize belongs to"
-	line "me! <Lv>8 Mew! See ya!"
-	line "Ha ha ha ha ha ha!"
+	text "Puchar Wyzwań już się skończył!"
+	line "Co?! Kto Wygrał?! A jak myślisz?"
+	line "Oczywiście że ja! Nagroda jest moja!"
+	line "<Lv>8 Mew, bardzo rzadka karta!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text0523: ; 47f08 (11:7f08)
-	text "Hey, <RAMNAME>!"
-	line "What are you doing here?"
+	text "Hej, <RAMNAME>!"
+	line "Co Ty tu robisz?"
 	done
 
 	ds $d6
