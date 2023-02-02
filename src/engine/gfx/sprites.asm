@@ -52,7 +52,7 @@ Sprites:
 	gfx_pointer Duel55Gfx,          $02 ; SPRITE_DUEL_55
 	gfx_pointer Duel58Gfx,          $04 ; SPRITE_DUEL_58
 	gfx_pointer Duel3Gfx,           $09 ; SPRITE_DUEL_3
-	gfx_pointer Duel4Gfx,           $12 ; SPRITE_DUEL_4
+	gfx_pointer Duel4Gfx,           $16 ; SPRITE_DUEL_4
 	gfx_pointer Duel5Gfx,           $09 ; SPRITE_DUEL_5
 	gfx_pointer Duel6Gfx,           $11 ; SPRITE_DUEL_6
 	gfx_pointer Duel59Gfx,          $03 ; SPRITE_DUEL_59

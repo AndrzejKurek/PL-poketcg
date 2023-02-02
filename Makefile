@@ -97,6 +97,7 @@ src/gfx/booster_packs/mystery2.2bpp: rgbgfx += -x 10
 
 src/gfx/cards/%.2bpp: rgbgfx += -h -P
 
+src/gfx/duel/anims/4.2bpp: rgbgfx += -x 2
 src/gfx/duel/anims/51.2bpp: rgbgfx += -x 7
 src/gfx/duel/dmg_sgb_symbols.2bpp: rgbgfx += -x 7
 src/gfx/duel/other.2bpp: rgbgfx += -x 7
