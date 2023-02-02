@@ -1,480 +1,473 @@
 Text0524: ; 48000 (12:4000)
-	text "The Challenge Cup is over already! "
-	line "Too bad you couldn't enter!"
-	line "The prize belongs to me! <Lv>8 Mew!"
-	line "You really should enter the next"
-	line "Challenge Cup! But then again, "
-	line "why bother, since I'll also win "
-	line "that one, too! See ya!"
-	line "Ha ha ha ha ha ha!"
+	text "Puchar wyzwań się skończył!"
+	line "Nawet nie mogliśmy się zmierzyć!"
+	line "Nagroda jest moja! <Lv>8 Mew!"
+	line "Może w kolejnym Pucharze powalczymy?"
+	line "Ale w sumie, po co robić sobie"
+	line "kłopot, przecież wiadomo że wygram!"
+	line "Narka! Hahahahahaha!"
 	done
 
 Text0525: ; 480ef (12:40ef)
-	text "We do not accept entrants at"
-	line "this reception area."
-	line "Please go to the reception area"
-	line "to the left."
+	text "Nie przyjmujemy zgłoszeń z tej"
+	line "strony. Udaj się do recepcji"
+	line "po lewej stronie."
 	done
 
 Text0526: ; 4814f (12:414f)
-	text "You can't go past this point!"
-	line "It's restricted!"
+	text "Nie możesz tędy przejść!"
 	done
 
 Text0527: ; 4817f (12:417f)
-	text "The last Challenge Cup was "
-	line "a blast! The prize was really"
-	line "cool too! Challenge Cups are "
-	line "the best! I wonder when the "
-	line "next one will be?"
+	text "Ostatni Puchar Wyzwań był"
+	line "niesamowity! Nagroda była też"
+	line "całkiem spoko! Puchary są super,"
+	line "ciekawe kiedy będzie kolejny?"
 	done
 
 Text0528: ; 48207 (12:4207)
-	text "The Challenge Cup is held here,"
-	line "at the Challenge Hall."
-	line "We're still preparing for the "
-	line "next Challenge Cup."
-	line "Please visit us another time."
+	text "W tym miejscu, w Hali Wyzwań,"
+	line "odbywa się Puchar Wyzwań."
+	line "Nadal przygotowujemy się do"
+	line "Kolejnego Pucharu."
+	line "Odwiedź nas kiedy indziej."
 	done
 
 Text0529: ; 48290 (12:4290)
-	text "Someone who entered a Challenge"
-	line "Cup once cannot re-enter the "
-	line "same Challenge Cup again. Please"
-	line "wait for the next Challenge Cup."
+	text "Ktoś, kto już wystartował w danym"
+	line "Pucharze nie może dołączyć do niego"
+	line "po raz drugi. Musisz poczekać"
+	line "na kolejny Puchar Wyzwań."
 	done
 
 Text052a: ; 48311 (12:4311)
-	text "Someone who entered a Challenge"
-	line "Cup once cannot re-enter for"
-	line "a while. Please visit us another"
-	line "time."
+	text "Ktoś, kto wystartował w ostatnim"
+	line "Pucharze Wyzwań nie może przez jakiś"
+	line "czas dołączyć do kolejnego."
+	line "Odwiedź nas kiedy indziej."
 	done
 
 Text052b: ; 48376 (12:4376)
-	text "The first Challenge Cup is"
-	line "now underway!"
-	line "Defeat 3 opponents to win the"
-	line "wonderful prize of <Lv>60 Mewtwo!"
+	text "Rozpoczął się właśnie"
+	line "Pierwszy Puchar Wyzwań!"
+	line "Pokonaj 3 przeciwników, aby wygrać"
+	line "cudowną nagrodę - <Lv>60 Mewtwo!"
 	done
 
 Text052c: ; 483de (12:43de)
-	text "The second Challenge Cup is"
-	line "now under way!"
-	line "Defeat 3 opponents to win the"
-	line "wonderful prize of <Lv>8 Mew!"
+	text "Rozpoczął się właśnie"
+	line "Drugi Puchar Wyzwań!"
+	line "Pokonaj 3 przeciwników, aby wygrać"
+	line "cudowną nagrodę - <Lv>8 Mew!"
 	done
 
 Text052d: ; 48444 (12:4444)
-	text "The Challenge Cup is now "
-	line "underway!"
-	line "Defeat 3 opponents to win a"
-	line "fabulous prize!"
+	text "Rozpoczął się właśnie"
+	line "Puchar Wyzwań!"
+	line "Pokonaj 3 przeciwników, aby wygrać"
+	line "niesamowitą nagrodę!"
 	done
 
 Text052e: ; 48495 (12:4495)
-	text "The game will be a 1-match "
-	line "duel with 4 prizes! We are "
-	line "now accepting entrants here."
-	line "Wouldn't you like to enter?"
+	text "W pojedynkach obowiązują 4 Nagrody!"
+	line "Rozpoczęły się zapisy."
+	line "Mamy jeszcze kilka miejsc,"
+	line "czy chcesz dołączyć?"
 	done
 
 Text052f: ; 48507 (12:4507)
-	text "Will you enter?"
+	text "Chcesz walczyć w Pucharze Wyzwań?"
 	done
 
 Text0530: ; 48518 (12:4518)
-	text "Oh, that's too bad."
-	line "Please do visit us again."
+	text "Och, szkoda."
+	line "Zapraszamy ponownie!"
 	done
 
 Text0531: ; 48547 (12:4547)
-	text "Then please proceed to the stage!"
+	text "W takim razie udaj się na scenę!"
 	done
 
 Text0532: ; 4856a (12:456a)
-	text "Well, things are heating up"
-	line "here at the Challenge Cup!"
+	text "W dzisiejszym Pucharze Wyzwań"
+	line "walki są coraz gorętsze!"
 	done
 
 Text0533: ; 485a2 (12:45a2)
-	text "Presently, <RAMNAME> is still"
-	line "a contender!"
+	text "Aktualnie, <RAMNAME> wciąż walczy!"
 	done
 
 Text0534: ; 485c6 (12:45c6)
-	text "<RAMNAME> is the new challenger!"
+	text "<RAMNAME> jest nowym pretendentem!"
 	done
 
 Text0535: ; 485e0 (12:45e0)
-	text "There will be 4 Prizes!"
-	line "OK!!"
-	line "Let the duel begin!"
+	text "Walka z 4 Nagrodami!"
+	line "Dobra!"
+	line "Zaczynajmy!"
 	done
 
 Text0536: ; 48612 (12:4612)
-	text "The winner is <RAMTEXT>!!"
+	text "Wygrywa <RAMTEXT>!"
 	line ""
-	text "<RAMTEXT> has defeated 2 opponents!"
-	line "Just 1 more opponent to go"
-	line "before winning the prize!"
+	text "<RAMTEXT> pokonuje drugiego"
+	line "przeciwnika, został tylko jeden"
+	line "do zgarnięcia nagrody!"
 	done
 
 Text0537: ; 48677 (12:4677)
-	text "Too bad, <RAMNAME>."
-	line "Have a safe trip home!"
+	text "Trudno, <RAMNAME>."
+	line "Bezpiecznego powrotu do domu!"
 	done
 
 Text0538: ; 4869b (12:469b)
-	text "The Winner is <RAMTEXT>!!!"
+	text "Wygrywa <RAMTEXT>!"
 	line ""
-	text "<RAMTEXT> has defeated 1 opponent!"
-	line "2 more opponents to go"
-	line "before winning the prize!"
+	text "<RAMTEXT> pokonuje pierwszego"
+	line "przeciwnika! Zostało jeszcze 2"
+	line "do wygrania nagrody!"
 	done
 
 Text0539: ; 486fc (12:46fc)
-	text "How unfortunate!"
-	line "Unable to defeat the last opponent!"
-	line "It was close, but <RAMNAME> was "
-	line "defeated by the third opponent!"
+	text "Jaka szkoda!"
+	line "Nie udało się pokonać ostatniego"
+	line "przeciwnika! Było blisko, ale"
+	line "<RAMNAME> przegrywa trzecią walkę!"
 	done
 
 Text053a: ; 4876b (12:476b)
-	text "You see! I'm the better player?"
-	line "Two more opponents to go"
-	line "to win the Challenge Cup!!"
+	text "Widzisz! Jestem lepszym graczem!"
+	line "Jeszcze dwóch przeciwników"
+	line "i wygram Puchar Wyzwań!"
 	done
 
 Text053b: ; 487c0 (12:47c0)
-	text "Ha ha ha! How about that!?!"
-	line "I win!!"
-	line "2 more opponents to go and"
-	line "the <Lv>8 Mew belongs to me!"
+	text "Ha ha ha! Co Ty na to?"
+	line "Wygrałem!"
+	line "Jeszcze 2 przeciwników"
+	line "i <Lv>8 Mew będzie mój!"
 	done
 
 Text053c: ; 4881b (12:481b)
-	text "Congratulations!"
-	line "The Winner is <RAMNAME>!"
+	text "Brawo!"
+	line "Wygrywa <RAMNAME>!"
 	line ""
-	text "<RAMNAME> has defeated"
-	line "1 opponent!!!"
+	text "<RAMNAME> pokonuje"
+	line "pierwszego przeciwnika!"
 	done
 
 Text053d: ; 4885c (12:485c)
-	text "Way to go, <RAMNAME>!"
-	line "That's 2 wins!!!"
-	line "One more opponent to go before"
-	line "winning the Challenge Cup!"
+	text "Nieźle, <RAMNAME>!"
+	line "To już 2 wygrane!"
+	line "Ostatni przeciwnik i Puchar Wyzwań"
+	line "będzie twój!"
 	done
 
 Text053e: ; 488b6 (12:48b6)
-	text "Most unfortunate, <RAMTEXT>."
-	line "Have a safe trip home!"
+	text "Wielka szkoda, <RAMTEXT>."
+	line "Bezpiecznej podróży do domu!"
 	done
 
 Text053f: ; 488e3 (12:48e3)
-	text "Let's meet our next challenger!"
+	text "Poznajmy kolejnego pretendenta!"
 	done
 
 Text0540: ; 48904 (12:4904)
-	text "Our new challenger is..."
+	text "Naszym nowym pretendentem jest..."
 	line ""
 	text "<RAMTEXT>!"
 	done
 
 Text0541: ; 48922 (12:4922)
-	text "The third opponent is"
+	text "Trzecim przeciwnikiem jest..."
 	line ""
 	text "<RAMTEXT>!"
 	done
 
 Text0542: ; 4893d (12:493d)
-	text "Hey, <RAMNAME>!"
-	line "I'm not gonna lose to you!"
+	text "Hej, <RAMNAME>!"
+	line "Nie mam zamiaru przegrać!"
 	line ""
-	text "<Lv>60 Mewtwo belongs to me!!!"
+	text "<Lv>60 Mewtwo będzie mój!"
 	done
 
 Text0543: ; 4897f (12:497f)
 	text "<RAMNAME>!"
-	line "I'm going to defeat you!"
+	line "Nie wygrasz ze mną!"
 	line ""
-	text "<Lv>8 Mew belongs to me!!!"
+	text "<Lv>8 Mew jest mój!"
 	done
 
 Text0544: ; 489b6 (12:49b6)
-	text "With that, let the third match "
-	line "begin!"
+	text "Czas rozpocząć"
+	line "trzeci mecz!"
 	done
 
 Text0545: ; 489de (12:49de)
-	text "Are your decks ready?"
+	text "Czy wasze talie są gotowe?"
 	done
 
 Text0546: ; 489f5 (12:49f5)
-	text "Prepare your deck?"
+	text "Przygotować talię?"
 	done
 
 Text0547: ; 48a09 (12:4a09)
-	text "Well then, <RAMNAME>!"
-	line "Let the second match begin!"
+	text "A zatem, <RAMNAME>!"
+	line "Niech rozpocznie się drugi mecz!"
 	done
 
 Text0548: ; 48a34 (12:4a34)
-	text "Well, <RAMNAME>, let the third,"
-	line "and final, match begin!"
+	text "Cóż, <RAMNAME>, niech trzeci,"
+	line "ostatni mecz, się rozpocznie!"
 	done
 
 Text0549: ; 48a65 (12:4a65)
-	text "Now then, please make "
-	line "your preparations!"
+	text "A zatem proszę"
+	line "się przygotować!"
 	done
 
 Text054a: ; 48a90 (12:4a90)
-	text "Congratulations!"
-	line "You've defeated 3 opponents!"
+	text "Gratulacje!"
+	line "Pokonano 3 przeciwników!"
 	done
 
 Text054b: ; 48abf (12:4abf)
-	text "Most unfortunate, <RAMTEXT>."
-	line "Do try again in the next"
-	line "Challenge Cup."
+	text "Wielka szkoda, <RAMTEXT>."
+	line "Spróbuj ponownie w kolejnym"
+	line "Pucharze Wyzwań."
 	done
 
 Text054c: ; 48afd (12:4afd)
-	text "That was luck!"
-	line "But a loss is a loss..."
+	text "Ale fuks!"
+	line "Ale cóż, przegrałem..."
 	done
 
 Text054d: ; 48b25 (12:4b25)
-	text "Shoot! I got a bad deal!"
+	text "A niech to! Dostałem złe karty!"
 	done
 
 Text054e: ; 48b3f (12:4b3f)
 	text "<RAMNAME>!"
-	line "I won't lose next time!"
+	line "Nie przegram kolejny raz!"
 	done
 
 Text054f: ; 48b5b (12:4b5b)
 	text "<RAMNAME>!"
-	line "I'll win next time!"
+	line "Następnym razem mi się uda!"
 	done
 
 Text0550: ; 48b73 (12:4b73)
-	text "The Winner of this Challenge Cup "
-	line "is "
-	text "<RAMNAME>!!!"
+	text "W tym Pucharze Wyzwań"
+	line "wygrywa"
+	text "<RAMNAME>!"
 	done
 
 Text0551: ; 48b9f (12:4b9f)
-	text "<RAMNAME>, your prize"
-	line "is <RAMTEXT>!"
+	text "<RAMNAME>, twoja nagroda"
+	line "to <RAMTEXT>!"
 	done
 
 Text0552: ; 48bb4 (12:4bb4)
-	text "Congratulations, "
-	text "<RAMNAME>!!!"
+	text "Gratulacje,"
+	text "<RAMNAME>!"
 	done
 
 Text0553: ; 48bcc (12:4bcc)
-	text "Hi, <RAMNAME>."
-	line "What are you doing here?"
+	text "Cześć, <RAMNAME>."
+	line "Co Ty tu robisz?"
 	done
 
 Text0554: ; 48bed (12:4bed)
-	text "Yes! The Legendary Pokémon Cards"
-	line "will be inherited here at"
-	line "Pokémon Dome! Of course, I, "
-	line "Ronald, will inherit the cards!"
-	line "Hey, did you collect the Medals?"
+	text "Tak! Legendarne Karty Pokémon"
+	line "zostaną odziedziczone tutaj,"
+	line "na Stadionie Pokémon! Oczywiście ja,"
+	line "Ronald, dostanę te karty!"
+	line "Ej, Ty też masz Medale?"
 	done
 
 Text0555: ; 48c87 (12:4c87)
-	text "Duh! That's pretty obvious!"
-	line "There's no way you could "
-	line "collect them all! Why don't "
-	line "you just give up? See ya!"
+	text "Ps! No tak! Przeiceż wiadomo,"
+	line "że nie masz wszystkich! Może"
+	line "po prostu się poddasz, co? Narka!"
 	done
 
 Text0556: ; 48cf5 (12:4cf5)
-	text "Hey, <RAMNAME>!"
-	line "You only have <RAMNUM> Medals!"
-	line "I've already collected <RAMNUM>!"
-	line "Why don't you just give up? See ya!"
+	text "Hej, <RAMNAME>!"
+	line "Ile masz medali? <RAMNUM>?"
+	line "Ja mam już <RAMNUM>!"
+	line "Może już się poddasz, co? Narka!"
 	done
 
 Text0557: ; 48d54 (12:4d54)
-	text "What!?! You don't have any!?!"
-	line "It's about time you got the hint:"
-	line "Give it up, already! See ya!"
+	text "Co?! Nie masz żadnych medali?"
+	line "Najwyższy czas zrozumieć:"
+	line "Poddaj się już! Narka!"
 	done
 
 Text0558: ; 48db2 (12:4db2)
-	text "Only those who have won all 8 "
-	line "Master Medals may enter the Grand "
-	line "Hall. You have not won all the "
-	line "Master Medals. Leave this place!"
+	text "Tylko ci, którzy zebrali wszystkie"
+	line "8 Medali Mistrzów mogą wejść na"
+	line "Stadion Pokémon. Nie masz jeszcze"
+	line "wszystkich. Opuść to miejsce!"
 	done
 
 Text0559: ; 48e36 (12:4e36)
-	text "Only those who have won all 8 "
-	line "Master Medals may enter the Grand "
-	line "Hall. You have won all 8 Master "
-	line "Medals! Enter the Grand Hall!"
+	text "Tylko ci, którzy zebrali wszystkie"
+	line "8 Medali Mistrzów mogą wejść na"
+	line "Stadion Pokémon. Masz wszystkie!"
+	line "Możesz wejść na Stadion Pokémon!"
 	done
 
 Text055a: ; 48eb8 (12:4eb8)
-	text "Congratulations!"
-	line "My Legendary Card belongs to you!"
-	line "Please take good care of this card!"
+	text "Gratulacje!"
+	line "Moja Legendarna Karta należy do"
+	line "Ciebie! Proszę, dbaj o nią!"
 	done
 
 Text055b: ; 48f10 (12:4f10)
-	text "You're very good, <RAMNAME>."
-	line "Please take care of my card."
+	text "To było naprawdę niezłe, <RAMNAME>."
+	line "Proszę, weź moją kartę."
 	done
 
 Text055c: ; 48f43 (12:4f43)
-	text "Congratulations! "
-	line "You're the Champ!"
-	line "My Zapdos card belongs to you!"
+	text "Brawo, gratulacje!"
+	line "To było niesamowite!"
+	line "Mój Zapdos należy do Ciebie!"
 	done
 
 Text055d: ; 48f87 (12:4f87)
-	text "Congratulations!"
-	line "You're the Champ!"
-	line "Please treasure my Zapdos card!"
+	text "Gratulacje!"
+	line "Nigdy czegoś takiego nie widziałem!"
+	line "Uważaj na mojego Zapdosa!"
 	done
 
 Text055e: ; 48fcb (12:4fcb)
-	text "Please build a powerful Deck"
-	line "around my card!"
+	text "Zbuduj proszę potężną Talię"
+	line "korzystając z mojej karty!"
 	done
 
 Text055f: ; 48ff9 (12:4ff9)
-	text "You've really improved your "
-	line "game, "
+	text "Grasz o wiele lepiej niż ostatnio!"
+	line "Cieszy mnie to,"
 	text "<RAMNAME>."
-	line "Use my card to make it better!"
+	line "Dorzuć moją kartę do swoijej talii!"
 	done
 
 Text0560: ; 49040 (12:5040)
-	text "You played a wonderful match!"
-	line "The Legendary Cards seem pleased"
-	line "to be passed on to you"
+	text "To był niesamowity pojedynek!"
+	line "Legendarne Karty do Ciebie"
+	line "naprawdę pasują,"
 	line ""
-	text "<RAMNAME>. Hurry and go through"
-	line "to the Hall of Honor!"
+	text "<RAMNAME>. Szybko - leć do"
+	line "Sali Honoru!"
 	done
 
 Text0561: ; 490c6 (12:50c6)
-	text "You played a wonderful match!"
-	line "The Legendary Cards seem pleased"
-	line "to be passed on to you."
+	text "To był niesamowity pojedynek!"
+	line "Legendarne Karty do Ciebie"
+	line "naprawdę pasują."
 	done
 
 Text0562: ; 4911e (12:511e)
-	text "<RAMNAME>, That is not the way"
-	line "to the Hall of Honor."
-	line "Hurry, "
-	text "<RAMNAME>! Go through to"
-	line "the Hall of Honor!"
+	text "<RAMNAME>, tędy nie dojdziesz"
+	line "do Sali Honoru."
+	line "Szybko,"
+	text "<RAMNAME>! Przejdź do"
+	line "Sali Honoru!"
 	done
 
 Text0563: ; 49178 (12:5178)
-	text "<RAMNAME>, if you leave the "
-	line "Grand Hall, you must defeat "
-	line "each of us again to enter"
-	line "the Hall of Honor."
+	text "<RAMNAME>, jeśli opuścisz teraz"
+	line "Stadion, kolejnym razem będziesz"
+	line "walczyć od nowa z każdym z nas,"
+	line "aby wejść do Sali Honoru."
 	done
 
 Text0564: ; 491d8 (12:51d8)
-	text "Exit the Grand Hall?"
+	text "Opuścić Stadion Pokémon?"
 	done
 
 Text0565: ; 491ee (12:51ee)
-	text "Possessor of all 8 Master Medals..."
-	line "Enter the Dueling Stage..."
-	line "However, you will be unable to "
-	line "turn back."
+	text "Posiadaczu wszystkich 8 medali..."
+	line "Wejdź na Scenę Pojedynków..."
+	line "Wiedz jednak, że nie będzie powrotu!"
 	done
 
 Text0566: ; 49259 (12:5259)
-	text "Enter the Dueling Stage?"
+	text "Wejść na Scenę Pojedynków?"
 	done
 
 Text0567: ; 49273 (12:5273)
-	text "Then leave the Grand Hall!"
+	text "A zatem opuść Stadion Pokémon!"
 	done
 
 Text0568: ; 4928f (12:528f)
-	text "In that case..."
-	line "Enter the Dueling Stage."
+	text "W takim razie..."
+	line "Wejdź na Scenę Pojedynków."
 	done
 
 Text0569: ; 492b9 (12:52b9)
-	text "Welcome to Pokémon Dome!"
+	text "Witaj na Stadionie Pokémon!"
 	done
 
 Text056a: ; 492d3 (12:52d3)
-	text "Welcome back,"
-	line "brave challenger!"
+	text "Witaj z powrotem!"
+	line "Oczekiwaliśmy twego przybycia!"
 	done
 
 Text056b: ; 492f4 (12:52f4)
-	text "I am Rod, Leader of the "
-	line "Grand Masters, and this is"
-	line "Grand Master Courtney,"
-	line "the Fire Queen."
+	text "Jestem Rod, Lider Arcymistrzów."
+	line "Obok mnie stoi Courtney,"
+	line "nazywana też"
+	line "Królową Ognia."
 	done
 
 Text056c: ; 49350 (12:5350)
-	text "Grand Master of Lightning,"
-	line "Thunder Steve!"
+	text "Arcymistrz Piorunów,"
+	line "Steve!"
 	done
 
 Text056d: ; 4937b (12:537b)
-	text "Grand Master of Ice,"
-	line "Gentlemanly Jack."
+	text "Arcymistrz Jack,"
+	line "Władca Lodu!"
 	done
 
 Text056e: ; 493a3 (12:53a3)
-	text "We are the 4 Grand Masters who"
-	line "guard the Legendary Pokémon Cards."
-	line "If you can defeat all of us, then "
-	line "you will have earned the right to "
-	line "inherit the Legendary Pokémon Cards!"
+	text "Jesteśmy czworgiem Arcymistrzów,"
+	line "chroniących Legendarne Karty"
+	line "Pokémon. Pokonaj nas wszystkich, a"
+	line "zapewnisz sobie prawo do"
+	line "odziedziczenia Legendarnych Kart!"
 	done
 
 Text056f: ; 49451 (12:5451)
-	text "We are the Grand Masters who guard"
-	line "the Legendary Pokémon Cards!"
-	line "We will accept your challenge as"
-	line "many times as will take for you "
-	line "to inherit all 4 of the "
-	line "Legendary Pokémon Cards!"
+	text "Jesteśmy czworgiem Arcymistrzów,"
+	line "chroniących Legendarne Karty"
+	line "Pokémon. Zaakceptujemy Twoje"
+	line "wyzwanie po raz kolejny, jeśli"
+	line "czujesz, że jesteś w stanie"
+	line "odziedziczyć Legendarne Karty!"
 	done
 
 Text0570: ; 49506 (12:5506)
-	text "We are the Grand Masters who guard"
-	line "the Legendary Pokémon Cards!"
-	line "Challenge us as many times as "
-	line "you wish!"
+	text "Jesteśmy czworgiem Arcymistrzów,"
+	line "chroniących Legendarne Karty"
+	line "Pokémon. Możesz nas wyzwać na"
+	line "pojedynek tyle razy, ile chcesz!"
 	done
 
 Text0571: ; 49570 (12:5570)
 	text "<RAMNAME>,"
-	line "take your place at the table."
+	line "zajmij miejsce przy stole."
 	done
 
 Text0572: ; 49592 (12:5592)
-	text "Your first opponent shall be "
-	line "Courtney!"
+	text "Twoim pierwszym przeciwnikiem"
+	line "będzie Courtney!"
 	done
 
 Text0573: ; 495bb (12:55bb)
-	text "First, you must duel Courtney!"
+	text "Najpierw czeka Cię walka z Courtney!"
 	done
 
 Text0574: ; 495db (12:55db)
@@ -486,126 +479,125 @@ Text0574: ; 495db (12:55db)
 	done
 
 Text0575: ; 4967b (12:567b)
-	text "Let's see if you can take the heat!"
-	line "There will be 6 Prizes."
-	line "Hm-hmm-hmm...Let's go to it!"
+	text "Sprawdźmy, czy się nie zgrzejesz!"
+	line "Zagrajmy z 6 Nagrodami."
+	line "Hm-hmm-hmm... Zacznijmy walkę!"
 	done
 
 Text0576: ; 496d5 (12:56d5)
 	text "Hm-hmm-hmm..."
-	line "I  W I N ! Come back when you've"
-	line "gotten a little better. I can't"
-	line "give a Legendary Pokémon Card to"
-	line "someone who plays like that!"
+	line "WYGRAłAM! Wróć jak się trochę"
+	line "podszkolisz. Nie oddam mojej"
+	line "Legendarnej Karty Pokémon komuś,"
+	line "kto mnie nawet nie może pokonać!"
 	done
 
 Text0577: ; 49763 (12:5763)
-	text "Hm-hmm-hmm...I  W I N !"
-	line "The Legendary Pokémon Cards "
-	line "deserve better than that!"
+	text "Hm-hmm-hmm... WYGRAŁAM!"
+	line "Nie wiem czy przekazanie Ci Kart"
+	line "było dobrym pomysłem..."
 	done
 
 Text0578: ; 497b3 (12:57b3)
-	text "I'm sorry, but you have to leave."
-	line "Well, take care..."
+	text "Przykro mi, ale musisz wyjść."
+	line "Cóż, powodzenia..."
 	done
 
 Text0579: ; 497e9 (12:57e9)
-	text "Hmm-hmm-hmm...I lose."
-	line "But that's no suprise, seeing "
-	line "as how you've come this far."
-	line "Your next opponent is waiting "
-	line "for you!"
+	text "Hmm-hmm-hmm... Przegrałam."
+	line "Ale to nic dziwnego, skoro"
+	line "tak dobrze Ci szło!"
+	line "Kolejny przeciwnik już czeka!"
 	done
 
 Text057a: ; 49864 (12:5864)
-	text "Hmm-hmm-hmm...I lose."
-	line "I find you worthy of inheriting"
-	line "the Legendary Pokémon Cards!"
+	text "Hmm-hmm-hmm... Przegrałam."
+	line "Rzeczywiście należą Ci się"
+	line "Legendarne Karty Pokémon!"
 	done
 
 Text057b: ; 498b8 (12:58b8)
-	text "Very good, <RAMNAME>!"
-	line "Your second opponent is Steve!"
+	text "Świetnie, <RAMNAME>!"
+	line "Twój drugi przeciwnik to Steve!"
 	done
 
 Text057c: ; 498e6 (12:58e6)
-	text "<RAMNAME>! Next, you must duel "
+	text "<RAMNAME>! Czeka już na Ciebie"
 	line "Steve!"
 	done
 
 Text057d: ; 49906 (12:5906)
-	text "I, Thunder Steve, am your next "
-	line "opponent. Hey! Do you want the"
-	line "Legendary Pokémon Cards!?!"
-	line "Then you must defeat me first!"
+	text "To ja, Steve, Arcymistrz Piorunów,"
+	line "będę Twoim przeciwnikiem. Myślisz,"
+	line "że należą Ci się Legendarne Karty?!"
+	line "Pokonaj mnie i udowodnij to!"
 	done
 
 Text057e: ; 49980 (12:5980)
-	text "Hey, <RAMNAME>!"
-	line "Come battle Steve!"
+	text "Hej, <RAMNAME>!"
+	line "Steve na Ciebie czeka!"
 	done
 
-Text057f: ; 4999c (12:599c)
-	text "Is your Deck ready, "
+Text057f: ; 4999c (12:599c) 
+	text "Czy Twoja Talia jest gotowa,"
 	text "<RAMNAME>?"
 	done
 
 Text0580: ; 499b5 (12:59b5)
-	text "Prepare for the Duel?"
+	text "Chcesz się przygotować do walki?"
 	done
 
 Text0581: ; 499cc (12:59cc)
-	text "All right then!"
-	line "Let's begin the Duel!"
+	text "Dobrze zatem!"
+	line "Rozpocznijmy walkę!"
 	done
 
 Text0582: ; 499f3 (12:59f3)
-	text "6 Prizes!"
-	line "Ready? Set! Go!"
+	text "6 Nagród!"
+	line "Zaczynajmy!"
 	done
 
 Text0583: ; 49a0e (12:5a0e)
-	text "You lose! You still have a "
-	line "long way to go,"
-	line "but don't give up!"
-	line "Challenge me again!"
+	text "Przegrywasz! Jeszcze przed"
+	line "Tobą długa droga, ale"
+	line "nie poddawaj się!"
+	line "Czekam na kolejne wyzwanie!"
 	done
 
 Text0584: ; 49a62 (12:5a62)
-	text "You Lose! You still have a "
-	line "long way to go!"
-	line "But don't give up!"
-	line "Challenge me again!"
+	text "Przegrywasz! Jeszcze sporo"
+	line "się musisz nauczyć,"
+	line "ale nie zniechęcaj się!"
+	line "Czekam na kolejną walkę!"
 	done
 
 Text0585: ; 49ab6 (12:5ab6)
-	text "You're the Winner! You're the "
-	line "Greatest! With that skill, I "
-	line "feel we can give you the "
-	line "Legendary Pokémon Cards!"
+	text "Przegrałem! Takie umiejętności,"
+	line "no no no! Mam przeczucie, że możesz"
+	line "odziedziczyć Legendarne"
+	line "Karty Pokémon!"
 	done
 
 Text0586: ; 49b27 (12:5b27)
-	text "You're the Winner!"
-	line "You're the Greatest!"
+	text "Wygrywasz!"
+	line "Brawo!"
 	done
 
 Text0587: ; 49b50 (12:5b50)
-	text "Very good, <RAMNAME>."
-	line "Your next opponent is Jack!"
+	text "Nieźle, <RAMNAME>."
+	line "Twój kolejny rywal to Jack!"
 	done
 
 Text0588: ; 49b7b (12:5b7b)
-	text "That's great, <RAMNAME>!"
-	line "Jack is your next opponent!"
+	text "świetnie, <RAMNAME>!"
+	line "Twój kolejny przeciwnik to Jack!"
 	done
 
 Text0589: ; 49ba9 (12:5ba9)
-	text "I, Jack, am your third opponent."
-	line "You shall not be able to defeat"
-	line "my splendid deck!"
-	line "Come! I shall prove it to you!"
+	text "Jestem Jack i będę Twoim trzecim"
+	line "przeciwnikiem. Na pewno nie dasz"
+	line "rady pokonać mojej znakomitej Talii!"
+	line "Chodź! Udowodnię Ci to!"
 	done
 
 Text058a: ; 49c1c (12:5c1c)

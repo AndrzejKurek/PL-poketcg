@@ -103,7 +103,7 @@ Text04a0: ; 443e7 (11:43e7)
 	line "używanych w walce. Składa się"
 	line "z 60 kart. Możesz mieć do 4 takich"
 	line "samych kart w talii (poza Kartami"
-	line "Energii) Musisz mieć swoją talię,"
+	line "Energii). Musisz mieć swoją talię,"
 	line "żeby zagrać z kimś w karty Pokémon."
 	done
 
@@ -796,7 +796,7 @@ Text0508: ; 47346 (11:7346)
 	line " Pokona Mistrzów 8 Klubów i zbierze"
 	line " ich 8 Medali."
 	line " Wygra walkę z Liderem Arcymistrzów"
-	line " tutaj, w Hali Pokémon..."
+	line " tutaj, na Stadionie Pokémon..."
 	line " Dopiero wtedy będzie godzien"
 	line " Legendarnych Kart Pokémon.”"
 	done
