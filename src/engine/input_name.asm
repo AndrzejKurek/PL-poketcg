@@ -82,7 +82,7 @@ InputPlayerName:
 	ld [wNamingScreenCursorY], a
 	ld a, $09
 	ld [wNamingScreenNumColumns], a
-	ld a, $06
+	ld a, $07
 	ld [wNamingScreenKeyboardHeight], a
 	ld a, $0f
 	ld [wVisibleCursorTile], a
@@ -102,7 +102,7 @@ InputPlayerName:
 	call Func_1aa07
 	ld a, 6
 	ld [wNamingScreenCursorX], a
-	ld a, 5
+	ld a, 6
 	ld [wNamingScreenCursorY], a
 	call Func_1aa23
 	jr .loop
@@ -799,6 +799,7 @@ KeyboardData_Player:
 	kbitem $08, $02, $13, $00, TX_FULLWIDTH3,   "S"
 	kbitem $0a, $02, $14, $00,                  "o"
 	kbitem $0c, $02, $15, $00,                  "d"
+	kbitem $0e, $02, $3e, $00, TX_FULLWIDTH3,   "Ą"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $04, $16, $00, TX_FULLWIDTH3,   "B"
@@ -806,6 +807,7 @@ KeyboardData_Player:
 	kbitem $08, $04, $18, $00, TX_FULLWIDTH3,   "T"
 	kbitem $0a, $04, $19, $00, TX_FULLWIDTH3,   "&"
 	kbitem $0c, $04, $1a, $00,                  "e"
+	kbitem $0e, $04, $3f, $00, TX_FULLWIDTH3,   "Ć"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $06, $1b, $00, TX_FULLWIDTH3,   "C"
@@ -813,6 +815,7 @@ KeyboardData_Player:
 	kbitem $08, $06, $1d, $00, TX_FULLWIDTH3,   "U"
 	kbitem $0a, $06, $1e, $00,                  "j"
 	kbitem $0c, $06, $1f, $00,                  "f"
+	kbitem $0e, $06, $40, $00, TX_FULLWIDTH3,   "Ę"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $08, $20, $00, TX_FULLWIDTH3,   "D"
@@ -820,6 +823,7 @@ KeyboardData_Player:
 	kbitem $08, $08, $22, $00, TX_FULLWIDTH3,   "V"
 	kbitem $0a, $08, $23, $00,                  "k"
 	kbitem $0c, $08, $24, $00,                  "g"
+	kbitem $0e, $08, $41, $00, TX_FULLWIDTH3,   "Ł"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $0a, $25, $00, TX_FULLWIDTH3,   "E"
@@ -827,6 +831,7 @@ KeyboardData_Player:
 	kbitem $08, $0a, $27, $00, TX_FULLWIDTH3,   "W"
 	kbitem $0a, $0a, $28, $00,                  "w"
 	kbitem $0c, $0a, $29, $00,                  "h"
+	kbitem $0e, $0a, $42, $00, TX_FULLWIDTH3,   "Ń"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $0c, $2a, $00, TX_FULLWIDTH3,   "F"
@@ -834,6 +839,7 @@ KeyboardData_Player:
 	kbitem $08, $0c, $2c, $00, TX_FULLWIDTH3,   "X"
 	kbitem $0a, $0c, $2d, $00,                  "`"
 	kbitem $0c, $0c, $2e, $00,                  "i"
+	kbitem $0e, $0c, $43, $00, TX_FULLWIDTH3,   "Ó"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $0e, $2f, $00, TX_FULLWIDTH3,   "G"
@@ -841,6 +847,7 @@ KeyboardData_Player:
 	kbitem $08, $0e, $31, $00, TX_FULLWIDTH3,   "Y"
 	kbitem $0a, $0e, $32, $00,                  "a"
 	kbitem $0c, $0e, $33, $00, TX_SYMBOL,       SYM_No
+	kbitem $0e, $0e, $44, $00, TX_FULLWIDTH3,   "Ś"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $10, $34, $00, TX_FULLWIDTH3,   "H"
@@ -848,6 +855,7 @@ KeyboardData_Player:
 	kbitem $08, $10, $36, $00, TX_FULLWIDTH3,   "Z"
 	kbitem $0a, $10, $3c, $00,                  "b"
 	kbitem $0c, $10, $3d, $00, TX_SYMBOL,       SYM_Lv
+	kbitem $0e, $10, $45, $00, TX_FULLWIDTH3,   "Ż"
 	kbitem $10, $0f, $01, $09, $0000
 
 	kbitem $04, $12, $37, $00, TX_FULLWIDTH3,   "I"
@@ -855,6 +863,7 @@ KeyboardData_Player:
 	kbitem $08, $12, $39, $00,                  "n"
 	kbitem $0a, $12, $3a, $00,                  "c"
 	kbitem $0c, $12, $3b, $00,                  "p"
+	kbitem $0e, $12, $46, $00, TX_FULLWIDTH3,   "Ź"
 	kbitem $10, $0f, $01, $09, $0000
 	kbitem $00, $00, $00, $00, $0000
 

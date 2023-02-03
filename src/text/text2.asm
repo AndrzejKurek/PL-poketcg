@@ -1578,7 +1578,7 @@ PlayerNameKeyboardText: ; 3b8f2 (e:78f2)
 	line ""
 	textfw0 "4 5 6 7 8 9 ", "<No>", " ", "<Lv>", "  "
 	line ""
-	textfw0 "                 "
+	textfw3 "Ą Ć Ę Ł Ń Ó Ś Ż Ź"
 	done
 
 DeckNameKeyboardText: ; 3b97b (e:797b)
