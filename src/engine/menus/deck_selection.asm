@@ -326,7 +326,7 @@ InputCurDeckName:
 	ld hl, Deck4Data
 .got_deck_ptr
 	ld a, MAX_DECK_NAME_LENGTH
-	lb bc, 4, 1
+	lb bc, 6, 1
 	ld de, wCurDeckName
 	farcall InputDeckName
 	ld a, [wCurDeckName]
@@ -354,13 +354,15 @@ InputCurDeckName:
 	ld hl, wCurDeckName
 	ld [hl], $6
 	inc hl
-	ld [hl], "D"
+	ld [hl], "T"
 	inc hl
-	ld [hl], "e"
+	ld [hl], "a"
 	inc hl
-	ld [hl], "c"
+	ld [hl], "l"
 	inc hl
-	ld [hl], "k"
+	ld [hl], "i"
+	inc hl
+	ld [hl], "a"
 	inc hl
 	ld [hl], " "
 	inc hl

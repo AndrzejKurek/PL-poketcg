@@ -216,19 +216,19 @@ DeckNameMenuData:
 	db $ff
 
 ; copies text from hl to wDefaultText
-; with " deck" appended to the end
+; with "talia " prepended at the beginning
 ; hl = ptr to deck name
 CopyDeckName:
+    push hl
+	ld hl, DeckNamePrefix
 	ld de, wDefaultText
 	call CopyListFromHLToDE
 	ld hl, wDefaultText
-	call GetTextLengthInTiles
-	ld b, $0
-	ld hl, wDefaultText
-	add hl, bc
+	ld de, 7
+	add hl, de
 	ld d, h
 	ld e, l
-	ld hl, DeckNameSuffix
+	pop hl
 	call CopyListFromHLToDE
 	ret
 
@@ -243,19 +243,22 @@ PrintDeckName:
 	pop hl
 	jr c, .new_deck
 
-; print "<deck name> deck"
+; print "talia <deck name>"
 	push de
+	push hl
+	ld hl, DeckNamePrefix
 	ld de, wDefaultText
-	call CopyListFromHLToDEInSRAM
+	call CopyListFromHLToDE
+	
 	ld hl, wDefaultText
-	call GetTextLengthInTiles
-	ld b, $0
-	ld hl, wDefaultText
-	add hl, bc
+	ld de, 7
+	add hl, de
 	ld d, h
 	ld e, l
-	ld hl, DeckNameSuffix
-	call CopyListFromHLToDE
+	pop hl
+	
+	call CopyListFromHLToDEInSRAM
+	
 	pop de
 	ld hl, wDefaultText
 	call InitTextPrinting
@@ -271,8 +274,8 @@ PrintDeckName:
 	scf
 	ret
 
-DeckNameSuffix:
-	db " deck"
+DeckNamePrefix:
+	text "talia "
 	done
 
 ; copies a $00-terminated list from hl to de
@@ -303,29 +306,26 @@ AppendDeckName:
 	ret c ; no cards
 
 	push de
-	; append the text from hl
+	push hl
+	; add "Talia " to the beginning
 	ld de, wDefaultText
-	call CopyListFromHLToDEInSRAM
-
-	; get string length (up to DECK_NAME_SIZE_WO_SUFFIX)
-	ld hl, wDefaultText
-	call GetTextLengthInTiles
-	ld a, c
-	cp DECK_NAME_SIZE_WO_SUFFIX
-	jr c, .got_len
-	ld c, DECK_NAME_SIZE_WO_SUFFIX
+	ld hl, .text_start
+	call CopyListFromHLToDE
+	
 .got_len
-	ld b, $0
 	ld hl, wDefaultText
-	add hl, bc
+	ld de, 7
+	add hl, de ; move to after "Talia "
 	ld d, h
 	ld e, l
-	; append "deck" starting from the given length
-	ld hl, .text_start
-	ld b, .text_end - .text_start
-	call CopyNBytesFromHLToDE
+	
+	; append deck name starting from after "Talia "
+	pop hl
+	call CopyListFromHLToDEInSRAM
+
 	xor a ; TX_END
-	ld [wDefaultText + DECK_NAME_SIZE + 2], a
+	ld [wDefaultText + DECK_NAME_SIZE + 3], a
+	
 	pop de
 	ld hl, wDefaultText
 	call InitTextPrinting
@@ -334,7 +334,7 @@ AppendDeckName:
 	ret
 
 .text_start
-	db " deck                       "
+	text "Talia                      "
 .text_end
 
 ; returns carry if the deck in hl
@@ -2640,23 +2640,22 @@ PrintCurDeckNumberAndName:
 	call ProcessText
 
 .skip_deck_numeral
-	ld hl, wCurDeckName
-	ld de, wDefaultText
-	call CopyListFromHLToDE
 	ld a, [wCurDeck]
 	cp $ff
 	jr z, .blank_deck_name
 
-; print "<deck name> deck"
+; print "talia <deck name>"   
+	ld hl, DeckNamePrefix
+	ld de, wDefaultText
+	call CopyListFromHLToDE
 	ld hl, wDefaultText
-	call GetTextLengthInTiles
-	ld b, $0
-	ld hl, wDefaultText
-	add hl, bc
+	ld de, 7
+	add hl, de
 	ld d, h
 	ld e, l
-	ld hl, DeckNameSuffix
-	call CopyListFromHLToDE
+	ld hl, wCurDeckName
+	call CopyListFromHLToDEInSRAM
+	
 	lb de, 6, 2
 	ld hl, wDefaultText
 	call InitTextPrinting

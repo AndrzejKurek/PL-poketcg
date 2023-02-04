@@ -6,20 +6,20 @@ WhatIsYourNameData:
 ; without any bank description.
 ; That is, the developers hard-coded it. -_-;;
 Deck1Data:
-	textitem 2, 1, Deck1Text
-	textitem 14, 1, DeckText
+	textitem 3, 1, DeckText
+	textitem 1, 1, Deck1Text
 	db $ff
 Deck2Data:
-	textitem 2, 1, Deck2Text
-	textitem 14, 1, DeckText
+	textitem 3, 1, DeckText
+	textitem 1, 1, Deck2Text
 	db $ff
 Deck3Data:
-	textitem 2, 1, Deck3Text
-	textitem 14, 1, DeckText
+    textitem 3, 1, DeckText
+	textitem 1, 1, Deck3Text
 	db $ff
 Deck4Data:
-	textitem 2, 1, Deck4Text
-	textitem 14, 1, DeckText
+	textitem 3, 1, DeckText
+	textitem 1, 1, Deck4Text
 	db $ff
 
 ; set each byte zero from hl for b bytes.
