@@ -3573,6 +3573,30 @@ Func_5805:
 	ld l, a
 	ld h, $00
 	call LoadTxRam3
+
+; Decide on declination. 1 nagroda, 2-4 nagrody, 5+ nagród
+	ld a, [wNumberPrizeCardsToTake]
+    cp 1
+	jr z, .prizes_one
+	cp 5
+	jr c, .prizes_less_than_five
+	jr .prizes_five_or_more
+	
+.prizes_one
+	ldtx hl, Prize1Name
+	jr .prizes_decided
+	
+.prizes_less_than_five	
+	ldtx hl, Prize2Name
+	jr .prizes_decided
+	
+.prizes_five_or_more
+	ldtx hl, Prize5Name
+	; fallthrough
+
+.prizes_decided
+	call LoadTxRam2
+; player or opponent?
 	ld a, DUELVARS_DUELIST_TYPE
 	call GetTurnDuelistVariable
 	cp DUELIST_TYPE_PLAYER

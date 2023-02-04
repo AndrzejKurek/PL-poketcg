@@ -67,6 +67,9 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer UseThisPokemonPowerText                            ; 0x003f
 	textpointer PokemonPowerSelectNotRequiredText                  ; 0x0040
 	textpointer DiscardDescription                                 ; 0x0041
+	textpointer Prize1Name
+	textpointer Prize2Name
+	textpointer Prize5Name
 	textpointer WillDrawNPrizesText                                ; 0x0042
 	textpointer DrewNPrizesText                                    ; 0x0043
 	textpointer DuelistPlacedACardText                             ; 0x0044

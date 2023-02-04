@@ -275,12 +275,24 @@ DiscardDescription: ; 36757 (d:6757)
 	line "mocą Pokémon)."
 	done
 
+Prize1Name:
+    text "nagrodę"
+	done
+
+Prize2Name:
+    text "nagrody"
+	done
+	
+Prize5Name:
+    text "nagród"
+	done
+	
 WillDrawNPrizesText: ; 367cc (d:67cc)
-	text "<RAMNAME> weźmie <RAMNUM> nagród."
+	text "<RAMNAME> weźmie <RAMNUM> <RAMTEXT>."
 	done
 
 DrewNPrizesText: ; 367e5 (d:67e5)
-	text "<RAMNAME> bierze <RAMNUM> nagród."
+	text "<RAMNAME> bierze <RAMNUM> <RAMTEXT>."
 	done
 
 DuelistPlacedACardText: ; 367f9 (d:67f9)
