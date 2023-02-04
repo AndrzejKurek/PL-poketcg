@@ -329,16 +329,16 @@ Text0606: ; 4d655 (13:5655)
 
 Text0607: ; 4d676 (13:5676)
 	text "To Automat budowania talii"
-	line "z <RAMTEXT>m symbolem."
+	line "z symbolem <RAMTEXT>."
 	done
 
 Text0608: ; 4d699 (13:5699)
 	text "Jest wyłączony, ale widać"
-	line "otwór na <RAMTEXT> Medal."
+	line "otwór na Medal <RAMTEXT>."
 	done
 
 Text0609: ; 4d6cf (13:56cf)
-	text "Włożyć <RAMTEXT> Medal?"
+	text "Włożyć Medal <RAMTEXT>?"
 	done
 
 Text060a: ; 4d6e4 (13:56e4)

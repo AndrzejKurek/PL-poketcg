@@ -1281,7 +1281,7 @@ SamsPracticeDeckName: ; 3b43d (e:743d)
 	done
 
 CharmanderAndFriendsDeckName: ; 3b44d (e:744d)
-	text "Charmander z kolegami"
+	text "Charmander z ekipą"
 	done
 
 CharmanderExtraDeckName: ; 3b463 (e:7463)
@@ -1289,7 +1289,7 @@ CharmanderExtraDeckName: ; 3b463 (e:7463)
 	done
 
 SquirtleAndFriendsDeckName: ; 3b475 (e:7475)
-	text "Squirtle ze znajomymi"
+	text "Squirtle z kumplami"
 	done
 
 SquirtleExtraDeckName: ; 3b489 (e:7489)
@@ -1297,7 +1297,7 @@ SquirtleExtraDeckName: ; 3b489 (e:7489)
 	done
 
 BulbasaurAndFriendsDeckName: ; 3b499 (e:7499)
-	text "Bulbasaur z kumplami"
+	text "Bulbasaur z paczką"
 	done
 
 BulbasaurExtraDeckName: ; 3b4ae (e:74ae)
@@ -1317,7 +1317,7 @@ GoGoRainDanceDeckName: ; 3b4db (e:74db)
 	done
 
 ZappingSelfdestructDeckName: ; 3b4ed (e:74ed)
-	text "Prądowa Autodestrukcja"
+	text "Prądowa Destrukcja"
 	done
 
 FlowerPowerDeckName: ; 3b503 (e:7503)
@@ -1325,7 +1325,7 @@ FlowerPowerDeckName: ; 3b503 (e:7503)
 	done
 
 StrangePsyshockDeckName: ; 3b511 (e:7511)
-	text "Tajemniczy Psychoszok"
+	text "Tajemny Psychoszok"
 	done
 
 WondersofScienceDeckName: ; 3b523 (e:7523)
@@ -1349,7 +1349,7 @@ LegendaryArticunoDeckName: ; 3b569 (e:7569)
 	done
 
 LegendaryDragoniteDeckName: ; 3b57d (e:757d)
-	text "Legendarny Dragonite"
+	text "Mityczny Dragonite"
 	done
 
 ImRonaldDeckName: ; 3b592 (e:7592)
@@ -1417,7 +1417,7 @@ KaleidoscopeDeckName: ; 3b674 (e:7674)
 	done
 
 MusclesforBrainsDeckName: ; 3b682 (e:7682)
-	text "Mięśnie zamiast Mózgu"
+	text "Mięśnie bez Mózgu"
 	done
 
 HeatedBattleDeckName: ; 3b696 (e:7696)
@@ -1433,7 +1433,7 @@ PikachuDeckName: ; 3b6b5 (e:76b5)
 	done
 
 BoomBoomSelfdestructDeckName: ; 3b6be (e:76be)
-	text "Bum Bum Autodestrukcja"
+	text "Bum Autodestrukcja!"
 	done
 
 PowerGeneratorDeckName: ; 3b6d6 (e:76d6)
@@ -1477,7 +1477,7 @@ WaterAndFightingDeckName: ; 3b74b (e:774b)
 	done
 
 GrassAndPsychicDeckName: ; 3b75d (e:775d)
-	text "Trawiasto-psychiczna"
+	text "Psychika na trawce"
 	done
 
 RetreatCostText: ; 3b76e (e:776e)
