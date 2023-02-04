@@ -465,7 +465,7 @@ Drew7CardsText: ; 36b9a (d:6b9a)
 	done
 
 DeckHasXCardsText: ; 36bab (d:6bab)
-	text "<RAMNAME>: talia ma <RAMNUM> kart."
+	text "<RAMNAME>: talia ma <RAMNUM> <RAMTEXT>."
 	done
 
 ChooseBasicPkmnToPlaceInArenaText: ; 36bc2 (d:6bc2)
@@ -910,7 +910,7 @@ NoEnergyCardsAttachedToPokemonInOppPlayAreaText: ; 37715 (d:7715)
 	done
 
 EnergyCardsRequiredToRetreatText: ; 37758 (d:7758)
-	text "Potrzebujesz <RAMNUM> kart(ę)"
+	text "Potrzebujesz <RAMNUM> <RAMTEXT>"
 	line "Energii aby wycofać Pokémona."
 	done
 

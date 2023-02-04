@@ -798,6 +798,11 @@ CheckAbleToRetreat:
 	ld l, a
 	ld h, $00
 	call LoadTxRam3
+	
+	; Decide on card word declination.
+	ld a, [wEnergyCardsRequiredToRetreat]
+    call LoadCardWord
+	
 	ldtx hl, EnergyCardsRequiredToRetreatText
 	jr .done
 .unable_to_retreat
@@ -2343,7 +2348,14 @@ Func_4f2d:
 ; no animation, just print text and delay
 	ld l, a
 	ld h, $00
+	push hl
 	call LoadTxRam3
+	
+	; Decide on card word declination.
+	pop hl
+	ld a, l
+    call LoadCardWord
+
 	ldtx hl, DeckHasXCardsText
 	call DrawWideTextBox_PrintText
 	call EnableLCD

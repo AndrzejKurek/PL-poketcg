@@ -711,7 +711,7 @@ ChooseTheCardToDiscardText: ; 39a9c (e:5a9c)
 	done
 
 DiscardedCardsFromDeckText: ; 39ab9 (e:5ab9)
-	text "Odrzucono <RAMNUM> kart"
+	text "Odrzucono <RAMNUM> <RAMTEXT>"
 	line "z talii gracza <RAMNAME>."
 	done
 
@@ -749,7 +749,7 @@ ThereWasNoFireEnergyText: ; 39b58 (e:5b58)
 	done
 
 YouCanSelectMoreCardsQuitText: ; 39b73 (e:5b73)
-    text "Możesz jeszcze wybrać <RAMNUM> kart. Wyjść?"
+    text "Możesz wciąż wybrać <RAMNUM> <RAMTEXT>. Wyjść?"
 	done
 
 ThereWasNoEffectText: ; 39b97 (e:5b97)
