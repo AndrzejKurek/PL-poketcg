@@ -601,581 +601,573 @@ Text0589: ; 49ba9 (12:5ba9)
 	done
 
 Text058a: ; 49c1c (12:5c1c)
-	text "I shall duel you with my splendid "
-	line "deck! I shan't lose this time!"
+	text "Pokonam Cię moją znakomitą Talią!"
+	line "Tym razem nie przegram!"
 	done
 
 Text058b: ; 49c5f (12:5c5f)
 	text "<RAMNAME>,"
-	line "have you readied your deck?"
+	line "Czy Twoja Talia jest gotowa?"
 	done
 
 Text058c: ; 49c7f (12:5c7f)
-	text "Prepare for the duel?"
+	text "Przygotować się do pojedynku?"
 	done
 
 Text058d: ; 49c96 (12:5c96)
-	text "Very well then!"
-	line "Let us begin the duel!"
+	text "Dobrze zatem!"
+	line "Zaczynajmy!"
 	done
 
 Text058e: ; 49cbe (12:5cbe)
-	text "Shall we start?"
-	line "There will be 6 Prizes!"
+	text "Zaczynamy?"
+	line "Walka z 6 Nagrodami!"
 	done
 
 Text058f: ; 49ce7 (12:5ce7)
-	text "What did I tell you?"
-	line "There was absolutely no way you "
-	line "could have defeated my"
-	line "splendid deck!"
+	text "I co mówiłem?"
+	line "Nie było możliwości, żeby"
+	line "moja znakomita talia przegrała!"
 	done
 
 Text0590: ; 49d44 (12:5d44)
-	text "What did I tell you?"
-	line "There was no way you could have "
-	line "defeated my splendid deck!"
+	text "I co mówiłem?"
+	line "Nie było możliwości, żeby"
+	line "moja znakomita talia przegrała!"
 	done
 
 Text0591: ; 49d96 (12:5d96)
-	text "I simply can't believe my "
-	line "splendid deck could lose..."
-	line "It is a mortifying thought, "
-	line "but it appears you are better "
-	line "than I. Very well! Now"
-	line "on to your final test..."
+	text "Nie mogę uwierzyć, że moja znakomita"
+	line "talia tak po prostu przegrała..."
+	line "Ciężko mi się z tym pogodzić, "
+	line "ale grasz lepiej ode mnie."
+	line "Nic na to nie poradzę! Czas"
+	line "na twój ostateczny test..."
 	done
 
 Text0592: ; 49e3a (12:5e3a)
-	text "I simply can't believe my "
-	line "splendid deck could lose..."
-	line "It would appear that you are "
-	line "a true Master..."
+	text "Nie mogę uwierzyć, że moja znakomita"
+	line "talia tak po prostu przegrała..."
+	line "Po raz kolejny przejawiasz"
+	line "mistrzowskie umiejętności..."
 	done
 
 Text0593: ; 49ea1 (12:5ea1)
-	text "Spectacular dueling! I, Rod,"
-	line "will be your next opponent!"
+	text "Piękny pojedynek! Ja, Rod,"
+	line "będę Twoim kolejnym przeciwnikiem!"
 	done
 
 Text0594: ; 49edb (12:5edb)
-	text "Splendid, as usual!"
-	line "I will be your next opponent!"
+	text "Wyśmienicie, jak zawsze!"
+	line "Będę Twoim kolejnym przeciwnikiem!"
 	done
 
 Text0595: ; 49f0e (12:5f0e)
-	text "This is your final duel!"
-	line "Show me what you're made of!"
+	text "To twój najważniejszy pojedynek!"
+	line "Pokaż, na co Cię stać!"
 	done
 
 Text0596: ; 49f45 (12:5f45)
-	text "If you win this Duel, I will "
-	line "allow you to duel Ronald!"
+	text "Jeśli wygrasz ten pojedynek,"
+	line "pozwolę Ci walczyć z Ronaldem!"
 	done
 
 Text0597: ; 49f7e (12:5f7e)
-	text "This is your final duel!"
-	line "Show me what you're made of!"
+	text "To twój najważniejszy pojedynek!"
+	line "Pokaż, na co Cię stać!"
 	done
 
 Text0598: ; 49fb5 (12:5fb5)
-	text "Is your Deck ready, "
+	text "Czy Twoja talia jest gotowa,"
 	text "<RAMNAME>?"
 	done
 
 Text0599: ; 49fce (12:5fce)
-	text "Prepare for the Duel?"
+	text "Przygotować się do walki?"
 	done
 
 Text059a: ; 49fe5 (12:5fe5)
-	text "Then let's begin the final duel - "
-	line "a 1-match duel for 6 Prizes!!!"
+	text "A zatem rozpocznijmy ostateczny"
+	line "pojedynek - z 6 Nagrodami!"
 	done
 
 Text059b: ; 4a028 (12:6028)
-	text "A 1-match duel for 6 prizes!!"
+	text "Pojedynek z 6 Nagrodami!"
 	done
 
 Text059c: ; 4a047 (12:6047)
-	text "That was close, but you came "
-	line "up a little short."
+	text "Było blisko, ale trochę"
+	line "Ci zabrakło."
 	done
 
 Text059d: ; 4a079 (12:6079)
-	text "I'm sorry, but I cannot pass the"
-	line "the Legendary Pokémon Cards to you."
-	line "Continue training and try again."
-	line "Until then!"
+	text "Przykro mi, ale nie przekażę Ci"
+	line "Legendarnych Kart Pokémon."
+	line "Kontynuuj swój trening i spróbuj"
+	line "ponownie. Do zobaczenia!"
 	done
 
 Text059e: ; 4a0ec (12:60ec)
-	text "Continue training and try again."
-	line "Until then!"
+	line "Kontynuuj swój trening i spróbuj"
+	line "ponownie. Do zobaczenia!"
 	done
 
 Text059f: ; 4a11a (12:611a)
-	text "Wha-what on earth?  Even"
-	line "I, Rod, have been defeated?!?"
-	line "Wonderful! This is wonderful!!"
-	line "Congratulations, <RAMNAME>. "
-	line "You have proven yourself worthy"
-	line "enough to inherit the"
-	line "Legendary Pokémon Cards!!!"
-	line "Except..."
+	text "C.. Co?! Jak to możliwe?!"
+	line "Ja, Rod, zostałem pokonany?!"
+	line "Cudownie! To niesamowite!"
+	line "Gratulacje, <RAMNAME>!"
+	line "Wykazujesz umiejętności naprawdę"
+	line "godne odziedziczenia"
+	line "Legendarnych Kart Pokémon!"
+	line "Tyle tylko, że..."
 	done
 
 Text05a0: ; 4a1e1 (12:61e1)
-	text "Congratulations, <RAMNAME>!"
-	line "You're a master duelist!!!"
-	line "But..."
+	text "Gratulacje, <RAMNAME>!"
+	line "Mistrzowskie umiejętności!"
+	line "Ale..."
 	done
 
 Text05a1: ; 4a218 (12:6218)
-	text "We have a problem..."
-	line "There is another who has "
-	line "defeated us..."
-	line "You must duel him..."
+	text "Jest pewien problem..."
+	line "Jest jeszcze jedna osoba,"
+	line "która nas pokonała..."
+	line "Musisz jeszcze wygrać z nim..."
 	done
 
 Text05a2: ; 4a26c (12:626c)
-	text "You must duel Ronald again."
+	text "Musisz ponownie wygrać z Ronaldem."
 	done
 
 Text05a3: ; 4a289 (12:6289)
-	text "Congratulations, <RAMNAME>!"
-	line "You're a master duelist!"
+	text "Brawo, <RAMNAME>!"
+	line "Mistrzowskie umiejętności!"
 	done
 
 Text05a4: ; 4a2b7 (12:62b7)
-	text "Even I, Rod, am no longer any "
-	line "match for you."
-	line "Please, enter the "
-	line "Hall of Honor!"
+	text "Nawet ja, Rod, nie stanowię dla"
+	line "Ciebie zagrożenia."
+	line "Proszę, wejdź do"
+	line "Sali Honoru!"
 	done
 
 Text05a5: ; 4a308 (12:6308)
-	text "Yeah! That's right! "
-	line "It's me!!! Ronald!!!"
-	line "I have already inherited the"
-	line "Legendary Pokémon Cards!"
+	text "Tak! Dokładnie!"
+	line "To ja, Ronald!"
+	line "Już odziedziczyłem"
+	line "Legendarne Karty Pokémon!"
 	done
 
 Text05a6: ; 4a369 (12:6369)
-	text "No, Ronald! That cannot be "
-	line "allowed! He, too, has earned "
-	line "the right to inherit the "
-	line "Legendary Pokémon Cards!"
+	text "Nie, Ronald! Nie możemy na to"
+	line "pozwolić! <RAMNAME> ma tyle samo"
+	line "zwycięstw i też może odziedziczyć"
+	line "Legendarne Karty Pokémon!"
 	line "Ronald! <RAMNAME>!"
-	line "You two must duel to determine who "
-	line "will inherit the Legendary Pokémon "
-	line "Cards. So say the Rules!"
+	line "Musicie walczyć ze sobą, aby"
+	line "zdecydować komu należą się"
+	line "Legendarny Karty! Tak mówią zasady!"
 	done
 
 Text05a7: ; 4a443 (12:6443)
-	text "Alright, Rod!"
+	text "Dobrze, Rod!"
 	done
 
 Text05a8: ; 4a452 (12:6452)
-	text "Yeah! That's right! It's me!!!"
-	line "Ronald!!!"
-	line "I'll take your challenge,"
+	text "Tak! Właśnie! Ja!"
+	line "Ronald!"
+	line "Przyjmę twoje wyzwanie,"
 	line ""
 	text "<RAMNAME>!"
 	done
 
 Text05a9: ; 4a49a (12:649a)
-	text "Is your Deck ready, "
+	text "Czy Twoja Talia jest gotowa,"
 	text "<RAMNAME>?"
 	done
 
 Text05aa: ; 4a4b3 (12:64b3)
-	text "Prepare for the Duel?"
+	text "Przygotować się do walki?"
 	done
 
 Text05ab: ; 4a4ca (12:64ca)
-	text "OK, Then let's begin this "
-	line "ultimate duel!"
+	text "A zatem... Zacznijmy ten"
+	line "ostateczny pojedynek!"
 	done
 
 Text05ac: ; 4a4f5 (12:64f5)
-	text "I was here first! The Legendary"
-	line "Pokémon Cards belong to me!"
-	line "I'll make it all too clear to"
-	line "you, "
+	text "Byłem tu pierwszy! Legendarne"
+	line "Karty Pokémon należą do mnie!"
+	line "Zaraz to wszystko zrozumiesz!"
+	line "Przygotuj się,"
 	text "<RAMNAME>!"
 	done
 
 Text05ad: ; 4a559 (12:6559)
-	text "It's a 1-match duel with 6-prizes!"
-	line "Let it begin!"
+	text "Czas na walkę z 6 nagrodami!"
+	line "Zaczynajmy!"
 	done
 
 Text05ae: ; 4a58b (12:658b)
-	text "Now do you know who the better "
-	line "player is!?!"
-	line "The Legendary Pokémon Cards"
-	line "belong to me!"
-	line "If you still won't give up,"
-	line "I'll take you on again..."
-	line "But first, you'll have to defeat"
-	line "all 4 of the Grand Masters again!"
+	text "Teraz rozumiesz, kto jest lepszym"
+	line "graczem?!"
+	line "Legendarne Karty Pokémon"
+	line "należą do mnie!"
+	line "Jeśli nadal się nie poddajesz,"
+	line "będę musiał znów z Tobą walczyć..."
+	line "Ale najpierw musisz pokonać"
+	line "wszystkich 4 Arcymistrzów od nowa!"
 	done
 
 Text05af: ; 4a65c (12:665c)
-	text "No!!! How...? How could I lose!?!"
+	text "Nie! Jak...?! Jak mogłem przegrać?!"
 	done
 
 Text05b0: ; 4a67f (12:667f)
-	text "I'm sorry, but the Legendary Pokémon"
-	line "Cards have chosen <RAMNAME>."
+	text "Przykro mi, ale <RAMNAME> przejmie"
+	line "Legendarne Karty Pokémon."
 	done
 
 Text05b1: ; 4a6ba (12:66ba)
-	text "The Legendary Pokémon Cards"
-	line "vanished from Ronald's Deck!"
+	text "Legendarne Karty Pokémon"
+	line "zniknęły z Talii Ronalda!"
 	done
 
 Text05b2: ; 4a6f4 (12:66f4)
-	text "No! My...My Legendary "
-	line "Pokémon Cards!"
-	line "No...!"
-	line "Noooooo!!!"
+	text "Nie! Moje... Moje Legendarne "
+	line "Karty Pokémon!"
+	line "Nie...!"
+	line "NIEEEEEEEE!!!"
 	done
 
 Text05b3: ; 4a72d (12:672d)
-	text "Congratulations, <RAMNAME>!"
-	line "You are a Card Master"
-	line "worthy of inheriting"
-	line "the Legendary Pokémon Cards!"
-	line "The Legendary Pokémon Cards"
-	line "recognize you as a true Master!"
+	text "Gratulacje, <RAMNAME>!"
+	line "Z dumą możesz dzierżyć tytuł"
+	line "Mistrza Kart Pokémon, godnego"
+	line "odziedziczenia Legendarnych Kart"
+	line "Pokémon! Od teraz rozpoznają Cię"
+	line "jako ich prawdziwego Mistrza!"
 	done
 
 Text05b4: ; 4a7c6 (12:67c6)
-	text "Now go through to the Hall of Honor"
-	line "to receive the Legendary Cards!"
+	text "Udaj się teraz do Sali Honoru,"
+	line "aby otrzymać Legendarne Karty!"
 	done
 
 Text05b5: ; 4a80b (12:680b)
-	text "The Legendary Auto Deck Machine "
-	line "has been turned on!"
+	text "Legendarny Automat Talii"
+	line "został włączony!"
 	done
 
 Text05b6: ; 4a841 (12:6841)
-	text "Would you like to build a Deck?"
+	text "Czy chcesz zbudować Talię?"
 	done
 
 Text05b7: ; 4a862 (12:6862)
-	text "The Legendary Auto Deck Machine"
-	line "has been turned off!"
+	text "Legendarny Automat Talii"
+	line "został wyłączony!"
 	done
 
 Text05b8: ; 4a898 (12:6898)
-	text "The 4 Legendary Pokémon Cards"
-	line "float, glowing in the air!"
+	text "Cztery Legendarne Karty Pokémon"
+	line "unoszą się w powietrzu, błyszcząc!"
 	done
 
 Text05b9: ; 4a8d2 (12:68d2)
-	text "The Legendary Pokémon Cards"
-	line "speak to you..."
-	line " ”You who have inherited us..."
-	line "  Great Card Master! "
-	line "  Our Master must not forget:"
-	line "  Inheriting us does not make you"
-	line "  a Pokémon Card Master!"
-	line "  A true Pokémon Card Master is"
-	line "  one who has the skill to use"
-	line "  the abilities of the different"
-	line "  cards and the courage to duel"
-	line "  powerful opponents. And most"
-	line "  of all, the ability to love the"
-	line "  Pokémon Trading Card Game"
-	line "  no matter what - win or lose!"
-	line "  A new journey has just begun...”"
+	text "Legendarne Karty Pokémon"
+	line "przemawiają do Ciebie..."
+	line " ”Ten, kto nas odziedziczył..."
+	line "  Jest Wielkim Mistrzem Kart!"
+	line "  Nasz Mistrz musi pamiętać:"
+	line "  Odziedziczenie nas nie czyni Cię"
+	line "  Mistrzem Kart Pokémon!"
+	line "  Prawdziwy Mistrz Kart Pokémon"
+	line "  potrafi używać kombinacji wielu"
+	line "  różnych kart i ma odwagę, aby"
+	line "  wyzywać na pojedynki potężnych"
+	line "  przeciwników! A przede wszystkim,"
+	line "  musi kochać grę w Karty Pokémon,"
+	line "  niezależnie od tego, czy wygrywa,"
+	line "  czy przegrywa!"
+	line "Twoja podróż właśnie się zaczyna...”"
 	done
 
 Text05ba: ; 4aaad (12:6aad)
-	text "One of the Legendary Pokémon Cards"
-	line "floats, glowing in the air!"
+	text "Jedna z Legendarnych Kart Pokémon"
+	line "unosi się w powietrzu, błyszcząc!"
 	done
 
 Text05bb: ; 4aaed (12:6aed)
-	text "A Legendary Pokémon Card"
-	line "floats, glowing in the air!"
+	text "Legendarna Karta Pokémon"
+	line "unosi się w powietrzu, błyszcząc!"
 	done
 
 Text05bc: ; 4ab23 (12:6b23)
-	text "The Legendary Pokémon Cards"
-	line "speak to you..."
-	line " ”You who have inherited us..."
-	line "  Great Card Master!"
-	line "  There are no cards left for us"
-	line "  to give you, but do not forget:"
-	line "  Inheriting us does not make you"
-	line "  a Pokémon Card Master!"
-	line "  A true Pokémon Card Master"
-	line "  is one who has the skill to use"
-	line "  the abilities of the different"
-	line "  cards and the courage to duel"
-	line "  powerful opponents. And above"
-	line "  all, the ability to love the"
-	line "  Pokémon Trading Card Game no"
-	line "  matter what - win or lose!"
-	line "  A new journey has just begun...”"
+	text "Legendarne Karty Pokémon"
+	line "przemawiają do Ciebie..."
+	line " ”Ty, który nas odziedziczyłeś..."
+	line "  Wielki Mistrzu Kart!"
+	line "  Nie mamy dla Ciebie więcej kart,"
+	line "  ale nie zapominaj:"
+	line "  Odziedziczenie nas nie czyni Cię"
+	line "  Mistrzem Kart Pokémon!"
+	line "  Prawdziwy Mistrz Kart Pokémon"
+	line "  potrafi używać kombinacji wielu"
+	line "  różnych kart i ma odwagę, aby"
+	line "  wyzywać na pojedynki potężnych"
+	line "  przeciwników! A przede wszystkim,"
+	line "  musi kochać grę w Karty Pokémon,"
+	line "  niezależnie od tego, czy wygrywa,"
+	line "  czy przegrywa!"
+	line "Twoja podróż właśnie wciąż trwa...”"
 	done
 
 ItsTheChallengeMachineText: ; 4ad20 (12:6d20)
-	text "It's the Challenge Machine,"
-	line "created by Dr. Mason!"
+	text "To Automat Wyzwań,"
+	line "stworzony przez Doktora Masona!"
 	done
 
 Tech1MasterMedalExplanationText: ; 4ad53 (12:6d53)
-	text "The 8 Club Masters each own a"
-	line "Master Medal."
-	line "The secret of each Club's deck is"
-	line "encrypted in its Master Medal."
-	line "Once you get a Master Medal, go"
-	line "to the computer room in back."
-	line "You can place the Medals in the"
-	line "Auto Deck Machines to create"
-	line "different Decks!"
+	text "Każdy z 8 Mistrzów Klubów posiada"
+	line "Medal Mistrza."
+	line "Sekrety Talii każdego z klubów są"
+	line "zaszyfrowane w Medalach Mistrzów."
+	line "Gdy dostaniesz Medal Mistrza, idź"
+	line "do pokoju komputerowego, z tyłu"
+	line "budynku. Możesz umieścić Medal w"
+	line "jednej z maszyn, aby złożyć nowe,"
+	line "różnorodne Talie!"
 	done
 
 Tech1AutoDeckMachineExplanationText: ; 4ae4d (12:6e4d)
-	text "You finally inherited the"
-	line "Legendary Pokémon Cards!"
-	line "Did you see the Legendary Auto"
-	line "Deck Machine?"
-	line "It is rumored that it's in the "
-	line "Hall of Honor at Pokémon Dome."
-	line "It supposedly holds the secret "
-	line "to a very powerful deck!"
+	text "W końcu udało Ci się odziedziczyć"
+	line "Legendarne Karty Pokémon!"
+	line "Rzuć okiem na Legendarny Automat"
+	line "Talii!"
+	line "Podobno jest w Sali Honoru na"
+	line "Stadionie Pokémon."
+	line "Chodzą słuchy, że możesz tam złożyć"
+	line "bardzo potężną talię!"
 	done
 
 Tech1FewEnergyCardsText: ; 4af26 (12:6f26)
-	text "Excuse me, but you don't seem "
-	line "to have many Energy cards."
-	line "Building a deck must be difficult "
-	line "with so few Energy cards."
-	line "Here, take these!"
+	text "Przepraszam, ale wydaje mi się, że"
+	line "masz bardzo mało Kart Energii!"
+	line "Musi być Ci naprawdę ciężko zbudować"
+	line "Talię z taką liczbą Kart Energii."
+	line "Proszę, weź te!"
 	done
 
 Tech1ReceivedEnergyCardsText: ; 4afb0 (12:6fb0)
-	text "<RAMNAME> received some "
-	line "Energy cards!"
+	text "<RAMNAME> otrzymuje kilka"
+	line "Kart Energii!"
 	done
 
 Tech1GoodbyeText: ; 4afd0 (12:6fd0)
-	text "Goodbye!"
-	line "Take care!"
+	text "Do widzenia!"
+	line "Trzymaj się!"
 	done
 
 Tech2LegendaryCardsExplanationText: ; 4afe5 (12:6fe5)
-	text "Are you also hoping to inherit"
-	line "the Legendary Pokémon Cards?"
-	line "If you want the Legendary Cards,"
-	line "you must defeat the Grand Masters."
-	line "To duel the Grand Masters, you"
-	line "must first get the Master Medals."
-	line "The 8 Masters of the Card Clubs"
-	line "each have a Master Medal. Go to"
-	line "Pokémon Dome if you want to learn"
-	line "more about the Legendary Cards."
+	text "Też masz nadzieję że odziedziczysz"
+	line "Legendarne Karty Pokémon?"
+	line "Aby dostać Legendarne Karty,"
+	line "musisz pokonać Arcymistrzów."
+	line "Aby wyzwać ich na pojedynek, musisz"
+	line "najpierw zdobyć Medale Mistrzów."
+	line "Ośmioro Mistrzów Klubów Kart ma"
+	line "po jednym medalu. Jeśli chcesz"
+	line "dowiedzieć się więcej o Legendarnych"
+	line "Kartach - idź do Stadionu Pokémon."
 	done
 
 Tech2LegendaryCardsCongratsText: ; 4b129 (12:7129)
-	text "You finally inherited the"
-	line "Legendary Pokémon Cards!"
-	line "Amazing!"
-	line "Congratulations, <RAMNAME>!!!"
+	text "Udało Ci się odziedziczyć"
+	line "Legendarne Karty Pokémon!"
+	line "Niesamowite!"
+	line "Gratulacje, <RAMNAME>!"
 	done
 
 Tech3BoosterPackExplanationText: ; 4b17c (12:717c)
-	text "When you defeat a Club Member,"
-	line "you'll receive a Booster Pack."
-	line "Each Booster Pack has 10 cards."
-	line "The cards differ depending on"
-	line "the Booster Pack you receive. "
-	line "The type of Booster Pack differs"
-	line "depending on who you duel, "
-	line "so choose your opponents well."
+	text "Kiedy pokonasz członka klubu,"
+	line "otrzymasz od niego Booster Paczkę."
+	line "Każda Booster Paczka ma 10 kart."
+	line "Każdy rodzaj Booster Paczki ma"
+	line "w sobie inne karty! Zależnie od tego"
+	line "z kim wygrasz, dostaniesz dany"
+	line "rodzaj Booster Paczki, więc dobrze"
+	line "dobieraj swoich przeciwników."
 	done
 
 Tech3LegendaryCardsCongratsText: ; 4b274 (12:7274)
-	text "Congratulations on inheriting "
-	line "the Legendary Pokémon Cards,"
+	text "Brawo! Gratuluję zdobycia"
+	line "Legendarnych Kart Pokémon,"
 	line ""
-	text "<RAMNAME>! Now you should try"
-	line "dueling different people using the"
-	line "cards you inherited. I'm sure "
-	line "you'll have a good time!"
+	text "<RAMNAME>! Teraz spróbuj walczyć"
+	line "z różnymi ludźmi za pomocą zdobytych"
+	line "kart. Na pewno Ci się to spoboda!"
 	done
 
 Tech4ClubsExplanationText: ; 4b323 (12:7323)
-	text "I'm sure you already know, but there"
-	line "are 8 Clubs: the Fighting, Water,"
-	line "Lightning, Grass, Psychic, Fire,"
-	line "Rock and Science Clubs!"
-	line "The different Clubs use cards that"
-	line "are specific to that Club."
+	text "Na pewno już to wiesz, ale jest 8"
+	line "Klubów: Walki, Wody, Elektryczności,"
+	line "Trawy, Psychiki, Ognia, Kamienia i"
+	line "Nauki! Każdy klub używa innych,"
+	line "specyficznych dla siebie kart."
 	done
 
 Tech4DefeatedTheGrandMastersText: ; 4b3e2 (12:73e2)
-	text "Amazing! You beat the 8 Club "
-	line "Masters!"
-	line "And you even defeated the"
-	line "4 Grand Masters! Amazing!"
+	text "Niesamowite! Udało Ci się pokonać"
+	line "Wszystkich 8 Mistrzów Klubów!"
+	line "Wow, udało Ci się też pokonać"
+	line "4 Arcymistrzów! Niesamowite!"
 	done
 
 Tech5DiaryAndEmailExplanationText: ; 4b43e (12:743e)
-	text "To save your game, press START"
-	line "and choose Diary from the Menu."
-	line "You can do all sorts of stuff with"
-	line "that PC over there."
-	line "You can read e-mail from "
-	line "Dr. Mason on that PC, too!"
+	text "Aby zapisać grę, naciśnij START"
+	line "i wybierz Pamiętnik z Menu."
+	line "Na PC w rogu pokoju możesz robić"
+	line "przeróżne rzeczy!"
+	line "Możesz tam np. przeczytać maile od"
+	line "Doktora Masona!"
 	done
 
 Tech5ChallengeMachineExplanationText: ; 4b4ea (12:74ea)
-	text "This is the Challenge Machine"
-	line "created by Dr. Mason!"
-	line "The Challenge Machine is a "
-	line "Pokémon Card Dueling Machine. "
-	line "The rules of the game are simple: "
-	line "choose 1 deck with which you must"
-	line "duel 5 computer opponents!"
-	line "If you can defeat the 5 "
-	line "opponents, you win! You can also "
-	line "play to extend your winning "
-	line "streak! Build a deck and "
-	line "give it a try, <RAMNAME>!"
+	text "Oto Automat Wyzwań stworzony"
+	line "przez Doktora Masona!"
+	line "Ten Automat to maszyna pojedynków."
+	line "Zasady są proste:"
+	line "Wybierz jedną Talię, którą musisz"
+	line "pokonać 5 komputerowych rywali!"
+	line "Jeśli pokonasz wszystkich 5,"
+	line "wygrywasz! Możesz też kontynuować"
+	line "walki, aby zwiększyć serię"
+	line "wygranych. Zbuduj talię i spróbuj"
+	line "swoich sił, <RAMNAME>!"
 	done
 
 Text05cb: ; 4b63e (12:763e)
-	text "OK, let's start using the practice"
-	line "Deck. Listen and follow Dr. Mason's"
-	line "instructions."
+	text "Dobrze, zacznijmy przy użyciu Talii"
+	line "treningowej. Słuchaj poleceń"
+	line "i instrukcji doktora Masona."
 	done
 
 Text05cc: ; 4b694 (12:7694)
-	text "Practice with Sam?"
+	text "Chcesz potrenować z Samem?"
 	done
 
 Text05cd: ; 4b6a8 (12:76a8)
-	text "You should practice again if there"
-	line "is anything you don't understand."
+	text "Dobrze jest potrenować, jeśli"
+	line "czegoś nie rozumiesz."
 	done
 
 Text05ce: ; 4b6ee (12:76ee)
-	text "OK, a 2-Prize duel using"
-	line "the practice deck!"
+	text "Dobrze, walka z 2 nagrodami"
+	line "przy użyciu talii treningowej!"
 	done
 
 Text05cf: ; 4b71b (12:771b)
-	text "Would you like to duel Sam?"
+	text "Wyzwać Sama na pojedynek?"
 	done
 
 Text05d0: ; 4b738 (12:7738)
-	text "Come see me any time."
-	line "The basics are very important!"
+	text "Wpadaj tu kiedy chcesz."
+	line "Podstawy są bardzo ważne!"
 	done
 
 Text05d1: ; 4b76e (12:776e)
-	text "You're getting the hang of it!"
+	text "No no, zaczynasz ogarniać!"
 	done
 
 Text05d2: ; 4b78e (12:778e)
-	text "Keep this up, and you should be able"
-	line "to win some duels!"
+	text "W takim tempie niedługo"
+	line "będziesz wymiatać!"
 	done
 
 Text05d3: ; 4b7c7 (12:77c7)
-	text "You need to practice more."
-	line "If you think things through,"
-	line "you should be able to win."
-	line "Why don't you practice "
-	line "a little more?"
+	text "Musisz jeszcze trochę potrenować."
+	line "Jeśli przemyślisz swoją Talię,"
+	line "powinieneś być w stanie wygrać."
+	line "Może potrenujesz"
+	line "jeszcze trochę?"
 	done
 
 Text05d4: ; 4b842 (12:7842)
-	text "So, have you learned how to "
-	line "play the game?"
-	line "I hope you enjoy playing the"
-	line "Pokémon Trading Card Game!"
+	text "A zatem umiesz już grać"
+	line "w tę grę?"
+	line "Mam nadzieję, że spodoba Ci się"
+	line "granie w Karty Pokémon!"
 	done
 
 Text05d5: ; 4b8a7 (12:78a7)
-	text "What do you want to "
-	line "ask about?"
+	text "O co dokładnie"
+	line "chcesz zapytać?"
 	done
 
 Text05d6: ; 4b8c8 (12:78c8)
-	text "In order to do anything, Pokémon "
-	line "must have Energy cards. "
-	line "If no Energy cards are attached,"
-	line "the Pokémon will not be able to "
-	line "attack or retreat. There are 7 "
-	line "types of Energy cards: Grass, "
-	line "Fire, Water, Lightning, Psychic, "
-	line "Fighting and Colorless."
-	line "The type of Energy required "
-	line "depends on the Pokémon."
-	line "Be sure to learn which Pokémon "
-	line "require which type of Energy!"
+	text "Pokémony potrzebują Kart Energii"
+	line "do ataku. Jeśli nie mają"
+	line "dołączonych Kart Energi, nie będą"
+	line "mogły atakować, ani się wycofać."
+	line "Istnieje 7 typów Kart Energii:"
+	line "Trawy, Ognia, Wody, Elektryczności,"
+	line "Psychiki, Walki i Podwójne"
+	line "Bezbarwne. Rodzaj Energii potrzebnej"
+	line "do ataku zależy od Pokémona."
+	line "Pamiętaj, aby sprawdzić, jakie"
+	line "Karty Energii są potrzebne"
+	line "Twoim Pokémonom!"
 	done
 
 Text05d7: ; 4ba32 (12:7a32)
-	text "Pokémon damage defending Pokémon "
-	line "by attacking. Pokémon need Energy "
-	line "cards in order to attack."
-	line "For example, the energy required "
-	line "for Seaking's Waterfall is <WATER><COLORLESS>."
-	line "<WATER><COLORLESS> stands for 1 Water Energy "
-	line "card and another Energy card of "
-	line "any type. The energy required "
-	line "differs according to the attack."
+	text "Pokémony zadają obrażenia swoim"
+	line "przeciwnikom poprzez atak."
+	line "Potrzebują do tego Kart Energii."
+	line "Wodospad Seaking'a na przykład"
+	line "potrzebuje <WATER><COLORLESS>. Oznacza to,"
+	line "że wymaga 1 Karty Energii Wody"
+	line "i jakiejkolwiek innej Karty Energii."
+	line "Wymagania różnią się zależnie od"
+	line "ataku i Pokémona."
 	done
 
 Text05d8: ; 4bb56 (12:7b56)
-	text "To switch your Active Pokémon"
-	line "with a Bench Pokémon, choose "
-	line "the Retreat command. If the "
-	line "Active Pokémon is in danger,"
-	line "move it back to your Bench."
-	line "Energy is required in order"
-	line "to Retreat. The number of "
-	line "Energy cards required varies,"
-	line "depending on the Pokémon."
+	text "Aby podmienić Aktywnego Pokémona"
+	line "z takim z ławki, wybierz ”wycofaj”"
+	line "z Menu. Jeśli obawiasz się, że Twój"
+	line "Aktywny Pokémon będzie znokautowany,"
+	line "wycofaj go na ławkę. Wymaga to"
+	line "odrzucenia Karty (lub Kart) Energii"
+	line "dołączonej do wycofywanego Pokémona."
+	line "Konkretna liczba zależy od Pokémona."
 	done
 
 Text05d9: ; 4bc58 (12:7c58)
-	text "There are 3 types of Pokémon cards:"
-	line "Basic Pokémon, Stage 1 Pokémon and "
-	line "Stage 2 Pokémon. Squirtle is a "
-	line "Basic, Wartortle a Stage 1 and "
-	line "Blastoise a Stage 2 Pokémon."
-	line "Basic Pokémon are the only cards"
-	line "that can be put directly into play."
-	line "A Basic Pokémon in play can be"
-	line "evolved to a Stage 1 Pokémon. A"
-	line "Stage 1 Pokémon in the Play Area "
-	line "can then be evolved to a Stage 2 "
-	line "Pokémon. Therefore, Squirtle is "
-	line "needed in order to play Wartortle,"
-	line "and Wartortle is needed in"
-	line "order to play Blastoise."
+	text "Istnieją 3 typy kart z Pokémonami:"
+	line "Pokémony Podstawowe, 1 Stadium"
+	line "ewolucji i 2 Stadium ewolucji."
+	line "Squirtle to Pokémon podstawowy,"
+	line "Wartortle to 1 Stadium, a Blastoise"
+	line "to 2 stadium ewolucji tego Pokémona."
+	line "Tylko Podstawowe Pokémony mogą być"
+	line "umieszczane na pustym miejscu ławki"
+	line "lub miejsca aktywnego. Dopiero"
+	line "te Podstawowe Pokémony mogą być"
+	line "ewoluowane do 1 i potem 2 stadium."
+	line "Squirtle musi być zagrany najpierw, "
+	line "potem Wartortle dołączony do niego,"
+	line "a jako ostatni dołączony Blastoise."
 	done
 
 Text05da: ; 4be3e (12:7e3e)
-	text "Some Pokémon have special"
-	line "abilities called Pokémon Powers."
-	line "Some Pokémon Powers are used as"
-	line "soon as the Pokémon is played,"
-	line "while others must be used by"
-	line "choosing the PKMN Power command."
-	line "There are many different Pokémon"
-	line "Powers, so read each card's text"
-	line "carefully."
+	text "Niektóre Pokémony mają specjalne"
+	line "Moce, nazywane Mocami Pokémon."
+	line "Niektóre z nich są używane od razu"
+	line "przy zagraniu tego Pokémona, inne"
+	line "po wybraniu polecenia ”Moc Pokémon”"
+	line "z menu. Istnieje wiele różnych Mocy"
+	line "Pokémon, więc uważnie czytaj karty."
 	done
 
 	ds $bc
