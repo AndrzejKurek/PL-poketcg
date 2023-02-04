@@ -1383,6 +1383,32 @@ CheckIfActiveCardParalyzedOrAsleep:
 	scf
 	ret
 
+; Decide on card word declination. 1 nagroda, 2-4 nagrody, 5+ nagród
+; input: a - number of cards to take.
+; output: loaded card word into TxRam2 
+LoadCardWord:
+    cp 1
+	jr z, .cards_one
+	cp 5
+	jr c, .cards_less_than_five
+	jr .cards_five_or_more
+	
+.cards_one
+	ldtx hl, Cards1Name
+	jr .cards_decided
+	
+.cards_less_than_five
+	ldtx hl, Cards2Name
+	jr .cards_decided
+	
+.cards_five_or_more
+	ldtx hl, Cards5Name
+	; fallthrough
+
+.cards_decided
+	call LoadTxRam2
+	ret
+
 ; display the animation of the turn duelist drawing one card at the beginning of the turn
 ; if there isn't any card left in the deck, let the player know with a text message
 DisplayDrawOneCardScreen:
@@ -1432,6 +1458,11 @@ DisplayDrawNCardsScreen:
 	ld l, a
 	ld h, 0
 	call LoadTxRam3
+	ld a, l
+	
+; Decide on card word declination.
+    call LoadCardWord
+
 	ldtx hl, DrawCardsFromTheDeckText
 	call DrawWideTextBox_PrintText
 	call EnableLCD
@@ -3567,15 +3598,10 @@ DrawWholeScreenTextBox:
 	call WaitForWideTextBoxInput
 	ret
 
-Func_5805:
-	call Func_3b31
-	ld a, [wNumberPrizeCardsToTake]
-	ld l, a
-	ld h, $00
-	call LoadTxRam3
-
-; Decide on declination. 1 nagroda, 2-4 nagrody, 5+ nagród
-	ld a, [wNumberPrizeCardsToTake]
+; Decide on prize word declination. 1 nagroda, 2-4 nagrody, 5+ nagród
+; input: a - number of prizes to take.
+; output: loaded prize word into TxRam2 
+LoadPrizeWord:
     cp 1
 	jr z, .prizes_one
 	cp 5
@@ -3596,6 +3622,19 @@ Func_5805:
 
 .prizes_decided
 	call LoadTxRam2
+    ret
+
+Func_5805:
+	call Func_3b31
+	ld a, [wNumberPrizeCardsToTake]
+	ld l, a
+	ld h, $00
+	call LoadTxRam3
+
+; Decide on declination.
+	ld a, [wNumberPrizeCardsToTake]
+    call LoadPrizeWord
+	
 ; player or opponent?
 	ld a, DUELVARS_DUELIST_TYPE
 	call GetTurnDuelistVariable

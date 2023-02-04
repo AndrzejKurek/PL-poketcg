@@ -284,6 +284,9 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer ChangedTheResistanceOfPokemonToColorText           ; 0x0115
 	textpointer ChangedTheColorOfText                              ; 0x0116
 	textpointer Draw1CardFromTheDeckText                           ; 0x0117
+	textpointer Cards1Name
+	textpointer Cards2Name
+	textpointer Cards5Name
 	textpointer DrawCardsFromTheDeckText                           ; 0x0118
 	textpointer CannotDrawCardBecauseNoCardsInDeckText             ; 0x0119
 	textpointer ChoosePkmnInTheBenchToGiveDamageText               ; 0x011a

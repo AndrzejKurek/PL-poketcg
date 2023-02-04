@@ -188,12 +188,24 @@ ChangedTheColorOfText: ; 386d3 (e:46d3)
 	text "<RAMTEXT> na <RAMTEXT>."
 	done
 
+Cards1Name:
+    text "kartę"
+	done
+
+Cards2Name:
+    text "karty"
+	done
+	
+Cards5Name:
+    text "kart"
+	done
+	
 Draw1CardFromTheDeckText: ; 386f2 (e:46f2)
 	text "Weź 1 kartę z Talii."
 	done
 
 DrawCardsFromTheDeckText: ; 3870e (e:470e)
-	text "Weź <RAMNUM> kart z Talii."
+	text "Weź <RAMNUM> <RAMTEXT> z Talii."
 	done
 
 CannotDrawCardBecauseNoCardsInDeckText: ; 3872d (e:472d)
