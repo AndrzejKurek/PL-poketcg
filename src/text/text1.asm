@@ -518,7 +518,7 @@ PlacingThePrizesText: ; 36d28 (d:6d28)
 
 PleasePlacePrizesText: ; 36d3f (d:6d3f)
 	text "Proszę umieścić"
-	line "<RAMNUM> nagród."
+	line "<RAMNUM> <RAMTEXT>."
 	done
 
 IfHeadsDuelistPlaysFirstText: ; 36d57 (d:6d57)

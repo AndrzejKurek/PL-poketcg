@@ -1808,7 +1808,14 @@ HandleDuelSetup:
 	ld a, [wDuelInitialPrizes]
 	ld l, a
 	ld h, 0
+	push hl
 	call LoadTxRam3
+
+	; Decide on prize word declination.
+	pop hl
+	ld a, l
+    call LoadPrizeWord
+	
 	ldtx hl, PleasePlacePrizesText
 	call DrawWideTextBox_PrintText
 	call EnableLCD
