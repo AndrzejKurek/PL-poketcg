@@ -1465,18 +1465,18 @@ UseDuelistsDeckText: ; 3f2f1 (f:72f1)
 	done
 
 ReceivedBoosterPackText: ; 3f308 (f:7308)
-	text "<RAMNAME> otrzymuje paczkę"
-	line "boosterów: <RAMTEXT>."
+	text "<RAMNAME> otrzymuje Booster"
+	line "Paczkę: <RAMTEXT>."
 	done
 
 AndAnotherBoosterPackText: ; 3f327 (f:7327)
-	text "Dostaje także następną paczkę"
-	line "boosterów: <RAMTEXT>."
+	text "Dostaje także następną Booster"
+	line "Paczkę: <RAMTEXT>."
 	done
 
 CheckedCardsInBoosterPackText: ; 3f348 (f:7348)
 	text "<RAMNAME> sprawdza karty"
-	line "z paczki boosterów!"
+	line "z Booster Paczki!"
 	done
 
 Text038a: ; 3f373 (f:7373)
@@ -1979,11 +1979,11 @@ Text0401: ; 3faaa (f:7aaa)
 	line "Zaczynasz ogarniać granie"
 	line "w karty Pokémon?"
 	line "Mam dla Ciebie trochę informacji o"
-	line "paczkach boosterów."
+	line "Booster Paczkach."
 	line "Jeśli chcesz nazbierać wiele tych"
 	line "samych kard, walcz z tą samą osobą"
 	line "wielokrotnie, żeby dostać tego"
-	line "samego boostera! W ten sposób"
+	line "samego Boostera! W ten sposób"
 	line "uzbierasz sporo tych samych kart,"
 	line "a to ułatwi Ci złożenie talii."
 	line "Inną metodą zbierania kart jest"
@@ -2000,7 +2000,7 @@ Text0401: ; 3faaa (f:7aaa)
 Text0402: ; 3fd72 (f:7d72)
 	text "Będę Ci przesyłał przydatne"
 	line "informacje mailem."
-	line "Będę też dorzucał paczki boosterów"
+	line "Będę też dorzucał Booster Paczki"
 	line "do wiadomości, więc często sprawdzaj"
 	line "maila!"
 	line "Laboratorium Masona"
@@ -2018,7 +2018,7 @@ Text0403: ; 3fe10 (f:7e10)
 	line "Proponuję walczyć z nim używając"
 	line "Talii z Automatu z medalem"
 	line "Psychiki. Będzie łatwiej!"
-	line "Weź też tego booster packa..."
+	line "Weź też tę Booster Paczkę..."
 	done
 
 Text0404: ; 3ff4d (f:7f4d)

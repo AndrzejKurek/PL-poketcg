@@ -280,7 +280,7 @@ Text05fd: ; 4d466 (13:5466)
 	text "Ho-ho! Może powalczymy, żeby"
 	line "przetestować Twoją talię?"
 	line "Jeśli wygrasz, dam Ci"
-	line "Booster Pack'a z samymi"
+	line "Booster Paczkę z samymi"
 	line "Kartami Energii!"
 	done
 
@@ -299,7 +299,7 @@ Text0600: ; 4d531 (13:5531)
 	done
 
 Text0601: ; 4d56a (13:556a)
-	text "Czy to <RAMTEXT>?"
+	text "<RAMTEXT> dla mnie?"
 	done
 
 Text0602: ; 4d574 (13:5574)
@@ -619,8 +619,8 @@ Text0638: ; 4e3d4 (13:63d4)
 	done
 
 Text0639: ; 4e444 (13:6444)
-	text "Weź też tego Booster"
-	line "Packa. Proszę!"
+	text "Weź też tę Booster"
+	line "Paczkę. Proszę!"
 	done
 
 Text063a: ; 4e46d (13:646d)
@@ -813,7 +813,7 @@ Text0653: ; 4ee87 (13:6e87)
 
 Text0654: ; 4ef34 (13:6f34)
 	text "Witaj, jestem Robert!"
-	line "Jestem członkiem Klubu Psychiki."
+	line "Należę do Klubu Psychiki."
 	line "Moja Talia Duchów jest naprawdę"
 	line "silna i nie ma żadnych słabości!"
 	line "Przeciwnikom ciężko jest zadać"
@@ -854,7 +854,7 @@ Text065a: ; 4f0f7 (13:70f7)
 Text065b: ; 4f148 (13:7148)
 	text "Nie lubię za bardzo zarozumiałych"
 	line "ludzi. Dlatego też nie przepadam"
-	line "za członkami Klubu Psychiki..."
+	line "za graczami z Klubu Psychiki..."
 	line "Pokonanie ich na pewno sprawi,"
 	line "że przestaną tak patrzeć z góry!"
 	line "Niestety nie dam rady tego zrobić..."
@@ -891,7 +891,7 @@ Text065f: ; 4f2f0 (13:72f0)
 Text0660: ; 4f392 (13:7392)
 	text "Nie lubię za bardzo zarozumiałych"
 	line "ludzi. Dlatego też nie przepadam"
-	line "za członkami Klubu Psychiki..."
+	line "za graczami z Klubu Psychiki..."
 	line "Zaraz... Czy to nie Medal Psychiki?!"
 	line "Udało Ci się pokonać Murray'a?!"
 	line "Od razu czuję się lepiej!"
@@ -1109,8 +1109,8 @@ Text0682: ; 4ff1a (13:7f1a)
 	done
 
 Text0683: ; 4ffa9 (13:7fa9)
-	text "Proszę, weź także tego"
-	line "Booster Pack'a LABORATORIUM."
+	text "Proszę, weź także tę"
+	line "Booster Paczkę ”Laboratorium”."
 	done
 
 	ds $29

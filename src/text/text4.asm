@@ -10,7 +10,7 @@ Text0405: ; 40000 (10:4000)
 	line "Pokémony trawiaste! Przejrzyj"
 	line "talie z Automatu Trawy."
 	line "Właśnie! Zanim zapomnę..."
-	line "Oto booster pack dla Ciebie!"
+	line "Oto Booster Paczka dla Ciebie!"
 	done
 
 Text0406: ; 4014a (10:414a)
@@ -34,7 +34,7 @@ Text0407: ; 401a3 (10:41a3)
 	line "elektrycznymi!"
 	line "Spróbuj walczyć z nią przy użyciu"
 	line "Talii z Automatu Elektrycznego!"
-	line "Dorzucam booster packa."
+	line "Dorzucam Booster Paczkę."
 	done
 
 Text0408: ; 4033e (10:433e)
@@ -61,13 +61,13 @@ Text0409: ; 40389 (10:4389)
 	line "z Automatu Kamienia powinna"
 	line "dać radę."
 	line "Mam nadzieję że znajdziesz sporo"
-	line "Pokémonów walki w tej paczce"
-	line "Boosterów!"
+	line "Pokémonów walki w tej Booster"
+	line "Paczce!"
 	done
 
 Text040a: ; 40598 (10:4598)
 	text "I co, udało się dostać jakieś dobre"
-	line "Pokémony z tego boostera?"
+	line "Pokémony z tej Booster Paczki?"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"
 	done
@@ -83,8 +83,8 @@ Text040b: ; 40604 (10:4604)
 	line "Ognia, jeszcze zanim wyewoluuje"
 	line "z Exeggute'a!"
 	line "Popatrz na talie z Automatu Ognia."
-	line "Dam Ci też booster packa - mam"
-	line "nadzieję że będzie w nim sporo"
+	line "Dam Ci też Booster Paczkę - mam"
+	line "nadzieję że będzie w niej sporo"
 	line "Pokémonów Ognia!"
 	done
 
@@ -138,7 +138,7 @@ Text040f: ; 40a15 (10:4a15)
 	done
 
 Text0410: ; 40bea (10:4bea)
-	text "Wygraj wszystkich 8 Medali Mistrzów,"
+	text "Wygraj wszystkie 8 Medali Mistrzów,"
 	line ""
 	text "<RAMNAME>!"
 	line "Laboratorium Masona"
@@ -158,7 +158,7 @@ Text0411: ; 40c2e (10:4c2e)
 	line "laboratorium, może to Ci podsunie"
 	line "jakiś pomysł."
 	line "A tu drobny prezent!"
-	line "Paczka Boosterów ”Tajemnica”!"
+	line "Booster Paczka ”Tajemnica”!"
 	done
 
 Text0412: ; 40dc1 (10:4dc1)
@@ -185,7 +185,7 @@ Text0413: ; 40e4c (10:4e4c)
 	line "      Doktor Mason ;)"
 	line "P.S."
 	line "Niespodzianka! Tym razem dostaniesz"
-	line "2 paczki boosterów!"
+	line "2 Booster Paczki!"
 	done
 
 Text0414: ; 40fca (10:4fca)
@@ -207,7 +207,7 @@ Text0414: ; 40fca (10:4fca)
 	line "      Doktor Mason ;)"
 	line "P.S."
 	line "Tym razem także przesyłam Ci"
-	line "2 paczki boosterów - dawaj czadu!"
+	line "2 Booster Paczki - dawaj czadu!"
 	done
 
 Text0415: ; 4123d (10:523d)
@@ -296,7 +296,7 @@ Text0418: ; 4174c (10:574c)
 	done
 
 Text0419: ; 41965 (10:5965)
-	text "Paczka boosterów dołączona do tego"
+	text "Booster Paczka dołączona do tego"
 	line "maila jest już otwarta."
 	done
 
@@ -819,7 +819,7 @@ Text046b: ; 433ea (10:73ea)
 
 Text046c: ; 43427 (10:7427)
 	text "Ej! Nieźle Ci idzie!"
-	line "Dam Ci tę paczkę Boosterów, ale"
+	line "Dam Ci tę Booster Paczkę, ale"
 	line "nie mów nikomu że przegrałem, dobra?"
 	done
 
@@ -957,8 +957,8 @@ Text047f: ; 43c0c (10:7c0c)
 	done
 
 Text0480: ; 43ca3 (10:7ca3)
-	text "Weź także to. To paczka"
-	line "Boosterów Laboratorium."
+	text "Weź także to. To Booster"
+	line "Paczka ”Laboratorium”."
 	done
 
 Text0481: ; 43cda (10:7cda)

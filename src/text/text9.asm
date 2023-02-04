@@ -408,7 +408,7 @@ Text0780: ; 5551f (15:551f)
 
 Text0781: ; 5557a (15:557a)
 	text "Witaj, jestem Matthew,"
-	line "członek Klubu Kamienia."
+	line "należę do Klubu Kamienia."
 	line "Właśnie skończyłem walkę!"
 	line "Wygrałem, oczywiście!"
 	line "Legendarne karty będą"
@@ -668,7 +668,7 @@ Text07a7: ; 56210 (15:6210)
 	done
 
 Text07a8: ; 562a2 (15:62a2)
-	text "Weź też tego Booster Pack'a."
+	text "Weź też tę Booster Paczkę."
 	done
 
 Text07a9: ; 562c4 (15:62c4)
@@ -702,7 +702,7 @@ Text07ad: ; 563c8 (15:63c8)
 
 Text07ae: ; 56409 (15:6409)
 	text "Tak! Jesteś godnym przeciwnikiem!"
-	line "Proszę, weź tego Booster Pack'a."
+	line "Proszę, weź tę Booster Paczkę."
 	done
 
 Text07af: ; 56449 (15:6449)

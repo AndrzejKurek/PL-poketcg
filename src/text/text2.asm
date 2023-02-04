@@ -876,7 +876,7 @@ NowPrintingPleaseWaitText: ; 39f03 (e:5f03)
 	done
 
 BoosterPackText: ; 39f21 (e:5f21)
-	text "Paczka Boosterów"
+	text "Booster Paczka"
 	done
 
 WouldYouLikeToTryAgainText: ; 39f2f (e:5f2f)
@@ -1806,7 +1806,7 @@ EmptyLineText: ; 3bd42 (e:7d42)
 	done
 
 BoosterPackTitleText: ; 3bd55 (e:7d55)
-	text "Booster Pack"
+	text "Booster Paczka"
 	done
 
 Item1ColosseumText: ; 3bd63 (e:7d63)
