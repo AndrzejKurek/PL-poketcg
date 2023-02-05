@@ -948,7 +948,7 @@ Text047e: ; 43bcf (10:7bcf)
 	done
 
 Text047f: ; 43c0c (10:7c0c)
-	text "Cudownie! Świetna walka!"
+	text "Cudownie! świetna walka!"
 	line "Jestem pełen podziwu."
 	line "Proszę, weź to."
 	line "To Medal Walki!"

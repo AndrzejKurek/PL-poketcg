@@ -59,7 +59,7 @@ Text0497: ; 4421f (11:421f)
 	done
 
 Text0498: ; 44262 (11:4262)
-	text "Ćwiczenia fizyczne są takie nudne..."
+	text "ćwiczenia fizyczne są takie nudne..."
 	line "Dlaczego ludzie to robią?"
 	line "O, to Ty!"
 	line "Chcesz ze mną walczyć?"
@@ -116,7 +116,7 @@ Text04a2: ; 444e8 (11:44e8)
 	line "Karty Pokémonów Podstawowych"
 	line "i Karty Ewolucji. Tylko Podstawowe"
 	line "Pokémony mogą być umieszczone"
-	line "na Ławce. Karty Ewolucji mogą być"
+	line "na ławce. Karty Ewolucji mogą być"
 	line "pierwszym, lub drugim stadium"
 	line "ewolucji Pokémona podstawowego."
 	line "Najpierw dołączamy kartę pierwszego"
@@ -526,7 +526,7 @@ Text04df: ; 46115 (11:6115)
 Text04e0: ; 4611d (11:611d)
 	text "Kiedy Twój Pokémon jest zatruty,"
 	line "będzie na końcu każdej tury tracił"
-	line "10 Punktów Życia. Aby go uzdrowić,"
+	line "10 Punktów życia. Aby go uzdrowić,"
 	line "możesz albo go wycofać, albo"
 	line "uleczyć używając ”Pełnego"
 	line "Uzdrowienia”, albo wyewoluować."
@@ -581,7 +581,7 @@ Text04e8: ; 4650d (11:650d)
 	line "umiejętność zwaną ”Mocą Pokémon”."
 	line "Są bardzo potężne i zróżnicowane!"
 	line "Mogą być używane przed atakiem,"
-	line "nawet jeśli Pokémon jest na Ławce."
+	line "nawet jeśli Pokémon jest na ławce."
 	line "Każda moc jest inna i jest ich"
 	line "wiele, więc sprawdzaj swoje karty!"
 	done

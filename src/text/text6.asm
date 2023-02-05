@@ -493,7 +493,7 @@ Text0576: ; 496d5 (12:56d5)
 	done
 
 Text0577: ; 49763 (12:5763)
-	text "Hm-hmm-hmm... WYGRAŁAM!"
+	text "Hm-hmm-hmm... WYGRAłAM!"
 	line "Nie wiem czy przekazanie Ci Kart"
 	line "było dobrym pomysłem..."
 	done
@@ -517,7 +517,7 @@ Text057a: ; 49864 (12:5864)
 	done
 
 Text057b: ; 498b8 (12:58b8)
-	text "Świetnie, <RAMNAME>!"
+	text "świetnie, <RAMNAME>!"
 	line "Twój drugi przeciwnik to Steve!"
 	done
 

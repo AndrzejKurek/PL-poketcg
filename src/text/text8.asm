@@ -26,7 +26,7 @@ Text0687: ; 50168 (14:4168)
 	done
 
 Text0688: ; 50198 (14:4198)
-	text "Świetnie! To mi sę podoba!"
+	text "świetnie! To mi sę podoba!"
 	line "Na to czekałem!"
 	line "Zagrajmy z 6 Nagrodami!"
 	line "Zaczynajmy!"
@@ -517,7 +517,7 @@ Text06d6: ; 518fa (14:58fa)
 	text "Witaj w Centrum Prezentów!"
 	line "Tutaj możesz wysłać lub odebrać"
 	line "Karty albo Plan Talii za pomocą"
-	line "Łącza Podczerwonego."
+	line "łącza Podczerwonego."
 	line "Niestety, ta usługa jest dostępna"
 	line "tylko dla konsoli Game Boy Color."
 	line ""
