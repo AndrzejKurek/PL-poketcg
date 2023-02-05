@@ -533,13 +533,13 @@ Text04e0: ; 4611d (11:611d)
 	done
 
 Text04e1: ; 46243 (11:6243)
-	text "Pokémony Trawy i Hodowca Pokémonów"
+	text "Pokémony Trawy i Hodowca Pokémon"
 	done
 
 Text04e2: ; 46264 (11:6264)
 	text "Wiele Pokémonów Trawy ma ewolucję"
 	line "2 Stadium. Użyj karty ”Hodowca"
-	line "Pokémonów”, aby szybko wyewoluować"
+	line "Pokémon”, aby szybko wyewoluować"
 	line "je z pominięciem 1 stadium. Możesz"
 	line "wtedy używać potężnych ataków na"
 	line "wcześniejszym etapie gry."

@@ -368,25 +368,25 @@ Text060e: ; 4d767 (13:5767)
 
 Text060f: ; 4d7fc (13:57fc)
 	text "Hej! Dzieciaku!"
-	line "Mam kartę ”<Lv>20 Electabuzz”,"
+	line "Mam kartę <Lv> 20 Electabuzz,"
 	line "ale naprawdę chciałbym kartę"
-	line "”<Lv>35 Electabuzz”!"
+	line "<Lv> 35 Electabuzz!"
 	line "Może masz taką?"
 	line ""
-	text "Wymienimy się? (<Lv>20 Electabuzz)"
+	text "Wymienimy się? (<Lv> 20 Electabuzz)"
 	done
 
 Text0610: ; 4d87a (13:587a)
 	text "O! To znowu ty!"
 	line "To co, dzieciaku,"
-	line "Masz już ”<Lv>35 Electabuzz”?"
+	line "Masz już <Lv> 35 Electabuzz?"
 	line "No chodź, wymień się za"
 	line ""
-	text "<Lv>20 Electabuzz!"
+	text "<Lv> 20 Electabuzz!"
 	done
 
 Text0611: ; 4d8de (13:58de)
-	text "Wymienisz się za <Lv>20 Electabuzz?"
+	text "Wymienić się za <Lv> 20 Electabuzz?"
 	done
 
 Text0612: ; 4d8fb (13:58fb)
@@ -398,14 +398,14 @@ Text0612: ; 4d8fb (13:58fb)
 Text0613: ; 4d938 (13:5938)
 	text "Ej, dzieciaku!"
 	line "Niefajnie jest kłamać!"
-	line "Wcale nie masz <Lv>35 Electabuzz!"
+	line "Wcale nie masz <Lv> 35 Electabuzz!"
 	line "Sporo ryzykujesz okłamując mnie!"
 	done
 
 Text0614: ; 4d99f (13:599f)
 	text "Wymienisz się za"
 	line ""
-	text "<Lv>35 Electabuzz?"
+	text "<Lv> 35 Electabuzz?"
 	line "Mega! ...ej, zaraz, dzieciaku!"
 	line "Masz tę kartę w swojej Talii!"
 	line "Lepiej, żebym Ci jej nie zabierał!"
@@ -418,7 +418,7 @@ Text0615: ; 4da6d (13:5a6d)
 	line "Mega, dzieciaku!"
 	line "Daję Ci w zamian mojego"
 	line ""
-	text "<Lv>20 Electabuzz!"
+	text "<Lv> 20 Electabuzz!"
 	done
 
 Text0616: ; 4dad9 (13:5ad9)
@@ -428,8 +428,8 @@ Text0616: ; 4dad9 (13:5ad9)
 
 Text0617: ; 4dafe (13:5afe)
 	text "łoo! Mega, dzieciaku! Dzięki"
-	line "za tego ”<Lv>35 Electabuzz!”"
-	line "Mój <Lv>20 Electabuzz to też świetna"
+	line "za tego ”<Lv> 35 Electabuzz!”"
+	line "Mój <Lv> 20 Electabuzz to też świetna"
 	line "karta! Czas naładować baterie!"
 	done
 

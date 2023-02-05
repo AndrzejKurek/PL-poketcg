@@ -70,7 +70,7 @@ Text0277: ; 3c12f (f:412f)
 
 PrintMenuItemsText: ; 3c156 (f:4156)
 	text "Karty Pokémon"
-	line "Konfiguracja Talii"
+	line "Karty w Talii"
 	line "Lista Kart"
 	line "Jakość Druku"
 	line "Wyjdź"
@@ -1838,7 +1838,7 @@ ButchNPCName: ; 3f7f9 (f:77f9)
 	done
 
 HoodNPCName: ; 3f800 (f:7800)
-	text "Hood"
+	text "Pener"
 	done
 
 ChampNPCName: ; 3f806 (f:7806)

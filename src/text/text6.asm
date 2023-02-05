@@ -471,11 +471,11 @@ Text0573: ; 495bb (12:55bb)
 	done
 
 Text0574: ; 495db (12:55db)
-	text "Hm-hmmm...I, Courtney, the Fire "
-	line "Queen, shall be your first "
-	line "opponent! We shall see if you can "
-	line "take the heat. A 6-prizes match! "
-	line "Hm-hmm-hmm...Let's go to it!"
+	text "Hm-hmmm...Ja, Courtney, Królowa"
+	line "Ognia, będę Twoim pierwszym"
+	line "przeciwnikiem! Sprawdzę, czy się nie"
+	line "ugniesz pod presją. 6 Nagród! "
+	line "Hm-hmm-hmm... Do dzieła!"
 	done
 
 Text0575: ; 4967b (12:567b)

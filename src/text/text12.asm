@@ -1306,7 +1306,7 @@ PokemonTraderDescription: ; 636af (18:76af)
 	done
 
 PokemonBreederName: ; 6376a (18:776a)
-	text "Hodowca Pokémonów"
+	text "Hodowca Pokémon"
 	done
 
 PokemonBreederDescription: ; 6377b (18:777b)
