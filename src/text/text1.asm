@@ -59,7 +59,7 @@ MetresText: ; 36382 (d:6382)
 	done
 
 LbsText: ; 36385 (d:6385)
-	text "lbs."
+	text " kg."
 	done
 
 PromostarRarityText: ; 3638b (d:638b)

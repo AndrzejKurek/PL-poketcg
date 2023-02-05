@@ -1505,11 +1505,11 @@ Text0214: ; 3b799 (e:7799)
 	done
 
 FeetText: ; 3b7b6 (e:77b6)
-	textfw3 "'"
+	textfw3 "m"
 	done
 
 InchesText: ; 3b7b9 (e:77b9)
-	textfw3 "”"
+	textfw3 "cm"
 	done
 
 YourDiscardPileText: ; 3b7bc (e:77bc)
