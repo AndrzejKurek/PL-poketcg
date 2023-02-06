@@ -4650,12 +4650,12 @@ DisplayCardPage_PokemonDescription:
 	call WriteTwoByteNumberInTxSymbolFormat
 	; print the Pokemon's category at 1,10 (just above the length and weight texts)
 	lb de, 1, 10
-	ld hl, wLoadedCard1Category
-	call InitTextPrinting_ProcessTextFromPointerToID
 	ld a, TX_KATAKANA
 	call ProcessSpecialTextCharacter
 	ldtx hl, PokemonText
-	call ProcessTextFromID
+	call InitTextPrinting_ProcessTextFromID
+	ld hl, wLoadedCard1Category
+	call ProcessTextFromPointerToID
 	; print the length and weight values at 5,11 and 5,12 respectively
 	lb bc, 5, 11
 	ld hl, wLoadedCard1Length

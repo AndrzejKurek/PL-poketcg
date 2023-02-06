@@ -51,7 +51,7 @@ WeightText: ; 36370 (d:6370)
 	done
 
 PokemonText: ; 36378 (d:6378)
-	text " Pokémon"
+	text "Pokémon "
 	done
 
 MetresText: ; 36382 (d:6382)
