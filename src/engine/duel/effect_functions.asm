@@ -974,7 +974,13 @@ AskWhetherToQuitSelectingCards: ; 2c476 (b:4476)
 	sub [hl]
 	ld l, a
 	ld h, $00
+	push hl
 	call LoadTxRam3
+; Decide on card word declination.
+	pop hl
+	ld a, l
+    call LoadCardWord
+
 	ldtx hl, YouCanSelectMoreCardsQuitText
 	call YesOrNoMenuWithText
 	ret
@@ -3812,7 +3818,14 @@ Wildfire_DiscardDeckEffect: ; 2d4f4 (b:54f4)
 	jr nz, .loop
 
 	pop hl
+	push hl
+	; Decide on card word declination.
+	ld a, l
+    call LoadCardWord
+	pop hl
+	
 	call LoadTxRam3
+	
 	ldtx hl, DiscardedCardsFromDeckText
 	call DrawWideTextBox_PrintText
 	call SwapTurn

@@ -70,7 +70,7 @@ Text0277: ; 3c12f (f:412f)
 
 PrintMenuItemsText: ; 3c156 (f:4156)
 	text "Karty Pokémon"
-	line "Konfiguracja Talii"
+	line "Karty w Talii"
 	line "Lista Kart"
 	line "Jakość Druku"
 	line "Wyjdź"
@@ -265,7 +265,7 @@ ElectricShockText: ; 3c5e6 (f:45e6)
 	done
 
 ZappingSelfdestructText: ; 3c5f6 (f:45f6)
-	text "Prądowe Samozniszczenie"
+	text "Prądowa Autodestrukcja"
 	done
 
 InsectCollectionText: ; 3c60c (f:460c)
@@ -349,15 +349,15 @@ FireChargeText: ; 3c730 (f:4730)
 	done
 
 CharmanderAndFriendsText: ; 3c73d (f:473d)
-	text "Charmander i przyjaciele"
+	text "Charmander z kolegami"
 	done
 
 SquirtleAndFriendsText: ; 3c753 (f:4753)
-	text "Squirtle i przyjaciele"
+	text "Squirtle ze znajomymi"
 	done
 
 BulbasaurAndFriendsText: ; 3c767 (f:4767)
-	text "Bulbasaur i przyjaciele"
+	text "Bulbasaur z kumplami"
 	done
 
 PsychicMachampText: ; 3c77c (f:477c)
@@ -475,7 +475,7 @@ PokemonFluteDescriptionText: ; 3cb7b (f:4b7b)
 	done
 
 YellowFlashDescriptionText: ; 3cbbb (f:4bbb)
-	text "Talia pokemonów używających"
+	text "Talia Pokémonów używających"
 	line "Energię Elektryczną - porazi"
 	line "przeciwników!"
 	done
@@ -486,7 +486,7 @@ ElectricShockDescriptionText: ; 3cbfa (f:4bfa)
 	done
 
 ZappingSelfdestructDescriptionText: ; 3cc39 (f:4c39)
-	text "Samozniszczenie robi duże obrażenia"
+	text "Autodestrukcja robi duże obrażenia"
 	line "- nawet wrogiej ławce."
 	done
 
@@ -506,7 +506,7 @@ FlowerGardenDescriptionText: ; 3ccea (f:4cea)
 	done
 
 KaleidoscopeDescriptionText: ; 3cd1d (f:4d1d)
-	text "Użyj Pokémocy Venomotha żeby"
+	text "Użyj Pokémocy Venomotha, żeby"
 	line "zmienić słabości wroga."
 	done
 
@@ -806,11 +806,11 @@ PrizesDescriptionText: ; 3dad1 (f:5ad1)
 
 DamageCountersDescriptionText: ; 3dbc5 (f:5bc5)
 	text "Za pomocą liczników obrażeń liczymy"
-	line "pozostałe punkty życia pokemona."
+	line "pozostałe punkty życia Pokémona."
 	line "Każdy licznik oznacza 10 punktów"
 	line "życia (Pż) obrażeń. Jeśli Pokémon"
 	line "ma 30 Pż i 3 liczniki obrażeń,"
-	line "oznacza to że dostał 30 Pż obrażeń"
+	line "oznacza to, że dostał 30 Pż obrażeń"
 	line "i jego Pż spadły do zera."
 	done
 
@@ -866,7 +866,7 @@ AttackingDescriptionText: ; 3e10a (f:610a)
 	line "Pokémony wymagają kart Energii"
 	line "do ataku. Dokładna liczba kart"
 	line "Energii potrzebna do ataku"
-	line "zależy od pokemona i ataku."
+	line "zależy od Pokémona i ataku."
 	line "Tylko aktywny Pokémon może atakować."
 	done
 
@@ -1465,18 +1465,18 @@ UseDuelistsDeckText: ; 3f2f1 (f:72f1)
 	done
 
 ReceivedBoosterPackText: ; 3f308 (f:7308)
-	text "<RAMNAME> otrzymał paczkę boosterów:"
-	line "<RAMTEXT>."
+	text "<RAMNAME> otrzymuje Booster"
+	line "Paczkę: <RAMTEXT>."
 	done
 
 AndAnotherBoosterPackText: ; 3f327 (f:7327)
-	text ", a także następną paczkę boosterów:"
-	line "<RAMTEXT>."
+	text "Dostaje także następną Booster"
+	line "Paczkę: <RAMTEXT>."
 	done
 
 CheckedCardsInBoosterPackText: ; 3f348 (f:7348)
 	text "<RAMNAME> sprawdza karty"
-	line "z paczki boosterów!"
+	line "z Booster Paczki!"
 	done
 
 Text038a: ; 3f373 (f:7373)
@@ -1838,7 +1838,7 @@ ButchNPCName: ; 3f7f9 (f:77f9)
 	done
 
 HoodNPCName: ; 3f800 (f:7800)
-	text "Hood"
+	text "Pener"
 	done
 
 ChampNPCName: ; 3f806 (f:7806)
@@ -1935,15 +1935,15 @@ SelectDeckToDuelText: ; 3f950 (f:7950)
 	done
 
 CharmanderAndFriendsDeckChoiceText: ; 3f982 (f:7982)
-	text "CHARMANDER i przyjaciele"
+	text "CHARMANDER z kolegami"
 	done
 
 SquirtleAndFriendsDeckChoiceText: ; 3f99d (f:799d)
-	text "SQUIRTLE i przyjaciele"
+	text "SQUIRTLE ze znajomymi"
 	done
 
 BulbasaurAndFriendsDeckChoiceText: ; 3f9b6 (f:79b6)
-	text "BULBASAUR i przyjaciele"
+	text "BULBASAUR z kumplami"
 	done
 
 SelectDeckToTakeText: ; 3f9d0 (f:79d0)
@@ -1979,13 +1979,13 @@ Text0401: ; 3faaa (f:7aaa)
 	line "Zaczynasz ogarniać granie"
 	line "w karty Pokémon?"
 	line "Mam dla Ciebie trochę informacji o"
-	line "paczkach boosterów."
+	line "Booster Paczkach."
 	line "Jeśli chcesz nazbierać wiele tych"
 	line "samych kard, walcz z tą samą osobą"
-	line "wielokrotnie żeby dostać tego samego"
-	line "boostera! W ten sposób uzbierasz"
-	line "sporo tych samych kart, a to ułatwi"
-	line "Ci złożenie talii."
+	line "wielokrotnie, żeby dostać tego"
+	line "samego Boostera! W ten sposób"
+	line "uzbierasz sporo tych samych kart,"
+	line "a to ułatwi Ci złożenie talii."
 	line "Inną metodą zbierania kart jest"
 	line "użycie z menu funkcji CARD POP!"
 	line "Gdy użyjecie CARD POP! w dwie osoby,"
@@ -2000,8 +2000,8 @@ Text0401: ; 3faaa (f:7aaa)
 Text0402: ; 3fd72 (f:7d72)
 	text "Będę Ci przesyłał przydatne"
 	line "informacje mailem."
-	line "Będę też dorzucał booster packi do"
-	line "wiadomości, więc często sprawdzaj"
+	line "Będę też dorzucał Booster Paczki"
+	line "do wiadomości, więc często sprawdzaj"
 	line "maila!"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"
@@ -2018,7 +2018,7 @@ Text0403: ; 3fe10 (f:7e10)
 	line "Proponuję walczyć z nim używając"
 	line "Talii z Automatu z medalem"
 	line "Psychiki. Będzie łatwiej!"
-	line "Weź też tego booster packa..."
+	line "Weź też tę Booster Paczkę..."
 	done
 
 Text0404: ; 3ff4d (f:7f4d)

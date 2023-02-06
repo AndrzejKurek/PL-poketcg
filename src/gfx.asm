@@ -41,6 +41,10 @@ INCBIN "gfx/duel/other.2bpp"
 DuelBoxMessages::
 INCBIN "gfx/duel/box_messages.2bpp"
 
+Duel4Gfx::
+	dw $16
+	INCBIN "gfx/duel/anims/4.2bpp"
+
 SECTION "Gfx 3", ROMX
 
 WaterClubTilemap::
@@ -1177,10 +1181,6 @@ Duel2Gfx::
 Duel3Gfx::
 	dw $09
 	INCBIN "gfx/duel/anims/3.2bpp"
-
-Duel4Gfx::
-	dw $12
-	INCBIN "gfx/duel/anims/4.2bpp"
 
 Duel5Gfx::
 	dw $09

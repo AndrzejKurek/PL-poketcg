@@ -10,10 +10,10 @@
 	charmap "É", "@"
 	charmap "é", "`"
 	charmap "ą", $3c
+    charmap "ń", $3d
 	charmap "ę", $3e
 	charmap "ć", $5c
 	charmap "ł", $5e
-	charmap "ń", $5f
 	charmap "ó", $7b
 	charmap "ś", $7c
 	charmap "ź", $7d
@@ -24,6 +24,15 @@ MACRO fwcharmap
 ENDM
 
 ; TX_FULLWIDTH3
+    fwcharmap 3, "Ą", $27
+	fwcharmap 3, "Ć", $28
+	fwcharmap 3, "Ę", $29
+	fwcharmap 3, "Ł", $2a
+	fwcharmap 3, "Ń", $2b
+	fwcharmap 3, "Ó", $2c
+	fwcharmap 3, "Ś", $2d
+	fwcharmap 3, "Ż", $2e
+	fwcharmap 3, "Ź", $2f
 	fwcharmap 3, "A", $30
 	fwcharmap 3, "B", $31
 	fwcharmap 3, "C", $32

@@ -51,7 +51,7 @@ WeightText: ; 36370 (d:6370)
 	done
 
 PokemonText: ; 36378 (d:6378)
-	text " Pokémon"
+	text "Pokémon "
 	done
 
 MetresText: ; 36382 (d:6382)
@@ -59,7 +59,7 @@ MetresText: ; 36382 (d:6382)
 	done
 
 LbsText: ; 36385 (d:6385)
-	text "lbs."
+	text " kg."
 	done
 
 PromostarRarityText: ; 3638b (d:638b)
@@ -275,12 +275,24 @@ DiscardDescription: ; 36757 (d:6757)
 	line "mocą Pokémon)."
 	done
 
+Prize1Name:
+    text "nagrodę"
+	done
+
+Prize2Name:
+    text "nagrody"
+	done
+	
+Prize5Name:
+    text "nagród"
+	done
+	
 WillDrawNPrizesText: ; 367cc (d:67cc)
-	text "<RAMNAME> weźmie <RAMNUM> nagród."
+	text "<RAMNAME> weźmie <RAMNUM> <RAMTEXT>."
 	done
 
 DrewNPrizesText: ; 367e5 (d:67e5)
-	text "<RAMNAME> bierze <RAMNUM> nagród."
+	text "<RAMNAME> bierze <RAMNUM> <RAMTEXT>."
 	done
 
 DuelistPlacedACardText: ; 367f9 (d:67f9)
@@ -326,7 +338,7 @@ PsychicSymbolText: ; 36857 (d:6857)
 	done
 
 BenchText: ; 3685a (d:685a)
-	text "Ławka"
+	text "ławka"
 	done
 
 KnockOutText: ; 36861 (d:6861)
@@ -453,7 +465,7 @@ Drew7CardsText: ; 36b9a (d:6b9a)
 	done
 
 DeckHasXCardsText: ; 36bab (d:6bab)
-	text "<RAMNAME>: talia ma <RAMNUM> kart."
+	text "<RAMNAME>: talia ma <RAMNUM> <RAMTEXT>."
 	done
 
 ChooseBasicPkmnToPlaceInArenaText: ; 36bc2 (d:6bc2)
@@ -467,7 +479,7 @@ ThereAreNoBasicPokemonInHand: ; 36bf1 (d:6bf1)
 	done
 
 NeitherPlayerHasBasicPkmnText: ; 36c1a (d:6c1a)
-	text "Żaden z graczy nie ma podstawowego"
+	text "żaden z graczy nie ma podstawowego"
 	line "Pokémona w ręce."
 	done
 
@@ -506,7 +518,7 @@ PlacingThePrizesText: ; 36d28 (d:6d28)
 
 PleasePlacePrizesText: ; 36d3f (d:6d3f)
 	text "Proszę umieścić"
-	line "<RAMNUM> nagród."
+	line "<RAMNUM> <RAMTEXT>."
 	done
 
 IfHeadsDuelistPlaysFirstText: ; 36d57 (d:6d57)
@@ -530,12 +542,11 @@ DuelWasADrawText: ; 36db1 (d:6db1)
 	done
 
 WonDuelText: ; 36dce (d:6dce)
-	text "Wygrano walkę z <RAMNAME>!"
+	text "<RAMNAME> przegrywa walkę!"
 	done
 
 LostDuelText: ; 36de8 (d:6de8)
-	text "Przegrano walkę"
-	line "z <RAMNAME>..."
+	text "<RAMNAME> wygrywa walkę..."
 	done
 
 StartSuddenDeathMatchText: ; 36e05 (d:6e05)
@@ -899,8 +910,8 @@ NoEnergyCardsAttachedToPokemonInOppPlayAreaText: ; 37715 (d:7715)
 	done
 
 EnergyCardsRequiredToRetreatText: ; 37758 (d:7758)
-	text "Potrzebujesz <RAMNUM> kart Energii"
-	line "aby wycofać Pokémona."
+	text "Potrzebujesz <RAMNUM> <RAMTEXT>"
+	line "Energii aby wycofać Pokémona."
 	done
 
 NotEnoughEnergyCardsText: ; 37781 (d:7781)
@@ -1070,7 +1081,7 @@ ConfusionCheckText: ; 37ca8 (d:7ca8)
 	done
 
 VenomPowderCheckText: ; 37cdf (d:7cdf)
-	text "Test jadowitego prochu! Pikachu:"
+	text "Test Jadowitego Prochu! Pikachu:"
 	line "przeciwnik otruty i zdezorientowany."
 	done
 

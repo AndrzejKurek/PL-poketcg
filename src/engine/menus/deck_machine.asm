@@ -146,18 +146,17 @@ HandleDeckMissingCardsList:
 	ld hl, wDefaultText
 	call ProcessText
 
-	ld hl, wCurDeckName
+	ld hl, DeckNamePrefix
 	ld de, wDefaultText
 	call CopyListFromHLToDE
 	ld hl, wDefaultText
-	call GetTextLengthInTiles
-	ld b, $0
-	ld hl, wDefaultText
-	add hl, bc
+	ld de, 7
+	add hl, de
 	ld d, h
 	ld e, l
-	ld hl, DeckNameSuffix
-	call CopyListFromHLToDE
+	ld hl, wCurDeckName
+	call CopyListFromHLToDEInSRAM
+
 	lb de, 3, 1
 	ld hl, wDefaultText
 	call InitTextPrinting

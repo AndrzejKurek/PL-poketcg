@@ -798,6 +798,11 @@ CheckAbleToRetreat:
 	ld l, a
 	ld h, $00
 	call LoadTxRam3
+	
+	; Decide on card word declination.
+	ld a, [wEnergyCardsRequiredToRetreat]
+    call LoadCardWord
+	
 	ldtx hl, EnergyCardsRequiredToRetreatText
 	jr .done
 .unable_to_retreat
@@ -1383,6 +1388,32 @@ CheckIfActiveCardParalyzedOrAsleep:
 	scf
 	ret
 
+; Decide on card word declination. 1 nagroda, 2-4 nagrody, 5+ nagród
+; input: a - number of cards to take.
+; output: loaded card word into TxRam2 
+LoadCardWord:
+    cp 1
+	jr z, .cards_one
+	cp 5
+	jr c, .cards_less_than_five
+	jr .cards_five_or_more
+	
+.cards_one
+	ldtx hl, Cards1Name
+	jr .cards_decided
+	
+.cards_less_than_five
+	ldtx hl, Cards2Name
+	jr .cards_decided
+	
+.cards_five_or_more
+	ldtx hl, Cards5Name
+	; fallthrough
+
+.cards_decided
+	call LoadTxRam2
+	ret
+
 ; display the animation of the turn duelist drawing one card at the beginning of the turn
 ; if there isn't any card left in the deck, let the player know with a text message
 DisplayDrawOneCardScreen:
@@ -1432,6 +1463,11 @@ DisplayDrawNCardsScreen:
 	ld l, a
 	ld h, 0
 	call LoadTxRam3
+	ld a, l
+	
+; Decide on card word declination.
+    call LoadCardWord
+
 	ldtx hl, DrawCardsFromTheDeckText
 	call DrawWideTextBox_PrintText
 	call EnableLCD
@@ -1772,7 +1808,14 @@ HandleDuelSetup:
 	ld a, [wDuelInitialPrizes]
 	ld l, a
 	ld h, 0
+	push hl
 	call LoadTxRam3
+
+	; Decide on prize word declination.
+	pop hl
+	ld a, l
+    call LoadPrizeWord
+	
 	ldtx hl, PleasePlacePrizesText
 	call DrawWideTextBox_PrintText
 	call EnableLCD
@@ -2312,7 +2355,14 @@ Func_4f2d:
 ; no animation, just print text and delay
 	ld l, a
 	ld h, $00
+	push hl
 	call LoadTxRam3
+	
+	; Decide on card word declination.
+	pop hl
+	ld a, l
+    call LoadCardWord
+
 	ldtx hl, DeckHasXCardsText
 	call DrawWideTextBox_PrintText
 	call EnableLCD
@@ -3567,12 +3617,44 @@ DrawWholeScreenTextBox:
 	call WaitForWideTextBoxInput
 	ret
 
+; Decide on prize word declination. 1 nagroda, 2-4 nagrody, 5+ nagród
+; input: a - number of prizes to take.
+; output: loaded prize word into TxRam2 
+LoadPrizeWord:
+    cp 1
+	jr z, .prizes_one
+	cp 5
+	jr c, .prizes_less_than_five
+	jr .prizes_five_or_more
+	
+.prizes_one
+	ldtx hl, Prize1Name
+	jr .prizes_decided
+	
+.prizes_less_than_five	
+	ldtx hl, Prize2Name
+	jr .prizes_decided
+	
+.prizes_five_or_more
+	ldtx hl, Prize5Name
+	; fallthrough
+
+.prizes_decided
+	call LoadTxRam2
+    ret
+
 Func_5805:
 	call Func_3b31
 	ld a, [wNumberPrizeCardsToTake]
 	ld l, a
 	ld h, $00
 	call LoadTxRam3
+
+; Decide on declination.
+	ld a, [wNumberPrizeCardsToTake]
+    call LoadPrizeWord
+	
+; player or opponent?
 	ld a, DUELVARS_DUELIST_TYPE
 	call GetTurnDuelistVariable
 	cp DUELIST_TYPE_PLAYER
@@ -4568,12 +4650,12 @@ DisplayCardPage_PokemonDescription:
 	call WriteTwoByteNumberInTxSymbolFormat
 	; print the Pokemon's category at 1,10 (just above the length and weight texts)
 	lb de, 1, 10
-	ld hl, wLoadedCard1Category
-	call InitTextPrinting_ProcessTextFromPointerToID
 	ld a, TX_KATAKANA
 	call ProcessSpecialTextCharacter
 	ldtx hl, PokemonText
-	call ProcessTextFromID
+	call InitTextPrinting_ProcessTextFromID
+	ld hl, wLoadedCard1Category
+	call ProcessTextFromPointerToID
 	; print the length and weight values at 5,11 and 5,12 respectively
 	lb bc, 5, 11
 	ld hl, wLoadedCard1Length

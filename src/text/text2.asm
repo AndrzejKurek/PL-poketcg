@@ -18,27 +18,27 @@ DamageCheckIfHeadsXDamageText: ; 37fcd (d:7fcd)
 	done
 
 AcidCheckText: ; 38000 (e:4000)
-	text "Test kwasu! Pikachu: nie można"
+	text "Test Kwasu! Pikachu: nie można"
 	line "się wycofać w następnej turze."
 	done
 
 TransparencyCheckText: ; 3803b (e:403b)
-	text "Test przejrzystości! Pikachu:"
+	text "Test Przejrzystości! Pikachu:"
 	line "unikasz następnego ataku!"
 	done
 
 ConfusionCheckDamageText: ; 3807c (e:407c)
-	text "Test dezorientacji! Reszka:"
+	text "Test Dezorientacji! Reszka:"
 	line "zadajesz obrażenia sobie!"
 	done
 
 ConfusionCheckRetreatText: ; 380ac (e:40ac)
-	text "Test dezorientacji! Reszka:"
+	text "Test Dezorientacji! Reszka:"
 	line "nie możesz się wycofać."
 	done
 
 PokemonsSleepCheckText: ; 380db (e:40db)
-	text "<RAMTEXT>: test snu!"
+	text "<RAMTEXT>: test Snu!"
 	done
 
 PoisonedIfHeadsConfusedIfTailsText: ; 380ed (e:40ed)
@@ -62,47 +62,47 @@ AttackUnsuccessfulText: ; 38197 (e:4197)
 
 UnableToRetreatDueToAcidText: ; 381ad (e:41ad)
 	text "Nie można wycofać"
-	line "przez efekt kwasu."
+	line "przez efekt Kwasu."
 	done
 
 UnableToUseTrainerDueToHeadacheText: ; 381dc (e:41dc)
 	text "Nie można użyć kart trenera"
-	line "przez ból głowy."
+	line "przez Ból Głowy."
 	done
 
 UnableToAttackDueToTailWagText: ; 3821a (e:421a)
 	text "Nie można atakować"
-	line "przez merdanie ogonem."
+	line "przez Merdanie Ogonem."
 	done
 
 UnableToAttackDueToLeerText: ; 3824c (e:424c)
 	text "Nie można atakować"
-	line "przez złe spojrzenie."
+	line "przez Złe Spojrzenie."
 	done
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
 	text "Nie można atakować"
-	line "przez efekt ciosu kością ."
+	line "przez efekt Ciosu Kością ."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
 	text "Nie można atakować"
-	line "przez efekt amnezji."
+	line "przez efekt Amnezji."
 	done
 
 KnockedOutDueToDestinyBondText: ; 382e9 (e:42e9)
 	text "<RAMTEXT> jest znokautowany"
-	line "przez efekt więzi przeznaczenia."
+	line "przez efekt Więzi Przeznaczenia."
 	done
 
 ReceivesDamageDueToStrikesBackText: ; 38320 (e:4320)
 	text "<RAMTEXT> otrzymuje <RAMNUM> obrażeń"
-	line "przez efekt oddania ciosu."
+	line "przez efekt Rewanżu."
 	done
 
 UnableToEvolveDueToPrehistoricPowerText: ; 38359 (e:4359)
 	text "Nie można ewoluować"
-	line "przez efekt prehistorycznej mocy."
+	line "przez efekt Prehistorycznej Mocy."
 	done
 
 NoDamageOrEffectDueToFlyText: ; 38394 (e:4394)
@@ -188,12 +188,24 @@ ChangedTheColorOfText: ; 386d3 (e:46d3)
 	text "<RAMTEXT> na <RAMTEXT>."
 	done
 
+Cards1Name:
+    text "kartę"
+	done
+
+Cards2Name:
+    text "karty"
+	done
+	
+Cards5Name:
+    text "kart"
+	done
+	
 Draw1CardFromTheDeckText: ; 386f2 (e:46f2)
 	text "Weź 1 kartę z Talii."
 	done
 
 DrawCardsFromTheDeckText: ; 3870e (e:470e)
-	text "Weź <RAMNUM> kart z Talii."
+	text "Weź <RAMNUM> <RAMTEXT> z Talii."
 	done
 
 CannotDrawCardBecauseNoCardsInDeckText: ; 3872d (e:472d)
@@ -699,7 +711,7 @@ ChooseTheCardToDiscardText: ; 39a9c (e:5a9c)
 	done
 
 DiscardedCardsFromDeckText: ; 39ab9 (e:5ab9)
-	text "Odrzucono <RAMNUM> kart"
+	text "Odrzucono <RAMNUM> <RAMTEXT>"
 	line "z talii gracza <RAMNAME>."
 	done
 
@@ -737,7 +749,7 @@ ThereWasNoFireEnergyText: ; 39b58 (e:5b58)
 	done
 
 YouCanSelectMoreCardsQuitText: ; 39b73 (e:5b73)
-    text "Możesz jeszcze wybrać <RAMNUM> kart. Wyjść?"
+    text "Możesz wciąż wybrać <RAMNUM> <RAMTEXT>. Wyjść?"
 	done
 
 ThereWasNoEffectText: ; 39b97 (e:5b97)
@@ -864,7 +876,7 @@ NowPrintingPleaseWaitText: ; 39f03 (e:5f03)
 	done
 
 BoosterPackText: ; 39f21 (e:5f21)
-	text "Paczka Booster'a"
+	text "Booster Paczka"
 	done
 
 WouldYouLikeToTryAgainText: ; 39f2f (e:5f2f)
@@ -1108,7 +1120,7 @@ Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
 	text "Seaking nie ma wystarczająco"
-	line "Energii żeby użyć Wodospadu."
+	line "Energii, żeby użyć Wodospadu."
 	line "Dołącz kartę Energii Psychiki"
 	line "do Seaking'a."
 	line "<COLORLESS> oznacza jakąkolwiek"
@@ -1281,7 +1293,7 @@ SamsPracticeDeckName: ; 3b43d (e:743d)
 	done
 
 CharmanderAndFriendsDeckName: ; 3b44d (e:744d)
-	text "Charmander i przyjaciele"
+	text "Charmander z ekipą"
 	done
 
 CharmanderExtraDeckName: ; 3b463 (e:7463)
@@ -1289,7 +1301,7 @@ CharmanderExtraDeckName: ; 3b463 (e:7463)
 	done
 
 SquirtleAndFriendsDeckName: ; 3b475 (e:7475)
-	text "Squirtle i przyjaciele"
+	text "Squirtle z kumplami"
 	done
 
 SquirtleExtraDeckName: ; 3b489 (e:7489)
@@ -1297,7 +1309,7 @@ SquirtleExtraDeckName: ; 3b489 (e:7489)
 	done
 
 BulbasaurAndFriendsDeckName: ; 3b499 (e:7499)
-	text "Bulbasaur i przyjaciele"
+	text "Bulbasaur z paczką"
 	done
 
 BulbasaurExtraDeckName: ; 3b4ae (e:74ae)
@@ -1309,7 +1321,7 @@ FirstStrikeDeckName: ; 3b4bf (e:74bf)
 	done
 
 RockCrusherDeckName: ; 3b4cd (e:74cd)
-	text "Kamienny Łamacz"
+	text "Kamienny łamacz"
 	done
 
 GoGoRainDanceDeckName: ; 3b4db (e:74db)
@@ -1317,7 +1329,7 @@ GoGoRainDanceDeckName: ; 3b4db (e:74db)
 	done
 
 ZappingSelfdestructDeckName: ; 3b4ed (e:74ed)
-	text "Prądowe Samozniszczenie"
+	text "Prądowa Destrukcja"
 	done
 
 FlowerPowerDeckName: ; 3b503 (e:7503)
@@ -1325,7 +1337,7 @@ FlowerPowerDeckName: ; 3b503 (e:7503)
 	done
 
 StrangePsyshockDeckName: ; 3b511 (e:7511)
-	text "Tajemniczy Psychoszok"
+	text "Tajemny Psychoszok"
 	done
 
 WondersofScienceDeckName: ; 3b523 (e:7523)
@@ -1349,7 +1361,7 @@ LegendaryArticunoDeckName: ; 3b569 (e:7569)
 	done
 
 LegendaryDragoniteDeckName: ; 3b57d (e:757d)
-	text "Legendarny Dragonite"
+	text "Mityczny Dragonite"
 	done
 
 ImRonaldDeckName: ; 3b592 (e:7592)
@@ -1417,7 +1429,7 @@ KaleidoscopeDeckName: ; 3b674 (e:7674)
 	done
 
 MusclesforBrainsDeckName: ; 3b682 (e:7682)
-	text "Mięśnie zamiast Mózgu"
+	text "Mięśnie bez Mózgu"
 	done
 
 HeatedBattleDeckName: ; 3b696 (e:7696)
@@ -1433,7 +1445,7 @@ PikachuDeckName: ; 3b6b5 (e:76b5)
 	done
 
 BoomBoomSelfdestructDeckName: ; 3b6be (e:76be)
-	text "Bum Bum Samozniszczenie"
+	text "Bum Autodestrukcja!"
 	done
 
 PowerGeneratorDeckName: ; 3b6d6 (e:76d6)
@@ -1477,7 +1489,7 @@ WaterAndFightingDeckName: ; 3b74b (e:774b)
 	done
 
 GrassAndPsychicDeckName: ; 3b75d (e:775d)
-	text "Trawiasto-psychiczna"
+	text "Psychika na trawce"
 	done
 
 RetreatCostText: ; 3b76e (e:776e)
@@ -1493,11 +1505,11 @@ Text0214: ; 3b799 (e:7799)
 	done
 
 FeetText: ; 3b7b6 (e:77b6)
-	textfw3 "'"
+	textfw3 "m"
 	done
 
 InchesText: ; 3b7b9 (e:77b9)
-	textfw3 "”"
+	textfw3 "cm"
 	done
 
 YourDiscardPileText: ; 3b7bc (e:77bc)
@@ -1578,7 +1590,7 @@ PlayerNameKeyboardText: ; 3b8f2 (e:78f2)
 	line ""
 	textfw0 "4 5 6 7 8 9 ", "<No>", " ", "<Lv>", "  "
 	line ""
-	textfw0 "                 "
+	textfw3 "Ą Ć Ę Ł Ń Ó Ś Ż Ź"
 	done
 
 DeckNameKeyboardText: ; 3b97b (e:797b)
@@ -1713,7 +1725,7 @@ DismantleThisDeckText: ; 3bbe2 (e:7be2)
 	done
 
 NoCardsChosenText: ; 3bbf8 (e:7bf8)
-	text "Nie wybrano kart."
+	text "Wybrano 0 kart."
 	done
 
 YourPokemonText: ; 3bc0a (e:7c0a)
@@ -1794,7 +1806,7 @@ EmptyLineText: ; 3bd42 (e:7d42)
 	done
 
 BoosterPackTitleText: ; 3bd55 (e:7d55)
-	text "Booster Pack"
+	text "Booster Paczka"
 	done
 
 Item1ColosseumText: ; 3bd63 (e:7d63)

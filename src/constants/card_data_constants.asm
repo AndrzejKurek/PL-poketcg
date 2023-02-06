@@ -10,7 +10,6 @@ DEF CARD_COUNT_MASK      EQU $7f
 ; sDeck* and generic deck constants
 DEF NUM_DECKS                EQU 4
 DEF DECK_NAME_SIZE           EQU 24
-DEF DECK_NAME_SIZE_WO_SUFFIX EQU 21 ; name part before "deck"
 DEF DECK_SIZE                EQU 60
 DEF DECK_STRUCT_SIZE         EQU DECK_NAME_SIZE + DECK_SIZE
 DEF DECK_CONFIG_BUFFER_SIZE  EQU 80
