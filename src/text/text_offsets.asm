@@ -427,7 +427,8 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer DeckConfigurationTransferWasntSuccessful2Text      ; 0x01a1
 	textpointer NowPrintingText                                    ; 0x01a2
 	textpointer DrMasonText                                        ; 0x01a3
-	textpointer DrawSevenCardsPracticeDuelText                     ; 0x01a4
+	textpointer DrawSevenCardsPracticeDuelText1                     ; 0x01a4
+	textpointer DrawSevenCardsPracticeDuelText2
 	textpointer ChooseGoldeenPracticeDuelText                      ; 0x01a5
 	textpointer PutPokemonOnBenchPracticeDuelText                  ; 0x01a6
 	textpointer ChooseStaryuPracticeDuelText                       ; 0x01a7

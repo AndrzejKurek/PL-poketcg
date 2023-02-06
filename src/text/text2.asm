@@ -937,13 +937,15 @@ DrMasonText: ; 3a122 (e:6122)
 	text "Doktor Mason"
 	done
 
-DrawSevenCardsPracticeDuelText: ; 3a12d (e:612d)
-	text "Weź 7 kart"
-	line ""
-	line "i przygotuj się do walki!"
+DrawSevenCardsPracticeDuelText1: ; 3a12d (e:612d)
+	text "Po wzięciu 7 kart"
+	line "przygotuj się do walki!"
 	line "Wybierz aktywnego Pokémona."
 	line "Może nim być tylko Pokémon"
-	line "podstawowy, możesz więc wybrać"
+    done
+	
+DrawSevenCardsPracticeDuelText2:
+	text "podstawowy, możesz więc wybrać"
 	line "albo Goldeen, albo Staryu."
 	line "Dla naszego treningu"
 	line "wybierz Goldeen."
@@ -956,10 +958,10 @@ ChooseGoldeenPracticeDuelText: ; 3a204 (e:6204)
 
 PutPokemonOnBenchPracticeDuelText: ; 3a230 (e:6230)
 	text "Wybierz Pokémony na ławkę."
-	line "Możesz potem zamienić aktywnego"
-	line "Pokémona na Pokémona z ławki."
-	line "Na ławce możesz umieścić tylko"
-	line "Pokémony podstawowe."
+	line "Możesz potem zamienić miejscami"
+	line "aktywnego Pokémona z Pokémonem"
+	line "z ławki. Na ławce możesz umieścić"
+	line "tylko Pokémony podstawowe."
 	line "Wybierz Staryu z ręki i umieść"
 	line "go na ławce."
 	done
@@ -1184,7 +1186,6 @@ Turn5DrMason1PracticeDuelText: ; 3af04 (e:6f04)
 	line ""
 	line "Przygotujmy Staryu do użycia"
 	line "ataku Starmie po ewolucji."
-	line ""
 	line "Wybierz kartę Energii Wody"
 	line "z ręki i dołącz ją do Staryu."
 	done
@@ -1232,10 +1233,9 @@ Turn8DrMason1PracticeDuelText: ; 3b196 (e:7196)
 
 Turn8DrMason2PracticeDuelText: ; 3b1f4 (e:71f4)
 	text "Znokautowano przeciwnika!"
-	line ""
 	line "Weź ostatnią nagrodę."
 	line ""
-	text "<RAMNAME> zwycięża!"
+	text "<RAMNAME>, wygrasz!"
 	done
 
 SamTurn4DrMason1PracticeDuelText: ; 3b242 (e:7242)
