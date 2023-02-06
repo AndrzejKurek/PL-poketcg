@@ -2784,6 +2784,8 @@ PracticeDuel_PlayStaryuFromBench:
 	ret
 .its_sam_turn_4
 	; ask player to choose Staryu from bench to replace knocked out Seaking
+	lb de, $38, $ff
+	call SetupText
 	call DrawPracticeDuelInstructionsTextBox
 	call EnableLCD
 	ld hl, PracticeDuelText_SamTurn4
