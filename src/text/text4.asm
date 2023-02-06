@@ -2,7 +2,7 @@ Text0405: ; 40000 (10:4000)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
 	line "Mam trochę informacji o Talii"
-	line "Gene'a - jest Mistrzem Klubu"
+	line "Mariana - jest Mistrzem Klubu"
 	line "Kamienia."
 	line "Jego Talia Kamiennego łamacza jest"
 	line "bardzo silna przeciwko Pokémonom"
@@ -14,7 +14,7 @@ Text0405: ; 40000 (10:4000)
 	done
 
 Text0406: ; 4014a (10:414a)
-	text "<RAMNAME>! Leć pokonać Gene'a,"
+	text "<RAMNAME>! Leć pokonać Mariana,"
 	line "Mistrza Klubu Kamienia!"
 	line "Laboratorium Masona"
 	line "      Doktor Mason ;)"
@@ -23,7 +23,7 @@ Text0406: ; 4014a (10:414a)
 Text0407: ; 401a3 (10:41a3)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
-	line "Mam trochę informacji o Talii Amy,"
+	line "Mam trochę informacji o Talii Ani,"
 	line "Mistrzyni Klubu Wody. "
 	line "Jej talia używa Tańca Deszczu -"
 	line "Mocy Pokémon Blastoise'a."
@@ -48,7 +48,7 @@ Text0409: ; 40389 (10:4389)
 	text "Jak leci, <RAMNAME>?"
 	line "To ja, Doktor Mason."
 	line "Mam trochę informacji o talii"
-	line "Isaac'a - jest Mistrzem Klubu"
+	line "Maksa - jest Mistrzem Klubu"
 	line "Elektrycznego. Jego talia używa"
 	line "głównie Autodestrukcji i zadaje"
 	line "nią niesamowite obrażenia!"
@@ -75,8 +75,8 @@ Text040a: ; 40598 (10:4598)
 Text040b: ; 40604 (10:4604)
 	text "To ja, Doktor Mason."
 	line "Udało ci się wygrać jakieś Medale?"
-	line "Mam trochę informacji o Talii Nikki:"
-	line "jest mistrzynią Klubu Trawy."
+	line "Mam trochę informacji o Talii"
+	line "Oliwii - Mistrzyni Klubu Trawy."
 	line "Musisz uważać na Dużą Eggsplozję"
 	line "Exeggutora. Dobrze byłoby"
 	line "skontrować go za pomocą Pokémonów"
@@ -99,7 +99,7 @@ Text040d: ; 40819 (10:4819)
 	text "I jak, przybliżasz się do"
 	line "odziedziczenia Legendarych kart"
 	line "Pokémon? Muszę Ci coś powiedzieć"
-	line "o Murray'u z Klubu Psychiki! Wygląda"
+	line "o Tomku z Klubu Psychiki! Wygląda"
 	line "na to, że używa umiejętności"
 	line "Alakazama: Zamiany Ran!"
 	line "Ciężko będzie pokonać jego talię,"
@@ -108,7 +108,7 @@ Text040d: ; 40819 (10:4819)
 	line "Spróbuj zaatakować jego Abrę i"
 	line "Kadabrę zanim wyewoluują"
 	line "w Alakazama."
-	line "Murray to ciężki przeciwnik..."
+	line "Tomek to ciężki przeciwnik..."
 	line "Ale może to Ci pomoże!"
 	done
 
@@ -124,7 +124,7 @@ Text040f: ; 40a15 (10:4a15)
 	line "To ja, Doktor Mason."
 	line "Jak się masz, <RAMNAME>?"
 	line "Muszę Ci coś powiedziec o Talii"
-	line "Ricka - Mistrza Klubu Nauki."
+	line "Bartka - Mistrza Klubu Nauki."
 	line "Używa Mocy Toksycznego Gazu Muka"
 	line "aby zatrzymać jakiekolwiek inne"
 	line "moce twoich Pokémonów!"
@@ -149,7 +149,7 @@ Text0411: ; 40c2e (10:4c2e)
 	line "To ja, Doktor Mason."
 	line "Masz już dużo kart?"
 	line "Mam dla Ciebie ciekawostkę o Talii"
-	line "Kena - Mistrza Klubu Ognia."
+	line "Kamila - Mistrza Klubu Ognia."
 	line "Używa nie tylko Ognistych, ale"
 	line "i Bezbarwnych Pokémonów! Jeśli"
 	line "chcesz go skontrować, zdecyduj się"
@@ -215,7 +215,7 @@ Text0415: ; 4123d (10:523d)
 	line "To ja, Doktor Mason."
 	line "A więc będziesz walczyć"
 	line "z Arcymistrzem..."
-	line "Arcymistrzyni Courtney używa"
+	line "Arcymistrzyni Marta używa"
 	line "Legendarnego Moltresa, więc jej"
 	line "talia będzie się składać z Pokémonów"
 	line "Ognia. Woda jest mocna na ogień,"
@@ -234,7 +234,7 @@ Text0415: ; 4123d (10:523d)
 Text0416: ; 413f1 (10:53f1)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
-	line "Arcymistrz Steve używa Legendarnego"
+	line "Arcymistrz Stefan używa Legendarnego"
 	line "Zapdosa, a jego łomot Pioruna"
 	line "i Wielki Grzmot wybierają losowe"
 	line "cele, więc nigdy nie wiadomo, które"
@@ -258,12 +258,12 @@ Text0416: ; 413f1 (10:53f1)
 Text0417: ; 415cf (10:55cf)
 	line "To ja, Doktor Mason!"
 	line "Jeszcze tylko dwóch Arcymistrzów!"
-	line "Arcymistrz Jack używa Legendarnego"
+	line "Arcymistrz Jacek używa Legendarnego"
 	line "Articuno. Jego Zmrożenie może"
 	line "sparaliżować twojego aktywnego"
 	line "Pokémona! Niebezpieczne jest także"
 	line "Wymrożenie - umiejętność innej"
-	line "karty Articuno. Jack ma w talii"
+	line "karty Articuno. Jacek ma w talii"
 	line "głównie Pokémony Wody, więc dobrze"
 	line "jest skupić się w odpowiedzi na"
 	line "Elektrycznych Pokémonach!"
@@ -276,7 +276,7 @@ Text0417: ; 415cf (10:55cf)
 Text0418: ; 4174c (10:574c)
 	line "To ja, Doktor Mason."
 	line "To już ostatni pojedynek!"
-	line "Będziesz walczyć z Rod'em,"
+	line "Będziesz walczyć z Wiktorem,"
 	line "Liderem Arcymistrzów."
 	line "W jego talii znajduje się Legendarny"
 	line "Dragonite... Im dłużej będzie trwał"
@@ -407,14 +407,14 @@ Text0429: ; 41f2d (10:5f2d)
 	done
 
 Text042a: ; 41fc7 (10:5fc7)
-	text "Amy, Mistrzyni Klubu Wody,"
+	text "Ania, Mistrzyni Klubu Wody,"
 	line "ostatnio tylko drzemie..."
 	line "Jest znudzona, bo nikt"
 	line "nie chce z nią walczyć."
 	done
 
 Text042b: ; 42036 (10:6036)
-	text "Sara i Amanda z klubu Wody"
+	text "Sara i Maja z klubu Wody"
 	line "to bliźniaczki!"
 	line "Nic dziwnego że są"
 	line "do siebie tak podobne!"
@@ -498,32 +498,32 @@ Text0439: ; 4239b (10:639b)
 Text043a: ; 423e1 (10:63e1)
 	text "Hej! Zatrzymaj się!"
 	line "Nie masz tu wstępu!"
-	line "Amy, Mistrzyni Klubu,"
+	line "Ania, Mistrzyni Klubu,"
 	line "teraz odpoczywa!"
 	done
 
 Text043b: ; 4242a (10:642a)
 	text "Osoba która tam wypoczywa"
-	line "to Amy, Mistrzyni Klubu."
+	line "to Ania, Mistrzyni Klubu."
 	line "Jeśli chcesz z nią walczyć,"
 	line "pokonaj najpierw Sarę i Amandę."
 	line "Potem ja sprawdzę twoje"
 	line "umiejętności i jeśli dziwnym trafem"
 	line "ze mną też wygrasz, przedstawię Cię"
-	line "Amy, naszej Mistrzyni Klubu!"
+	line "Ani, naszej Mistrzyni Klubu!"
 	done
 
 Text043c: ; 42508 (10:6508)
 	text "Co?"
-	line "Sara i Amanda przegrały?"
+	line "Sara i Maja przegrały?"
 	done
 
 Text043d: ; 4252d (10:652d)
 	text "Musisz nieźle grać, skoro ani Sara,"
-	line "ani Amanda nie dały rady..."
+	line "ani Maja nie dały rady..."
 	line "Tak jak obiecywałem, sprawdzę"
 	line "twoje umiejętności, a jeśli wygrasz,"
-	line "przedstawię Cię Amy..."
+	line "przedstawię Cię Ani..."
 	done
 
 Text043e: ; 425b8 (10:65b8)
@@ -537,7 +537,7 @@ Text043f: ; 425d6 (10:65d6)
 Text0440: ; 425f6 (10:65f6)
 	text "Nie chcesz walczyć?"
 	line "Boisz się, że przegrasz?"
-	line "Poznasz Amy tylko, jeśli"
+	line "Poznasz Anię tylko, jeśli"
 	line "mnie pokonasz!"
 	done
 
@@ -554,14 +554,14 @@ Text0442: ; 426f3 (10:66f3)
 
 Text0443: ; 42723 (10:6723)
 	text "I co! Wygrałem!"
-	line "Wybacz, ale przepuszczę Cię do Amy"
+	line "Wybacz, ale przepuszczę Cię do Ani"
 	line "tylko, jeśli ze mną wygrasz!"
 	done
 
 Text0444: ; 42777 (10:6777)
 	text "I co! Wygrałem!"
 	line "Wygląda na to że masz problem,"
-	line "bo Amy jest ode mnie jeszcze"
+	line "bo Ania jest ode mnie jeszcze"
 	line "silniejsza!"
 	done
 
@@ -577,7 +577,7 @@ Text0446: ; 427e1 (10:67e1)
 
 Text0447: ; 42802 (10:6802)
 	text "Cóż, tak jak obiecałem..."
-	line "Przedstawię Cię Amy."
+	line "Przedstawię Cię Ani."
 	done
 
 Text0448: ; 42838 (10:6838)
@@ -590,11 +590,11 @@ Text0449: ; 42877 (10:6877)
 	text "Nie myśl sobie, że wygrana ze mną"
 	line "to jakiś wielki wyczyn."
 	line "Na pewno nie dasz rady"
-	line "pokonać Amy, Mistrzyni Klubu."
+	line "pokonać Anię, Mistrzyni Klubu."
 	done
 
 Text044a: ; 428dd (10:68dd)
-	text "Amy!"
+	text "Aniu!"
 	line "Obudź się, proszę!"
 	done
 
@@ -616,7 +616,7 @@ Text044d: ; 4294b (10:694b)
 Text044e: ; 4296d (10:696d)
 	text "Masz na imię <RAMNAME>?"
 	line "Będę Twoim następnym przeciwnikiem."
-	line "Ja, Amy, Mistrzyni "
+	line "Ja, Ania, Mistrzyni"
 	line "Klubu Wody!"
 	done
 
@@ -626,7 +626,7 @@ Text044f: ; 429bd (10:69bd)
 	done
 
 Text0450: ; 429f0 (10:69f0)
-	text "Wyzwać Amy na pojedynek?"
+	text "Wyzwać Anię na pojedynek?"
 	done
 
 Text0451: ; 42a0d (10:6a0d)
@@ -861,24 +861,24 @@ Text0471: ; 435a7 (10:75a7)
 Text0472: ; 4364c (10:764c)
 	text "Właśnie wspominałem o tym, który"
 	line "Arcymistrz jest najsilniejszy."
-	line "Myślę, że Steve jest najlepszym"
+	line "Myślę, że Stefan jest najlepszym"
 	line "graczem spośród nich!"
 	done
 
 Text0473: ; 436a2 (10:76a2)
-	text "Nie wierzę, jak Steve, Arcymistrz"
+	text "Nie wierzę, jak Stefan, Arcymistrz"
 	line "mógł przegrać!"
 	line "Kto mógł go pokonać?"
 	done
 
 Text0474: ; 436f5 (10:76f5)
 	text "Najlepszym graczem wśród"
-	line "Arcymistrzów jest Rod, przecież jest"
-	line "ich liderem!"
+	line "Arcymistrzów jest Wiktor, przecież"
+	line "jest ich liderem!"
 	done
 
 Text0475: ; 43752 (10:7752)
-	text "Nie wierzę że Rod, lider grupy"
+	text "Nie wierzę że Wiktor, lider grupy"
 	line "Arcymistrzów, został pokonany!"
 	line "Czy to znaczy że Legendarne Karty"
 	line "Pokémon zmieniły właściciela?"
@@ -890,7 +890,7 @@ Text0476: ; 437da (10:77da)
 	done
 
 Text0477: ; 43822 (10:7822)
-	text "Jestem Mitch, Mistrz Klubu Walki!"
+	text "Jestem Mateusz, Mistrz Klubu Walki!"
 	line "Od razu Cię ostrzegę - nie dasz rady"
 	line "mnie pokonać. Jeśli w ogóle chcesz"
 	line "mnie wyzwać na pojedynek, musisz"
@@ -932,7 +932,7 @@ Text047b: ; 43acb (10:7acb)
 	done
 
 Text047c: ; 43b54 (10:7b54)
-	text "Wyzwać Mitch'a na pojedynek?"
+	text "Wyzwać Mateusza na pojedynek?"
 	done
 
 Text047d: ; 43b73 (10:7b73)
@@ -1020,7 +1020,7 @@ Text048a: ; 43f61 (10:7f61)
 	done
 
 Text048b: ; 43fd9 (10:7fd9)
-	text "Wyzwać Chrisa na pojedynek?"
+	text "Wyzwać Krzycha na pojedynek?"
 	done
 
 	ds $8

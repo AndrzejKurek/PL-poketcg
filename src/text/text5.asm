@@ -31,7 +31,7 @@ Text0491: ; 44113 (11:4113)
 	done
 
 Text0492: ; 44163 (11:4163)
-	text "Wyzwać Michael'a na pojedynek?"
+	text "Wyzwać Michała na pojedynek?"
 	done
 
 Text0493: ; 44184 (11:4184)
@@ -715,7 +715,7 @@ Text04fc: ; 46dec (11:6dec)
 	line "Prometeusz, umieszcza Karty Energii"
 	line "Ognia w Twojej ręce! Bombardowanie,"
 	line "jego główny atak, to bardzo potężny"
-	line "ruch! Arcymistrzyni Courtney,"
+	line "ruch! Arcymistrzyni Marta,"
 	line "Ognista Królowa, posiada tę kartę!"
 	done
 
@@ -729,7 +729,7 @@ Text04fe: ; 46ee3 (11:6ee3)
 	line "Pioruna samo umieszczenie tej karty"
 	line "na ławce zadaje obrażenia!"
 	line "Wielki Grzmot to jego główny atak!"
-	line "Arcymistrz Piorunów, Steve, posiada"
+	line "Arcymistrz Piorunów, Stefan, posiada"
 	line "tę kartę!"
 	done
 
@@ -743,7 +743,7 @@ Text0500: ; 46fd9 (11:6fd9)
 	line "wejdzie do gry, jej moc - Zmrożenie"
 	line "- może sparaliżować wrogie Pokémony!"
 	line "Używa też zatrważającego Mroźnego"
-	line "Tchnienia. Arcymistrz Jack, Władca"
+	line "Tchnienia. Arcymistrz Jacek, Władca"
 	line "Lodu, posiada tę kartę!"
 	done
 
@@ -758,7 +758,7 @@ Text0502: ; 470d4 (11:70d4)
 	line "osoby która zagra tę kartę!"
 	line "Uważaj też na Trzaśnięcie ogonem"
 	line "Dragonite'a! Lider Arcymistrzów,"
-	line "Rod, posiada tę kartę!"
+	line "Wiktor, posiada tę kartę!"
 	done
 
 Text0503: ; 471aa (11:71aa)
@@ -766,7 +766,7 @@ Text0503: ; 471aa (11:71aa)
 	done
 
 Text0504: ; 471bd (11:71bd)
-	text "Courtney, Steve, Jack oraz Rod -"
+	text "Marta, Stefan, Jacek oraz Wiktor -"
 	line "to czworo Arcymistrzów broniących"
 	line "Legendarnych Kart Pokémon. Każde"
 	line "z nich jest prawdziwym Guru"

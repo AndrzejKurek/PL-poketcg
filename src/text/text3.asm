@@ -1634,7 +1634,7 @@ IshiharaNPCName: ; 3f682 (f:7682)
 	done
 
 ImakuniNPCName: ; 3f68c (f:768c)
-	text "Imakuni?"
+	text "Imakuni"
 	done
 
 ClerkNPCName: ; 3f696 (f:7696)
@@ -1654,35 +1654,35 @@ ClerkNPCName2: ; 3f6a8 (f:76a8)
 	done
 
 ChrisNPCName: ; 3f6af (f:76af)
-	text "Chris"
+	text "Krzychu"
 	done
 
 MichaelNPCName: ; 3f6b6 (f:76b6)
-	text "Michael"
+	text "Michał"
 	done
 
 JessicaNPCName: ; 3f6bf (f:76bf)
-	text "Jessica"
+	text "Julia"
 	done
 
 MitchNPCName: ; 3f6c8 (f:76c8)
-	text "Mitch"
+	text "Mateusz"
 	done
 
 MatthewNPCName: ; 3f6cf (f:76cf)
-	text "Matthew"
+	text "Maciej"
 	done
 
 RyanNPCName: ; 3f6d8 (f:76d8)
-	text "Ryan"
+	text "Piotr"
 	done
 
 AndrewNPCName: ; 3f6de (f:76de)
-	text "Andrew"
+	text "Andrzej"
 	done
 
 GeneNPCName: ; 3f6e6 (f:76e6)
-	text "Gene"
+	text "Marian"
 	done
 
 SaraNPCName: ; 3f6ec (f:76ec)
@@ -1690,47 +1690,47 @@ SaraNPCName: ; 3f6ec (f:76ec)
 	done
 
 AmandaNPCName: ; 3f6f2 (f:76f2)
-	text "Amanda"
+	text "Maja"
 	done
 
 JoshuaNPCName: ; 3f6fa (f:76fa)
-	text "Joshua"
+	text "Jakub"
 	done
 
 AmyNPCName: ; 3f702 (f:7702)
-	text "Amy"
+	text "Ania"
 	done
 
 JenniferNPCName: ; 3f707 (f:7707)
-	text "Jennifer"
+	text "Lena"
 	done
 
 NicholasNPCName: ; 3f711 (f:7711)
-	text "Nicholas"
+	text "Mikołaj"
 	done
 
 BrandonNPCName: ; 3f71b (f:771b)
-	text "Brandon"
+	text "Szymon"
 	done
 
 IsaacNPCName: ; 3f724 (f:7724)
-	text "Isaac"
+	text "Maks"
 	done
 
 BrittanyNPCName: ; 3f72b (f:772b)
-	text "Brittany"
+	text "Ola"
 	done
 
 KristinNPCName: ; 3f735 (f:7735)
-	text "Kristin"
+	text "Aga"
 	done
 
 HeatherNPCName: ; 3f73e (f:773e)
-	text "Heather"
+	text "Jagoda"
 	done
 
 NikkiNPCName: ; 3f747 (f:7747)
-	text "Nikki"
+	text "Oliwia"
 	done
 
 RobertNPCName: ; 3f74e (f:774e)
@@ -1742,31 +1742,31 @@ DanielNPCName: ; 3f756 (f:7756)
 	done
 
 StephanieNPCName: ; 3f75e (f:775e)
-	text "Stephanie"
+	text "Marianna"
 	done
 
 MurrayNPCName: ; 3f769 (f:7769)
-	text "Murray"
+	text "Tomek"
 	done
 
 JosephNPCName: ; 3f771 (f:7771)
-	text "Joseph"
+	text "Igor"
 	done
 
 DavidNPCName: ; 3f779 (f:7779)
-	text "David"
+	text "Dawid"
 	done
 
 ErikNPCName: ; 3f780 (f:7780)
-	text "Erik"
+	text "Eryk"
 	done
 
 RickNPCName: ; 3f786 (f:7786)
-	text "Rick"
+	text "Bartek"
 	done
 
 JohnNPCName: ; 3f78c (f:778c)
-	text "John"
+	text "Janek"
 	done
 
 AdamNPCName: ; 3f792 (f:7792)
@@ -1774,27 +1774,27 @@ AdamNPCName: ; 3f792 (f:7792)
 	done
 
 JonathanNPCName: ; 3f798 (f:7798)
-	text "Jonathan"
+	text "Antek"
 	done
 
 KenNPCName: ; 3f7a2 (f:77a2)
-	text "Ken"
+	text "Kamil"
 	done
 
 CourtneyNPCName: ; 3f7a7 (f:77a7)
-	text "Courtney"
+	text "Marta"
 	done
 
 SteveNPCName: ; 3f7b1 (f:77b1)
-	text "Steve"
+	text "Stefan"
 	done
 
 JackNPCName: ; 3f7b8 (f:77b8)
-	text "Jack"
+	text "Jacek"
 	done
 
 RodNPCName: ; 3f7be (f:77be)
-	text "Rod"
+	text "Wiktor"
 	done
 
 ManNPCName: ; 3f7c3 (f:77c3)
@@ -1834,7 +1834,7 @@ SpecsNPCName: ; 3f7f2 (f:77f2)
 	done
 
 ButchNPCName: ; 3f7f9 (f:77f9)
-	text "Butch"
+	text "Filip"
 	done
 
 HoodNPCName: ; 3f800 (f:7800)
@@ -1858,7 +1858,7 @@ GuideNPCName: ; 3f81c (f:781c)
 	done
 
 AaronNPCName: ; 3f823 (f:7823)
-	text "Aaron"
+	text "Arnold"
 	done
 
 MewtwoTradeCardName: ; 3f82a (f:782a)
@@ -2011,7 +2011,7 @@ Text0403: ; 3fe10 (f:7e10)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
 	line "Mam dla Ciebie trochę informacji o"
-	line "talii Mitcha - jest mistrzem"
+	line "talii Mateusza - jest mistrzem"
 	line "Klubu Walki. Jego talia"
 	line "szybkiego ataku ma słabość - są"
 	line "nią Pokémony psychiczne!"

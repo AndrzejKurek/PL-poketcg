@@ -285,7 +285,7 @@ Text05fd: ; 4d466 (13:5466)
 	done
 
 Text05fe: ; 4d4e2 (13:54e2)
-	text "Czy chcesz walczyć z Aaronem?"
+	text "Czy chcesz walczyć z Arnoldem?"
 	done
 
 Text05ff: ; 4d501 (13:5501)
@@ -463,7 +463,7 @@ Text061b: ; 4dca0 (13:5ca0)
 	done
 
 Text061c: ; 4dd25 (13:5d25)
-	text "Wyzwać Jennifer na pojedynek?"
+	text "Wyzwać Lenę na pojedynek?"
 	done
 
 Text061d: ; 4dd47 (13:5d47)
@@ -498,7 +498,7 @@ Text0622: ; 4de1a (13:5e1a)
 	done
 
 Text0623: ; 4de9d (13:5e9d)
-	text "Wyzwać Nicholasa na pojedynek?"
+	text "Wyzwać Mikołaja na pojedynek?"
 	done
 
 Text0624: ; 4debf (13:5ebf)
@@ -529,14 +529,14 @@ Text0628: ; 4df7c (13:5f7c)
 	done
 
 Text0629: ; 4dff2 (13:5ff2)
-	text "Isaac pracuje nad okablowaniem tej"
+	text "Maks pracuje nad okablowaniem tej"
 	line "sceny. światła wyglądają spoko,"
 	line "ale ciągła wymiana żarówek to"
 	line "naprawdę sporo pracy!"
 	done
 
 Text062a: ; 4e076 (13:6076)
-	text "I co ten Isaac narobił...?"
+	text "I co ten Maks narobił...?"
 	done
 
 Text062b: ; 4e097 (13:6097)
@@ -545,7 +545,7 @@ Text062b: ; 4e097 (13:6097)
 	done
 
 Text062c: ; 4e0da (13:60da)
-	text "Wyzwać Brandona na pojedynek?"
+	text "Wyzwać Szymona na pojedynek?"
 	done
 
 Text062d: ; 4e0fb (13:60fb)
@@ -596,7 +596,7 @@ Text0634: ; 4e2cc (13:62cc)
 	done
 
 Text0635: ; 4e326 (13:6326)
-	text "Chcesz wyzwać Isaac'a na pojedynek?"
+	text "Chcesz wyzwać Maksa na pojedynek?"
 	done
 
 Text0636: ; 4e345 (13:6345)
@@ -859,7 +859,7 @@ Text065b: ; 4f148 (13:7148)
 	line "że przestaną tak patrzeć z góry!"
 	line "Niestety nie dam rady tego zrobić..."
 	line "Może spróbujesz pokonać dla mnie"
-	line "Murray'a, Mistrza Klubu Psychiki?"
+	line "Tomka, Mistrza Klubu Psychiki?"
 	line "Jeśli Ci się to uda, dam ci coś"
 	line "naprawdę cennego!"
 	done
@@ -870,7 +870,7 @@ Text065c: ; 4f264 (13:7264)
 
 Text065d: ; 4f27f (13:727f)
 	text "Rozumiem..."
-	line "Murray jest naprawdę mocny."
+	line "Tomek jest naprawdę mocny."
 	line "Pokonanie go to"
 	line "nie lada zadanie."
 	done
@@ -882,7 +882,7 @@ Text065e: ; 4f2cb (13:72cb)
 
 Text065f: ; 4f2f0 (13:72f0)
 	text "Widzę, że jeszcze nie udało Ci się"
-	line "pokonać Murray'a. Jest bardzo mocny,"
+	line "pokonać Tomka. Jest bardzo mocny,"
 	line "ale nie poddawaj się! Trzymam za"
 	line "Ciebie kciuki! Jeśli go pokonasz,"
 	line "dam Ci coś naprawdę cennego!"
@@ -893,7 +893,7 @@ Text0660: ; 4f392 (13:7392)
 	line "ludzi. Dlatego też nie przepadam"
 	line "za graczami z Klubu Psychiki..."
 	line "Zaraz... Czy to nie Medal Psychiki?!"
-	line "Udało Ci się pokonać Murray'a?!"
+	line "Udało Ci się pokonać Tomka?!"
 	line "Od razu czuję się lepiej!"
 	line "Proszę, przyjmij ode mnie"
 	line "tę kartę Mewtwo!"
@@ -901,19 +901,19 @@ Text0660: ; 4f392 (13:7392)
 
 Text0661: ; 4f487 (13:7487)
 	text "Zaraz... Czy to nie Medal Psychiki?!"
-	line "Udało Ci się pokonać Murray'a?!"
+	line "Udało Ci się pokonać Tomka?!"
 	line "Od razu czuję się lepiej!"
 	line "Proszę, przyjmij ode mnie"
 	line "tę kartę Mewtwo!"
 	done
 
 Text0662: ; 4f501 (13:7501)
-	text "Dzięki za pokonanie Murray'a!"
+	text "Dzięki za pokonanie Tomka!"
 	done
 
 Text0663: ; 4f522 (13:7522)
 	text "Czuję się o wiele lepiej od kiedy"
-	line "Murray został pokonany! Dzięki!"
+	line "Tomek został pokonany! Dzięki!"
 	done
 
 Text0664: ; 4f574 (13:7574)
@@ -955,7 +955,7 @@ Text0668: ; 4f7d4 (13:77d4)
 	done
 
 Text0669: ; 4f800 (13:7800)
-	text "Jak myślisz, co robi Murray"
+	text "Jak myślisz, co robi Tomek"
 	line "w tym dalekim kącie pokoju?"
 	line "Zapewne myśli, jak walczyć używając"
 	line "swoich nowych kart. W tym klubie"
@@ -976,7 +976,7 @@ Text066b: ; 4f91b (13:791b)
 	done
 
 Text066c: ; 4f951 (13:7951)
-	text "Murray w końcu wymyślił nową"
+	text "Tomek w końcu wymyślił nową"
 	line "strategię. Ma naprawdę dobry humor,"
 	line "pewnie jest więc gotowy"
 	line "na pojedynek. Swoją drogą,"
@@ -1029,7 +1029,7 @@ Text0674: ; 4fb66 (13:7b66)
 	done
 
 Text0675: ; 4fbc0 (13:7bc0)
-	text "Chcesz walczyć ze Stephanie?"
+	text "Chcesz walczyć z Marianną?"
 	done
 
 Text0676: ; 4fbe3 (13:7be3)
@@ -1065,12 +1065,12 @@ Text067b: ; 4fd13 (13:7d13)
 	done
 
 Text067c: ; 4fd50 (13:7d50)
-	text "Mistrz Klubu, Murray, nie zwraca"
+	text "Mistrz Klubu, Tomek, nie zwraca"
 	line "uwagi na otoczenie!"
 	done
 
 Text067d: ; 4fd8e (13:7d8e)
-	text "Witaj, jestem Murray, Mistrz Klubu"
+	text "Witaj, jestem Tomek, Mistrz Klubu"
 	line "Psychiki. To ty wędrujesz między"
 	line "Klubami zdobywając Medale!"
 	line "Skąd to wiem? To oczywiste!"
@@ -1086,7 +1086,7 @@ Text067e: ; 4fe6c (13:7e6c)
 	done
 
 Text067f: ; 4fe9b (13:7e9b)
-	text "Chcesz wyzwać Murray'a na pojedynek?"
+	text "Chcesz wyzwać Tomka na pojedynek?"
 	done
 
 Text0680: ; 4febb (13:7ebb)

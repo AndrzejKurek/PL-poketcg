@@ -62,9 +62,9 @@ Text068d: ; 5037f (14:437f)
 	text "Trenowanie jest takie nudne"
 	line "i staromodne... Dlaczego tak"
 	line "właściwie mam trenować?"
-	line "Jestem Jessica z Klubu Walki."
+	line "Jestem Julia z Klubu Walki."
 	line "Och, pewnie jesteś <RAMNAME>."
-	line "Słyszałam o Tobie od Mitcha."
+	line "Słyszałam o Tobie od Mateusza."
 	line "Pokonanie Ciebie na pewno będzie"
 	line "ciekawsze od treningu!"
 	done
@@ -235,7 +235,7 @@ Text06a5: ; 50bc0 (14:4bc0)
 	done
 
 Text06a6: ; 50c49 (14:4c49)
-	text "Wyzwać Johna na pojedynek?"
+	text "Wyzwać Janka na pojedynek?"
 	done
 
 Text06a7: ; 50c67 (14:4c67)
@@ -310,7 +310,7 @@ Text06b3: ; 50f03 (14:4f03)
 	done
 
 Text06b4: ; 50f60 (14:4f60)
-	text "Wyzwać Johnatana na pojedynek?"
+	text "Wyzwać Antka na pojedynek?"
 	done
 
 Text06b5: ; 50f82 (14:4f82)
@@ -339,7 +339,7 @@ Text06b9: ; 51048 (14:5048)
 	done
 
 Text06ba: ; 51080 (14:5080)
-	text "Jestem Ken, Mistrz Klubu Ognia!"
+	text "Jestem Kamil, Mistrz Klubu Ognia!"
 	line "A więc... zbierasz medale, aby"
 	line "odziedziczyć Legendarne Karty?"
 	line "Ale jak?! Przecież prawie nie masz"
@@ -348,7 +348,7 @@ Text06ba: ; 51080 (14:5080)
 	done
 
 Text06bb: ; 51131 (14:5131)
-	text "Jestem Ken, Mistrz Klubu Ognia!"
+	text "Jestem Kamil, Mistrz Klubu Ognia!"
 	line "Nadal masz za mało kart, o ile"
 	line "wciąż chodzi Ci o odziedziczenie"
 	line "Legendarnych Kart Pokémon!"
@@ -357,7 +357,7 @@ Text06bb: ; 51131 (14:5131)
 	done
 
 Text06bc: ; 511db (14:51db)
-	text "Jestem Ken, Mistrz Klubu Ognia!"
+	text "Jestem Kamil, Mistrz Klubu Ognia!"
 	line "A więc... zbierasz medale, aby"
 	line "odziedziczyć Legendarne Karty?"
 	line "Będziesz potrzebować naprawdę wielu"
@@ -368,14 +368,14 @@ Text06bc: ; 511db (14:51db)
 	done
 
 Text06bd: ; 512c6 (14:52c6)
-	text "Jestem Ken, Mistrz Klubu Ognia!"
+	text "Jestem Kamil, Mistrz Klubu Ognia!"
 	line "Wygląda na to, że masz"
 	line "już bardzo dużo kart!"
 	line "Możemy zacząć walczyć!"
 	done
 
 Text06be: ; 51327 (14:5327)
-	text "Wyzwać Kena na pojedynek?"
+	text "Wyzwać Kamila na pojedynek?"
 	done
 
 Text06bf: ; 51344 (14:5344)
@@ -421,7 +421,7 @@ Text06c5: ; 51526 (14:5526)
 	done
 
 Text06c6: ; 51583 (14:5583)
-	text "Jestem Ken, Mistrz Klubu Ognia!"
+	text "Jestem Kamil, Mistrz Klubu Ognia!"
 	line "Kujmy żelazo póki gorące!"
 	done
 
@@ -540,7 +540,7 @@ Text06d8: ; 51a6f (14:5a6f)
 	line "Ale jak mam je pokonać, jeśli są"
 	line "takie mocne!"
 	line "Hę? <RAMNAME>?"
-	line "Mitch mi o Tobie opowiadał."
+	line "Mateusz mi o Tobie opowiadał."
 	line "Pokonanie Ciebie będzie lepsze, niż"
 	line "przegranie z tymi dziewczynami!"
 	done
@@ -551,7 +551,7 @@ Text06d9: ; 51b2e (14:5b2e)
 	done
 
 Text06da: ; 51b49 (14:5b49)
-	text "Wyzwac Michaela na pojedynek?"
+	text "Wyzwać Michała na pojedynek?"
 	done
 
 Text06db: ; 51b6a (14:5b6a)
@@ -586,7 +586,7 @@ Text06e0: ; 51ccb (14:5ccb)
 	text "Dbanie o rośliny to ciężka praca."
 	line "Musze chwilę odpocząć..."
 	line "Kto? Mistrzyni Klubu Trawy?"
-	line "Masz na myśli Nikki? Nikki wyszła."
+	line "Masz na myśli Oliwię? Akurat wyszła."
 	line "Potrzebuję przerwy."
 	line "Chcesz pograć ze mną"
 	line "w Karty Pokémon?"
@@ -604,7 +604,7 @@ Text06e1: ; 51d9b (14:5d9b)
 	done
 
 Text06e2: ; 51e6e (14:5e6e)
-	text "Wyzwać Brittany na pojedynek?"
+	text "Wyzwać Olę na pojedynek?"
 	done
 
 Text06e3: ; 51e90 (14:5e90)
@@ -632,7 +632,7 @@ Text06e7: ; 51f15 (14:5f15)
 	done
 
 Text06e8: ; 51f43 (14:5f43)
-	text "A tak swoją drogą, to Nikki szła"
+	text "A tak swoją drogą, to Oliwia szła"
 	line "odwiedzić Ishiharę."
 	line "Pewnie tam ją znajdziesz."
 	done
@@ -806,7 +806,7 @@ Text0703: ; 5268a (14:668a)
 	done
 
 Text0704: ; 526f4 (14:66f4)
-	text "Szukasz Nikki,"
+	text "Szukasz Oliwii,"
 	line "Mistrzyni Klubu Trawy?"
 	line "Wydaje mi się, że jej"
 	line "tutaj teraz nie ma."
@@ -822,7 +822,7 @@ Text0705: ; 527b0 (14:67b0)
 	done
 
 Text0706: ; 52812 (14:6812)
-	text "Wyzwać Kristin na pojedynek?"
+	text "Wyzwać Agę na pojedynek?"
 	done
 
 Text0707: ; 52833 (14:6833)
@@ -847,9 +847,9 @@ Text070a: ; 528ed (14:68ed)
 	done
 
 Text070b: ; 52935 (14:6935)
-	text "Wydaje mi się, że Nikki poszła"
+	text "Wydaje mi się, że Oliwia poszła"
 	line "odwiedzić Ishiharę."
-	line "Może warto go odwiedzić? Nikki"
+	line "Może warto go odwiedzić? Oliwia"
 	line "już dawno temu powinna tu wrócić."
 	done
 
@@ -861,7 +861,7 @@ Text070c: ; 529a2 (14:69a2)
 	done
 
 Text070d: ; 52a08 (14:6a08)
-	text "Mistrzyni Nikki akurat wyszła."
+	text "Mistrzyni Oliwia akurat wyszła."
 	line "Dokąd poszła? To tajemnica..."
 	line "... Hmmm, zobaczmy..."
 	line "Jeśli pokonasz..."
@@ -878,7 +878,7 @@ Text070e: ; 52abf (14:6abf)
 	done
 
 Text070f: ; 52aff (14:6aff)
-	text "Wyzwać Heather na pojedynek?"
+	text "Wyzwać Jagodę na pojedynek?"
 	done
 
 Text0710: ; 52b20 (14:6b20)
@@ -906,7 +906,7 @@ Text0714: ; 52bb4 (14:6bb4)
 	done
 
 Text0715: ; 52bd0 (14:6bd0)
-	text "Nikki odwiedza teraz"
+	text "Oliwia odwiedza teraz"
 	line "Ishiharę."
 	line "Może odwiedzisz ją"
 	line "w domu Ishihary?"
@@ -926,10 +926,10 @@ Text0717: ; 52c6a (14:6c6a)
 	done
 
 Text0718: ; 52cc3 (14:6cc3)
-	text "Jestem Nikki, Mistrzyni Klubu Trawy."
-	line "Wybacz, że kazałam na siebie czekać!"
-	line "Teraz już się nigdzie nie wybieram."
-	line "Chcesz ze mną walczyć?"
+	text "Jestem Oliwia, Mistrzyni Klubu"
+	line "Trawy. Wybacz, że kazałam na siebie"
+	line "czekać! Teraz już się nigdzie nie"
+	line "wybieram. Chcesz ze mną walczyć?"
 	done
 
 Text0719: ; 52d1a (14:6d1a)
@@ -938,7 +938,7 @@ Text0719: ; 52d1a (14:6d1a)
 	done
 
 Text071a: ; 52d3e (14:6d3e)
-	text "Wyzwać Nikki na pojedynek?"
+	text "Wyzwać Oliwię na pojedynek?"
 	done
 
 Text071b: ; 52d5d (14:6d5d)
@@ -994,14 +994,14 @@ Text0722: ; 52fa8 (14:6fa8)
 	done
 
 Text0723: ; 52fef (14:6fef)
-	text "Jestem Nikki, Mistrzyni Klubu Trawy."
-	line "Co? Ktoś mnie szukał? O jejku..."
-	line "Przepraszam, że kazałam na siebie"
-	line "czekać. Prowadziłam pewne badania!"
-	line "Chcesz ze mną walczyć, jak mniemam?"
-	line "Pojedynkuję się tylko w Klubie."
-	line "Możemy się tam spotkać,"
-	line "chcesz. Będę na Ciebie czekać"
+	text "Jestem Oliwia, Mistrzyni Klubu"
+	line "Trawy. Co? Ktoś mnie szukał?"
+	line "O jejku... Przepraszam, że kazałam"
+	line "na siebie czekać. Prowadziłam pewne"
+	line "badania! Chcesz ze mną walczyć,"
+	line "jak mniemam? Pojedynkuję się tylko"
+	line "w Klubie. Możemy się tam spotkać,"
+	line "jak chcesz. Będę na Ciebie czekać"
 	line "w Klubie Trawy!"
 	done
 

@@ -146,7 +146,7 @@ Text0750: ; 54884 (15:4884)
 	done
 
 Text0751: ; 54932 (15:4932)
-	text "Chcesz wyzwać Davida na pojedynek?"
+	text "Chcesz wyzwać Dawida na pojedynek?"
 	done
 
 Text0752: ; 54951 (15:4951)
@@ -183,7 +183,7 @@ Text0757: ; 54a4b (15:4a4b)
 	done
 
 Text0758: ; 54b02 (15:4b02)
-	text "Chcesz wyzwać Erika na pojedynek?"
+	text "Chcesz wyzwać Eryka na pojedynek?"
 	done
 
 Text0759: ; 54b20 (15:4b20)
@@ -211,7 +211,7 @@ Text075d: ; 54be0 (15:4be0)
 	done
 
 Text075e: ; 54c10 (15:4c10)
-	text "Witaj! Jestem Rick,"
+	text "Witaj! Jestem Bartek,"
 	line "Mistrz Klubu Nauki."
 	line "Nauka rządzi światem!"
 	line "Dlatego właśnie jest taka potężna."
@@ -220,7 +220,7 @@ Text075e: ; 54c10 (15:4c10)
 	done
 
 Text075f: ; 54cb3 (15:4cb3)
-	text "Chcesz wyzwać Ricka na pojedynek?"
+	text "Chcesz wyzwać Bartka na pojedynek?"
 	done
 
 Text0760: ; 54cd1 (15:4cd1)
@@ -292,7 +292,7 @@ Text076b: ; 54fdd (15:4fdd)
 
 Text076c: ; 5500e (15:500e)
 	text "Hej, Ty!"
-	line "Rick, Mistrz Klubu, przeprowadza"
+	line "Bartek, Mistrz Klubu, przeprowadza"
 	line "właśnie ważny eksperyment!"
 	line "Nie ma czasu przerywać go na"
 	line "zwykłe pogaduchy! Jeśli chcesz z nim"
@@ -300,7 +300,7 @@ Text076c: ; 5500e (15:500e)
 	done
 
 Text076d: ; 550bf (15:50bf)
-	text "Chcesz wyzwać Joseph'a na pojedynek?"
+	text "Chcesz wyzwać Igora na pojedynek?"
 	done
 
 Text076e: ; 550df (15:50df)
@@ -325,7 +325,7 @@ Text0771: ; 5519e (15:519e)
 	done
 
 Text0772: ; 551b1 (15:51b1)
-	text "Rick przeprowadza właśnie"
+	text "Bartek przeprowadza właśnie"
 	line "eksperyment, więc staraj się"
 	line "mu nie przeszkadzać."
 	done
@@ -372,12 +372,12 @@ Text0779: ; 5532c (15:532c)
 
 Text077a: ; 553bf (15:53bf)
 	text "Lubię trenować w Klubie Kamienia!"
-	line "Mitch chce, żebyśmy walczyli ze sobą"
+	line "Mateusz chce, żebyśmy powalczyli"
 	line "zanim poprosisz o to innych graczy!"
 	done
 
 Text077b: ; 55427 (15:5427)
-	text "Chcesz wyzwać Chris'a na pojedynek?"
+	text "Chcesz wyzwać Krzycha na pojedynek?"
 	done
 
 Text077c: ; 55446 (15:5446)
@@ -407,7 +407,7 @@ Text0780: ; 5551f (15:551f)
 	done
 
 Text0781: ; 5557a (15:557a)
-	text "Witaj, jestem Matthew,"
+	text "Witaj, jestem Maciej,"
 	line "należę do Klubu Kamienia."
 	line "Właśnie skończyłem walkę!"
 	line "Wygrałem, oczywiście!"
@@ -432,7 +432,7 @@ Text0783: ; 5569c (15:569c)
 	done
 
 Text0784: ; 556bc (15:56bc)
-	text "Chcesz wyzwać Matthew na pojedynek?"
+	text "Chcesz wyzwać Macieja na pojedynek?"
 	done
 
 Text0785: ; 556dd (15:56dd)
@@ -526,21 +526,21 @@ Text0791: ; 55aea (15:5aea)
 
 Text0792: ; 55b6f (15:5b6f)
 	text "Jaa! Przegrałem!"
-	line "Matthew jest naprawdę dobry!"
+	line "Maciej jest naprawdę dobry!"
 	line "Pewnie to on odziedziczy"
 	line "Legendarne Karty Pokémon!"
 	done
 
 Text0793: ; 55bc8 (15:5bc8)
-	text "Znowu przegrałem z Matthew!"
+	text "Znowu przegrałem z Maciejem!"
 	line "Ile razy bym z nim nie walczył,"
 	line "zawsze przegrywam! Jest tak dobry,"
 	line "że pewnie odziedziczy"
 	line "Legendarne Karty Pokémon!"
 	line "Co? Ty już je masz?!"
 	line "Masz Legendarne Karty Pokémon?"
-	line "Pewnie umieć grać lepiej"
-	line "niż Matthew!"
+	line "Pewnie umiesz grać lepiej"
+	line "niż Maciej!"
 	done
 
 Text0794: ; 55cba (15:5cba)
@@ -559,7 +559,7 @@ Text0795: ; 55d30 (15:5d30)
 	done
 
 Text0796: ; 55d9c (15:5d9c)
-	text "Chcesz wyzwać Ryan'a na pojedynek?"
+	text "Chcesz wyzwać Piotra na pojedynek?"
 	done
 
 Text0797: ; 55dba (15:5dba)
@@ -600,7 +600,7 @@ Text079c: ; 55eda (15:5eda)
 	done
 
 Text079d: ; 55f57 (15:5f57)
-	text "Chcesz wyzwać Andrew na pojedynek?"
+	text "Chcesz wyzwać Andrzeja na pojedynek?"
 	done
 
 Text079e: ; 55f77 (15:5f77)
@@ -630,7 +630,7 @@ Text07a2: ; 56049 (15:6049)
 	done
 
 Text07a3: ; 5606c (15:606c)
-	text "Jestem Gene, Mistrz Klubu"
+	text "Jestem Marian, Mistrz Klubu"
 	line "Kamienia! Solidny jak skała..."
 	line "Lubisz Kamień, <RAMNAME>...?"
 	line "Jest twardy i niezawodny!"
@@ -641,7 +641,7 @@ Text07a3: ; 5606c (15:606c)
 	done
 
 Text07a4: ; 56143 (15:6143)
-	text "Chcesz wyzwać Gene na pojedynek?"
+	text "Chcesz wyzwać Mariana na pojedynek?"
 	done
 
 Text07a5: ; 56161 (15:6161)

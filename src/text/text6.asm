@@ -416,19 +416,19 @@ Text056a: ; 492d3 (12:52d3)
 	done
 
 Text056b: ; 492f4 (12:52f4)
-	text "Jestem Rod, Lider Arcymistrzów."
-	line "Obok mnie stoi Courtney,"
+	text "Jestem Wiktor, Lider Arcymistrzów."
+	line "Obok mnie stoi Marta,"
 	line "nazywana też"
 	line "Królową Ognia."
 	done
 
 Text056c: ; 49350 (12:5350)
 	text "Arcymistrz Piorunów,"
-	line "Steve!"
+	line "Stefan!"
 	done
 
 Text056d: ; 4937b (12:537b)
-	text "Arcymistrz Jack,"
+	text "Arcymistrz Jacek,"
 	line "Władca Lodu!"
 	done
 
@@ -463,15 +463,15 @@ Text0571: ; 49570 (12:5570)
 
 Text0572: ; 49592 (12:5592)
 	text "Twoim pierwszym przeciwnikiem"
-	line "będzie Courtney!"
+	line "będzie Marta!"
 	done
 
 Text0573: ; 495bb (12:55bb)
-	text "Najpierw czeka Cię walka z Courtney!"
+	text "Najpierw czeka Cię walka z Marta!"
 	done
 
 Text0574: ; 495db (12:55db)
-	text "Hm-hmmm...Ja, Courtney, Królowa"
+	text "Hm-hmmm...Ja, Marta, Królowa"
 	line "Ognia, będę Twoim pierwszym"
 	line "przeciwnikiem! Sprawdzę, czy się nie"
 	line "ugniesz pod presją. 6 Nagród! "
@@ -518,16 +518,16 @@ Text057a: ; 49864 (12:5864)
 
 Text057b: ; 498b8 (12:58b8)
 	text "świetnie, <RAMNAME>!"
-	line "Twój drugi przeciwnik to Steve!"
+	line "Twój drugi przeciwnik to Stefan!"
 	done
 
 Text057c: ; 498e6 (12:58e6)
 	text "<RAMNAME>! Czeka już na Ciebie"
-	line "Steve!"
+	line "Stefan!"
 	done
 
 Text057d: ; 49906 (12:5906)
-	text "To ja, Steve, Arcymistrz Piorunów,"
+	text "To ja, Stefan, Arcymistrz Piorunów,"
 	line "będę Twoim przeciwnikiem. Myślisz,"
 	line "że należą Ci się Legendarne Karty?!"
 	line "Pokonaj mnie i udowodnij to!"
@@ -535,7 +535,7 @@ Text057d: ; 49906 (12:5906)
 
 Text057e: ; 49980 (12:5980)
 	text "Hej, <RAMNAME>!"
-	line "Steve na Ciebie czeka!"
+	line "Stefan na Ciebie czeka!"
 	done
 
 Text057f: ; 4999c (12:599c) 
@@ -585,16 +585,16 @@ Text0586: ; 49b27 (12:5b27)
 
 Text0587: ; 49b50 (12:5b50)
 	text "Nieźle, <RAMNAME>."
-	line "Twój kolejny rywal to Jack!"
+	line "Twój kolejny rywal to Jacek!"
 	done
 
 Text0588: ; 49b7b (12:5b7b)
 	text "świetnie, <RAMNAME>!"
-	line "Twój kolejny przeciwnik to Jack!"
+	line "Twój kolejny przeciwnik to Jacek!"
 	done
 
 Text0589: ; 49ba9 (12:5ba9)
-	text "Jestem Jack i będę Twoim trzecim"
+	text "Jestem Jacek i będę Twoim trzecim"
 	line "przeciwnikiem. Na pewno nie dasz"
 	line "rady pokonać mojej znakomitej Talii!"
 	line "Chodź! Udowodnię Ci to!"
@@ -653,7 +653,7 @@ Text0592: ; 49e3a (12:5e3a)
 	done
 
 Text0593: ; 49ea1 (12:5ea1)
-	text "Piękny pojedynek! Ja, Rod,"
+	text "Piękny pojedynek! Ja, Wiktor,"
 	line "będę Twoim kolejnym przeciwnikiem!"
 	done
 
@@ -714,7 +714,7 @@ Text059e: ; 4a0ec (12:60ec)
 
 Text059f: ; 4a11a (12:611a)
 	text "C.. Co?! Jak to możliwe?!"
-	line "Ja, Rod, zostałem pokonany?!"
+	line "Ja, Wiktor, zostałem pokonany?!"
 	line "Cudownie! To niesamowite!"
 	line "Gratulacje, <RAMNAME>!"
 	line "Wykazujesz umiejętności naprawdę"
@@ -746,7 +746,7 @@ Text05a3: ; 4a289 (12:6289)
 	done
 
 Text05a4: ; 4a2b7 (12:62b7)
-	text "Nawet ja, Rod, nie stanowię dla"
+	text "Nawet ja, Wiktor, nie stanowię dla"
 	line "Ciebie zagrożenia."
 	line "Proszę, wejdź do"
 	line "Sali Honoru!"
@@ -771,7 +771,7 @@ Text05a6: ; 4a369 (12:6369)
 	done
 
 Text05a7: ; 4a443 (12:6443)
-	text "Dobrze, Rod!"
+	text "Dobrze, Wiktor!"
 	done
 
 Text05a8: ; 4a452 (12:6452)
