@@ -292,7 +292,7 @@ OmastarName: ; 5ca3e (17:4a3e)
 OmastarsWaterGunDescription: ; 5ca47 (17:4a47)
 	text "Zadaje 20 obrażeń plus 10 więcej"
 	line "za każdą nadmiarową Energię <WATER>"
-	line "dołączoną do Omastar'a powyżej"
+	line "dołączoną do Omastara powyżej"
 	line "kosztu ataku. Nie możesz dodać"
 	line "więcej niż 20 obrażeń w ten sposób."
 	done

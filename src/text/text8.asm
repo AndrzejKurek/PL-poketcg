@@ -653,13 +653,13 @@ Text06eb: ; 51ff0 (14:5ff0)
 	line "Oddish jest taki okrąglutki"
 	line "i uroczy!"
 	line "Dam ci tego Vileplume'a"
-	line "jeśli dasz mi Oddish'a!"
+	line "jeśli dasz mi Oddisha!"
 	done
 
 Text06ec: ; 5206f (14:606f)
 	text "Hej!"
-	line "Masz może Oddish'a?"
-	line "Dasz mi Oddish'a"
+	line "Masz może Oddisha?"
+	line "Dasz mi Oddisha"
 	line "za tego Vileplume'a?"
 	done
 
@@ -668,18 +668,18 @@ Text06ed: ; 520bd (14:60bd)
 	done
 
 Text06ee: ; 520d7 (14:60d7)
-	text "Chcę Oddish'a!"
-	line "Okrąglutkiego Oddish'a!"
+	text "Chcę Oddisha!"
+	line "Okrąglutkiego Oddisha!"
 	done
 
 Text06ef: ; 520fe (14:60fe)
 	text "Przepraszam..."
-	line "Czy masz Oddish'a...?"
+	line "Czy masz Oddisha...?"
 	done
 
 Text06f0: ; 52125 (14:6125)
 	text "Wymieńmy się!"
-	line "Vileplume za Oddish'a!"
+	line "Vileplume za Oddisha!"
 	line "Ups!"
 	line "Twój Oddish jest w Talii!"
 	line "Nie mogę Ci go wziąć!"
@@ -688,11 +688,11 @@ Text06f0: ; 52125 (14:6125)
 
 Text06f1: ; 521a8 (14:61a8)
 	text "Dobrze, wymieńmy się!"
-	line "Vileplume za Oddish'a!"
+	line "Vileplume za Oddisha!"
 	done
 
 Text06f2: ; 521d8 (14:61d8)
-	text "<RAMNAME> wymienia Oddish'a"
+	text "<RAMNAME> wymienia Oddisha"
 	line "na Vileplume'a!"
 	done
 

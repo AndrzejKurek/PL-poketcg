@@ -443,7 +443,7 @@ Text0785: ; 556dd (15:56dd)
 	done
 
 Text0786: ; 5572d (15:572d)
-	text "Dobrze, tak samo jak ostatnio!"
+	text "Dobrze, możemy powalczyć!"
 	line "Zagrajmy o 4 Nagrody."
 	line "Pasuje Ci to?"
 	line "Zaczynajmy!"
@@ -1323,7 +1323,7 @@ MegaDrainName: ; 577f9 (15:77f9)
 	done
 
 VenusaursMegaDrainDescription: ; 57805 (15:7805)
-	text "Usuń z Venasaur'a liczbę liczników"
+	text "Usuń z Venasaura liczbę liczników"
 	line "obrażeń równą połowie obrażeń"
 	line "zadanych Aktywnemu Pokémonowi"
 	line "rywala (po uwzględnieniu Słabości"

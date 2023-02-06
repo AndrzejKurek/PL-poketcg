@@ -274,12 +274,12 @@ ChooseBasicFightingPokemonFromDeckText: ; 3899f (e:499f)
 	done
 
 ChooseAnOddishFromDeckText: ; 389cf (e:49cf)
-	text "Wybierz Oddish'a"
+	text "Wybierz Oddisha"
 	line "z Talii."
 	done
 
 ChooseAnOddishText: ; 389f0 (e:49f0)
-	text "Wybierz Oddish'a."
+	text "Wybierz Oddisha."
 	done
 
 ChooseAKrabbyText: ; 38a02 (e:4a02)
@@ -322,7 +322,7 @@ ProcedureForEnergyTransferText: ; 38aa4 (e:4aa4)
 	done
 
 ChooseABellsproutFromDeckText: ; 38b8f (e:4b8f)
-	text "Wybierz Bellsprout'a"
+	text "Wybierz Bellsprouta"
 	line "z Talii."
 	done
 
@@ -998,7 +998,7 @@ Turn2Instr1PracticeDuelText: ; 3a42b (e:642b)
 
 Turn2Instr2PracticeDuelText: ; 3a45d (e:645d)
 	text "2. Dołącz kartę Energii Psychiki"
-	line "   do wyewoluowanego Seaking'a."
+	line "   do wyewoluowanego Seakinga."
 	done
 
 Turn2Instr3PracticeDuelText: ; 3a499 (e:6499)
@@ -1075,7 +1075,7 @@ Turn8Instr1PracticeDuelText: ; 3a7c2 (e:67c2)
 	done
 
 Turn8Instr2PracticeDuelText: ; 3a803 (e:6803)
-	text "2. Znokautowano Machop'a."
+	text "2. Znokautowano Machopa."
 	line "   Możesz teraz wziąć nagrodę."
 	done
 
@@ -1114,7 +1114,7 @@ Turn1DrMason3PracticeDuelText: ; 3a9f7 (e:69f7)
 Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
 	text "Twój Goldeen może zostać"
 	line "znokautowany! Czas na ewolucję!"
-	line "Wybierz Seaking'a z ręki i dołącz"
+	line "Wybierz Seakinga z ręki i dołącz"
 	line "go do Goldeen aby go ewoluować."
 	line "Jego Pż zwiększy się z 40 do 70."
 	done
@@ -1123,7 +1123,7 @@ Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
 	text "Seaking nie ma wystarczająco"
 	line "Energii, żeby użyć Wodospadu."
 	line "Dołącz kartę Energii Psychiki"
-	line "do Seaking'a."
+	line "do Seakinga."
 	line "<COLORLESS> oznacza jakąkolwiek"
 	line "kartę Energii. Teraz możesz użyć"
 	line "wodospadu. Kartę Energii Wody"
@@ -1132,7 +1132,7 @@ Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
 
 Turn2DrMason3PracticeDuelText: ; 3abdb (e:6bdb)
 	text "Zaatakuj przeciwnika"
-	line "Wodospadem Seaking'a!"
+	line "Wodospadem Seakinga!"
 	done
 
 Turn3DrMason1PracticeDuelText: ; 3ac15 (e:6c15)

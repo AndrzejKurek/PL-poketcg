@@ -562,7 +562,7 @@ PoisonDescriptionText: ; 3cf5d (f:4f5d)
 
 WondersOfScienceDescriptionText: ; 3cf99 (f:4f99)
 	text "Blokuj wrogie umiejętności"
-	line "z pomocą Muk'a i atakuj Metwto!"
+	line "z pomocą Muka i atakuj Metwto!"
 	done
 
 ReplaceEmAllDescriptionText: ; 3cfd1 (f:4fd1)
@@ -1100,7 +1100,7 @@ PlayerDiarySaveQuestionText: ; 3e8b1 (f:68b1)
 
 PlayerDiarySaveConfirmText: ; 3e8d2 (f:68d2)
 	text "<RAMNAME>"
-	line "napisał w pamiętniku."
+	line "pisze w pamiętniku."
 	done
 
 PlayerDiarySaveCancelText: ; 3e8e9 (f:68e9)

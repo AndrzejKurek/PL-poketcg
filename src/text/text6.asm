@@ -1124,7 +1124,7 @@ Text05d7: ; 4ba32 (12:7a32)
 	text "Pokémony zadają obrażenia swoim"
 	line "przeciwnikom poprzez atak."
 	line "Potrzebują do tego Kart Energii."
-	line "Wodospad Seaking'a na przykład"
+	line "Wodospad Seakinga na przykład"
 	line "potrzebuje <WATER><COLORLESS>. Oznacza to,"
 	line "że wymaga 1 Karty Energii Wody"
 	line "i jakiejkolwiek innej Karty Energii."

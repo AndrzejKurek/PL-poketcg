@@ -125,7 +125,7 @@ CallForFamilyName: ; 58341 (16:4341)
 
 NidoranFsCallForFamilyDescription: ; 58352 (16:4352)
 	text "Przejrzyj Talię w poszukiwaniu"
-	line "Nidoran'a♀ lub Nidoran'a♂ i umieść"
+	line "Nidorana♀ lub Nidorana♂ i umieść"
 	line "tego Pokémona na swej ławce. Potasuj"
 	line "po tym Talię. (Nie możesz użyć tego"
 	line "ataku jeśli masz pełną ławkę)"
@@ -318,7 +318,7 @@ SproutName: ; 58b3a (16:4b3a)
 
 SproutDescription: ; 58b42 (16:4b42)
 	text "Przeszukaj Talię w poszukiwaniu"
-	line "Oddish'a i umieść go na ławce."
+	line "Oddisha i umieść go na ławce."
 	line "Potasuj potem Talię. Nie możesz"
 	line "użyć tego ataku jeśli masz"
 	line "pełną ławkę."
@@ -500,7 +500,7 @@ BellsproutName: ; 592e5 (16:52e5)
 
 BellsproutsCallForFamilyDescription: ; 592f1 (16:52f1)
 	text "Przeszukaj Talię w poszukiwaniu"
-	line "Bellsprout'a i umieść go na ławce."
+	line "Bellsprouta i umieść go na ławce."
 	line "Potasuj potem Talię. Nie możesz"
 	line "użyć tego ataku jeśli masz"
 	line "pełną ławkę."
@@ -645,7 +645,7 @@ TeleportName: ; 5988c (16:588c)
 	done
 
 TeleportDescription: ; 59896 (16:5896)
-	text "Zamień Exeggutor'a z jednym z"
+	text "Zamień Exeggutora z jednym z"
 	line "Pokémonów z ławki."
 	done
 
@@ -757,7 +757,7 @@ SwordsDanceName: ; 59cb4 (16:5cb4)
 
 SwordsDanceDescription: ; 59cc2 (16:5cc2)
 	text "W następnej turze obrażenia"
-	line "z Cięcia Scyther'a są podwojone."
+	line "z Cięcia Scythera są podwojone."
 	done
 
 MantisName: ; 59d0b (16:5d0b)
@@ -1084,7 +1084,7 @@ FirePunchName: ; 5a9b3 (16:69b3)
 
 FirePunchDescription: ; 5a9bf (16:69bf)
 	text "Odrzuć 1 Kartę <FIRE> dołączoną do"
-	line "Magmar'a aby użyć tego ataku."
+	line "Magmara aby użyć tego ataku."
 	done
 
 SpitfireName: ; 5aa09 (16:6a09)
@@ -1351,7 +1351,7 @@ WaterGunName: ; 5b53c (16:753c)
 PoliwagsWaterGunDescription: ; 5b547 (16:7547)
 	text "Zadaje 10 obrażeń plus 10 więcej"
 	line "za każdą nadmiarową Energię <WATER>"
-	line "dołączoną do Poliwag'a powyżej"
+	line "dołączoną do Poliwaga powyżej"
 	line "kosztu ataku. Nie możesz dodać"
 	line "więcej niż 20 obrażeń w ten sposób."
 	done
@@ -1397,7 +1397,7 @@ PoliwrathName: ; 5b74f (16:774f)
 PoliwrathsWaterGunDescription: ; 5b75a (16:775a)
 	text "Zadaje 30 obrażeń plus 10 więcej"
 	line "za każdą nadmiarową Energię <WATER>"
-	line "dołączoną do Poliwrath'a powyżej"
+	line "dołączoną do Poliwratha powyżej"
 	line "kosztu ataku. Nie możesz dodać"
 	line "więcej niż 20 obrażeń w ten sposób."
 	done

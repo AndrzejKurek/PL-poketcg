@@ -718,7 +718,7 @@ FirstAidName: ; 61ed0 (18:5ed0)
 
 FirstAidDescription: ; 61edb (18:5edb)
 	text "Usuń 1 licznik obrażeń"
-	line "z Jigglypuff'a."
+	line "z Jigglypuffa."
 	done
 
 DoubleEdgeName: ; 61f05 (18:5f05)
@@ -881,7 +881,7 @@ LeekSlapName: ; 625cd (18:65cd)
 LeekSlapDescription: ; 625d8 (18:65d8)
 	text "Rzuć monetą. Reszka: atak nic nie"
 	line "robi. Możesz użyć ataku tylko raz."
-	line "Nawet odstawienie Farfetch'd'a na"
+	line "Nawet odstawienie Farfetch'da na"
 	line "ławkę nie pozwoli Ci go znów użyć."
 	done
 
