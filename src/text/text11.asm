@@ -25,7 +25,7 @@ HorseaName: ; 5bf43 (16:7f43)
 OpponentAttackMayDoNothingDescription: ; 5bf4b (16:7f4b)
 	text "Jeśli atakowany Pokémon spróbuje"
 	line "w kolejnej turze zaatakować,"
-	line "przeciwnik rzuca monetą . Reszka"
+	line "przeciwnik rzuca monetą. Reszka"
 	line "oznacza że atak się nie powiedzie."
 	done
 
@@ -52,7 +52,7 @@ SeadrasWaterGunDescription: ; 5c065 (17:4065)
 	done
 
 SeadrasAgilityDescription: ; 5c111 (17:4111)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: Seadra nie otrzyma"
 	line "żadnych obrażeń ani efektów ataków"
 	line "w kolejnej turze przeciwnika."
@@ -262,7 +262,7 @@ ClairvoyanceName: ; 5c8a7 (17:48a7)
 
 ClairvoyanceDescription: ; 5c8b5 (17:48b5)
 	text "Przeciwnik musi grać z odsłoniętą"
-	line "ręką . Ta moc przestaje działać, gdy"
+	line "ręką. Ta moc przestaje działać, gdy"
 	line "Omanyte śpi, jest zdezorientowany,"
 	line "lub sparaliżowany."
 	done
@@ -316,7 +316,7 @@ BlizzardName: ; 5cb6d (17:4b6d)
 	done
 
 BlizzardDescription: ; 5cb77 (17:4b77)
-	text "Rzuć monetą . Pikachu: ten atak"
+	text "Rzuć monetą. Pikachu: ten atak"
 	line "zadaje po 10 obrażeń każdemu"
 	line "Pokémonowi na ławce przeciwnika."
 	line "Reszka: ten atak zada po 10 obrażeń"
@@ -341,7 +341,7 @@ QuickfreezeName: ; 5ccc4 (17:4cc4)
 
 QuickfreezeDescription: ; 5ccd1 (17:4cd1)
 	text "Gdy Articuno wchodzi do gry w twojej"
-	line "turze, rzuć monetą ."
+	line "turze, rzuć monetą."
 	line "Pikachu: przeciwny Pokémon jest"
 	line "sparaliżowany."
 	done
@@ -379,7 +379,7 @@ ThunderJoltName: ; 5cea3 (17:4ea3)
 	done
 
 ThunderJoltDescription: ; 5ceb1 (17:4eb1)
-	text "Rzuć monetą . Reszka: Pikachu zada"
+	text "Rzuć monetą. Reszka: Pikachu zada"
 	line "10 obrażeń sobie."
 	done
 
@@ -444,7 +444,7 @@ FlyName: ; 5d1ae (17:51ae)
 	done
 
 FlyDescription: ; 5d1b3 (17:51b3)
-	text "Rzuć monetą . Pikachu: w kolejnej"
+	text "Rzuć monetą. Pikachu: w kolejnej"
 	line "turze przeciwnika Latający Pikachu"
 	line "uniknie wszystkich efektów ataku,"
 	line "wliczając w to obrażenia. Reszka:"
@@ -477,7 +477,7 @@ RaichuName: ; 5d321 (17:5321)
 	done
 
 RaichusAgilityDescription: ; 5d329 (17:5329)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: Raichu nie otrzyma"
 	line "żadnych obrażeń ani efektów ataków"
 	line "w kolejnej turze przeciwnika."
@@ -488,7 +488,7 @@ ThunderName: ; 5d3a5 (17:53a5)
 	done
 
 RaichusThunderDescription: ; 5d3ae (17:53ae)
-	text "Rzuć monetą . Reszka: Raichu zada"
+	text "Rzuć monetą. Reszka: Raichu zada"
 	line "30 obrażeń sobie."
 	done
 
@@ -541,7 +541,7 @@ MagnetName: ; 5d636 (17:5636)
 MagnemiteLv13Description: ; 5d63e (17:563e)
 	text "Używa antygrawitacji aby wisieć w"
 	line "powietrzu. Pojawia się z zaskoczenia"
-	line "atakując Piorunującą Falą ."
+	line "atakując Piorunującą Falą."
 	done
 
 MagneticStormName: ; 5d6a0 (17:56a0)
@@ -674,11 +674,11 @@ LightScreenDescription: ; 5dc80 (17:5c80)
 
 LightScreenDescriptionCont: ; 5dd4f (17:5d4f)
 	text "(Inne efekty ataków nadal się"
-	line "wydarzą .)"
+	line "wydarzą.)"
 	done
 
 ElectabuzzsQuickAttackDescription: ; 5dd7d (17:5d7d)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: atak zada 30 obrażeń;"
 	line "Reszka: atak zada 10 obrażeń."
 	done
@@ -698,7 +698,7 @@ ThunderpunchName: ; 5de55 (17:5e55)
 	done
 
 ThunderpunchDescription: ; 5de63 (17:5e63)
-	text "Rzuć monetą . Pikachu: atak zada"
+	text "Rzuć monetą. Pikachu: atak zada"
 	line "30 obrażeń plus 10 obrażeń;"
 	line "Reszka: atak zada 30 obrażeń,"
 	line "ale Electabuzz zada 10 obrażeń"
@@ -775,7 +775,7 @@ ZapdosLv40Description: ; 5e1d2 (17:61d2)
 	done
 
 ZapdosThunderDescription: ; 5e257 (17:6257)
-	text "Rzuć monetą . Reszka: Zapdos zada"
+	text "Rzuć monetą. Reszka: Zapdos zada"
 	line "30 obrażeń sobie."
 	done
 
@@ -874,7 +874,7 @@ MoleName: ; 5e697 (17:6697)
 DiglettDescription: ; 5e69d (17:669d)
 	text "żyje metr pod ziemią, żywiąc się"
 	line "korzeniami roślin. Czasem można go"
-	line "zauważyć nad powierzchnią ."
+	line "zauważyć nad powierzchnią."
 	done
 
 DugtrioName: ; 5e704 (17:6704)
@@ -894,7 +894,7 @@ EarthquakeDescription: ; 5e719 (17:6719)
 DugtrioDescription: ; 5e789 (17:6789)
 	text "Zespół żłożony z trzech Diglett'ów."
 	line "Wywołują olbrzymie trzęsienia ziemi"
-	line "kopiąc 100 km pod ziemią ."
+	line "kopiąc 100 km pod ziemią."
 	done
 
 MankeyName: ; 5e7e6 (17:67e6)
@@ -939,7 +939,7 @@ TantrumName: ; 5e96d (17:696d)
 	done
 
 TantrumDescription: ; 5e976 (17:6976)
-	text "Rzuć monetą . Reszka: Primeape jest"
+	text "Rzuć monetą. Reszka: Primeape jest"
 	line "zdezorientowany (po zadaniu"
 	line "obrażeń)."
 	done
@@ -963,7 +963,7 @@ SuperpowerName: ; 5ea39 (17:6a39)
 	done
 
 MachopDescription: ; 5ea45 (17:6a45)
-	text "Kocha budować masę mięśniową ."
+	text "Kocha budować masę mięśniową."
 	line "Trenuje przeróżne sztuki walki,"
 	line "aby stać się jeszcze silniejszym."
 	done
@@ -1050,7 +1050,7 @@ RockName: ; 5eda8 (17:6da8)
 GeodudeDescription: ; 5edae (17:6dae)
 	text "Można go znaleźć na polach"
 	line "i w górach. Bywa mylony z głazami,"
-	line "ludzie się o niego potykają ."
+	line "ludzie się o niego potykają."
 	done
 
 GravelerName: ; 5ee0e (17:6e0e)
@@ -1196,7 +1196,7 @@ BoneAttackName: ; 5f45b (17:745b)
 	done
 
 BoneAttackDescription: ; 5f468 (17:7468)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon nie może atakować w kolejnej"
 	line "turze wroga."
 	done
@@ -1216,7 +1216,7 @@ WailDescription: ; 5f4cb (17:74cb)
 
 MarowakLv32Description: ; 5f5b6 (17:75b6)
 	text "Mały i słaby Pokémon, nadrabia swoją"
-	line "umiejętnością walki kością . Z"
+	line "umiejętnością walki kością. Z"
 	line "wiekiem staje się coraz groźniejszy."
 	done
 
@@ -1281,7 +1281,7 @@ LeerName: ; 5f7e6 (17:77e6)
 	done
 
 LeerDescription: ; 5f7ec (17:77ec)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon nie może zaatakować Rhyhorna"
 	line "w kolejnej turze przeciwnika."
 	line "Ewolucja lub umieszczenie jednego"
@@ -1345,7 +1345,7 @@ KabutoArmorDescription: ; 5fa63 (17:7a63)
 	done
 
 KabutoArmorDescriptionCont: ; 5fb19 (17:7b19)
-	text "Inne efekty ataków nadal wystąpią ."
+	text "Inne efekty ataków nadal wystąpią."
     line "Ta moc przestanie działać jeśli"
 	line "Kabuto zaśnie, będzie sparaliżowany,"
 	line "lub zdezorientowany."

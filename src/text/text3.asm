@@ -755,14 +755,14 @@ DiscardPileDescriptionText: ; 3d6d0 (f:56d0)
 
 HandDescriptionText: ; 3d769 (f:5769)
 	text "Karty trzymane przez gracza nazywane"
-	line "są ręką . Nie ma ograniczenia co do"
+	line "są ręką. Nie ma ograniczenia co do"
 	line "liczby kart w twojej ręce."
 	line "Możesz mieć w niej nawet 20 kart."
 	done
 
 ArenaDescriptionText: ; 3d807 (f:5807)
 	text "Miejsce, w którym walczą aktywne"
-	line "Pokémony nazywane jest areną ."
+	line "Pokémony nazywane jest areną."
 	line "Gramy używając ataków i umiejętności"
 	line "aktywnych Pokémonów z areny."
 	done

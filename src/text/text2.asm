@@ -82,7 +82,7 @@ UnableToAttackDueToLeerText: ; 3824c (e:424c)
 
 UnableToAttackDueToBoneAttackText: ; 3827a (e:427a)
 	text "Nie można atakować"
-	line "przez efekt Ciosu Kością ."
+	line "przez efekt Ciosu Kością."
 	done
 
 UnableToUseAttackDueToAmnesiaText: ; 382af (e:42af)
@@ -1094,7 +1094,6 @@ SamTurn4Instr2PracticeDuelText: ; 3a8bb (e:68bb)
 Turn1DrMason1PracticeDuelText: ; 3a8f1 (e:68f1)
 	text "Aby użyć ataku Pokémona, musisz"
 	line "dołączyć do niego Karty Energii."
-	line ""
 	line "Wybierz Rękę z Menu, a następnie"
 	line "wybierz kartę Energii Wody."
 	done
@@ -1182,7 +1181,7 @@ Turn4DrMason3PracticeDuelText: ; 3aebf (e:6ebf)
 	done
 
 Turn5DrMason1PracticeDuelText: ; 3af04 (e:6f04)
-	text "Staryu ewoluuje w Starmie!"
+	text "Staryu może ewoluować w Starmie!"
 	line ""
 	line "Przygotujmy Staryu do użycia"
 	line "ataku Starmie po ewolucji."

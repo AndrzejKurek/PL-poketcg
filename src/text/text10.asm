@@ -1,5 +1,5 @@
 MayInflictPoisonDescription: ; 57eaf (15:7eaf)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest teraz zatruty."
 	done
 
@@ -18,7 +18,7 @@ KakunaName: ; 57f4f (15:7f4f)
 	done
 
 KakunasStiffenDescription: ; 57f57 (15:7f57)
-	text "Rzuć monetą . Pikachu: Kakuna"
+	text "Rzuć monetą. Pikachu: Kakuna"
 	line "nie otrzyma żadnych obrażeń"
 	line "w kolejnej turze przeciwnika. (Inne"
 	line "efekty ataków nie są blokowane)"
@@ -84,7 +84,7 @@ TerrorStrikeName: ; 581ad (16:41ad)
 	done
 
 TerrorStrikeDescription: ; 581bc (16:41bc)
-	text "Rzuć monetą . Pikachu: jeżeli"
+	text "Rzuć monetą. Pikachu: jeżeli"
 	line "twój rywal ma jakiekolwiek"
 	line "Pokémony na ławce, wybiera jednego"
 	line "z nich i zamienia z aktywnym"
@@ -150,7 +150,7 @@ SupersonicName: ; 58474 (16:4474)
 	done
 
 MayInflictConfusionDescription: ; 58480 (16:4480)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest Zdezorientowany."
 	done
 
@@ -200,7 +200,7 @@ HornHazardName: ; 585ff (16:45ff)
 	done
 
 MayDoNothingDescription: ; 5860c (16:460c)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Jeśli wypadnie reszka, ten atak się"
 	line "nie powiedzie."
 	done
@@ -234,7 +234,7 @@ ThrashName: ; 58719 (16:4719)
 	done
 
 ThrashDescription: ; 58721 (16:4721)
-	text "Rzuć monetą . Pikachu: ten atak zada"
+	text "Rzuć monetą. Pikachu: ten atak zada"
 	line "30 obrażeń plus 10 dodatkowych;"
 	line "Reszka: atak zada 30 obrażeń, a"
 	line "Nidoking zada 10 obrażeń sobie."
@@ -329,7 +329,7 @@ WeedName: ; 58be1 (16:4be1)
 	done
 
 OddishDescription: ; 58be7 (16:4be7)
-	text "W dzień zakopuje głowę pod ziemią ."
+	text "W dzień zakopuje głowę pod ziemią."
 	line "W nocy szwędza się po okolicy"
 	line "rozsiewając dookoła swoje nasiona."
 	done
@@ -364,7 +364,7 @@ HealName: ; 58d17 (16:4d17)
 
 HealDescription: ; 58d1d (16:4d1d)
 	text "Podczas swojej tury (przed atakiem)"
-	line "możesz jeden raz rzucić monetą ."
+	line "możesz jeden raz rzucić monetą."
 	line "Jeśli wypadnie Pikachu, usuń 1"
 	line "licznik obrażeń z jednego z twoich"
 	line "Pokémonów. Moc nie może być użyta"
@@ -479,7 +479,7 @@ VenomPowderName: ; 5921e (16:521e)
 	done
 
 VenomPowderDescription: ; 5922c (16:522c)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest zdezorientowany"
 	line "oraz zatruty."
 	done
@@ -550,7 +550,7 @@ AcidName: ; 594fd (16:54fd)
 	done
 
 VictreebelsAcidDescription: ; 59503 (16:5503)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon nie może się wycofać"
 	line "w trakcie tury przeciwnika."
 	done
@@ -633,7 +633,7 @@ EggName: ; 59828 (16:5828)
 ExeggcuteDescription: ; 5982d (16:582d)
 	text "Często mylony z jajkami."
 	line "W niebezpieczeństwie zbierają się"
-	line "w grupę i wspólnie atakują ."
+	line "w grupę i wspólnie atakują."
 	done
 
 ExeggutorName: ; 59881 (16:5881)
@@ -679,7 +679,7 @@ FoulGasName: ; 599d5 (16:59d5)
 	done
 
 FoulGasDescription: ; 599df (16:59df)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest teraz zatruty, "
 	line "Reszka: jest zdezorientowany."
 	done
@@ -975,7 +975,7 @@ QuickAttackName: ; 5a55c (16:655c)
 	done
 
 QuickAttackDescription: ; 5a56a (16:656a)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: ten atak zada 30 obrażeń."
 	line "Reszka: ten atak zada 10 obrażeń."
 	done
@@ -1052,7 +1052,7 @@ StompName: ; 5a850 (16:6850)
 	done
 
 StompDescription: ; 5a857 (16:6857)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: atak zadaje 30 obrażeń."
 	line "Reszka: atak zadaje 20 obrażeń."
 	done
@@ -1062,7 +1062,7 @@ AgilityName: ; 5a8c5 (16:68c5)
 	done
 
 RapidashsAgilityDescription: ; 5a8ce (16:68ce)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: Rapidash nie otrzyma"
 	line "żadnych obrażeń ani efektów ataków"
 	line "w kolejnej turze przeciwnika."
@@ -1104,7 +1104,7 @@ SmokescreenName: ; 5aa6e (16:6a6e)
 MagmarsSmokescreenDescription: ; 5aa7b (16:6a7b)
 	text "Jeśli atakowany Pokémon spróbuje"
 	line "zaatakować w następnej turze, rywal"
-	line "musi rzucić monetą . Reszka oznacza,"
+	line "musi rzucić monetą. Reszka oznacza,"
 	line "że atak się nie powiedzie."
 	done
 
@@ -1211,7 +1211,7 @@ WithdrawName: ; 5af41 (16:6f41)
 	done
 
 SquirtlesWithdrawDescription: ; 5af4b (16:6f4b)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: Squirtle nie otrzyma"
 	line "obrażeń w turze przeciwnika."
 	line "(Inne efekty ataków zadziałają)"
@@ -1232,7 +1232,7 @@ WartortleName: ; 5b045 (16:7045)
 	done
 
 WartortlesWithdrawDescription: ; 5b050 (16:7050)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: Wartortle nie otrzyma"
 	line "obrażeń w turze przeciwnika."
 	line "(Inne efekty ataków zadziałają)"
@@ -1290,7 +1290,7 @@ ShellfishName: ; 5b322 (16:7322)
 BlastoiseDescription: ; 5b32d (16:732d)
 	text "Brutalny Pokémon z ciśnieniowymi"
 	line "dyszami wodnymi na muszli. Używa ich"
-	line "do ataków z dużą prędkością ."
+	line "do ataków z dużą prędkością."
 	done
 
 PsyduckName: ; 5b38f (16:738f)
@@ -1313,7 +1313,7 @@ DuckName: ; 5b3e7 (16:73e7)
 PsyduckDescription: ; 5b3ed (16:73ed)
 	text "Ten nerwowy Pokémon usypia czujność"
 	line "przeciwników swoim wyglądem, po czym"
-	line "atakuje mocą psychokinetyczną ."
+	line "atakuje mocą psychokinetyczną."
 	done
 
 GolduckName: ; 5b44f (16:744f)
@@ -1386,7 +1386,7 @@ DoubleslapName: ; 5b6e7 (16:76e7)
 
 PoliwhirlsDescription: ; 5b6f3 (16:76f3)
 	text "Potrafi żyć zarówno w, jak i poza"
-	line "wodą . Gdy przebywa na ziemi, poci"
+	line "wodą. Gdy przebywa na ziemi, poci"
 	line "się aby ciało pozostało oślizgłe."
 	done
 
@@ -1499,7 +1499,7 @@ HideInShellName: ; 5bb78 (16:7b78)
 	done
 
 HideInShellDescription: ; 5bb87 (16:7b87)
-	text "Rzuć monetą . Pikachu: Shellder"
+	text "Rzuć monetą. Pikachu: Shellder"
 	line "nie otrzyma żadnych obrażeń"
 	line "w kolejnej turze przeciwnika. (Inne"
 	line "efekty ataków nie są blokowane)"
@@ -1524,7 +1524,7 @@ ClampName: ; 5bc7e (16:7c7e)
 	done
 
 ClampDescription: ; 5bc85 (16:7c85)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest teraz sparaliżowany."
 	line "Reszka: atak nic nie robi (nawet "
 	line "obrażeń)."

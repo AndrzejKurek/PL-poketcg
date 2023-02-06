@@ -82,7 +82,7 @@ SpacingOutName: ; 60225 (18:4225)
 	done
 
 SpacingOutDescription: ; 60232 (18:4232)
-	text "Rzuć monetą . Pikachu: usuń"
+	text "Rzuć monetą. Pikachu: usuń"
 	line "1 licznik obrażeń ze Slowpoke'a."
 	line "Ten atak nie może zostać użyty,"
 	line "jeśli Slowpoke nie ma na sobie"
@@ -137,7 +137,7 @@ SleepingGasName: ; 604c3 (18:44c3)
 	done
 
 MayInflictSleepDescription: ; 604d1 (18:44d1)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon zasypia."
 	done
 
@@ -194,7 +194,7 @@ TransparencyName: ; 6071d (18:471d)
 
 TransparencyDescription: ; 6072b (18:472b)
 	text "Kiedy jakikolwiek atak miałby coś"
-	line "zrobić Haunter'owi, rzuć monetą ."
+	line "zrobić Haunter'owi, rzuć monetą."
 	line "Pikachu: zignoruj wszystkie efekty"
 	line "ataku, wliczając w to obrażenia."
 	line "Ta moc przestaje działać gdy Haunter"
@@ -360,7 +360,7 @@ HumanShapeName: ; 60e7d (18:4e7d)
 JynxDescription: ; 60e8a (18:4e8a)
 	text "Samą medytacją ten Pokémon jest"
 	line "w stanie wykonać mocny atak"
-	line "psychiczną energią ."
+	line "psychiczną energią."
 	done
 
 MewtwoName: ; 60ed8 (18:4ed8)
@@ -633,7 +633,7 @@ FearowName: ; 61aee (18:5aee)
 	done
 
 FearowsAgilityDescription: ; 61af6 (18:5af6)
-	text "Rzuć monetą . Pikachu: w kolejnej"
+	text "Rzuć monetą. Pikachu: w kolejnej"
 	line "turze wroga zignoruj wszystkie"
 	line "efekty ataków, w tym obrażenia,"
 	line "zadawane Fearow'owi."
@@ -745,7 +745,7 @@ FriendshipSongName: ; 61fa8 (18:5fa8)
 	done
 
 FriendshipSongDescription: ; 61fb9 (18:5fb9)
-	text "Rzuć monetą . Pikachu: umieść"
+	text "Rzuć monetą. Pikachu: umieść"
 	line "losową, podstawową kartę Pokémon"
 	line "z talii na swojej ławce (Nie"
 	line "możesz użyć tego ataku jeśli masz"
@@ -814,7 +814,7 @@ CatPunchDescription: ; 62287 (18:6287)
 	line "ataku. Wszystkie inne efekty, które"
 	line "miałyby miejsce po liczeniu"
 	line "słabości i odporności, nadal"
-	line "wystąpią ."
+	line "wystąpią."
 	done
 
 ScratchCatName: ; 62359 (18:6359)
@@ -822,7 +822,7 @@ ScratchCatName: ; 62359 (18:6359)
 	done
 
 MeowthLv14Description: ; 62366 (18:6366)
-	text "Jest bardziej aktywny nocą ."
+	text "Jest bardziej aktywny nocą."
 	line "Uwielbia błyszczące, okrągłe rzeczy,"
 	line "nie może przestać ich zbierać."
 	done
@@ -832,7 +832,7 @@ PayDayName: ; 623d3 (18:63d3)
 	done
 
 PayDayDescription: ; 623dc (18:63dc)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: weź kartę z talii na rękę."
 	done
 
@@ -879,7 +879,7 @@ LeekSlapName: ; 625cd (18:65cd)
 	done
 
 LeekSlapDescription: ; 625d8 (18:65d8)
-	text "Rzuć monetą . Reszka: atak nic nie"
+	text "Rzuć monetą. Reszka: atak nic nie"
 	line "robi. Możesz użyć ataku tylko raz."
 	line "Nawet odstawienie Farfetch'd'a na"
 	line "ławkę nie pozwoli Ci go znów użyć."
@@ -973,11 +973,11 @@ ScrunchName: ; 6292f (18:692f)
 	done
 
 ScrunchDescription: ; 62938 (18:6938)
-	text "Rzuć monetą . Pikachu: zignoruj"
+	text "Rzuć monetą. Pikachu: zignoruj"
 	line "wszystkie obrażenia zadane Chansey"
 	line "w następnej turze przeciwnika."
 	line "Wszystkie inne efekty ataków nadal"
-	line "wystąpią ."
+	line "wystąpią."
 	done
 
 ChanseysDoubleEdgeDescription: ; 629c2 (18:69c2)
@@ -1027,7 +1027,7 @@ RampageName: ; 62ade (18:6ade)
 RampageDescription: ; 62ae7 (18:6ae7)
 	text "Zadaj 20 obrażeń plus 10 za każdy"
 	line "licznik obrażeń na Taurosie."
-	line "Rzuć monetą . Reszka: Tauros jest"
+	line "Rzuć monetą. Reszka: Tauros jest"
 	line "zdezorientowany (po zadaniu obrażeń)"
 	done
 
@@ -1080,7 +1080,7 @@ TailWagName: ; 62d8a (18:6d8a)
 	done
 
 TailWagDescription: ; 62d94 (18:6d94)
-	text "Rzuć monetą . Pikachu: wrogi"
+	text "Rzuć monetą. Pikachu: wrogi"
 	line "Pokémon nie może atakować Eevee"
 	line "w kolejnej turze przeciwnika"
 	line "(Ewoluowanie lub umieszczenie"
@@ -1118,7 +1118,7 @@ Conversion2Name: ; 62f1f (18:6f1f)
 
 Conversion2Description: ; 62f2d (18:6f2d)
 	text "Zmień odporność Porygona na dowolną"
-	line "inną, ale nie Bezbarwną ."
+	line "inną, ale nie Bezbarwną."
 	done
 
 VirtualName: ; 62f79 (18:6f79)
@@ -1181,7 +1181,7 @@ SlamName: ; 63176 (18:7176)
 
 DragonairDescription: ; 6317c (18:717c)
 	text "Mityczny Pokémon emanujący delikatną"
-	line "aurą . Może zmieniać otaczające go"
+	line "aurą. Może zmieniać otaczające go"
 	line "warunki klimatyczne."
 	done
 

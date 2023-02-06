@@ -31,7 +31,7 @@ PokeBallName: ; 63f2e (18:7f2e)
 	done
 
 PokeBallDescription: ; 63f39 (18:7f39)
-	text "Rzuć monetą . Pikachu: Weź z talii"
+	text "Rzuć monetą. Pikachu: Weź z talii"
 	line "wybraną kartę podstawowego Pokémona"
 	line "lub kartę Ewolucji. Pokaż tę kartę"
 	line "przeciwnikowi, a następnie umieść"
@@ -207,7 +207,7 @@ GamblerName: ; 648ed (19:48ed)
 
 GamblerDescription: ; 648f6 (19:48f6)
 	text "Wtasuj swoją rękę w talię."
-	line "Rzuć monetą ."
+	line "Rzuć monetą."
 	line "Pikachu: weź 8 kart z talii na rękę."
 	line "Reszka: weź 1 kartę z talii na rękę."
 	done
@@ -217,7 +217,7 @@ RecycleName: ; 64955 (19:4955)
 	done
 
 RecycleDescription: ; 6495e (19:495e)
-	text "Rzuć monetą ."
+	text "Rzuć monetą."
 	line "Pikachu: połóż kartę ze stosu kart"
 	line "odrzuconych na wierzch talii."
 	done

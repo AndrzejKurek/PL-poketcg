@@ -99,7 +99,7 @@ Text05e3: ; 4c86f (13:486f)
 	line "Cóż, pojedynki są o wiele ciekawsze"
 	line "niż samo zbieranie kart!"
 	line "Najpierw spróbuj zagrać"
-	line "talią testową ."
+	line "talią testową."
 	line "Proszę, weź jedną ode mnie."
 	line "No tak, potrzebujesz jeszcze"
 	line "przeciwnika! Sam, podejdziesz?"
@@ -138,7 +138,7 @@ Text05e9: ; 4ca79 (13:4a79)
 Text05ea: ; 4ca87 (13:4a87)
 	text "Podobno czyny mówią więcej, niż"
 	line "słowa, więc zagrajmy!"
-	line "Jako, że to Twoja pierwsza gra,"
+	line "Jako że to Twoja pierwsza gra,"
 	line "postaraj się nauczyć podstaw."
 	line "Będę cię szkolił, postępuj zgodnie"
 	line "z moimi wskazówkami."
@@ -174,7 +174,7 @@ Text05ee: ; 4cd0e (13:4d0e)
 
 Text05ef: ; 4cd66 (13:4d66)
 	text "Jeśli czegoś nie rozumiesz, pogadaj"
-	line "z Sam'em. Może Ci też pomóc jeszcze"
+	line "z Samem. Może Ci też pomóc jeszcze"
 	line "jedna walka treningowa. Zamiast"
 	line "treningu możemy też spróbować"
 	line "normalnej walki, w której"
@@ -437,7 +437,7 @@ Text0618: ; 4db74 (13:5b74)
 	text "Ciekawe czy Legendarne Karty"
 	line "Pokémon są ładne?"
 	line "Jeśli błyszczą to na pewno"
-	line "mi się spodobają ."
+	line "mi się spodobają."
 	done
 
 Text0619: ; 4dbcb (13:5bcb)
@@ -672,7 +672,7 @@ Text0642: ; 4e671 (13:6671)
 	line "To Klub przeznaczony dla graczy"
 	line "używających Pokémonów Psychiki."
 	line "Pokémony te są trudniejsze w użyciu,"
-	line "ale rekompensują to sporą mocą ."
+	line "ale rekompensują to sporą mocą."
 	done
 
 Text0643: ; 4e70b (13:670b)

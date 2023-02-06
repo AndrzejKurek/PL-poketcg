@@ -1362,7 +1362,7 @@ SolarBeamName: ; 57a51 (15:7a51)
 
 VenusaurLv67Description: ; 57a5c (15:7a5c)
 	text "Jego kwiat kwitnie, kiedy pochłania"
-	line "energie słoneczną . Venasaur ciągle"
+	line "energie słoneczną. Venasaur ciągle"
 	line "poszukuje światła słonecznego."
 	done
 
@@ -1375,7 +1375,7 @@ StringShotName: ; 57ac3 (15:7ac3)
 	done
 
 MayInflictParalysisDescription: ; 57ad0 (15:7ad0)
-	text "Rzuć monetą . Pikachu: atakowany"
+	text "Rzuć monetą. Pikachu: atakowany"
 	line "Pokémon jest teraz sparaliżowany."
 	done
 
@@ -1398,7 +1398,7 @@ StiffenName: ; 57b81 (15:7b81)
 	done
 
 MetapodsStiffenDescription: ; 57b8a (15:7b8a)
-	text "Rzuć monetą . Pikachu: Metapod"
+	text "Rzuć monetą. Pikachu: Metapod"
 	line "nie otrzyma żadnych obrażeń w"
 	line "kolejnej turze przeciwnika. (Inne"
 	line "efekty ataków nie są blokowane)"
