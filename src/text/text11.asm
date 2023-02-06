@@ -8,7 +8,7 @@ CrabhammerName: ; 5bec3 (16:7ec3)
 	done
 
 PincerName: ; 5becf (16:7ecf)
-	text "Szczypcowy"
+	text "Szczypiący"
 	done
 	
 KinglerDescription: ; 5bed7 (16:7ed7)
@@ -179,7 +179,7 @@ BubblebeamName: ; 5c517 (17:4517)
 	done
 
 AtrociousName: ; 5c523 (17:4523)
-	text "Potworny"
+	text "Potwór"
 	done
 
 GyaradosDescription: ; 5c52e (17:452e)
@@ -868,7 +868,7 @@ MudSlapName: ; 5e68d (17:668d)
 	done
 
 MoleName: ; 5e697 (17:6697)
-	text "Kreci"
+	text "Kret"
 	done
 
 DiglettDescription: ; 5e69d (17:669d)

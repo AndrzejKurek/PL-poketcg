@@ -680,7 +680,7 @@ Text07aa: ; 562ee (15:62ee)
 	text "Widzisz? Czyż kamień nie jest"
 	line "wspaniały? Nie do ruszenia!"
 	line "Weź się w garść i przyznaj"
-	line "wyższość Pokemonów Kamienia!"
+	line "wyższość Pokémonów Kamienia!"
 	done
 
 Text07ab: ; 56351 (15:6351)
@@ -1450,7 +1450,7 @@ ButterfreesMegaDrainDescriptionCont: ; 57dee (15:7dee)
 	done
 
 ButterflyName: ; 57e36 (15:7e36)
-	text "Butterfly"
+	text "Motyl"
 	done
 
 ButterfreeDescription: ; 57e41 (15:7e41)

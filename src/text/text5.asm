@@ -395,7 +395,7 @@ Text04cb: ; 45846 (11:5846)
 
 Text04cc: ; 45854 (11:5854)
 	text "Charakterystyka Pokémonów Kamienia:"
-	line "Silne przeciw Pokemonom Elektrycznym"
+	line "Silne przeciw Pokémonom Elektrycznym"
 	line "Słabe przeciwko Pokémonom Trawy."
 	done
 

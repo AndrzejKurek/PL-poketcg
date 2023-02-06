@@ -475,7 +475,7 @@ PokemonFluteDescriptionText: ; 3cb7b (f:4b7b)
 	done
 
 YellowFlashDescriptionText: ; 3cbbb (f:4bbb)
-	text "Talia pokemonów używających"
+	text "Talia Pokémonów używających"
 	line "Energię Elektryczną - porazi"
 	line "przeciwników!"
 	done
@@ -806,7 +806,7 @@ PrizesDescriptionText: ; 3dad1 (f:5ad1)
 
 DamageCountersDescriptionText: ; 3dbc5 (f:5bc5)
 	text "Za pomocą liczników obrażeń liczymy"
-	line "pozostałe punkty życia pokemona."
+	line "pozostałe punkty życia Pokémona."
 	line "Każdy licznik oznacza 10 punktów"
 	line "życia (Pż) obrażeń. Jeśli Pokémon"
 	line "ma 30 Pż i 3 liczniki obrażeń,"
@@ -866,7 +866,7 @@ AttackingDescriptionText: ; 3e10a (f:610a)
 	line "Pokémony wymagają kart Energii"
 	line "do ataku. Dokładna liczba kart"
 	line "Energii potrzebna do ataku"
-	line "zależy od pokemona i ataku."
+	line "zależy od Pokémona i ataku."
 	line "Tylko aktywny Pokémon może atakować."
 	done
 
