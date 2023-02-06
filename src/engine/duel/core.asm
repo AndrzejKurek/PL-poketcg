@@ -2691,7 +2691,11 @@ PracticeDuelActionTable:
 PracticeDuel_DrawSevenCards:
 	call DisplayPracticeDuelPlayerHandScreen
 	call EnableLCD
-	ldtx hl, DrawSevenCardsPracticeDuelText
+	ldtx hl, DrawSevenCardsPracticeDuelText1
+	call PrintPracticeDuelDrMasonInstructions
+	
+	call DisplayPracticeDuelPlayerHandScreen
+	ldtx hl, DrawSevenCardsPracticeDuelText2
 	jp PrintPracticeDuelDrMasonInstructions
 
 PracticeDuel_PlayGoldeen:
@@ -2727,6 +2731,9 @@ PracticeDuel_DonePuttingOnBench:
 	jp PrintPracticeDuelDrMasonInstructions
 
 PracticeDuel_PrintTurnInstructions:
+    ; Increase space for tiles to fit all combinations
+	lb de, $38, $ff
+	call SetupText
 	call DrawPracticeDuelInstructionsTextBox
 	call EnableLCD
 	ld a, [wDuelTurns]
@@ -2837,7 +2844,7 @@ PrintPracticeDuelInstructionsTextBoxLabel:
 ; one of the structs in PracticeDuelTextPointerTable.
 ; if a != 0, only the point-by-point instructions are printed, otherwise
 ; Dr. Mason instructions are also shown in a textbox at the bottom of the screen.
-PrintPracticeDuelInstructionsForCurrentTurn:
+PrintPracticeDuelInstructionsForCurrentTurn:	
 	push af
 	ld a, [wDuelTurns]
 	and %11111110
@@ -2899,6 +2906,9 @@ PrintPracticeDuelInstructions:
 PrintPracticeDuelLetsPlayTheGame:
 	ldtx hl, LetsPlayTheGamePracticeDuelText
 	call PrintPracticeDuelDrMasonInstructions
+	; Return to the normal sprite space
+	lb de, $38, $9f
+	call SetupText
 	ret
 
 ; simplified version of PrintPracticeDuelInstructions that skips Dr. Mason's text
