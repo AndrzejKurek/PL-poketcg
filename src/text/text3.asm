@@ -1119,7 +1119,7 @@ ConfigMenuTitleText: ; 3e91d (f:691d)
 ConfigMenuMessageSpeedText: ; 3e939 (f:6939)
 	text "Szybkość tekstu"
 	line ""
-	line " Szybko   1   2   3   4   5  Wolno"
+	line " Wolno    1   2   3   4   5 Szybko"
 	done
 
 ConfigMenuDuelAnimationText: ; 3e96c (f:696c)
