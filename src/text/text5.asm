@@ -377,7 +377,7 @@ Text04c8: ; 456e4 (11:56e4)
 	done
 
 Text04c9: ; 45785 (11:5785)
-	text "Podwójna Bezbarwna Energia"
+	text "2x Bezbarwna Energia"
 	done
 
 Text04ca: ; 4579e (11:579e)

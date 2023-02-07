@@ -1233,7 +1233,7 @@ PsychicEnergyDescription: ; 57466 (15:7466)
 	done
 
 DoubleColorlessEnergyName: ; 5747d (15:747d)
-	text "Podwójna Bezbarwna Energia"
+	text "2x Bezbarwna Energia"
 	done
 
 DoubleColorlessEnergyDescription: ; 57496 (15:7496)
