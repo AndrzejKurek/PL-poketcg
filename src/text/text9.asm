@@ -28,7 +28,7 @@ Text0740: ; 54223 (15:4223)
 	done
 
 Text0741: ; 54245 (15:4245)
-	text "Chcesz wyzwać Ronalda na pojedynek?"
+	text "Chcesz wyzwać Marcina na pojedynek?"
 	done
 
 Text0742: ; 54265 (15:4265)

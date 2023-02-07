@@ -349,15 +349,15 @@ FireChargeText: ; 3c730 (f:4730)
 	done
 
 CharmanderAndFriendsText: ; 3c73d (f:473d)
-	text "Charmander z kolegami"
+	text "Charmander z ekipą"
 	done
 
 SquirtleAndFriendsText: ; 3c753 (f:4753)
-	text "Squirtle ze znajomymi"
+	text "Squirtle z kumplami"
 	done
 
 BulbasaurAndFriendsText: ; 3c767 (f:4767)
-	text "Bulbasaur z kumplami"
+	text "Bulbasaur z paczką"
 	done
 
 PsychicMachampText: ; 3c77c (f:477c)
@@ -1626,7 +1626,7 @@ DrMasonNPCName: ; 3f66f (f:766f)
 	done
 
 RonaldNPCName: ; 3f67a (f:767a)
-	text "Ronald"
+	text "Marcin"
 	done
 
 IshiharaNPCName: ; 3f682 (f:7682)
@@ -1826,7 +1826,7 @@ LadNPCName: ; 3f7e7 (f:77e7)
 	done
 
 HostNPCName: ; 3f7ec (f:77ec)
-	text "Gospodarz"
+	text "Konferansjer"
 	done
 
 SpecsNPCName: ; 3f7f2 (f:77f2)
@@ -1846,7 +1846,7 @@ ChampNPCName: ; 3f806 (f:7806)
 	done
 
 ManiaNPCName: ; 3f80d (f:780d)
-	text "Mania"
+	text "Koleś"
 	done
 
 GrannyNPCName: ; 3f814 (f:7814)
@@ -1935,15 +1935,15 @@ SelectDeckToDuelText: ; 3f950 (f:7950)
 	done
 
 CharmanderAndFriendsDeckChoiceText: ; 3f982 (f:7982)
-	text "CHARMANDER z kolegami"
+	text "CHARMANDER z ekipą"
 	done
 
 SquirtleAndFriendsDeckChoiceText: ; 3f99d (f:799d)
-	text "SQUIRTLE ze znajomymi"
+	text "SQUIRTLE z kumplami"
 	done
 
 BulbasaurAndFriendsDeckChoiceText: ; 3f9b6 (f:79b6)
-	text "BULBASAUR z kumplami"
+	text "BULBASAUR z paczką"
 	done
 
 SelectDeckToTakeText: ; 3f9d0 (f:79d0)

@@ -281,7 +281,7 @@ Text0554: ; 48bed (12:4bed)
 	text "Tak! Legendarne Karty Pokémon"
 	line "zostaną odziedziczone tutaj,"
 	line "na Stadionie Pokémon! Oczywiście ja,"
-	line "Ronald, dostanę te karty!"
+	line "Marcin, dostanę te karty!"
 	line "Ej, Ty też masz Medale?"
 	done
 
@@ -669,7 +669,7 @@ Text0595: ; 49f0e (12:5f0e)
 
 Text0596: ; 49f45 (12:5f45)
 	text "Jeśli wygrasz ten pojedynek,"
-	line "pozwolę Ci walczyć z Ronaldem!"
+	line "pozwolę Ci walczyć z Marcinem!"
 	done
 
 Text0597: ; 49f7e (12:5f7e)
@@ -737,7 +737,7 @@ Text05a1: ; 4a218 (12:6218)
 	done
 
 Text05a2: ; 4a26c (12:626c)
-	text "Musisz ponownie wygrać z Ronaldem."
+	text "Musisz ponownie wygrać z Marcinem."
 	done
 
 Text05a3: ; 4a289 (12:6289)
@@ -754,17 +754,17 @@ Text05a4: ; 4a2b7 (12:62b7)
 
 Text05a5: ; 4a308 (12:6308)
 	text "Tak! Dokładnie!"
-	line "To ja, Ronald!"
+	line "To ja, Marcin!"
 	line "Już odziedziczyłem"
 	line "Legendarne Karty Pokémon!"
 	done
 
 Text05a6: ; 4a369 (12:6369)
-	text "Nie, Ronald! Nie możemy na to"
+	text "Nie, Marcin! Nie możemy na to"
 	line "pozwolić! <RAMNAME> ma tyle samo"
 	line "zwycięstw i też może odziedziczyć"
 	line "Legendarne Karty Pokémon!"
-	line "Ronald! <RAMNAME>!"
+	line "Marcin! <RAMNAME>!"
 	line "Musicie walczyć ze sobą, aby"
 	line "zdecydować komu należą się"
 	line "Legendarny Karty! Tak mówią zasady!"
@@ -776,7 +776,7 @@ Text05a7: ; 4a443 (12:6443)
 
 Text05a8: ; 4a452 (12:6452)
 	text "Tak! Właśnie! Ja!"
-	line "Ronald!"
+	line "Marcin!"
 	line "Przyjmę twoje wyzwanie,"
 	line ""
 	text "<RAMNAME>!"
@@ -831,7 +831,7 @@ Text05b0: ; 4a67f (12:667f)
 
 Text05b1: ; 4a6ba (12:66ba)
 	text "Legendarne Karty Pokémon"
-	line "zniknęły z Talii Ronalda!"
+	line "zniknęły z Talii Marcina!"
 	done
 
 Text05b2: ; 4a6f4 (12:66f4)

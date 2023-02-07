@@ -1364,19 +1364,19 @@ LegendaryDragoniteDeckName: ; 3b57d (e:757d)
 	done
 
 ImRonaldDeckName: ; 3b592 (e:7592)
-	text "To ja, Ronald!"
+	text "To ja, Marcin!"
 	done
 
 PowerfulRonaldDeckName: ; 3b59f (e:759f)
-	text "Mocarny Ronald"
+	text "Mocarny Marcin"
 	done
 
 InvincibleRonaldDeckName: ; 3b5b0 (e:75b0)
-	text "Nietykalny Ronald"
+	text "Nietykalny Marcin"
 	done
 
 LegendaryRonaldDeckName: ; 3b5c3 (e:75c3)
-	text "Legendarny Ronald"
+	text "Legendarny Marcin"
 	done
 
 WaterfrontPokemonDeckName: ; 3b5d5 (e:75d5)
