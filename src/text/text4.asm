@@ -414,7 +414,7 @@ Text042a: ; 41fc7 (10:5fc7)
 	done
 
 Text042b: ; 42036 (10:6036)
-	text "Sara i Maja z klubu Wody"
+	text "Kaja i Maja z klubu Wody"
 	line "to bliźniaczki!"
 	line "Nic dziwnego że są"
 	line "do siebie tak podobne!"
@@ -428,7 +428,7 @@ Text042c: ; 42087 (10:6087)
 	done
 
 Text042d: ; 420e4 (10:60e4)
-	text "Wyzwać Sarę na pojedynek?"
+	text "Wyzwać Kaję na pojedynek?"
 	done
 
 Text042e: ; 42102 (10:6102)
@@ -467,7 +467,7 @@ Text0433: ; 42279 (10:6279)
 	done
 
 Text0434: ; 422d6 (10:62d6)
-	text "Wyzwać Amandę na pojedynek?"
+	text "Wyzwać Maję na pojedynek?"
 	done
 
 Text0435: ; 422f6 (10:62f6)
@@ -506,7 +506,7 @@ Text043b: ; 4242a (10:642a)
 	text "Osoba która tam wypoczywa"
 	line "to Ania, Mistrzyni Klubu."
 	line "Jeśli chcesz z nią walczyć,"
-	line "pokonaj najpierw Sarę i Amandę."
+	line "pokonaj najpierw Maję i Kaję."
 	line "Potem ja sprawdzę twoje"
 	line "umiejętności i jeśli dziwnym trafem"
 	line "ze mną też wygrasz, przedstawię Cię"
@@ -515,11 +515,11 @@ Text043b: ; 4242a (10:642a)
 
 Text043c: ; 42508 (10:6508)
 	text "Co?"
-	line "Sara i Maja przegrały?"
+	line "Kaja i Maja przegrały?"
 	done
 
 Text043d: ; 4252d (10:652d)
-	text "Musisz nieźle grać, skoro ani Sara,"
+	text "Musisz nieźle grać, skoro ani Kaja,"
 	line "ani Maja nie dały rady..."
 	line "Tak jak obiecywałem, sprawdzę"
 	line "twoje umiejętności, a jeśli wygrasz,"

@@ -675,8 +675,8 @@ Text04f5: ; 46b5d (11:6b5d)
 Text04f6: ; 46b70 (11:6b70)
 	text "Bezbarwne Pokémony są bardzo"
 	line "łatwe w użyciu. Mogą atakować"
-	line "jakąkolwiek z jakąkolwiek Kartą"
-	line "Energii, więc możesz je dorzucić"
+	line "jakąkolwiek Kartą Energii,"
+	line "więc możesz je dorzucić"
 	line "do różnych Talii! Jest wiele"
 	line "Bezbarwnych Pokémonów, sprawdź je!"
 	done
@@ -711,7 +711,7 @@ Text04fb: ; 46dcb (11:6dcb)
 
 Text04fc: ; 46dec (11:6dec)
 	text "Pierwszą z Legendarnych Kart Pokémon"
-	line "jest <Lv>37 Moltres. Jego Moc,"
+	line "jest <Lv> 37 Moltres. Jego Moc,"
 	line "Prometeusz, umieszcza Karty Energii"
 	line "Ognia w Twojej ręce! Bombardowanie,"
 	line "jego główny atak, to bardzo potężny"
@@ -725,7 +725,7 @@ Text04fd: ; 46ec2 (11:6ec2)
 
 Text04fe: ; 46ee3 (11:6ee3)
 	text "Drugą Legendarną Kartą Pokémon"
-	line "jest <Lv>68 Zapdos. Z łomotem"
+	line "jest <Lv> 68 Zapdos. Z łomotem"
 	line "Pioruna samo umieszczenie tej karty"
 	line "na ławce zadaje obrażenia!"
 	line "Wielki Grzmot to jego główny atak!"
@@ -739,7 +739,7 @@ Text04ff: ; 46fb8 (11:6fb8)
 
 Text0500: ; 46fd9 (11:6fd9)
 	text "Trzecia Legendarna Karta Pokémon"
-	line "to <Lv>37 Articuno. Kiedy ta gra"
+	line "to <Lv> 37 Articuno. Kiedy ta gra"
 	line "wejdzie do gry, jej moc - Zmrożenie"
 	line "- może sparaliżować wrogie Pokémony!"
 	line "Używa też zatrważającego Mroźnego"
@@ -753,7 +753,7 @@ Text0501: ; 470b3 (11:70b3)
 
 Text0502: ; 470d4 (11:70d4)
 	text "Czwartą Legendarną Kartą jest"
-	line "<Lv>41 Dragonite. Leczący Wiatr"
+	line "<Lv> 41 Dragonite. Leczący Wiatr"
 	line "uleczy obrażenia na każdym Pokémonie"
 	line "osoby która zagra tę kartę!"
 	line "Uważaj też na Trzaśnięcie ogonem"
@@ -894,7 +894,7 @@ Text0516: ; 479a4 (11:79a4)
 	text "To ja pokonam 3 wrogów!"
 	line "Nagroda zwycięzcy,"
 	line ""
-	text "<Lv>60 Mewtwo, będzie należeć do"
+	text "<Lv> 60 Mewtwo, będzie należeć do"
 	line "mnie! Usiądź i popatrz jak wygrywam!"
 	line "Narka! Hahahahahaha!"
 	done
@@ -922,7 +922,7 @@ Text0519: ; 47b25 (11:7b25)
 Text051a: ; 47b47 (11:7b47)
 	text "Puchar Wyzwań się skończył!"
 	line "Pokonałem 3 przeciwników, zdobywając"
-	line "nagrodę - <Lv>60 Mewtwo!"
+	line "nagrodę - <Lv> 60 Mewtwo!"
 	line "Narka! Hahahahahaha!"
 	done
 
@@ -934,7 +934,7 @@ Text051b: ; 47bb6 (11:7bb6)
 Text051c: ; 47bd7 (11:7bd7)
 	text "Puchar Wyzwań się skończył!"
     line "Pokonałem 3 przeciwników, zdobywając"
-	line "nagrodę - <Lv>60 Mewtwo!"
+	line "nagrodę - <Lv> 60 Mewtwo!"
 	line "Możesz spróbować wystartować"
 	line "w kolejnym Pucharze, ale raczej nie"
 	line "będziesz mieć szans - zamierzm"
@@ -951,7 +951,7 @@ Text051e: ; 47cd1 (11:7cd1)
 	text "Nieważne kto wystartuje w Pucharze"
 	line "Wyzwań, wygram Ja!"
 	line ""
-	text "<Lv>8 Mew, nagroda za ten Puchar,"
+	text "<Lv> 8 Mew, nagroda za ten Puchar,"
 	line "będzie należeć do mnie! Po co tracić"
 	line "czas, idź lepiej do domu!"
 	line "Narka! Hahahahahaha!"
@@ -979,7 +979,7 @@ Text0522: ; 47e73 (11:7e73)
 	text "Puchar Wyzwań już się skończył!"
 	line "Co?! Kto Wygrał?! A jak myślisz?"
 	line "Oczywiście że ja! Nagroda jest moja!"
-	line "<Lv>8 Mew, bardzo rzadka karta!"
+	line "<Lv> 8 Mew, bardzo rzadka karta!"
 	line "Narka! Hahahahahaha!"
 	done
 

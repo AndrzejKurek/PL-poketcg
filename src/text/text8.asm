@@ -206,7 +206,7 @@ FoundLv9SlowpokeText: ; 50a9e (14:4a9e)
 	line "Sprawdza ścianę!"
 	line ""
 	text "<RAMNAME>"
-	line "znajduje <Lv>9 Slowpoke!"
+	line "znajduje <Lv> 9 Slowpoke!"
 	done
 
 Text06a3: ; 50acc (14:4acc)

@@ -1,7 +1,7 @@
 Text0524: ; 48000 (12:4000)
 	text "Puchar wyzwań się skończył!"
 	line "Nawet nie mogliśmy się zmierzyć!"
-	line "Nagroda jest moja! <Lv>8 Mew!"
+	line "Nagroda jest moja! <Lv> 8 Mew!"
 	line "Może w kolejnym Pucharze powalczymy?"
 	line "Ale w sumie, po co robić sobie"
 	line "kłopot, przecież wiadomo że wygram!"
@@ -51,14 +51,14 @@ Text052b: ; 48376 (12:4376)
 	text "Rozpoczął się właśnie"
 	line "Pierwszy Puchar Wyzwań!"
 	line "Pokonaj 3 przeciwników, aby wygrać"
-	line "cudowną nagrodę - <Lv>60 Mewtwo!"
+	line "cudowną nagrodę - <Lv> 60 Mewtwo!"
 	done
 
 Text052c: ; 483de (12:43de)
 	text "Rozpoczął się właśnie"
 	line "Drugi Puchar Wyzwań!"
 	line "Pokonaj 3 przeciwników, aby wygrać"
-	line "cudowną nagrodę - <Lv>8 Mew!"
+	line "cudowną nagrodę - <Lv> 8 Mew!"
 	done
 
 Text052d: ; 48444 (12:4444)
@@ -145,7 +145,7 @@ Text053b: ; 487c0 (12:47c0)
 	text "Ha ha ha! Co Ty na to?"
 	line "Wygrałem!"
 	line "Jeszcze 2 przeciwników"
-	line "i <Lv>8 Mew będzie mój!"
+	line "i <Lv> 8 Mew będzie mój!"
 	done
 
 Text053c: ; 4881b (12:481b)
@@ -188,14 +188,14 @@ Text0542: ; 4893d (12:493d)
 	text "Hej, <RAMNAME>!"
 	line "Nie mam zamiaru przegrać!"
 	line ""
-	text "<Lv>60 Mewtwo będzie mój!"
+	text "<Lv> 60 Mewtwo będzie mój!"
 	done
 
 Text0543: ; 4897f (12:497f)
 	text "<RAMNAME>!"
 	line "Nie wygrasz ze mną!"
 	line ""
-	text "<Lv>8 Mew jest mój!"
+	text "<Lv> 8 Mew jest mój!"
 	done
 
 Text0544: ; 489b6 (12:49b6)

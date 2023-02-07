@@ -1262,7 +1262,7 @@ MrFujiName: ; 634e2 (18:74e2)
 	done
 
 MrFujiDescription: ; 634eb (18:74eb)
-	text "Wybierz Pokémona z ławki."
+	text "Wybierz Pokémona ze swojej ławki."
 	line "Wtasuj go, razem z dołączonymi"
 	line "kartami, w talię."
 	done

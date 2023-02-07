@@ -1686,7 +1686,7 @@ GeneNPCName: ; 3f6e6 (f:76e6)
 	done
 
 SaraNPCName: ; 3f6ec (f:76ec)
-	text "Sara"
+	text "Kaja"
 	done
 
 AmandaNPCName: ; 3f6f2 (f:76f2)
