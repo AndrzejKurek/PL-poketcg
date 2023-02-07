@@ -415,7 +415,7 @@ FirstStrikeDescriptionText: ; 3c8d6 (f:48d6)
 
 SqueakingMouseDescriptionText: ; 3c8fd (f:48fd)
 	text "Talia złożona z Pokémonów myszy."
-	line "Użyj PlusMoc-y by je wzmocnić!"
+	line "Użyj PlusMocy by je wzmocnić!"
 	done
 
 GreatQuakeDescriptionText: ; 3c938 (f:4938)
@@ -1531,11 +1531,11 @@ Text0394: ; 3f4d6 (f:74d6)
 	done
 
 OpponentTitleAndNameText: ; 3f4f3 (f:74f3)
-	text "<RAMTEXT>  <RAMTEXT>"
+	text "<RAMTEXT> <RAMTEXT>"
 	done
 
 OpponentDeckNameText: ; 3f4f9 (f:74f9)
-	text "Talia <RAMTEXT>"
+	text "Talia ”<RAMTEXT>”"
 	done
 
 FightingClubMemberText: ; 3f501 (f:7501)

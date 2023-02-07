@@ -146,7 +146,7 @@ NidorinaName: ; 5846a (16:446a)
 	done
 
 SupersonicName: ; 58474 (16:4474)
-	text "Ultradźwięki"
+	text "Ultradźwięk"
 	done
 
 MayInflictConfusionDescription: ; 58480 (16:4480)

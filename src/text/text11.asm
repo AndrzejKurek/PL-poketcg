@@ -1153,7 +1153,7 @@ CubonesRageDescription: ; 5f27f (17:727f)
 	done
 
 LonelyName: ; 5f2c6 (17:72c6)
-	text "Samotny"
+	text "Samotnik"
 	done
 
 CuboneDescription: ; 5f2ce (17:72ce)

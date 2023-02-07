@@ -71,16 +71,16 @@ Text068d: ; 5037f (14:437f)
 
 Text068e: ; 5044a (14:444a)
 	text "Trenowanie jest takie nudne"
-	line "i staromodne... Dlaczego tak"
-	line "właściwie mam trenować?"
-	text "<RAMNAME>, to znowu Ty!"
-	line "Już pamiętam ten ból..."
-	line "Ale pokonanie Ciebie na pewno"
+	line "i staromodne..."
+	line "Dlaczego tak właściwie mam"
+	line "ciągle trenować?"
+	line "<RAMNAME>, to znowu Ty!"
+	line "Pokonanie Ciebie na pewno"
 	line "będzie ciekawsze od treningu!"
 	done
 
 Text068f: ; 504df (14:44df)
-	text "Wyzwać Jessicę na pojedynek?"
+	text "Wyzwać Julię na pojedynek?"
 	done
 
 Text0690: ; 50500 (14:4500)
@@ -432,7 +432,7 @@ Text06c7: ; 515bf (14:55bf)
 
 Text06c8: ; 515f4 (14:55f4)
 	text "Witaj."
-	line "Wkraczasz do Centrum Walki!"
+	line "Zapraszam do Centrum Walki!"
 	line "Czy chcesz walczyć z przyjacielem?"
 	done
 
@@ -462,7 +462,7 @@ Text06cc: ; 516d0 (14:56d0)
 
 Text06cd: ; 51720 (14:5720)
 	text "Witam."
-	line "Wkraczasz do Centrum Prezentów!"
+	line "Zapraszam do Centrum Prezentów!"
 	line "Co mogę dla Ciebie zrobić?"
 	done
 

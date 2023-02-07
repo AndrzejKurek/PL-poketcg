@@ -969,7 +969,7 @@ ChanseyName: ; 62926 (18:6926)
 	done
 
 ScrunchName: ; 6292f (18:692f)
-	text "Zgrzyt"
+	text "Zwinięcie"
 	done
 
 ScrunchDescription: ; 62938 (18:6938)

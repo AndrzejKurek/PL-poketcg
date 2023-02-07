@@ -66,7 +66,7 @@ Text0498: ; 44262 (11:4262)
 	done
 
 Text0499: ; 442c3 (11:42c3)
-	text "Wyzwać Jessicę na pojedynek?"
+	text "Wyzwać Julię na pojedynek?"
 	done
 
 Text049a: ; 442e4 (11:42e4)

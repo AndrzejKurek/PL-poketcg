@@ -24,7 +24,7 @@ Text0407: ; 401a3 (10:41a3)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
 	line "Mam trochę informacji o Talii Ani,"
-	line "Mistrzyni Klubu Wody. "
+	line "Mistrzyni Klubu Wody."
 	line "Jej talia używa Tańca Deszczu -"
 	line "Mocy Pokémon Blastoise'a."
 	line "Pozwala jej to na ciągłe dorzucanie"
@@ -121,7 +121,7 @@ Text040e: ; 409c6 (10:49c6)
 	done
 
 Text040f: ; 40a15 (10:4a15)
-	line "To ja, Doktor Mason."
+	text "To ja, Doktor Mason."
 	line "Jak się masz, <RAMNAME>?"
 	line "Muszę Ci coś powiedziec o Talii"
 	line "Bartka - Mistrza Klubu Nauki."
@@ -146,7 +146,7 @@ Text0410: ; 40bea (10:4bea)
 	done
 
 Text0411: ; 40c2e (10:4c2e)
-	line "To ja, Doktor Mason."
+	text "To ja, Doktor Mason."
 	line "Masz już dużo kart?"
 	line "Mam dla Ciebie ciekawostkę o Talii"
 	line "Kamila - Mistrza Klubu Ognia."
@@ -171,7 +171,7 @@ Text0412: ; 40dc1 (10:4dc1)
 	done
 
 Text0413: ; 40e4c (10:4e4c)
-	line "To ja, Doktor Mason."
+	text "To ja, Doktor Mason."
 	line "Wygląda na to, że masz już"
 	line "sporo medali! Może zbudujesz"
 	line "swoją własną Talię?"
@@ -256,7 +256,7 @@ Text0416: ; 413f1 (10:53f1)
 	done
 
 Text0417: ; 415cf (10:55cf)
-	line "To ja, Doktor Mason!"
+	text "To ja, Doktor Mason!"
 	line "Jeszcze tylko dwóch Arcymistrzów!"
 	line "Arcymistrz Jacek używa Legendarnego"
 	line "Articuno. Jego Zmrożenie może"
@@ -274,7 +274,7 @@ Text0417: ; 415cf (10:55cf)
 	done
 
 Text0418: ; 4174c (10:574c)
-	line "To ja, Doktor Mason."
+	text "To ja, Doktor Mason."
 	line "To już ostatni pojedynek!"
 	line "Będziesz walczyć z Wiktorem,"
 	line "Liderem Arcymistrzów."
@@ -477,7 +477,7 @@ Text0435: ; 422f6 (10:62f6)
 
 Text0436: ; 4230a (10:630a)
 	text "Dobrze, zagrajmy z 3 Nagrodami."
-	text "Do dzieła!"
+	line "Do dzieła!"
 	done
 
 Text0437: ; 42342 (10:6342)
@@ -531,7 +531,7 @@ Text043e: ; 425b8 (10:65b8)
 	done
 
 Text043f: ; 425d6 (10:65d6)
-	text "Wyzwać Joshuę na pojedynek?"
+	text "Wyzwać Jakuba na pojedynek?"
 	done
 
 Text0440: ; 425f6 (10:65f6)
@@ -590,7 +590,7 @@ Text0449: ; 42877 (10:6877)
 	text "Nie myśl sobie, że wygrana ze mną"
 	line "to jakiś wielki wyczyn."
 	line "Na pewno nie dasz rady"
-	line "pokonać Anię, Mistrzyni Klubu."
+	line "pokonać Ani, Mistrzyni Klubu."
 	done
 
 Text044a: ; 428dd (10:68dd)
