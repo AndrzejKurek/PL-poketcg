@@ -2365,11 +2365,6 @@ AIDecide_ProfessorOak:
 	add $0a
 	ld [wce06], a
 
-; this part seems buggy
-; the AI loops through all the cards in hand and checks
-; if any of them is not a Pokemon card and has Basic stage.
-; it seems like the intention was that if there was
-; any Basic Pokemon still in hand, the AI would add to the score.
 .check_hand
 	call CreateHandCardList
 	ld hl, wDuelTempList
@@ -2381,7 +2376,7 @@ AIDecide_ProfessorOak:
 	call LoadCardDataToBuffer1_FromDeckIndex
 	ld a, [wLoadedCard1Type]
 	cp TYPE_ENERGY
-	jr c, .loop_hand ; bug, should be jr nc
+	jr nc, .loop_hand
 
 	ld a, [wLoadedCard1Stage]
 	or a
@@ -3279,14 +3274,11 @@ AIDecide_EnergySearch:
 	scf
 	ret
 
-; this subroutine has a bug.
-; it was supposed to use the .CheckUsefulGrassEnergy subroutine
-; but uses .CheckUsefulFireOrLightningEnergy instead.
 .wonders_of_science
 	ld a, CARD_LOCATION_DECK
 	call FindBasicEnergyCardsInLocation
 	jr c, .no_carry
-	call .CheckUsefulFireOrLightningEnergy
+	call .CheckUsefulGrassEnergy
 	jr c, .no_carry
 	scf
 	ret
@@ -3505,18 +3497,14 @@ AIDecide_Pokedex:
 	ret
 
 .pick_cards
-; the following comparison is disregarded
-; the Wonders of Science deck was probably intended
-; to use PickPokedexCards_Unreferenced instead
 	ld a, [wOpponentDeckID]
 	cp WONDERS_OF_SCIENCE_DECK_ID
-	jp PickPokedexCards ; bug, should be jp nz
+	jp nz, PickPokedexCards
+	; fallthrough
 
 ; picks order of the cards in deck from the effects of Pokedex.
 ; prioritizes Pokemon cards, then Trainer cards, then energy cards.
 ; stores the resulting order in wce1a.
-PickPokedexCards_Unreferenced:
-; unreferenced
 	xor a
 	ld [wAIPokedexCounter], a ; reset counter
 
@@ -4635,22 +4623,14 @@ AIDecide_Revive:
 	ld b, a
 	call LoadCardDataToBuffer1_FromDeckIndex
 
-; these checks have a bug.
-; it works fine for Hitmonchan and Hitmonlee,
-; but in case it's a Tauros card, the routine will fallthrough
-; into the Kangaskhan check. since it will never be equal to Kangaskhan,
-; it will fallthrough into the set carry branch.
-; in case it's a Kangaskhan card, the check will fail in the Tauros check
-; and jump back into the loop. so just by accident the Tauros check works,
-; but Kangaskhan will never be correctly checked because of this.
 	cp HITMONCHAN
 	jr z, .set_carry
 	cp HITMONLEE
 	jr z, .set_carry
 	cp TAUROS
-	jr nz, .loop_discard_pile ; bug, these two lines should be swapped
+	jr z, .set_carry
 	cp KANGASKHAN
-	jr z, .set_carry ; bug, these two lines should be swapped
+	jr nz, .loop_discard_pile
 
 .set_carry
 	ld a, b
@@ -5847,7 +5827,7 @@ AIDecide_PokemonTrader_PowerGenerator:
 	ld b, PIKACHU_LV12
 	ld a, RAICHU_LV40
 	call LookForCardIDInDeck_GivenCardIDInHandAndPlayArea
-	jr c, .find_duplicates
+	jp c, .find_duplicates
 	ld a, PIKACHU_LV14
 	ld b, RAICHU_LV40
 	call LookForCardIDInDeck_GivenCardIDInHand
@@ -5904,14 +5884,7 @@ AIDecide_PokemonTrader_PowerGenerator:
 	ld b, MAGNETON_LV28
 	call LookForCardIDInDeck_GivenCardIDInHand
 	jr c, .find_duplicates
-	; bug, missing jr .no_carry
-
-; since this last check falls through regardless of result,
-; register a might hold an invalid deck index,
-; which might lead to hilarious results like Brandon
-; trading a Pikachu with a Grass Energy from the deck.
-; however, since it's deep in a tower of conditionals,
-; reaching here is extremely unlikely.
+	jr .no_carry
 
 ; a card in deck was found to look for,
 ; check if there are duplicates in hand to trade with.
@@ -5923,6 +5896,8 @@ AIDecide_PokemonTrader_PowerGenerator:
 	ret
 .set_carry
 	scf
+	; fallthrough
+.no_carry
 	ret
 
 AIDecide_PokemonTrader_FlowerGarden:
