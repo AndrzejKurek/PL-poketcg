@@ -949,6 +949,7 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer MysteryBoosterText                                 ; 0x03aa
 	textpointer LaboratoryBoosterText                              ; 0x03ab
 	textpointer DrMasonNPCName                                     ; 0x03ac
+	textpointer RonaldNPCTitle
 	textpointer RonaldNPCName                                      ; 0x03ad
 	textpointer IshiharaNPCName                                    ; 0x03ae
 	textpointer ImakuniNPCName                                     ; 0x03af

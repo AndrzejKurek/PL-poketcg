@@ -1625,6 +1625,10 @@ DrMasonNPCName: ; 3f66f (f:766f)
 	text "Doktor Mason"
 	done
 
+RonaldNPCTitle: ; 3f5ca (f:75ca)
+	text "Rywal"
+	done
+	
 RonaldNPCName: ; 3f67a (f:767a)
 	text "Marcin"
 	done
@@ -1650,7 +1654,7 @@ TechNPCName: ; 3f6a2 (f:76a2)
 	done
 
 ClerkNPCName2: ; 3f6a8 (f:76a8)
-	text "Pracownik"
+	text "Obsługa"
 	done
 
 ChrisNPCName: ; 3f6af (f:76af)
