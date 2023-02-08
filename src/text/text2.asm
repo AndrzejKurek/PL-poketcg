@@ -491,8 +491,8 @@ CardPeekWasUsedOnText: ; 39346 (e:5346)
 	done
 
 PokemonAndAllAttachedCardsReturnedToHandText: ; 3935d (e:535d)
-	text "<RAMTEXT> i wszystkie dołączone"
-	line "karty zwrócone na Rękę."
+	text "<RAMTEXT> i wszystkie"
+	line "dołączone karty zwrócone na Rękę."
 	done
 
 WasChosenForTheEffectOfAmnesiaText: ; 39392 (e:5392)
