@@ -328,7 +328,7 @@ Text055a: ; 48eb8 (12:4eb8)
 	done
 
 Text055b: ; 48f10 (12:4f10)
-	text "To było naprawdę niezłe, <RAMNAME>."
+	text "To było imponujące, <RAMNAME>."
 	line "Proszę, weź moją kartę."
 	done
 
