@@ -10,7 +10,7 @@ Text0524: ; 48000 (12:4000)
 
 Text0525: ; 480ef (12:40ef)
 	text "Nie przyjmujemy zgłoszeń z tej"
-	line "strony. Udaj się do recepcji"
+	line "strony. Udaj się do mojej koleżanki"
 	line "po lewej stronie."
 	done
 
@@ -98,7 +98,8 @@ Text0533: ; 485a2 (12:45a2)
 	done
 
 Text0534: ; 485c6 (12:45c6)
-	text "<RAMNAME> jest nowym pretendentem!"
+	text "<RAMNAME> jest"
+	line "nowym pretendentem!"
 	done
 
 Text0535: ; 485e0 (12:45e0)
@@ -132,7 +133,8 @@ Text0539: ; 486fc (12:46fc)
 	text "Jaka szkoda!"
 	line "Nie udało się pokonać ostatniego"
 	line "przeciwnika! Było blisko, ale"
-	line "<RAMNAME> przegrywa trzecią walkę!"
+	line "<RAMNAME> przegrywa"
+	line "trzecią walkę!"
 	done
 
 Text053a: ; 4876b (12:476b)
@@ -204,11 +206,12 @@ Text0544: ; 489b6 (12:49b6)
 	done
 
 Text0545: ; 489de (12:49de)
-	text "Czy wasze talie są gotowe?"
+	text "Czy uczestnicy potrzbują chwili"
+	line "na przygotowanie Talii?"
 	done
 
 Text0546: ; 489f5 (12:49f5)
-	text "Przygotować talię?"
+	text "Przygotować Talię?"
 	done
 
 Text0547: ; 48a09 (12:4a09)

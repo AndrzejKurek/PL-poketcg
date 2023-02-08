@@ -231,8 +231,8 @@ WeaknessMoreDamage2Text: ; 3662f (d:662f)
 	done
 
 ResistanceNoDamageText: ; 36655 (d:6655)
-	text "<RAMTEXT> nie otrzymuje"
-	line "obrażeń dzięki odporności."
+	text "<RAMTEXT> nie"
+	line "otrzymuje obrażeń dzięki odporności."
 	done
 
 AttackDamageText: ; 36682 (d:6682)
@@ -432,12 +432,12 @@ PokemonEvolvedIntoPokemonText: ; 36ab7 (d:6ab7)
 	done
 
 PlacedOnTheBenchText: ; 36aca (d:6aca)
-	text "Umieszczono ”<RAMTEXT>”"
+	text "Położono ”<RAMTEXT>”"
 	line "na ławce."
 	done
 
 PlacedInTheArenaText: ; 36ae2 (d:6ae2)
-	text "Umieszczono ”<RAMTEXT>”"
+	text "Położono ”<RAMTEXT>”"
 	line "na arenie."
 	done
 
