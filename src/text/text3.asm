@@ -265,7 +265,7 @@ ElectricShockText: ; 3c5e6 (f:45e6)
 	done
 
 ZappingSelfdestructText: ; 3c5f6 (f:45f6)
-	text "Prądowa Autodestrukcja"
+	text "Prądowa Destrukcja"
 	done
 
 InsectCollectionText: ; 3c60c (f:460c)

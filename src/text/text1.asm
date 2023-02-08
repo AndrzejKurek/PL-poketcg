@@ -824,12 +824,12 @@ NoPokemonWithDamageCountersText: ; 373df (d:73df)
 	done
 
 NoDamageCountersText: ; 3740b (d:740b)
-	text "Nie ma liczników obrażeń."
+	text "Brak liczników obrażeń."
 	done
 
 NoEnergyAttachedToOpponentsActiveText: ; 3742a (d:742a)
-	text "Nie ma kart Energii dołączonych"
-	line "do aktywnego Pokémona przeciwnika."
+	text "Aktywny Pokémon przeciwnika nie ma"
+	line "dołączonych Kart Energii."
 	done
 
 ThereAreNoEnergyCardsInDiscardPileText: ; 3746a (d:746a)
@@ -838,12 +838,12 @@ ThereAreNoEnergyCardsInDiscardPileText: ; 3746a (d:746a)
 	done
 
 ThereAreNoBasicEnergyCardsInDiscardPileText: ; 3749e (d:749e)
-	text "Nie ma podstawowych Kart Energii"
-	line "na stosie kart odrzuconych."
+	text "Na stosie kart odrzuconych"
+	line "nie ma podstawowych Kart Energii."
 	done
 
 NoCardsLeftInTheDeckText: ; 374d4 (d:74d4)
-	text "Nie ma więcej kart w talii."
+	text "W Talii zabrakło kart!"
 	done
 
 NoSpaceOnTheBenchText: ; 374fa (d:74fa)
@@ -871,7 +871,7 @@ NotEnoughCardsInHandText: ; 375bc (d:75bc)
 	done
 
 EffectNoPokemonOnTheBenchText: ; 375d7 (d:75d7)
-	text "Nie ma Pokémonów na ławce."
+	text "Na ławce nie ma Pokémonów."
 	done
 
 ThereAreNoPokemonInDiscardPileText: ; 375f1 (d:75f1)
@@ -900,13 +900,13 @@ ThereAreNoStage1PokemonText: ; 376a9 (d:76a9)
 	done
 
 NoEnergyCardsAttachedToPokemonInYourPlayAreaText: ; 376d9 (d:76d9)
-	text "Nie ma kart Energii dołączonych do"
-	line "twoich Pokémonów w obszarze gry."
+	text "Twoje Pokémony w obszarze gry"
+	line "nie mają dołączonych Kart Energii."
 	done
 
 NoEnergyCardsAttachedToPokemonInOppPlayAreaText: ; 37715 (d:7715)
-	text "Nie ma kart Energii dołączonych do"
-	line "wrogich Pokémonów w obszarze gry."
+	text "Wrogie Pokémony w obszarze gry"
+	line "nie mają dołączonych Kart Energii."
 	done
 
 EnergyCardsRequiredToRetreatText: ; 37758 (d:7758)

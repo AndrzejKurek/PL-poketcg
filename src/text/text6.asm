@@ -231,7 +231,7 @@ Text0549: ; 48a65 (12:4a65)
 
 Text054a: ; 48a90 (12:4a90)
 	text "Gratulacje!"
-	line "Pokonano 3 przeciwników!"
+	line "Trzeci przeciwnik pokonany!"
 	done
 
 Text054b: ; 48abf (12:4abf)
@@ -711,7 +711,7 @@ Text059d: ; 4a079 (12:6079)
 	done
 
 Text059e: ; 4a0ec (12:60ec)
-	line "Kontynuuj swój trening i spróbuj"
+	text "Kontynuuj swój trening i spróbuj"
 	line "ponownie. Do zobaczenia!"
 	done
 

@@ -252,7 +252,6 @@ Text06a9: ; 50cbf (14:4cbf)
 	text "Tak! To było naprawdę gorące!"
 	line "Podziwiam Twoje umiejętności!"
 	line "Proszę, weź to!"
-	text "Rozpalmy później ogień walki!"
 	done
 
 Text06aa: ; 50d24 (14:4d24)
@@ -262,7 +261,6 @@ Text06aa: ; 50d24 (14:4d24)
 Text06ab: ; 50d3f (14:4d3f)
 	text "Wydaje mi się, że moja talia była"
 	line "gorętsza niż twoja!"
-	text "Rozpalmy później ogień walki!"
 	done
 
 Text06ac: ; 50d8b (14:4d8b)
@@ -329,7 +327,7 @@ Text06b7: ; 50fe1 (14:4fe1)
 	done
 
 Text06b8: ; 51012 (14:5012)
-	line "Wróć jeszcze kiedyś powalczyć!"
+	text "Wróć jeszcze kiedyś powalczyć!"
 	line "Powiedzmy razem! ”Pokémony Ognia”!"
 	done
 
@@ -906,10 +904,10 @@ Text0714: ; 52bb4 (14:6bb4)
 	done
 
 Text0715: ; 52bd0 (14:6bd0)
-	text "Oliwia odwiedza teraz"
+	text "Oliwia chciała odwiedzić"
 	line "Ishiharę."
-	line "Może odwiedzisz ją"
-	line "w domu Ishihary?"
+	line "Pewnie jest w jego domu,"
+	line "na północnym zachodzie."
 	done
 
 Text0716: ; 52c1b (14:6c1b)
