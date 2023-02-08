@@ -94,7 +94,7 @@ Text0532: ; 4856a (12:456a)
 	done
 
 Text0533: ; 485a2 (12:45a2)
-	text "Aktualnie, <RAMNAME> wciąż walczy!"
+	text "<RAMTEXT> wciąż walczy!"
 	done
 
 Text0534: ; 485c6 (12:45c6)
