@@ -920,7 +920,7 @@ MasteringText: ; 56c9a (15:6c9a)
 
 ManualCreationText: ; 56cd5 (15:6cd5)
 	text ""
-	line "             Manual Creation"
+	line "            Fizyczne Wykonanie"
 	line ""
 	line ""
 	line "              Haruki Mitani"
