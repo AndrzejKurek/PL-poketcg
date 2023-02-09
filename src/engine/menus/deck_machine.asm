@@ -128,7 +128,7 @@ HandleDeckMissingCardsList:
 	call EnableLCD
 	ret
 
-; prints text in the form "X.<DECK NAME> deck"
+; prints text in the form "X.Talia <DECK NAME>"
 ; where X is the deck index in the list
 .PrintDeckIndexAndName
 	ld a, [wCurDeckName]

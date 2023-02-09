@@ -322,7 +322,15 @@ AppendDeckName:
 	; append deck name starting from after "Talia "
 	pop hl
 	call CopyListFromHLToDEInSRAM
-
+	
+	; change the terminator after deck name to " "
+	ld hl, wDefaultText
+	call GetTextLengthInTiles
+	ld b, $0
+	add hl, bc
+	ld [hl], " "
+	
+	; Terminate at the end of line
 	xor a ; TX_END
 	ld [wDefaultText + DECK_NAME_SIZE + 3], a
 	
