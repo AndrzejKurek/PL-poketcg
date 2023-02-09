@@ -67,7 +67,7 @@ OpenGlossaryScreen:
 	call Set_OBJ_8x8
 	farcall LoadCursorTile
 
-	lb de, 5, 0
+	lb de, 8, 0
 	call InitTextPrinting
 	ldtx hl, PokemonCardGlossaryText
 	call ProcessTextFromID
@@ -127,7 +127,7 @@ OpenGlossaryScreen:
 	xor a
 	ld [wTileMapFill], a
 	call EmptyScreen
-	lb de, 5, 0
+	lb de, 8, 0
 	call InitTextPrinting
 	ldtx hl, PokemonCardGlossaryText
 	call ProcessTextFromID
@@ -199,12 +199,12 @@ MACRO glossary_entry
 ENDM
 
 GlossaryData1:
-	glossary_entry 7, AboutTheDeckText, DeckDescriptionText
-	glossary_entry 5, AboutTheDiscardPileText, DiscardPileDescriptionText
-	glossary_entry 7, AboutTheHandText, HandDescriptionText
-	glossary_entry 6, AboutTheArenaText, ArenaDescriptionText
-	glossary_entry 6, AboutTheBenchText, BenchDescriptionText
-	glossary_entry 4, AboutTheActivePokemonText, ActivePokemonDescriptionText
+	glossary_entry 8, AboutTheDeckText, DeckDescriptionText
+	glossary_entry 4, AboutTheDiscardPileText, DiscardPileDescriptionText
+	glossary_entry 5, AboutTheHandText, HandDescriptionText
+	glossary_entry 7, AboutTheArenaText, ArenaDescriptionText
+	glossary_entry 8, AboutTheBenchText, BenchDescriptionText
+	glossary_entry 5, AboutTheActivePokemonText, ActivePokemonDescriptionText
 	glossary_entry 5, AboutBenchPokemonText, BenchPokemonDescriptionText
 	glossary_entry 7, AboutPrizesText, PrizesDescriptionText
 	glossary_entry 5, AboutDamageCountersText, DamageCountersDescriptionText
@@ -212,7 +212,7 @@ GlossaryData1:
 GlossaryData2:
 	glossary_entry 5, AboutEnergyCardsText, EnergyCardsDescriptionText
 	glossary_entry 5, AboutTrainerCardsText, TrainerCardsDescriptionText
-	glossary_entry 5, AboutBasicPokemonText, BasicPokemonDescriptionText
+	glossary_entry 4, AboutBasicPokemonText, BasicPokemonDescriptionText
 	glossary_entry 5, AboutEvolutionCardsText, EvolutionCardsDescriptionText
 	glossary_entry 6, AboutAttackingText, AttackingDescriptionText
 	glossary_entry 5, AboutPokemonPowerText, PokemonPowerDescriptionText
