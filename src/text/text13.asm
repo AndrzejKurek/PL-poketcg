@@ -266,3 +266,12 @@ Text_Andrzej_05:
 	line "wersji gry były dostępne tylko"
 	line "przez funkcję ”Card Pop”!"
 	done
+
+GameVersionHeader: ; 443d6 (11:43d6)
+	text "Wersja tłumaczenia"
+	done
+
+GameVersionText: ; 443e7 (11:43e7)
+	text "0.9"
+	line "09.02.23"
+	done

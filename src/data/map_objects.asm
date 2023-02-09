@@ -5,6 +5,11 @@
 ; Routine that gets called when you hit A in front of it
 ; Object Name, and Object default Text
 MasonLabObjects: ; 13b04 (3:7b04)
+	db NORTH, 14, 0
+	dw PrintInteractableObjectText
+	tx GameVersionText
+	tx GameVersionHeader
+	
 	db NORTH, 18, 2
 	dw PrintInteractableObjectText
 	tx Text04a0
