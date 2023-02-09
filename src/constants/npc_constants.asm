@@ -187,7 +187,7 @@ DEF NPC_DATA_LENGTH EQU const_value
 	const NPC_LEGENDARY_CARD_BOTTOM_LEFT  ; $6b
 	const NPC_LEGENDARY_CARD_BOTTOM_RIGHT ; $6c
 	const NPC_LEGENDARY_CARD_RIGHT_SPARK  ; $6d
-	const NPC_6E                          ; $6e (unused)
+	const NPC_ANDRZEJ                     ; $6e
 	const NPC_6F                          ; $6f (unused)
 	const NPC_MURRAY2                     ; $70
 	const NPC_RONALD2                     ; $71

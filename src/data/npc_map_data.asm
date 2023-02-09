@@ -15,6 +15,8 @@ MasonLabNPCS: ; 772f (4:1372f)
 	dw NULL
 	db NPC_TECH4, $0a, $16, EAST
 	dw NULL
+	db NPC_ANDRZEJ, $10, $02, SOUTH
+	dw NULL
 	db NPC_TECH5, $06, $04, SOUTH
 	dw Preload_Tech5
 	db $00

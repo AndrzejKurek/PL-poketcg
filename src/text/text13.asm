@@ -228,3 +228,41 @@ KadabraDescription: ; 5ff5b (17:7f5b)
 	line "zdolne wywoływać bóle głowy wśród"
 	line "osób w bezpośrednim otoczeniu."
 	done
+
+Text_Andrzej_01:
+	text "Hej! Jestem tłumaczem polskiej"
+	line "wersji tej gry!"
+	line "Jeśli znajdziesz jakiś błąd, napisz"
+	line "maila na andrzejku<CONFUSED>gmail.com!"
+	line "Mam nadzieję, że gra Ci się spodoba!"
+	line "Wróć do mnie, jak zdobędziesz"
+	line "trzy Medale Mistrzów."
+	done
+
+Text_Andrzej_02:
+	text "O! Masz już trzy Medale Mistrzów!"
+	line "Gratulacje! Mam dla Ciebie drobiazg!"
+	done	
+	
+Text_Andrzej_03:
+	text "Jeśli znajdziesz jakiś błąd, napisz"
+	line "maila na andrzejku<CONFUSED>gmail.com!"
+	line "Wróć do mnie, jak zdobędziesz"
+	line "Legendarne Karty Pokémon!"
+	done
+
+Text_Andrzej_04:
+	text "Wow! Masz Legendarne Karty Pokémon!"
+	line "Gratuluję! Oto drugi prezent!"
+	done
+
+Text_Andrzej_05:
+	text "Gratuluję zdobycia"
+	line "Legendarnych Kart Pokémon!"
+	line "Jeśli znajdziesz jakiś błąd, napisz"
+	line "maila na andrzejku<CONFUSED>gmail.com!"
+	line "Nie mam już więcej prezentów."
+	line "Te, które Ci dałem, w oryginalnej"
+	line "wersji gry były dostępne tylko"
+	line "przez funkcję ”Card Pop”!"
+	done

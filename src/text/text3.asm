@@ -1853,6 +1853,10 @@ ManiaNPCName: ; 3f80d (f:780d)
 	text "Koleś"
 	done
 
+AndrzejNPCName: ; 3f80d (f:780d)
+	text "Andrzej"
+	done
+	
 GrannyNPCName: ; 3f814 (f:7814)
 	text "Babcia"
 	done

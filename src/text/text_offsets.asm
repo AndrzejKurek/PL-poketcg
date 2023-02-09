@@ -1006,6 +1006,7 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer HoodNPCName                                        ; 0x03e2
 	textpointer ChampNPCName                                       ; 0x03e3
 	textpointer ManiaNPCName                                       ; 0x03e4
+	textpointer AndrzejNPCName                                     ; 0x03e4
 	textpointer GrannyNPCName                                      ; 0x03e5
 	textpointer GuideNPCName                                       ; 0x03e6
 	textpointer AaronNPCName                                       ; 0x03e7
@@ -2698,7 +2699,6 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer KadabraName                                        ; 0x0a7e
 	textpointer KadabrasRecoverDescription                         ; 0x0a7f
 	textpointer SuperPsiName                                       ; 0x0a80
-	textpointer KadabraDescription                                 ; 0x0a81
 	textpointer AlakazamName                                       ; 0x0a82
 	textpointer DamageSwapName                                     ; 0x0a83
 	textpointer DamageSwapDescription                              ; 0x0a84
@@ -2999,3 +2999,9 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer GamblerDescription                                 ; 0x0bab
 	textpointer RecycleName                                        ; 0x0bac
 	textpointer RecycleDescription                                 ; 0x0bad
+	textpointer KadabraDescription                                 
+	textpointer Text_Andrzej_01
+	textpointer Text_Andrzej_02
+	textpointer Text_Andrzej_03
+	textpointer Text_Andrzej_04
+	textpointer Text_Andrzej_05

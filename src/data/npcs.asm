@@ -112,7 +112,7 @@ NPCHeaderPointers:
 	dw LegendaryCardBottomLeftNPCHeader
 	dw LegendaryCardBottomRightNPCHeader
 	dw LegendaryCardRightSparkNPCHeader
-	dw DummyNPCHeader
+	dw AndrzejNPCHeader
 	dw DummyNPCHeader
 	dw Murray2NPCHeader
 	dw Ronald2NPCHeader
@@ -1514,6 +1514,19 @@ LegendaryCardRightSparkNPCHeader:
 	db NPC_FLAG_DIRECTIONLESS | NPC_FLAG_UNKNOWN
 	dw Script_LegendaryCardRightSpark
 
+AndrzejNPCHeader:
+	db NPC_ANDRZEJ
+	db SPRITE_OW_MANIA
+	db SPRITE_ANIM_LIGHT_NPC_UP
+	db SPRITE_ANIM_WHITE_NPC_UP
+	db $00
+	dw Script_Andrzej
+	tx AndrzejNPCName
+	db $00
+	db $00
+	db $00
+	db $00
+	
 DummyNPCHeader:
 	db $00
 	db SPRITE_OW_PLAYER

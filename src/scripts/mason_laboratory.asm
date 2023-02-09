@@ -466,6 +466,37 @@ Script_AfterPracticeDuel:
 	save_game 0
 	quit_script_fully
 
+Script_Andrzej:
+	start_script
+	jump_if_event_greater_or_equal EVENT_MEDAL_COUNT, 3, .give_ven
+	print_npc_text Text_Andrzej_01
+	quit_script_fully
+
+.give_ven:
+    jump_if_event_greater_or_equal EVENT_ANDRZEJ_STATE, ANDRZEJ_VEN_RECEIVED, .second_greeting
+    print_npc_text Text_Andrzej_02
+    give_card VENUSAUR_LV64
+	show_card_received_screen VENUSAUR_LV64
+	set_event EVENT_ANDRZEJ_STATE, ANDRZEJ_VEN_RECEIVED
+	quit_script_fully
+	
+.second_greeting:
+    jump_if_event_true EVENT_RECEIVED_LEGENDARY_CARDS, .give_mew
+    print_npc_text Text_Andrzej_03
+	quit_script_fully
+	
+.give_mew:
+    jump_if_event_greater_or_equal EVENT_ANDRZEJ_STATE, ANDRZEJ_MEW_RECEIVED, .third_greeting
+    print_npc_text Text_Andrzej_04
+	give_card MEW_LV15
+	show_card_received_screen MEW_LV15
+	max_out_event_value EVENT_ANDRZEJ_STATE
+    quit_script_fully
+	
+.third_greeting:
+    print_npc_text Text_Andrzej_05
+    quit_script_fully
+
 NPCMovement_d880:
 	db EAST
 	db $ff
