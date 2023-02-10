@@ -1021,7 +1021,7 @@ PlayersScoreText: ; 57075 (15:7075)
 	done
 
 Defeated5OpponentsXTimesText: ; 57080 (15:7080)
-	text "Pokonano 5 wrogów         raz(y)."
+	text "Pokonano 5 wrogów        raz(y)."
 	done
 
 PresentConsecutiveWinsText: ; 570a4 (15:70a4)
@@ -1030,7 +1030,7 @@ PresentConsecutiveWinsText: ; 570a4 (15:70a4)
 
 MaximumConsecutiveWinsText: ; 570be (15:70be)
 	text "Najwięcej wygranych z rzędu"
-	line "    [ <RAMTEXT>  ]"
+	line "  [ <RAMTEXT> ]"
 	done
 
 WinsText: ; 570e3 (15:70e3)
@@ -1099,8 +1099,7 @@ Defeated5OpponentsText: ; 5728e (15:728e)
 
 SuccessfullyDefeated5OpponentsText: ; 572ba (15:72ba)
 	text "<RAMNAME> pokonuje"
-	line "5 przeciwników"
-	text "<RAMNUM> raz(y)!!!"
+	line "5 przeciwników <RAMNUM> raz(y)!"
 	done
 
 ConsecutiveWinRecordIncreasedText: ; 572ee (15:72ee)

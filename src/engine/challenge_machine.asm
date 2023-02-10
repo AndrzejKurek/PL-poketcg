@@ -434,22 +434,22 @@ ChallengeMachine_PlayerScoreLabels:
 	db 1, 8
 	tx MaximumConsecutiveWinsText
 
-	db 17, 6
+	db 14, 6
 	tx WinsText
 
-	db 16, 10
+	db 14, 10
 	tx WinsText
 	db $ff
 
 ChallengeMachine_PlayerScoreValues:
 	dw sTotalChallengeMachineWins
-	db 12, 4
+	db 11, 4
 
 	dw sPresentConsecutiveWins
-	db 14, 6
+	db 10, 6
 
 	dw sMaximumConsecutiveWins
-	db 13, 10
+	db 10, 10
 
 	dw NULL
 
