@@ -960,6 +960,29 @@ ResetDevolvedCardStatus: ; 2c45d (b:445d)
 	ld [hl], $00
 	ret
 
+LoadCardWord2:
+    cp 1
+	jr z, .cards_one
+	cp 5
+	jr c, .cards_less_than_five
+	jr .cards_five_or_more
+	
+.cards_one
+	ldtx hl, Cards1Name
+	jr .cards_decided
+	
+.cards_less_than_five
+	ldtx hl, Cards2Name
+	jr .cards_decided
+	
+.cards_five_or_more
+	ldtx hl, Cards5Name
+	; fallthrough
+
+.cards_decided
+	call LoadTxRam2
+	ret
+	
 ; prompts the Player with a Yes/No question
 ; whether to quit the screen, even though
 ; they can select more cards from list.
@@ -979,7 +1002,7 @@ AskWhetherToQuitSelectingCards: ; 2c476 (b:4476)
 ; Decide on card word declination.
 	pop hl
 	ld a, l
-    call LoadCardWord
+    call LoadCardWord2
 
 	ldtx hl, YouCanSelectMoreCardsQuitText
 	call YesOrNoMenuWithText
@@ -3821,7 +3844,7 @@ Wildfire_DiscardDeckEffect: ; 2d4f4 (b:54f4)
 	push hl
 	; Decide on card word declination.
 	ld a, l
-    call LoadCardWord
+    call LoadCardWord2
 	pop hl
 	
 	call LoadTxRam3
