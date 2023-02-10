@@ -185,9 +185,9 @@ MaintenanceName: ; 647da (19:47da)
 	done
 
 MaintenanceDescription: ; 647e7 (19:47e7)
-	text "Wtasuj 2 inne karty z ręki w talię"
-	line "aby wziąć 1 kartę z wierzchu talii"
-	line "na rękę."
+	text "Wtasuj 2 inne karty z ręki w Talię,"
+	line "przetasuj ją i weź 1 kartę"
+	line "z wierzchu Talii na rękę."
 	done
 
 PokemonFluteName: ; 6483c (19:483c)

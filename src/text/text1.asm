@@ -793,7 +793,7 @@ TheDiscardPileHasNoCardsText: ; 3735b (d:735b)
 	done
 
 PlayerDiscardPileText: ; 3737b (d:737b)
-	text "Stos kart odrzuconych gracza"
+	text "Stos kart odrzuconych"
 	done
 
 DuelistHandText: ; 37392 (d:7392)

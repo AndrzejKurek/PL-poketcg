@@ -435,7 +435,7 @@ Text04d1: ; 45ad5 (11:5ad5)
 Text04d2: ; 45ae4 (11:5ae4)
 	text "Charakterystyka Pokémonów Wody:"
 	line "Silne przeciwko Pokémonom Ognia."
-	line "Słabe przeciwko Pokémonom Wodnym,"
+	line "Słabe przeciwko Pokémonom Trawy,"
 	line "lub Elektrycznym."
 	done
 

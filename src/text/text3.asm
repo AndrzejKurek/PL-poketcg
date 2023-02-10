@@ -1318,8 +1318,9 @@ StartANewGameText: ; 3ed14 (f:6d14)
 	done
 
 TheGameWillContinueFromThePointInTheDuelText: ; 3ed28 (f:6d28)
-	text "Gra będzie kontynuowana od momentu,"
-	line "w którym wyłączono grę podczas walki"
+	text "Gra będzie kontynuowana"
+	line "od momentu, w którym"
+	line "wyłączono grę podczas walki."
 	done
 
 SavedDataAlreadyExistsText: ; 3ed7f (f:6d7f)
@@ -1339,13 +1340,13 @@ AllDataWasDeletedText: ; 3edf4 (f:6df4)
 DataExistsWhenPowerWasTurnedOFFDuringDuelText: ; 3ee0b (f:6e0b)
     text "Istnieje zapis gry stworzony podczas"
 	line "walki (przez wyłączenie gry)."
-	line "Wybierz KONTYNUUJ WALKę z głównego"
+	line "Wybierz ”KONTYNUUJ WALKę” z głównego"
 	line "menu aby dokończyć zapisaną walkę."
 	line "Jeżeli będziesz teraz kontynuować,"
 	line "zapisana walka zostanie odrzucona,"
-	line "a wczytaja będzie stan z ostatniego"
+	line "a wczytany będzie stan z ostatniego"
 	line "zapisu z pamiętnika."
-	line "Czy chcesz"
+	line "Czy chcesz..."
 	done
 
 ContinueFromDiaryText: ; 3ef50 (f:6f50)
