@@ -182,7 +182,7 @@ MegaPunchName: ; 58584 (16:4584)
 	done
 
 DrillName: ; 58590 (16:4590)
-	text "Wiertło"
+	text "Wiercący"
 	done
 
 NidoqueenDescription: ; 58597 (16:4597)
@@ -616,7 +616,7 @@ ExeggcuteName: ; 597b1 (16:57b1)
 	done
 
 HypnosisName: ; 597bc (16:57bc)
-	text "Hipnoza"
+	text "Hipnotyzujący"
 	done
 
 ExeggcutesLeechSeedDescription: ; 597c6 (16:57c6)
@@ -944,8 +944,8 @@ DancingEmbersDescription: ; 5a441 (16:6441)
 
 NinetalesLv35Description: ; 5a486 (16:6486)
 	text "Zgodnie z pradawną legendą,"
-	line "9 szlachetnych herosów zjednoczyło się"
-	line "i odrodziło jako ten Pokémon."
+	line "9 szlachetnych herosów zjednoczyło"
+	line "się i odrodziło jako ten Pokémon."
 	done
 
 GrowlitheName: ; 5a4dd (16:64dd)

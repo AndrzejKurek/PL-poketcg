@@ -5482,7 +5482,7 @@ ElectrodeLv35Card: ; 3280e (c:680e)
 	db 0
 	db 35 ; level
 	db 1, 20 ; length
-	dw 666 * 10 ; weight
+	dw 666 ; weight
 	tx ElectrodeLv35Description ; description
 	db 0
 
@@ -5533,7 +5533,7 @@ ElectrodeLv42Card: ; 3284f (c:684f)
 	db 0
 	db 42 ; level
 	db 1, 20 ; length
-	dw 666 * 10 ; weight
+	dw 666 ; weight
 	tx ElectrodeLv42Description ; description
 	db 0
 

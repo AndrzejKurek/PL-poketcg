@@ -326,7 +326,7 @@ BlizzardDescription: ; 5cb77 (17:4b77)
 	done
 
 FreezeName: ; 5cc5b (17:4c5b)
-	text "Mróz"
+	text "Mroźny"
 	done
 
 ArticunoLv35Description: ; 5cc63 (17:4c63)
@@ -453,9 +453,9 @@ FlyDescription: ; 5d1b3 (17:51b3)
 	done
 
 FlyingPikachuDescription: ; 5d26f (17:526f)
-	text "Ucząc się latać, ten Pikachu"
-	line "przezwyciężył swoją słabość do"
-	line "Pokémonów walki."
+	text "Ten Pikachu przezwyciężył swoją"
+	line "słabość do Pokémonów walki gdy"
+	line "nauczył się latać."
 	done
 
 SurfingPikachuName: ; 5d2bb (17:52bb)
@@ -1290,7 +1290,7 @@ LeerDescription: ; 5f7ec (17:77ec)
 	done
 
 SpikeName: ; 5f889 (17:7889)
-	text "Kolec"
+	text "Nosorożec"
 	done
 
 RhyhornDescription: ; 5f890 (17:7890)

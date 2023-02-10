@@ -68,7 +68,7 @@ SlowpokesAmnesiaDescription: ; 60155 (18:4155)
 	done
 
 DopeyName: ; 601c8 (18:41c8)
-	text "Ogłupiony"
+	text "Głuptas"
 	done
 
 SlowpokeLv9Description: ; 601cf (18:41cf)
@@ -434,7 +434,7 @@ NeutralizingShieldDescription: ; 6114c (18:514c)
 	done
 
 NewSpeciesName: ; 611fa (18:51fa)
-	text "Nowy Gatunek"
+	text "Nowego Gatunku"
 	done
 
 MewLv8Description: ; 61207 (18:5207)
@@ -506,7 +506,7 @@ PidgeottosMirrorMoveDescription: ; 614d0 (18:54d0)
 	text "Jeśli Pidgeotto był zaatakowany"
 	line "w ostatniej turze, ten atak zada"
 	line "tyle samo obrażeń wrogiemu"
-	line "Pokémonowi."
+	line "Pokémonowi i nałoży te same efekty."
 	done
 
 BirdName: ; 61540 (18:5540)
@@ -619,7 +619,7 @@ SpearowsMirrorMoveDescription: ; 61a27 (18:5a27)
 	text "Jeśli Spearow był zaatakowany"
 	line "w ostatniej turze, ten atak zada"
 	line "tyle samo obrażeń wrogiemu"
-	line "Pokémonowi."
+	line "Pokémonowi i nałoży te same efekty."
 	done
 
 SpearowDescription: ; 61a93 (18:5a93)
@@ -644,7 +644,7 @@ DrillPeckName: ; 61b72 (18:5b72)
 	done
 
 BeakName: ; 61b7e (18:5b7e)
-	text "Dziób"
+	text "Dziobiący"
 	done
 
 FearowDescription: ; 61b84 (18:5b84)
