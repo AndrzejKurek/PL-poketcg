@@ -2671,6 +2671,9 @@ PrintCurDeckNumberAndName:
 	ret
 
 .blank_deck_name
+	ld hl, wCurDeckName
+	ld de, wDefaultText
+	call CopyListFromHLToDE
 	lb de, 2, 2
 	ld hl, wDefaultText
 	call InitTextPrinting
