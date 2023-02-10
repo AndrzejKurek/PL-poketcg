@@ -1009,8 +1009,9 @@ Text0671: ; 4fa85 (13:7a85)
 
 Text0672: ; 4faac (13:7aac)
 	text "Trochę Ci jeszcze brakuje do mojego"
-	line "poziomu! Możemy walczyć"
-	line "jeszcze raz jeśli chcesz."
+	line "poziomu!"
+	line "Możemy walczyć jeszcze raz,"
+	line "jeśli tego chcesz."
 	done
 
 Text0673: ; 4faf9 (13:7af9)
@@ -1082,7 +1083,7 @@ Text067d: ; 4fd8e (13:7d8e)
 
 Text067e: ; 4fe6c (13:7e6c)
 	text "Och, to znowu Ty!"
-	line "Zaczynamy kolejny pojedynek?"
+	line "Masz ochotę na pojedynek?"
 	done
 
 Text067f: ; 4fe9b (13:7e9b)

@@ -214,7 +214,7 @@ Text0415: ; 4123d (10:523d)
 	text "<RAMNAME>,"
 	line "To ja, Doktor Mason."
 	line "A więc będziesz walczyć"
-	line "z Arcymistrzem..."
+	line "z Arcymistrzami..."
 	line "Arcymistrzyni Marta używa"
 	line "Legendarnego Moltresa, więc jej"
 	line "talia będzie się składać z Pokémonów"
@@ -957,8 +957,8 @@ Text047f: ; 43c0c (10:7c0c)
 	done
 
 Text0480: ; 43ca3 (10:7ca3)
-	text "Weź także to. To Booster"
-	line "Paczka ”Laboratorium”."
+	text "Weź także to. To dwie"
+	line "Booster Paczki ”Laboratorium”."
 	done
 
 Text0481: ; 43cda (10:7cda)

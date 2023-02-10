@@ -247,7 +247,7 @@ Text0763: ; 54dae (15:4dae)
 
 Text0764: ; 54ded (15:4ded)
 	text "Legendarne Karty to zwykła bajka!"
-	line "Nauka to jedyna prawda!"
+	line "Nauka to potęgi klucz!"
 	line "Muszę kontynuować moje badania"
 	line "nad naukowymi Pokémonami!"
 	done
@@ -397,7 +397,7 @@ Text077e: ; 554ac (15:54ac)
 
 Text077f: ; 554e0 (15:54e0)
 	text "Muszę wrócić do Klubu Walki,"
-	line "żeby od nowa zrobić trening!"
+	line "żeby znowu potrenować!"
 	done
 
 Text0780: ; 5551f (15:551f)

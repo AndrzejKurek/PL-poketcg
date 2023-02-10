@@ -466,7 +466,7 @@ Text06cd: ; 51720 (14:5720)
 
 Text06ce: ; 5175f (14:575f)
 	text "Dobrze,"
-	line "do <RAMTEXT>."
+	line "”<RAMTEXT>”."
 	line "Stwórz zapis w pamiętniku"
 	line "przed wymianą."
 	done
@@ -900,7 +900,7 @@ Text0713: ; 52b8d (14:6b8d)
 	done
 
 Text0714: ; 52bb4 (14:6bb4)
-	text "Muszę więcej tranować..."
+	text "Muszę więcej trenować..."
 	done
 
 Text0715: ; 52bd0 (14:6bd0)
@@ -1018,7 +1018,7 @@ Text0725: ; 531a8 (14:71a8)
 	done
 
 Text0726: ; 5320c (14:720c)
-	text "Wielkie dzięki, Ishihara."
+	text "Pewnie!"
 	line "A teraz, jeśli wybaczysz..."
 	done
 

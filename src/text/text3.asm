@@ -42,7 +42,7 @@ DismantledTheDeckText: ; 3c082 (f:4082)
 	done
 
 OKIfFileDeletedText: ; 3c098 (f:4098)
-	text "Usunąć ten plik?"
+	text "Usunąć ten wpis?"
 	done
 
 ReadTheInstructionsText: ; 3c0b5 (f:40b5)
@@ -305,7 +305,7 @@ StrangePowerText: ; 3c68a (f:468a)
 	done
 
 StrangePsyshockText: ; 3c699 (f:4699)
-	text "Tajemniczy Psychoszok"
+	text "Tajemny Psychoszok"
 	done
 
 LovelyNidoranText: ; 3c6ab (f:46ab)
@@ -381,7 +381,7 @@ LegendaryArticunoText: ; 3c7c0 (f:47c0)
 	done
 
 LegendaryDragoniteText: ; 3c7d4 (f:47d4)
-	text "Legendarny Dragonite"
+	text "Mityczny Dragonite"
 	done
 
 MysteriousPokemonText: ; 3c7e9 (f:47e9)

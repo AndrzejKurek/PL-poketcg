@@ -542,8 +542,8 @@ Text057e: ; 49980 (12:5980)
 	done
 
 Text057f: ; 4999c (12:599c) 
-	text "Czy Twoja Talia jest gotowa,"
-	text "<RAMNAME>?"
+	text "Czy potrzebujesz chwili, aby się"
+	line "przygotować, <RAMNAME>?"
 	done
 
 Text0580: ; 499b5 (12:59b5)
@@ -610,7 +610,7 @@ Text058a: ; 49c1c (12:5c1c)
 
 Text058b: ; 49c5f (12:5c5f)
 	text "<RAMNAME>,"
-	line "Czy Twoja Talia jest gotowa?"
+	line "czy chcesz się przygotować do walki?"
 	done
 
 Text058c: ; 49c7f (12:5c7f)
@@ -623,7 +623,7 @@ Text058d: ; 49c96 (12:5c96)
 	done
 
 Text058e: ; 49cbe (12:5cbe)
-	text "Zaczynamy?"
+	text "Spuszczę Ci manto!"
 	line "Walka z 6 Nagrodami!"
 	done
 
@@ -681,8 +681,8 @@ Text0597: ; 49f7e (12:5f7e)
 	done
 
 Text0598: ; 49fb5 (12:5fb5)
-	text "Czy Twoja talia jest gotowa,"
-	text "<RAMNAME>?"
+	text "Czy potrzebujesz chwili, aby się"
+	line "przygotować, <RAMNAME>?"
 	done
 
 Text0599: ; 49fce (12:5fce)
@@ -786,8 +786,8 @@ Text05a8: ; 4a452 (12:6452)
 	done
 
 Text05a9: ; 4a49a (12:649a)
-	text "Czy Twoja Talia jest gotowa,"
-	text "<RAMNAME>?"
+	text "Czy potrzebujesz chwili, aby się"
+	line "przygotować, <RAMNAME>?"
 	done
 
 Text05aa: ; 4a4b3 (12:64b3)
@@ -828,8 +828,9 @@ Text05af: ; 4a65c (12:665c)
 	done
 
 Text05b0: ; 4a67f (12:667f)
-	text "Przykro mi, ale <RAMNAME> przejmie"
-	line "Legendarne Karty Pokémon."
+	text "Przykro mi Marcin, ale"
+	line "<RAMNAME> przejmuje od Ciebie"
+	line "Legendarne Karty Pokémon!"
 	done
 
 Text05b1: ; 4a6ba (12:66ba)
@@ -884,7 +885,7 @@ Text05b9: ; 4a8d2 (12:68d2)
 	line "  Jest Wielkim Mistrzem Kart!"
 	line "  Nasz Mistrz musi pamiętać:"
 	line "  Odziedziczenie nas nie czyni Cię"
-	line "  Mistrzem Kart Pokémon!"
+	line "  najlepszym graczem Kart Pokémon!"
 	line "  Prawdziwy Mistrz Kart Pokémon"
 	line "  potrafi używać kombinacji wielu"
 	line "  różnych kart i ma odwagę, aby"
@@ -893,7 +894,7 @@ Text05b9: ; 4a8d2 (12:68d2)
 	line "  musi kochać grę w Karty Pokémon,"
 	line "  niezależnie od tego, czy wygrywa,"
 	line "  czy przegrywa!"
-	line "Twoja podróż właśnie się zaczyna...”"
+	line "  Twa podróż właśnie się zaczyna...”"
 	done
 
 Text05ba: ; 4aaad (12:6aad)
