@@ -1116,7 +1116,7 @@ Turn2DrMason1PracticeDuelText: ; 3aa6b (e:6a6b)
 	line "znokautowany! Czas na ewolucję!"
 	line "Wybierz Seakinga z ręki i dołącz"
 	line "go do Goldeen aby go ewoluować."
-	line "Jego Pż zwiększy się z 40 do 70."
+	line "Jego Pż zwiększą się z 40 do 70."
 	done
 
 Turn2DrMason2PracticeDuelText: ; 3ab08 (e:6b08)
@@ -1148,7 +1148,7 @@ Turn3DrMason1PracticeDuelText: ; 3ac15 (e:6c15)
 
 Turn3DrMason2PracticeDuelText: ; 3acd7 (e:6cd7)
 	text "Wybierz polecenie ataku."
-	line "Machop'owi zostało 10 Pż, więc"
+	line "Machopowi zostało 10 Pż, więc"
 	line "Atak Rogiem Seakinga będzie"
 	line "wystarczający do znokautowania go."
 	done
@@ -1224,7 +1224,7 @@ Turn7DrMason2PracticeDuelText: ; 3b12a (e:712a)
 	done
 
 Turn8DrMason1PracticeDuelText: ; 3b196 (e:7196)
-	text "Machop'owi zostało tylko 10 Pż."
+	text "Machopowi zostało tylko 10 Pż."
 	line "Czas zakończyć walkę!"
 	line "Zaatakuj Gwiezdnym Zamrożeniem!"
 	line ""
