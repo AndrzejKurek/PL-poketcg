@@ -241,7 +241,7 @@ CreditsSequence: ; 1daef (7:5aef)
 	credits_seq_load_ow_map 48, 0, CHALLENGE_HALL
 	credits_seq_load_npc 18, 6, SOUTH, NPC_RONALD1
 	credits_seq_load_npc 18, 10, SOUTH, NPC_MATTHEW
-	credits_seq_load_npc 12, 8, SOUTH, NPC_PLAYER_CREDITS
+	credits_seq_load_npc 12, 8, SOUTH, NPC_MANIA
 	credits_seq_init_overlay 0, 0, 144, 0
 	credits_seq_draw_rectangle 0, 7
 	credits_seq_print_text 0, 0, TranslationPLText

@@ -230,10 +230,7 @@ KadabraDescription: ; 5ff5b (17:7f5b)
 	done
 
 Text_Andrzej_01:
-	text "Hej! Jestem tłumaczem polskiej"
-	line "wersji tej gry!"
-	line "Jeśli znajdziesz jakiś błąd, napisz"
-	line "maila na andrzejku<CONFUSED>gmail.com!"
+	text "Siema Antek! To ja, wujek Andrzej!"
 	line "Mam nadzieję, że gra Ci się spodoba!"
 	line "Wróć do mnie, jak zdobędziesz"
 	line "trzy Medale Mistrzów."
@@ -245,8 +242,8 @@ Text_Andrzej_02:
 	done	
 	
 Text_Andrzej_03:
-	text "Jeśli znajdziesz jakiś błąd, napisz"
-	line "maila na andrzejku<CONFUSED>gmail.com!"
+	text "Super, że zdobywasz medale!"
+	line ""
 	line "Wróć do mnie, jak zdobędziesz"
 	line "Legendarne Karty Pokémon!"
 	done
@@ -259,12 +256,9 @@ Text_Andrzej_04:
 Text_Andrzej_05:
 	text "Gratuluję zdobycia"
 	line "Legendarnych Kart Pokémon!"
-	line "Jeśli znajdziesz jakiś błąd, napisz"
-	line "maila na andrzejku<CONFUSED>gmail.com!"
-	line "Nie mam już więcej prezentów."
-	line "Te, które Ci dałem, w oryginalnej"
-	line "wersji gry były dostępne tylko"
-	line "przez funkcję ”Card Pop”!"
+	line "Mam dla Ciebie tajne hasło:"
+	line "borsuk. Podaj mi je, a dostaniesz"
+	line "ode mnie niespodziankę!"
 	done
 
 GameVersionHeader: ; 443d6 (11:43d6)
@@ -272,8 +266,8 @@ GameVersionHeader: ; 443d6 (11:43d6)
 	done
 
 GameVersionText: ; 443e7 (11:43e7)
-	text "0.9"
-	line "09.02.23"
+	text "1.0 Antkowa"
+	line "11.02.23"
 	done
 
 TranslationPLText:
