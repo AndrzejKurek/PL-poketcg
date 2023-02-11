@@ -275,3 +275,38 @@ GameVersionText: ; 443e7 (11:43e7)
 	text "0.9"
 	line "09.02.23"
 	done
+
+TranslationPLText:
+	text ""
+	line "          Tłumaczenie/projekt PL"
+	line ""
+	line ""
+	line "              Andrzej Kurek"
+	line "           andrzejku<CONFUSED>gmail.com"
+	done
+	
+PlaytestersPLText:
+	text ""
+	line "            Testerzy wersji PL"
+	line ""
+	line ""
+	line "                 Marcin P"
+	line "                 łukasz K"
+	done
+	
+ThanksToPLText:
+	text ""
+	line ""
+	line ""
+	line ""
+	line ""
+	line "                                      "
+	line "            Big thanks to the"
+	line "                                      "
+	line "                                      "
+	line "    pret Pokémon TCG disassembly team!"
+	line "                                      "
+	line "                                      "
+	line "                                      "
+	line "                                      "
+	done

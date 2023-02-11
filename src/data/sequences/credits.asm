@@ -238,6 +238,35 @@ CreditsSequence: ; 1daef (7:5aef)
 	credits_seq_transform_overlay 0, 0, 144, 0
 	credits_seq_fade_out
 
+	credits_seq_load_ow_map 48, 0, CHALLENGE_HALL
+	credits_seq_load_npc 18, 6, SOUTH, NPC_RONALD1
+	credits_seq_load_npc 18, 10, SOUTH, NPC_MATTHEW
+	credits_seq_load_npc 12, 8, SOUTH, NPC_PLAYER_CREDITS
+	credits_seq_init_overlay 0, 0, 144, 0
+	credits_seq_draw_rectangle 0, 7
+	credits_seq_print_text 0, 0, TranslationPLText
+	credits_seq_fade_in
+	credits_seq_wait 60
+	credits_seq_transform_overlay 0, 24, 144, 0
+	credits_seq_transform_overlay 0, 24, 112, 40
+	credits_seq_wait 225
+	credits_seq_transform_overlay 0, 24, 144, 0
+	credits_seq_transform_overlay 0, 0, 144, 0
+	credits_seq_draw_rectangle 0, 7
+	credits_seq_print_text 0, 0, PlaytestersPLText
+	credits_seq_transform_overlay 0, 24, 144, 0
+	credits_seq_transform_overlay 0, 24, 112, 40
+	credits_seq_wait 225
+	credits_seq_transform_overlay 0, 24, 144, 0
+	credits_seq_transform_overlay 0, 0, 144, 0
+	credits_seq_draw_rectangle 0, 7
+	credits_seq_print_text 0, 0, ThanksToPLText
+	credits_seq_transform_overlay 0, 144, 144, 0
+	credits_seq_wait 225
+	credits_seq_transform_overlay 0, 0, 144, 0
+	credits_seq_wait 60
+	credits_seq_fade_out
+	
 	credits_seq_load_booster 6, 3, SCENE_COLOSSEUM_BOOSTER
 	credits_seq_init_overlay 0, 0, 144, 0
 	credits_seq_draw_rectangle 0, 8

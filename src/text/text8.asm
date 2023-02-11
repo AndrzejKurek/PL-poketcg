@@ -297,7 +297,7 @@ Text06b1: ; 50ea9 (14:4ea9)
 Text06b2: ; 50ec6 (14:4ec6)
 	text "Tak jest! Wygrałem!"
 	line "Byłem dobrze rozgrzany!"
-	text "Powalczmy jeszcze kiedyś!"
+	line "Powalczmy jeszcze kiedyś!"
 	line "Narka!"
 	done
 

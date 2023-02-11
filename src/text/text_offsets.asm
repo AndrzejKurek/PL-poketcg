@@ -3007,3 +3007,6 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer Text_Andrzej_05
 	textpointer GameVersionHeader
 	textpointer GameVersionText
+	textpointer TranslationPLText
+	textpointer PlaytestersPLText
+	textpointer ThanksToPLText

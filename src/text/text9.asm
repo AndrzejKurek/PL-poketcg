@@ -902,14 +902,6 @@ TranslationDraftText: ; 56c5e (15:6c5e)
 	line "               BILL RITCH"
 	done
 
-TranslationPLDraftText:
-	text ""
-	line "          Tłumaczenie/projekt PL"
-	line ""
-	line "              Andrzej Kurek"
-	line "           andrzejku♂gmail.com"
-	done
-	
 MasteringText: ; 56c9a (15:6c9a)
 	text ""
 	line "                Mastering"
@@ -920,7 +912,7 @@ MasteringText: ; 56c9a (15:6c9a)
 
 ManualCreationText: ; 56cd5 (15:6cd5)
 	text ""
-	line "            Fizyczne Wykonanie"
+	line "           Fizyczne Wykonanie"
 	line ""
 	line ""
 	line "              Haruki Mitani"
