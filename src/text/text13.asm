@@ -272,8 +272,8 @@ GameVersionHeader: ; 443d6 (11:43d6)
 	done
 
 GameVersionText: ; 443e7 (11:43e7)
-	text "0.9"
-	line "09.02.23"
+	text "1.0"
+	line "12.02.23"
 	done
 
 TranslationPLText:
@@ -290,8 +290,8 @@ PlaytestersPLText:
 	line "            Testerzy wersji PL"
 	line ""
 	line ""
-	line "                 Marcin P"
-	line "                 łukasz K"
+	line "              Marcin Petschke"
+	line "                  Krzema"
 	done
 	
 ThanksToPLText:
