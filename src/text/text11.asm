@@ -959,7 +959,7 @@ LowKickName: ; 5ea2f (17:6a2f)
 	done
 
 SuperpowerName: ; 5ea39 (17:6a39)
-	text "Supermocny"
+	text "Mocarz"
 	done
 
 MachopDescription: ; 5ea45 (17:6a45)

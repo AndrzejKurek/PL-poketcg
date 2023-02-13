@@ -861,9 +861,8 @@ CantEvolvePokemonInSameTurnItsPlacedText: ; 37546 (d:7546)
 	done
 
 NotAffectedByPoisonSleepParalysisOrConfusionText: ; 37583 (d:7583)
-	text "Pokémon nie jest otruty, nie śpi,"
-	line "nie jest sparaliżowany ani"
-	line "zdezorientowany."
+	text "Brak otrucia, snu, paraliżu, lub"
+	line "dezorientacji na aktywnym Pokémonie!"
 	done
 
 NotEnoughCardsInHandText: ; 375bc (d:75bc)

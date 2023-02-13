@@ -616,9 +616,13 @@ ExeggcuteName: ; 597b1 (16:57b1)
 	done
 
 HypnosisName: ; 597bc (16:57bc)
-	text "Hipnotyzujący"
+	text "Hipnoza"
 	done
 
+HypnotisingName: ; 597bc (16:57bc)
+	text "Hipnotyzujący"
+	done
+	
 ExeggcutesLeechSeedDescription: ; 597c6 (16:57c6)
 	text "Jeżeli wszystkie obrażenia z tego"
 	line "ataku nie zostaną zatrzymane,"

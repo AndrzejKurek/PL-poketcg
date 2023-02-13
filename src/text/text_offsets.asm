@@ -2233,6 +2233,7 @@ TextOffsets:: ; 34000 (d:4000)
 	textpointer MukDescription                                     ; 0x08ac
 	textpointer ExeggcuteName                                      ; 0x08ad
 	textpointer HypnosisName                                       ; 0x08ae
+	textpointer HypnotisingName                                      
 	textpointer ExeggcutesLeechSeedDescription                     ; 0x08af
 	textpointer EggName                                            ; 0x08b0
 	textpointer ExeggcuteDescription                               ; 0x08b1

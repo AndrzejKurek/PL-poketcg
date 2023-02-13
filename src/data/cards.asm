@@ -7670,7 +7670,7 @@ DrowzeeCard: ; 332f9 (c:72f9)
 	db 1 ; retreat cost
 	db WR_PSYCHIC ; weakness
 	db NONE ; resistance
-	tx HypnosisName ; category
+	tx HypnotisingName ; category
 	db 96 ; Pokedex number
 	db 0
 	db 12 ; level
@@ -7721,7 +7721,7 @@ HypnoCard: ; 3333a (c:733a)
 	db 2 ; retreat cost
 	db WR_PSYCHIC ; weakness
 	db NONE ; resistance
-	tx HypnosisName ; category
+	tx HypnotisingName ; category
 	db 97 ; Pokedex number
 	db 0
 	db 36 ; level
